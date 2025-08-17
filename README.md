@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # Olivia Griffin
 
 **Security-Minded Developer — AppSec + Automation | Python & Full-Stack Tools**  
@@ -23,7 +20,7 @@ Building secure, automated, and user-friendly apps. WashU Cybersecurity grad •
 
 ## Highlighted Projects
 
-### 🔐 CloakAndCipher (Org)
+### CloakAndCipher (Org)
 - **PhantomScanner** — CI-friendly CLI that normalizes SAST/DAST/SCA outputs → one JSON + HTML report.  
   _Semgrep, Bandit, Trivy, Snyk Ingest → SQLite/Parquet, CodeQL SARIF normalization; GitHub Actions ready._  
   Repo: https://github.com/CloakAndCipher/phantomscanner
@@ -34,12 +31,12 @@ Building secure, automated, and user-friendly apps. WashU Cybersecurity grad •
 - **Secure Dash** — Lightweight dashboard for scan results with trend lines & risk filters (FastAPI + SQLite).  
   Repo: https://github.com/CloakAndCipher/secure-dash
 
-### 📚 myStoryShield (Org)
+### myStoryShield (Org)
 - **StoryShield** — Secure creative platform concept (encrypted drafts, DRM pipelines, author dashboards).  
   _Django + DRF, JWT/OAuth, object-level perms, presigned URLs, privacy-first telemetry._  
   Org: https://github.com/myStoryShield
 
-### 🎻 SecureMaestro
+### SecureMaestro
 - **SecureMaestro** — AppSec-sandboxed music practice tools (looper, tempo-map, source splitting, safe uploads).  
   _librosa, pydub/ffmpeg, demucs; upload scanning, rate-limiting, signed URLs; CodeQL/Bandit/Semgrep._  
   Repo: https://github.com/your-username/SecureMaestro
