@@ -81,11 +81,6 @@ Building secure, automated, and user-friendly apps. WashU Cybersecurity grad •
 
 ---
 
-## 📊 Languages & Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ginesthoii=ginesthoii&layout=compact&theme=default)
-
----
-
 ## 🌱 Currently Exploring
 - AppSec & DevSecOps tools (Semgrep, CodeQL, Bandit)  
 - ML for audio analysis & creative tools  
