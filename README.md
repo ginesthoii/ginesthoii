@@ -64,7 +64,7 @@ Building secure, automated, and user-friendly apps. WashU Cybersecurity grad •
 - StoryShield MVP backend hardening (role-based access + audit trails)
 
 ---
-![Languages](https://raw.githubusercontent.com/ginesthoii/ginesthoii/main/generated/languages.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ginesthoii&layout=compact&theme=default)
 
 ## Contact
 - Email: oliviagriffindev@gmail.com  
