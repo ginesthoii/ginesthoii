@@ -69,3 +69,24 @@ Building secure, automated, and user-friendly apps. WashU Cybersecurity grad •
 ## Contact
 - Email: oliviagriffindev@gmail.com  
 - LinkedIn: https://www.linkedin.com//-->
+# Hi, I’m [Your Name] 👋  
+
+🎻 Music + Security Enthusiast | 🛡 Building SecureMaestro & StoryShield  
+
+---
+
+## 🔨 Projects
+- **[SecureMaestro](https://github.com/yourname/SecureMaestro)** – Secure, automated practice tools for musicians (inspired by Vivaldi)  
+- **[StoryShield](https://github.com/yourname/StoryShield)** – Secure creative platform for writers & worldbuilders  
+
+---
+
+## 📊 Languages & Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
+
+---
+
+## 🌱 Currently Exploring
+- AppSec & DevSecOps tools (Semgrep, CodeQL, Bandit)  
+- ML for audio analysis & creative tools  
+- Secure creative platforms (DRM + encrypted collaboration)
