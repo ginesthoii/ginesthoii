@@ -82,7 +82,7 @@ Building secure, automated, and user-friendly apps. WashU Cybersecurity grad •
 ---
 
 ## 📊 Languages & Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ginesthoii=ginesthoii&layout=compact&theme=default)
 
 ---
 
