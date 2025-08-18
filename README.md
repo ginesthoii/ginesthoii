@@ -1,7 +1,7 @@
 ![Banner](./green%20banner.png) 
 <h2 align="center">Security-Minded Developer — AppSec + Automation | Python & Full-Stack Tools</h2>
 <h3 align="center">Building secure, automated, and user-friendly apps.   <br><br> Washington University Cybersecurity Certification Grad • Mizzou Alum.</h3>
-  <br>
+---
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-1E90FF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-website) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle/)
@@ -83,35 +83,18 @@
 
 ---
 
-
-
-
-
 <table>
   <tr>
-     <!-- First column -->
-    <td align="center">
+    <td align="center" style="padding-right: 200px;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginesthoii&layout=compact&theme=default" 
            alt="Top Languages Compact" width="400"/>
-      <br><br>
-      <!-- GIF under the first chart -->
-      <img src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif?raw=true" 
-           alt="Coding GIF" width="350" height="250"/>
     </td>
-      <!-- Second column -->
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginesthoii&layout=donut-vertical" 
-           alt="Top Languages Donut" width="400"/>
+    <td align="right" style="padding-right: 200px;">
+      <img src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif?raw=true" 
+           alt="Coding GIF" width="450" height="300"/>
     </td>
   </tr>
-</table>  </tr>
 </table>
-
-
-
-
-
-</div>
 
 
 ##  Projects
