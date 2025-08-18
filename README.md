@@ -1,14 +1,13 @@
-# Olivia Griffin
-
-**Security-Minded Developer — AppSec + Automation | Python & Full-Stack Tools**  
-Building secure, automated, and user-friendly apps. WashU Cybersecurity grad • Mizzou alum.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%20-blue)](https://your-website) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-informational)](https://www.linkedin.com/in/your-handle/)
-[![Email](https://img.shields.io/badge/Email-%20-lightgrey)](mailto:you@email.com)
-[![CloakAndCipher](https://img.shields.io/badge/Org-CloakAndCipher-6f42c1)](https://github.com/CloakAndCipher)
-[![myStoryShield](https://img.shields.io/badge/Org-myStoryShield-0ea5e9)](https://github.com/myStoryShield)
-
+![Banner](./green%20banner.png) 
+<h2 align="center">Security-Minded Developer — AppSec + Automation | Python & Full-Stack Tools</h2>
+<h3 align="center">Building secure, automated, and user-friendly apps.   <br><br> Washington University Cybersecurity Certification Grad • Mizzou Alum.</h3>
+  <br>
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-1E90FF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-website) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@email.com)
+[![CloakAndCipher](https://img.shields.io/badge/Org-CloakAndCipher-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CloakAndCipher)
+[![myStoryShield](https://img.shields.io/badge/Org-myStoryShield-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/myStoryShield)
 ---
 
 ## What I do
