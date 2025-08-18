@@ -35,6 +35,26 @@
 - **Automation:** Python + APIs, Google Apps Script/Sheets, CI/CD glue.
 - **Full-Stack bits:** Django/Flask backends, REST, basic React/UIs when needed.
 
+---
+
+## Projects
+
+### Professional / Portfolio
+- **[SecureMaestro](https://github.com/yourname/SecureMaestro)** – Secure, automated practice tools for musicians (inspired by Vivaldi).  
+- **[StoryShield](https://github.com/yourname/StoryShield)** – Secure creative platform for writers & worldbuilders.  
+- **[myStoryShield](https://github.com/myStoryShield)** – Org repo for StoryShield infrastructure, APIs, and collaboration tools.  
+- **[StoryShieldApp](https://github.com/yourname/StoryShieldApp)** – Frontend concept app for StoryShield platform (React/Django).  
+- **[PillPal-VitaPro](https://github.com/yourname/PillPal-VitaPro)** – Supplement + prescription interaction checker with AppSec sandbox.  
+- **[PhantomScanner](https://github.com/CloakAndCipher/phantomscanner)** – CI-friendly tool to normalize SAST/DAST/SCA outputs into one JSON/HTML report.  
+
+### Experimental / Creative
+- **[CulinaryCodex](https://github.com/yourname/CulinaryCodex)** – Ancient history recipes + cultural food research, structured into a secure/organized digital codex.  
+- **[SnakeWitch](https://github.com/yourname/SnakeWitch)** – Ball python breeding + husbandry tracker. Automates feeding, morph genetics, and clutches via Google Sheets/AppSheet integrations.  
+- **[CyberPersona](https://github.com/yourname/CyberPersona)** – Generate fictional cyber identities for testing/roleplay.  
+- **[CareQR](https://github.com/yourname/CareQR)** – Secure QR-based health info sharing system.  
+- **[CatholicMedusa](https://github.com/yourname/CatholicMedusa)** – Creative/experimental project blending myth, security, and automation.  
+- **[MythicalMenagerie](https://github.com/yourname/MythicalMenagerie)** – Knowledge base of mythological creatures.  
+  - **Monster Mashup** – Subproject/game concept under MythicalMenagerie.  
 
 ---
 
@@ -44,6 +64,7 @@
 **Web/Cloud:** Django, DRF, React (basics), Docker, GitHub Actions, Postgres/SQLite  
 **Data/Reporting:** SQLite/Parquet, Jupyter, Matplotlib, Markdown/SARIF/JSON
 
+<br>
 
 <p align="left">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="55" height="60"/> 
@@ -109,11 +130,25 @@
 
 ---
 
+##  Certifications
+
+##  
+
 ##  Projects
 - **[SecureMaestro](https://github.com/yourname/SecureMaestro)** – Secure, automated practice tools for musicians (inspired by Vivaldi)  
 - **[StoryShield](https://github.com/yourname/StoryShield)** – Secure creative platform for writers & worldbuilders
-
-
+- myStoryShield
+- StoryShieldApp
+- **[CulinaryCodex]
+  CyberPersona
+  CareQR
+  PillPal-VitaPro
+  PhantomScanner
+  SnakeWitch
+  CatholicMedusa
+  MythicalMenagerie
+  
+  
 
 ---
 
