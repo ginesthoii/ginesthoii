@@ -1,16 +1,32 @@
 ![Banner](./green%20banner.png) 
 
 <h2 align="center">Security-Minded Developer — AppSec + Automation  |  Python & Full-Stack Tools</h2>
-<h3 align="center">Building secure, automated, and user-friendly apps.   <br><br> Washington University Cybersecurity Certification Grad • Mizzou Alum.</h3>
+<h3 align="center">Building Secure, Automated, and User-Friendly Apps.   <br><br> Washington University Cybersecurity Certification Grad • Mizzou Alum.</h3>
 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-1E90FF?style=for-the-badge&logo=vercel&logoColor=white)](https://your-website) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/olivia-griffin-a08a20115/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@email.com)
-[![CloakAndCipher](https://img.shields.io/badge/Org-CloakAndCipher-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CloakAndCipher)
-[![myStoryShield](https://img.shields.io/badge/Org-myStoryShield-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/myStoryShield)
+<p align="center">
+  <a href="https://ginesthoii.github.io/oliviagriffin.pro/">
+    <img src="https://img.shields.io/badge/Portfolio-Website-1E90FF?style=for-the-badge&logo=vercel&logoColor=white" height="40">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/olivia-griffin-a08a20115/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:oliviagriffindev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">
+  </a>
+</p>
+
 ---
 
+
+<p align="center">
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/terminal%20(2).gif" alt="Terminal GIF" width="900"/>
+</p>
+
+
+---
 ## What I Do
 - **AppSec & DevSecOps:** SAST/SCA/DAST, CodeQL, dependency hygiene, GitHub Actions, SBOMs.
 - **Automation:** Python + APIs, Google Apps Script/Sheets, CI/CD glue.
@@ -120,4 +136,3 @@
 ## Contact
 - Email: oliviagriffindev@gmail.com  
 - LinkedIn: https://www.linkedin.com/olivia-griffin-a08a20115/
-
