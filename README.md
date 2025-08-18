@@ -30,30 +30,6 @@
 - **Automation:** Python + APIs, Google Apps Script/Sheets, CI/CD glue.
 - **Full-Stack bits:** Django/Flask backends, REST, basic React/UIs when needed.
 
----
-
-## Highlighted Projects
-
-### CloakAndCipher (Org)
-- **PhantomScanner** — CI-friendly CLI that normalizes SAST/DAST/SCA outputs → one JSON + HTML report.  
-  _Semgrep, Bandit, Trivy, Snyk Ingest → SQLite/Parquet, CodeQL SARIF normalization; GitHub Actions ready._  
-  Repo: https://github.com/CloakAndCipher/phantomscanner
-
-- **VulnFoundry** — GitHub template to spin up secure repos: PR checks, code owners, CodeQL, SBOM, Semgrep rules.  
-  Repo: https://github.com/CloakAndCipher/vulnfoundry
-
-- **Secure Dash** — Lightweight dashboard for scan results with trend lines & risk filters (FastAPI + SQLite).  
-  Repo: https://github.com/CloakAndCipher/secure-dash
-
-### myStoryShield (Org)
-- **StoryShield** — Secure creative platform concept (encrypted drafts, DRM pipelines, author dashboards).  
-  _Django + DRF, JWT/OAuth, object-level perms, presigned URLs, privacy-first telemetry._  
-  Org: https://github.com/myStoryShield
-
-### SecureMaestro
-- **SecureMaestro** — AppSec-sandboxed music practice tools (looper, tempo-map, source splitting, safe uploads).  
-  _librosa, pydub/ffmpeg, demucs; upload scanning, rate-limiting, signed URLs; CodeQL/Bandit/Semgrep._  
-  Repo: https://github.com/your-username/SecureMaestro
 
 ---
 
@@ -62,9 +38,6 @@
 **Python:** FastAPI/Flask, Pydantic, Requests, Pandas, Poetry/uv, pytest  
 **Web/Cloud:** Django, DRF, React (basics), Docker, GitHub Actions, Postgres/SQLite  
 **Data/Reporting:** SQLite/Parquet, Jupyter, Matplotlib, Markdown/SARIF/JSON
-
-
-
 
 
 <p align="left">
@@ -134,3 +107,7 @@
 ## Contact
 - Email: oliviagriffindev@gmail.com  
 - LinkedIn: https://www.linkedin.com/olivia-griffin-a08a20115/
+
+
+
+---
