@@ -4,6 +4,9 @@
 <h3 align="center">Building Secure, Automated, and User-Friendly Apps.   <br><br> Washington University Cybersecurity Certification Grad • Mizzou Alum.</h3>
 
 
+
+<br>
+
 <p align="center">
   <a href="https://ginesthoii.github.io/oliviagriffin.pro/" style="display:inline-block; margin:0 24px;">
     <img src="https://img.shields.io/badge/Portfolio-Website-739f84?style=for-the-badge&labelColor=739f84&color=739f84&logoColor=white" height="70">
@@ -25,6 +28,8 @@
 
 
 ---
+
+
 ## What I Do
 - **AppSec & DevSecOps:** SAST/SCA/DAST, CodeQL, dependency hygiene, GitHub Actions, SBOMs.
 - **Automation:** Python + APIs, Google Apps Script/Sheets, CI/CD glue.
@@ -89,10 +94,6 @@
 </table>
 
 
-##  Projects
-- **[SecureMaestro](https://github.com/yourname/SecureMaestro)** – Secure, automated practice tools for musicians (inspired by Vivaldi)  
-- **[StoryShield](https://github.com/yourname/StoryShield)** – Secure creative platform for writers & worldbuilders  
-
 ---
 
 ##  Currently Exploring
@@ -104,10 +105,15 @@
 
 </p>
 
-## Contact
-- Email: oliviagriffindev@gmail.com  
-- LinkedIn: https://www.linkedin.com/olivia-griffin-a08a20115/
+
+
+---
+
+##  Projects
+- **[SecureMaestro](https://github.com/yourname/SecureMaestro)** – Secure, automated practice tools for musicians (inspired by Vivaldi)  
+- **[StoryShield](https://github.com/yourname/StoryShield)** – Secure creative platform for writers & worldbuilders
 
 
 
 ---
+
