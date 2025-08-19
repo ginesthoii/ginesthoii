@@ -108,9 +108,22 @@ Self-contained Python scripts for quick practice or demos. Each project runs in 
 - `todo_json/` – Minimal to-do list with JSON storage.  
 - `stopwatch/` – Basic stopwatch with Enter to start/stop.  
 - `word_frequency/` – Counts words with `collections.Counter`.  
+
 ---
 
+## 🐍 CatholicMedusa (Org)
 
+I also run [CatholicMedusa](https://github.com/CatholicMedusa) —  
+a modular ecosystem for **ball python husbandry, genetics, and automation**.  
+
+- **[SerpentTracker](https://github.com/CatholicMedusa/SerpentTracker)** → Daily husbandry logger (feeds, sheds, pairings).  
+- **[GorgonGenetics](https://github.com/CatholicMedusa/GorgonGenetics)** → Morph inheritance simulator (Punnett square engine).  
+- **[MedusasGaze](https://github.com/CatholicMedusa/MedusasGaze)** → Vision + sensor tools (incubator cams, future morph recognition).  
+
+CatholicMedusa is where I combine **biology, security, and software engineering** into a connected toolkit.  
+
+
+---
 
 ## How I work
 - **Automation first:** If it’s repeatable, script it (Python or Apps Script).
