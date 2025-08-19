@@ -79,7 +79,7 @@
 
 ### **Experimental / Creative**
 - **[CaregiverQR](https://github.com/ginesthoii/CaregiverQR)** – Secure QR-based health info sharing tool with AppSec-first design. Lightweight, open-source tool that helps caregivers and families track daily care.
-- **[ModelMiddleEarth](https://github.com/ginesthoii/ModelMiddleEarth)** – Digital explorations of Middle-earth: 3D models, maps, and datasets built with Blender, Python, Ender3, and secure coding practices.
+- **[ModelMiddleEarth](https://github.com/ginesthoii/ModelMiddleEarth)** – Digital explorations of Middle-earth: 3D models, maps, and datasets built with Blender, Python, Ender, and secure coding practices.
 - **[CulinaryCodex](https://github.com/ginesthoii/CulinaryCodex)** – Ancient and modern recipes + cultural food research, structured into a secure/organized digital codex.  
 - **[Shelfscapes](https://github.com/ginesthoii/Shelfscapes)** – A structured maker + documentation project for immersive **book nooks**  Each nook is managed like a software repo with reproducible designs (CAD files, BOMs), embedded electronics (Arduino/ESP32 lighting), and gallery documentation. Demonstrates **engineering discipline, creative integration, and open-source reproducibility**.  
 - **[CyberPersona](https://github.com/ginesthoii/CyberPersona)** – Personality + identity generator combining MBTI, Enneagram, and psychometric models. Useful for roleplay, testing, and worldbuilding. Highlights **data structuring, taxonomy design, and applied psychology in code**.  
