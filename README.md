@@ -74,7 +74,9 @@
 - **[StoryShieldApp](https://github.com/ginesthoii/StoryShieldApp)** – Frontend concept app for StoryShield platform (React/Django).
 - **[SecureMaestro](https://github.com/ginesthoii/SecureMaestro)** – Secure, automated practice tools for musicians (*inspired by Vivaldi*). Focus on secure coding practices, sandboxing, and automation. 
 - **[PillPal-VitaPro](https://github.com/ginesthoii/PillPal-VitaPro)** – Supplement + prescription interaction checker with AppSec sandbox for safe testing.  
+- **[WashU-Projects](https://github.com/ginesthoii/WashU-Projects)** - This repository serves as a portfolio hub for my work completed during my Washington University Cybersecurity Boot Camp. Final Grade: A+
 
+The program covered a wide range of security disciplines including networking, systems, vulnerability assessment, cloud security, penetration testing, and digital forensics.
 ---
 
 ### **Experimental / Creative**
@@ -151,10 +153,69 @@ Self-contained Python scripts for quick practice or demos. Each project runs in 
 
 
 
+
+
+
+
+---
+<br>
+
+<p align="center">
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/badge.png" 
+       alt="Badge" width="200"/>
+</p>
+
+<br>
+
+# Washington University Cybersecurity Boot Camp 
+
+**Completed a 24-week intensive program** focused on IT, networking, and modern information security.  
+Final Grade: **A+**
+
+This multidisciplinary boot camp emphasized both defensive and offensive security techniques, while training on industry-standard tools.
+
+- **[WashU-Projects](https://github.com/ginesthoii/WashU-Projects)** - This repository serves as a portfolio hub for my work completed during my Washington University Cybersecurity Boot Camp. 
+
 ---
 
-##  Certifications
+## Skills Gained
 
-##  
+- **Networking & Systems**
+  - Packet analysis with Wireshark
+  - Windows & Linux administration + hardening
+  - Secure network design and architecture
+
+- **Cybersecurity**
+  - Risk management & cryptography
+  - Identity & access management
+  - Cloud security investigations
+  - Digital forensics & incident response
+  - Ethical hacking & penetration testing
+
+- **Tools & Frameworks**
+  - Wireshark, Kali Linux, Metasploit, Nessus
+  - Hashcat, Burp Suite
+  - Vulnerability assessment workflows
+  - Bash scripting for automation
+
+- **Core Practices**
+  - Vulnerability assessment & exploitation
+  - Security operations & analytics
+  - Malware analysis & reverse engineering
+  - Secure reporting & communication of risks
+
+---
+
+## Tools Covered
+`Wireshark` · `Kali Linux` · `Metasploit` · `Nessus` · `Burp Suite` ·   `Hashcat` · `Windows & Linux Hardening` · `Bash`  
+
+---
+
+
+##  Next Steps
+- Expanding projects that merge **application security** with modern web dev
+
+  
+---
 
 
