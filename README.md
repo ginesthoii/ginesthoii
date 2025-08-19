@@ -68,25 +68,26 @@
 #  Projects  
 
 ### **Professional / Portfolio**
-- **[SecureMaestro](https://github.com/ginesthoii/SecureMaestro)** – Secure, automated practice tools for musicians (*inspired by Vivaldi*). Focus on secure coding practices, sandboxing, and automation.  
+- **[PhantomScanner](https://github.com/ginesthoii/PhantomScanner)** – CI-friendly tool that normalizes SAST/DAST/SCA outputs into one JSON/HTML report for devsecops pipelines.  
 - **[StoryShield](https://github.com/ginesthoii/StoryShield)** – Secure creative platform for writers & worldbuilders.  
 - **[myStoryShield](https://github.com/ginesthoii/myStoryShield)** – Org repo for StoryShield infrastructure, APIs, and collaboration tools. Includes role-based access control, encrypted collaboration, and modular APIs.  
-- **[StoryShieldApp](https://github.com/ginesthoii/StoryShieldApp)** – Frontend concept app for StoryShield platform (React/Django).  
+- **[StoryShieldApp](https://github.com/ginesthoii/StoryShieldApp)** – Frontend concept app for StoryShield platform (React/Django).
+- **[SecureMaestro](https://github.com/ginesthoii/SecureMaestro)** – Secure, automated practice tools for musicians (*inspired by Vivaldi*). Focus on secure coding practices, sandboxing, and automation. 
 - **[PillPal-VitaPro](https://github.com/ginesthoii/PillPal-VitaPro)** – Supplement + prescription interaction checker with AppSec sandbox for safe testing.  
-- **[PhantomScanner](https://github.com/ginesthoii/PhantomScanner)** – CI-friendly tool that normalizes SAST/DAST/SCA outputs into one JSON/HTML report for devsecops pipelines.  
 
 ---
 
 ### **Experimental / Creative**
-- **[Shelfscapes](https://github.com/ginesthoii/Shelfscapes)** – A structured maker + documentation project for immersive **book nooks** (LOTR, House of the Dragon, Middle-earth, Harry Potter). Each nook is managed like a software repo with reproducible designs (CAD files, BOMs), embedded electronics (Arduino/ESP32 lighting), and gallery documentation. Demonstrates **engineering discipline, creative integration, and open-source reproducibility**.  
-- **[CyberPersona](https://github.com/ginesthoii/CyberPersona)** – Personality + identity generator combining MBTI, Enneagram, and psychometric models. Useful for roleplay, testing, and worldbuilding. Highlights **data structuring, taxonomy design, and applied psychology in code**.  
+- **[CaregiverQR](https://github.com/ginesthoii/CaregiverQR)** – Secure QR-based health info sharing tool with AppSec-first design. Lightweight, open-source tool that helps caregivers and families track daily care.
+- **[ModelMiddleEarth](https://github.com/ginesthoii/ModelMiddleEarth)** – Digital explorations of Middle-earth: 3D models, maps, and datasets built with Blender, Python, Ender3, and secure coding practices.
 - **[CulinaryCodex](https://github.com/ginesthoii/CulinaryCodex)** – Ancient and modern recipes + cultural food research, structured into a secure/organized digital codex.  
-- **[CaregiverQR](https://github.com/ginesthoii/CaregiverQR)** – Secure QR-based health info sharing tool with AppSec-first design. Lightweight, open-source tool that helps caregivers and families track daily care.  
+- **[Shelfscapes](https://github.com/ginesthoii/Shelfscapes)** – A structured maker + documentation project for immersive **book nooks**  Each nook is managed like a software repo with reproducible designs (CAD files, BOMs), embedded electronics (Arduino/ESP32 lighting), and gallery documentation. Demonstrates **engineering discipline, creative integration, and open-source reproducibility**.  
+- **[CyberPersona](https://github.com/ginesthoii/CyberPersona)** – Personality + identity generator combining MBTI, Enneagram, and psychometric models. Useful for roleplay, testing, and worldbuilding. Highlights **data structuring, taxonomy design, and applied psychology in code**.  
 - **[SnakeWitch](https://github.com/ginesthoii/SnakeWitch)** – Ball python breeding + husbandry tracker. Automates feeding, morph genetics, and clutches via Google Sheets/AppSheet integrations.  
 - **[CatholicMedusa](https://github.com/ginesthoii/CatholicMedusa)** – Creative/experimental project blending myth, security, and automation.  
 - **[MythicalMenagerie](https://github.com/ginesthoii/MythicalMenagerie)** – Digital bestiary for mythological creatures. Search, learn, and generate mash-ups of monsters with maps and comparisons.  
 - **Monster Mashup** – Subproject/game concept under MythicalMenagerie.  
-- **[ModelMiddleEarth](https://github.com/ginesthoii/ModelMiddleEarth)** – Digital explorations of Middle-earth: 3D models, maps, and datasets built with Blender, Python, Ender3, and secure coding practices.  
+ 
 
 ---
 
