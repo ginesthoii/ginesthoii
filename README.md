@@ -36,29 +36,7 @@
 - **Full-Stack bits:** Django/Flask backends, REST, basic React/UIs when needed.
 
 ---
-
-## Projects
-
-### Professional / Portfolio
-- **[SecureMaestro](https://github.com/yourname/SecureMaestro)** – Secure, automated practice tools for musicians (inspired by Vivaldi).  
-- **[StoryShield](https://github.com/yourname/StoryShield)** – Secure creative platform for writers & worldbuilders.  
-- **[myStoryShield](https://github.com/myStoryShield)** – Org repo for StoryShield infrastructure, APIs, and collaboration tools.  
-- **[StoryShieldApp](https://github.com/yourname/StoryShieldApp)** – Frontend concept app for StoryShield platform (React/Django).  
-- **[PillPal-VitaPro](https://github.com/yourname/PillPal-VitaPro)** – Supplement + prescription interaction checker with AppSec sandbox.  
-- **[PhantomScanner](https://github.com/CloakAndCipher/phantomscanner)** – CI-friendly tool to normalize SAST/DAST/SCA outputs into one JSON/HTML report.  
-
-### Experimental / Creative
-- **[CulinaryCodex](https://github.com/yourname/CulinaryCodex)** – Ancient history recipes + cultural food research, structured into a secure/organized digital codex.  
-- **[SnakeWitch](https://github.com/yourname/SnakeWitch)** – Ball python breeding + husbandry tracker. Automates feeding, morph genetics, and clutches via Google Sheets/AppSheet integrations.  
-- **[CyberPersona](https://github.com/yourname/CyberPersona)** – Generate fictional cyber identities for testing/roleplay.  
-- **[CareQR](https://github.com/yourname/CareQR)** – Secure QR-based health info sharing system.  
-- **[CatholicMedusa](https://github.com/yourname/CatholicMedusa)** – Creative/experimental project blending myth, security, and automation.  
-- **[MythicalMenagerie](https://github.com/yourname/MythicalMenagerie)** – Knowledge base of mythological creatures.  
-  - **Monster Mashup** – Subproject/game concept under MythicalMenagerie.  
-
----
-
-## Tech I use regularly
+## Tech I Use Regularly
 **Security:** CodeQL, Semgrep, Trivy, Snyk, Bandit, OWASP ZAP  
 **Python:** FastAPI/Flask, Pydantic, Requests, Pandas, Poetry/uv, pytest  
 **Web/Cloud:** Django, DRF, React (basics), Docker, GitHub Actions, Postgres/SQLite  
@@ -87,17 +65,55 @@
 
 ---
 
+#  Projects  
+
+### **Professional / Portfolio**
+- **[SecureMaestro](https://github.com/ginesthoii/SecureMaestro)** – Secure, automated practice tools for musicians (*inspired by Vivaldi*). Focus on secure coding practices, sandboxing, and automation.  
+- **[StoryShield](https://github.com/ginesthoii/StoryShield)** – Secure creative platform for writers & worldbuilders.  
+- **[myStoryShield](https://github.com/ginesthoii/myStoryShield)** – Org repo for StoryShield infrastructure, APIs, and collaboration tools. Includes role-based access control, encrypted collaboration, and modular APIs.  
+- **[StoryShieldApp](https://github.com/ginesthoii/StoryShieldApp)** – Frontend concept app for StoryShield platform (React/Django).  
+- **[PillPal-VitaPro](https://github.com/ginesthoii/PillPal-VitaPro)** – Supplement + prescription interaction checker with AppSec sandbox for safe testing.  
+- **[PhantomScanner](https://github.com/ginesthoii/PhantomScanner)** – CI-friendly tool that normalizes SAST/DAST/SCA outputs into one JSON/HTML report for devsecops pipelines.  
+
+---
+
+### **Experimental / Creative**
+- **[Shelfscapes](https://github.com/ginesthoii/Shelfscapes)** – A structured maker + documentation project for immersive **book nooks** (LOTR, House of the Dragon, Middle-earth, Harry Potter). Each nook is managed like a software repo with reproducible designs (CAD files, BOMs), embedded electronics (Arduino/ESP32 lighting), and gallery documentation. Demonstrates **engineering discipline, creative integration, and open-source reproducibility**.  
+- **[CyberPersona](https://github.com/ginesthoii/CyberPersona)** – Personality + identity generator combining MBTI, Enneagram, and psychometric models. Useful for roleplay, testing, and worldbuilding. Highlights **data structuring, taxonomy design, and applied psychology in code**.  
+- **[CulinaryCodex](https://github.com/ginesthoii/CulinaryCodex)** – Ancient and modern recipes + cultural food research, structured into a secure/organized digital codex.  
+- **[CaregiverQR](https://github.com/ginesthoii/CaregiverQR)** – Secure QR-based health info sharing tool with AppSec-first design. Lightweight, open-source tool that helps caregivers and families track daily care.  
+- **[SnakeWitch](https://github.com/ginesthoii/SnakeWitch)** – Ball python breeding + husbandry tracker. Automates feeding, morph genetics, and clutches via Google Sheets/AppSheet integrations.  
+- **[CatholicMedusa](https://github.com/ginesthoii/CatholicMedusa)** – Creative/experimental project blending myth, security, and automation.  
+- **[MythicalMenagerie](https://github.com/ginesthoii/MythicalMenagerie)** – Digital bestiary for mythological creatures. Search, learn, and generate mash-ups of monsters with maps and comparisons.  
+- **Monster Mashup** – Subproject/game concept under MythicalMenagerie.  
+- **[ModelMiddleEarth](https://github.com/ginesthoii/ModelMiddleEarth)** – Digital explorations of Middle-earth: 3D models, maps, and datasets built with Blender, Python, Ender3, and secure coding practices.  
+
+---
+
+### **Mini Python Projects**  
+Self-contained Python scripts for quick practice or demos. Each project runs in a terminal with one command.  
+
+- `password_generator/` – Random password generator using letters, digits, and punctuation.  
+- `countdown/` – Simple countdown timer (`time.sleep`).  
+- `dice/` – Six-sided dice roller.  
+- `reverse_text/` – Reverse any input string.  
+- `weather/` – Minimal OpenWeather client (requires API key).  
+- `number_guess/` – Number guessing game (1–50).  
+- `currency_converter/` – USD → EUR/GBP/JPY using static sample rates.  
+- `file_organizer/` – Sorts files into subfolders by extension.  
+- `qr_generator/` – Creates a QR code PNG from text/URL (uses `qrcode[pil]`).  
+- `todo_json/` – Minimal to-do list with JSON storage.  
+- `stopwatch/` – Basic stopwatch with Enter to start/stop.  
+- `word_frequency/` – Counts words with `collections.Counter`.  
+---
+
+
+
 ## How I work
 - **Automation first:** If it’s repeatable, script it (Python or Apps Script).
 - **Security by default:** Branch protection, PR checks, dependency pinning, SBOMs, least privilege.
 - **Readable code:** Type hints, tests, small modules, useful docs.
 
----
-
-## Currently building
-- PhantomScanner v1.0 release (SARIF → unified HTML report, annotations on PRs)
-- SecureMaestro “Health Check” (timing/intonation scoring vs reference performances)
-- StoryShield MVP backend hardening (role-based access + audit trails)
 
 ---
 
@@ -122,6 +138,12 @@
 - ML for audio analysis & creative tools  
 - Secure creative platforms (DRM + encrypted collaboration)
 
+---
+
+## Currently building
+- PhantomScanner v1.0 release (SARIF → unified HTML report, annotations on PRs)
+- SecureMaestro “Health Check” (timing/intonation scoring vs reference performances)
+- StoryShield MVP backend hardening (role-based access + audit trails)
 
 
 </p>
@@ -134,21 +156,4 @@
 
 ##  
 
-##  Projects
-- **[SecureMaestro](https://github.com/yourname/SecureMaestro)** – Secure, automated practice tools for musicians (inspired by Vivaldi)  
-- **[StoryShield](https://github.com/yourname/StoryShield)** – Secure creative platform for writers & worldbuilders
-- myStoryShield
-- StoryShieldApp
-- **[CulinaryCodex]
-  CyberPersona
-  CareQR
-  PillPal-VitaPro
-  PhantomScanner
-  SnakeWitch
-  CatholicMedusa
-  MythicalMenagerie
-  
-  
-
----
 
