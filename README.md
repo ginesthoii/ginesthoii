@@ -74,9 +74,7 @@
 - **[StoryShieldApp](https://github.com/ginesthoii/StoryShieldApp)** – Frontend concept app for StoryShield platform (React/Django).
 - **[SecureMaestro](https://github.com/ginesthoii/SecureMaestro)** – Secure, automated practice tools for musicians (*inspired by Vivaldi*). Focus on secure coding practices, sandboxing, and automation. 
 - **[PillPal-VitaPro](https://github.com/ginesthoii/PillPal-VitaPro)** – Supplement + prescription interaction checker with AppSec sandbox for safe testing.  
-- **[WashU-Projects](https://github.com/ginesthoii/WashU-Projects)** - This repository serves as a portfolio hub for my work completed during my Washington University Cybersecurity Boot Camp. Final Grade: A+
-
-The program covered a wide range of security disciplines including networking, systems, vulnerability assessment, cloud security, penetration testing, and digital forensics.
+- **[WashU-Projects](https://github.com/ginesthoii/WashU-Projects)** - This repository serves as a portfolio hub for my work completed during my Washington University Cybersecurity Boot Camp. Final Grade: A+. The program covered a wide range of security disciplines including networking, systems, vulnerability assessment, cloud security, penetration testing, and digital forensics.
 ---
 
 ### **Experimental / Creative**
@@ -123,27 +121,57 @@ Self-contained Python scripts for quick practice or demos. Each project runs in 
 - `word_frequency/` – Counts words with `collections.Counter`.  
 
 ---
+<br>
 
-## 🐍 CatholicMedusa (Org)
+# Organizations
+## 🐍 CatholicMedusa 
 
-I also run [CatholicMedusa](https://github.com/CatholicMedusa) —  
-a modular ecosystem for **ball python husbandry, genetics, and automation**.  
+[CatholicMedusa](https://github.com/CatholicMedusa) —  
+a modular ecosystem for **ball python husbandry, genetics, and automation**. CatholicMedusa is where I combine **biology, security, and software engineering** into a connected toolkit.  
+
 
 - **[SerpentTracker](https://github.com/CatholicMedusa/SerpentTracker)** → Daily husbandry logger (feeds, sheds, pairings).  
 - **[GorgonGenetics](https://github.com/CatholicMedusa/GorgonGenetics)** → Morph inheritance simulator (Punnett square engine).  
 - **[MedusasGaze](https://github.com/CatholicMedusa/MedusasGaze)** → Vision + sensor tools (incubator cams, future morph recognition).  
 
-CatholicMedusa is where I combine **biology, security, and software engineering** into a connected toolkit.  
 
+## 🔮 SnakeWitch 
+
+[SnakeWitch](https://github.com/SnakeWitch) is a grimoire of lightweight snake-keeping tools —  
+quick utilities, integrations, and experiments that make husbandry a little easier (and a little more magical).  
+
+- **[SnakeWitch-Sheets](https://github.com/SnakeWitch/Sheets)** → Google Sheets templates + AppScript snippets (feeding logs, shed trackers, auto-morph calculator formulas).  
+- **[TankTemp](https://github.com/SnakeWitch/TankTemp)** → Temperature + unit converter (°F/°C/K, incubator/rack presets, CLI + GUI options).  
+
+
+## 🍄 aFungusAmongUs 
+
+[aFungusAmongUs](https://github.com/aFungusAmongUs) is a playful but practical open-source project  
+for all things fungi — grow, cook, forage, and learn.  
+
+- **MorelMaps** → Seasonal and geographic maps of mushroom flushes. Log trails, predict habitats, and track tree–fungi symbiosis.  
+- **SporeLore** → Educational resources, field guides, and fungal research — the lore of fungi in one place.  
+- **ShroomAndSpoon** → Recipe collection linked to mushroom type, nutrition facts, and substitution suggestions.  
+
+
+## 🗡️ CloakAndCipher 
+
+[CloakAndCipher](https://github.com/CloakAndCipher) is my umbrella for security-minded development —  
+tools, experiments, and utilities at the intersection of **AppSec and automation**.  
+
+- **PhantomScanner** → Private scanning + automation utility (in development).  
+
+## 📖 StoryShield
 
 ---
+<br>
 
 ## How I work
 - **Automation first:** If it’s repeatable, script it (Python or Apps Script).
 - **Security by default:** Branch protection, PR checks, dependency pinning, SBOMs, least privilege.
 - **Readable code:** Type hints, tests, small modules, useful docs.
 
-
+<br>
 ---
 
 <table>
