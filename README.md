@@ -90,6 +90,19 @@ The program covered a wide range of security disciplines including networking, s
 - **[MythicalMenagerie](https://github.com/ginesthoii/MythicalMenagerie)** – Digital bestiary for mythological creatures. Search, learn, and generate mash-ups of monsters with maps and comparisons.  
 - **Monster Mashup** – Subproject/game concept under MythicalMenagerie.  
  
+---
+
+### **Mini JS • HTML • CSS Projects**  
+Self-contained front-end apps for practice and demos. Each project runs directly in the browser by opening `index.html`.  
+
+- `TextToSpeech/` – Convert text into speech with pitch, speed, and voice controls (Web Speech API).  
+- `Pomodoro-Timer/` – 25-minute timer with circular progress ring, session notes, and CSV export.  
+- `Basic-Calculator/` – Four-function calculator with calculation history stored in `localStorage`.  
+- `Hex-Color-Generator/` – Pick a color and instantly see its hex code with live background preview.  
+- `Image-Color-Hex-Extractor/` – Upload an image and extract dominant colors using k-means clustering.  
+- `PlayablePiano/` – Browser piano with real key layout, recording, playback, metronome, and pitch detection.  
+- `Typing-Speed-Test-Game/` – Typing test with WPM/CPM tracking, accuracy, mistakes, progress bar, and dark mode.  
+
 
 ---
 
