@@ -124,6 +124,7 @@ Self-contained Python scripts for quick practice or demos. Each project runs in 
 <br>
 
 # Organizations
+
 ## 🐍 CatholicMedusa 
 
 [CatholicMedusa](https://github.com/CatholicMedusa) —  
@@ -134,6 +135,7 @@ a modular ecosystem for **ball python husbandry, genetics, and automation**. Cat
 - **[GorgonGenetics](https://github.com/CatholicMedusa/GorgonGenetics)** → Morph inheritance simulator (Punnett square engine).  
 - **[MedusasGaze](https://github.com/CatholicMedusa/MedusasGaze)** → Vision + sensor tools (incubator cams, future morph recognition).  
 
+<br>
 
 ## 🔮 SnakeWitch 
 
@@ -143,6 +145,7 @@ quick utilities, integrations, and experiments that make husbandry a little easi
 - **[SnakeWitch-Sheets](https://github.com/SnakeWitch/Sheets)** → Google Sheets templates + AppScript snippets (feeding logs, shed trackers, auto-morph calculator formulas).  
 - **[TankTemp](https://github.com/SnakeWitch/TankTemp)** → Temperature + unit converter (°F/°C/K, incubator/rack presets, CLI + GUI options).  
 
+<br>
 
 ## 🍄 aFungusAmongUs 
 
@@ -153,26 +156,28 @@ for all things fungi — grow, cook, forage, and learn.
 - **SporeLore** → Educational resources, field guides, and fungal research — the lore of fungi in one place.  
 - **ShroomAndSpoon** → Recipe collection linked to mushroom type, nutrition facts, and substitution suggestions.  
 
+<br>
 
 ## 🗡️ CloakAndCipher 
 
 [CloakAndCipher](https://github.com/CloakAndCipher) is my umbrella for security-minded development —  
 tools, experiments, and utilities at the intersection of **AppSec and automation**.  
 
+<br>
+
 - **PhantomScanner** → Private scanning + automation utility (in development).  
+
+<br>
 
 ## 📖 StoryShield
 
----
 <br>
 
-## How I work
-- **Automation first:** If it’s repeatable, script it (Python or Apps Script).
-- **Security by default:** Branch protection, PR checks, dependency pinning, SBOMs, least privilege.
-- **Readable code:** Type hints, tests, small modules, useful docs.
+---
 
 <br>
----
+
+
 
 <table>
   <tr>
@@ -190,6 +195,15 @@ tools, experiments, and utilities at the intersection of **AppSec and automation
 
 ---
 
+<br>
+
+## How I work
+- **Automation first:** If it’s repeatable, script it (Python or Apps Script).
+- **Security by default:** Branch protection, PR checks, dependency pinning, SBOMs, least privilege.
+- **Readable code:** Type hints, tests, small modules, useful docs.
+
+---
+
 ##  Currently Exploring
 - AppSec & DevSecOps tools (Semgrep, CodeQL, Bandit)  
 - ML for audio analysis & creative tools  
@@ -202,6 +216,13 @@ tools, experiments, and utilities at the intersection of **AppSec and automation
 - SecureMaestro “Health Check” (timing/intonation scoring vs reference performances)
 - StoryShield MVP backend hardening (role-based access + audit trails)
 
+---
+
+##  Next Steps
+- Expanding projects that merge **application security** with modern web dev
+
+  
+---
 
 </p>
 
@@ -211,7 +232,7 @@ tools, experiments, and utilities at the intersection of **AppSec and automation
 
 
 
----
+
 <br>
 
 <p align="center">
@@ -266,10 +287,6 @@ This multidisciplinary boot camp emphasized both defensive and offensive securit
 ---
 
 
-##  Next Steps
-- Expanding projects that merge **application security** with modern web dev
 
-  
----
 
 
