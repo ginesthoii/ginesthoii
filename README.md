@@ -100,7 +100,8 @@ Self-contained front-end apps for practice and demos. Each project runs directly
 - `Image-Color-Hex-Extractor/` – Upload an image and extract dominant colors using k-means clustering.  
 - `PlayablePiano/` – Browser piano with real key layout, recording, playback, metronome, and pitch detection.  
 - `Typing-Speed-Test-Game/` – Typing test with WPM/CPM tracking, accuracy, mistakes, progress bar, and dark mode.  
-
+- `Dog-Age-Calculator/` – A quick dog age → human years calculator with size-adjusted estimates.  
+- `Dog-Clicker-Trainer/` – A browser-based dog training clicker tool. Plays a sharp “click” sound and tracks session stats.
 
 ---
 
