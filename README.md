@@ -89,9 +89,12 @@
 - **[CyberPersona](https://github.com/ginesthoii/CyberPersona)** – Personality + identity generator combining MBTI, Enneagram, and psychometric models. Useful for roleplay, testing, and worldbuilding. Highlights **data structuring, taxonomy design, and applied psychology in code**.  
 - **[MythicalMenagerie](https://github.com/ginesthoii/MythicalMenagerie)** – Digital bestiary for mythological creatures. Search, learn, and generate mash-ups of monsters with maps and comparisons.  
 - **Monster Mashup** – Subproject/game concept under MythicalMenagerie.  
+
  
 ---
-
+ 
+ <br>
+ 
 ### **Mini JavaScript • HTML • CSS Projects**  
 Self-contained front-end apps for practice and demos. Each project runs directly in the browser by opening `index.html`.  
 
