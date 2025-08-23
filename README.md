@@ -93,7 +93,6 @@
  
 ---
  
- <br>
  
 ### **Mini JavaScript • HTML • CSS Projects**  
 Self-contained front-end apps for practice and demos. Each project runs directly in the browser by opening `index.html`.  
