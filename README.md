@@ -291,7 +291,31 @@ This multidisciplinary boot camp emphasized both defensive and offensive securit
 
 ---
 
+<br>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e5d0eb75-94ea-4136-9e76-98916af14c1c" 
+       alt="Badge" width="300"/>
+</p>
 
+<div align="center">
 
+# Learning Log
 
+Tracking online courses I’m working through to build skills in security, web development, and tooling.  
+
+| Course | Instructor(s) |
+|--------|---------------|
+| CompTIA Security+ (SY0-701) Complete Course & Practice Exam | Jason Dion, Jamario Kelly, Dion Training |
+| The Web Developer Bootcamp 2025 | Colt Steele |
+| Advanced CSS and Sass: Flexbox, Grid, Animations and More! | Jonas Schmedtmann |
+| The Ultimate 2025 Fullstack Web Development Bootcamp | Kane Ezki, Kalob Taulien, Radek Wilk |
+| Visual Studio Code for Developers 2025: Beginner to Advanced | Estefania Cassingena Navone |
+| The Complete Guide To Custom GPTs and Actions | Colt Steele |
+| Docker & Kubernetes: The Practical Guide [2025 Edition] | Maximilian Schwarzmüller, Academind |
+| The Git & GitHub Bootcamp | Colt Steele |
+| Creative Advanced CSS & JavaScript Animations - 150 Projects | Ahmed Sadek |
+| Build Responsive Real-World Websites with HTML and CSS | Jonas Schmedtmann |
+| The Complete Full-Stack Web Development Bootcamp | Dr. Angela Yu |
+
+</div>
