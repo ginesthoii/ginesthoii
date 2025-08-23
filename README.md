@@ -29,49 +29,53 @@
 
 ---
 
-
 ## What I Do
-- **AppSec & DevSecOps:** SAST/SCA/DAST, CodeQL, dependency hygiene, GitHub Actions, SBOMs.
-- **Automation:** Python + APIs, Google Apps Script/Sheets, CI/CD glue.
-- **Full-Stack bits:** Django/Flask backends, REST, basic React/UIs when needed.
-
+- **Application Security & DevSecOps:** CodeQL, dependency checks, vulnerability scanning, GitHub Actions, SBOMs.  
+- **Automation & Data:** Python + APIs, Google Sheets + Apps Script, lightweight CI/CD tooling.  
+- **Full-Stack Support:** Django/Flask backends, REST APIs, and basic React/Tailwind frontends.  
+  
 ---
-## Tech I Use Regularly
-**Security:** CodeQL, Semgrep, Trivy, Snyk, Bandit, OWASP ZAP  
-**Python:** FastAPI/Flask, Pydantic, Requests, Pandas, Poetry/uv, pytest  
-**Web/Cloud:** Django, DRF, React (basics), Docker, GitHub Actions, Postgres/SQLite  
-**Data/Reporting:** SQLite/Parquet, Jupyter, Matplotlib, Markdown/SARIF/JSON
+
+## Core Tools I Use
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), TailwindCSS, React (basics), Vite  
+- **Data & Automation:** Google Sheets API, Apps Script, AppSheet, SQL (Postgres/SQLite)  
+- **Version Control:** Git, GitHub  
+
+## Expanding Skills
+- **Python & Backend:** Flask, FastAPI, Django (basics), Pydantic, Requests, Pandas, Poetry/uv, pytest  
+- **Cloud & Infrastructure:** Docker, GitHub Pages, Vercel, Netlify, Heroku  
+- **Security & QA:** CodeQL, Semgrep, Bandit, OWASP ZAP, Trivy, Snyk  
+- **Data & Reporting:** SQLite/Parquet, Jupyter, Matplotlib, Markdown/SARIF/JSON  
 
 <br>
 
 <p align="left">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="55" height="60"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="eastic" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="55" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>---
-      <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="NumPy" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="55" height="55"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Semgrep-000000?style=for-the-badge&logo=semgrep&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"/>
+</p>
 
 ---
 
 #  Projects  
 
 ### **Professional / Portfolio**
-- **[PhantomScanner](https://github.com/ginesthoii/PhantomScanner)** – CI-friendly tool that normalizes SAST/DAST/SCA outputs into one JSON/HTML report for devsecops pipelines.  
-- **[StoryShield](https://github.com/ginesthoii/StoryShield)** – Secure creative platform for writers & worldbuilders.  
-- **[myStoryShield](https://github.com/ginesthoii/myStoryShield)** – Org repo for StoryShield infrastructure, APIs, and collaboration tools. Includes role-based access control, encrypted collaboration, and modular APIs.  
-- **[StoryShieldApp](https://github.com/ginesthoii/StoryShieldApp)** – Frontend concept app for StoryShield platform (React/Django).
 - **[SecureMaestro](https://github.com/ginesthoii/SecureMaestro)** – Secure, automated practice tools for musicians (*inspired by Vivaldi*). Focus on secure coding practices, sandboxing, and automation. 
 - **[PillPal-VitaPro](https://github.com/ginesthoii/PillPal-VitaPro)** – Supplement + prescription interaction checker with AppSec sandbox for safe testing.  
 - **[WashU-Projects](https://github.com/ginesthoii/WashU-Projects)** - This repository serves as a portfolio hub for my work completed during my Washington University Cybersecurity Boot Camp. Final Grade: A+. The program covered a wide range of security disciplines including networking, systems, vulnerability assessment, cloud security, penetration testing, and digital forensics.
@@ -83,14 +87,12 @@
 - **[CulinaryCodex](https://github.com/ginesthoii/CulinaryCodex)** – Ancient and modern recipes + cultural food research, structured into a secure/organized digital codex.  
 - **[Shelfscapes](https://github.com/ginesthoii/Shelfscapes)** – A structured maker + documentation project for immersive **book nooks**  Each nook is managed like a software repo with reproducible designs (CAD files, BOMs), embedded electronics (Arduino/ESP32 lighting), and gallery documentation. Demonstrates **engineering discipline, creative integration, and open-source reproducibility**.  
 - **[CyberPersona](https://github.com/ginesthoii/CyberPersona)** – Personality + identity generator combining MBTI, Enneagram, and psychometric models. Useful for roleplay, testing, and worldbuilding. Highlights **data structuring, taxonomy design, and applied psychology in code**.  
-- **[SnakeWitch](https://github.com/ginesthoii/SnakeWitch)** – Ball python breeding + husbandry tracker. Automates feeding, morph genetics, and clutches via Google Sheets/AppSheet integrations.  
-- **[CatholicMedusa](https://github.com/ginesthoii/CatholicMedusa)** – Creative/experimental project blending myth, security, and automation.  
 - **[MythicalMenagerie](https://github.com/ginesthoii/MythicalMenagerie)** – Digital bestiary for mythological creatures. Search, learn, and generate mash-ups of monsters with maps and comparisons.  
 - **Monster Mashup** – Subproject/game concept under MythicalMenagerie.  
  
 ---
 
-### **Mini JS • HTML • CSS Projects**  
+### **Mini JavaScript • HTML • CSS Projects**  
 Self-contained front-end apps for practice and demos. Each project runs directly in the browser by opening `index.html`.  
 
 - `TextToSpeech/` – Convert text into speech with pitch, speed, and voice controls (Web Speech API).  
@@ -129,7 +131,7 @@ Self-contained Python scripts for quick practice or demos. Each project runs in 
 ## 🐍 CatholicMedusa 
 
 [CatholicMedusa](https://github.com/CatholicMedusa) —  
-a modular ecosystem for **ball python husbandry, genetics, and automation**. CatholicMedusa is where I combine **biology, security, and software engineering** into a connected toolkit.  
+a modular ecosystem for **ball python husbandry, genetics, and automation**. CatholicMedusa is where I combine **biology, security, and software engineering** into a connected toolkit, blending myth, security, and automation..  
 
 
 - **[SerpentTracker](https://github.com/CatholicMedusa/SerpentTracker)** → Daily husbandry logger (feeds, sheds, pairings).  
@@ -141,7 +143,7 @@ a modular ecosystem for **ball python husbandry, genetics, and automation**. Cat
 ## 🔮 SnakeWitch 
 
 [SnakeWitch](https://github.com/SnakeWitch) is a grimoire of lightweight snake-keeping tools —  
-quick utilities, integrations, and experiments that make husbandry a little easier (and a little more magical).  
+quick utilities, integrations, and experiments that make husbandry a little easier (and a little more magical). Automates feeding, morph genetics, and clutches via Google Sheets/AppSheet integrations.
 
 - **[SnakeWitch-Sheets](https://github.com/SnakeWitch/Sheets)** → Google Sheets templates + AppScript snippets (feeding logs, shed trackers, auto-morph calculator formulas).  
 - **[TankTemp](https://github.com/SnakeWitch/TankTemp)** → Temperature + unit converter (°F/°C/K, incubator/rack presets, CLI + GUI options).  
@@ -160,18 +162,18 @@ for all things fungi — grow, cook, forage, and learn.
 <br>
 
 ## 🗡️ CloakAndCipher 
-
 [CloakAndCipher](https://github.com/CloakAndCipher) is my umbrella for security-minded development —  
 tools, experiments, and utilities at the intersection of **AppSec and automation**.  
-
-<br>
-
 - **PhantomScanner** → Private scanning + automation utility (in development).  
 
 <br>
 
 ## 📖 StoryShield
+- **[StoryShield](https://github.com/ginesthoii/StoryShield)** – Secure creative platform for writers & worldbuilders.  
+- **[myStoryShield](https://github.com/ginesthoii/myStoryShield)** – Org repo for StoryShield infrastructure, APIs, and collaboration tools. Includes role-based access control, encrypted collaboration, and modular APIs.  
+- **[StoryShieldApp](https://github.com/ginesthoii/StoryShieldApp)** – Frontend concept app for StoryShield platform (React/Django).
 
+  
 <br>
 
 ---
