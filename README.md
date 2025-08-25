@@ -1,6 +1,6 @@
 ![Banner](./green%20banner.png) 
 
-<h2 align="center">Security-Minded Developer — AppSec + Automation  |  Python & Full-Stack Tools</h2>
+<h2 align="center">Security-Minded Developer | AppSec • Automation • Full-Stack</h2>
 <h3 align="center">Building Secure, Automated, and User-Friendly Apps.   <br><br> Washington University Cybersecurity Certification Grad • Mizzou Alum.</h3>
 
 
@@ -67,14 +67,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Semgrep-000000?style=for-the-badge&logo=semgrep&logoColor=00BFFF"/>
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   
 </p>
 
@@ -101,6 +99,8 @@
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ender3-FF6600?style=for-the-badge&logo=3d&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FreeCAD-314D98?style=for-the-badge&logo=freecad&logoColor=white"/>
+
 </p>
 
 <br>
@@ -210,8 +210,11 @@ tools, experiments, and utilities at the intersection of **AppSec and automation
   
 <br>
 
+## ❣️ CaregiverQR
 - **[CaregiverQR](https://github.com/ginesthoii/CaregiverQR)** – Secure QR-based health info sharing tool with AppSec-first design. Lightweight, open-source tool that helps caregivers and families track daily care.
-
+- A lightweight, QR-based care tracking system.
+- Designed for caregivers, facilities, and families to log meals, meds, and daily activities with quick scans.
+- Not a full HIPAA EMR — just a simple, transparent tool for everyday care.
 
 ---
 
@@ -349,7 +352,7 @@ Tracking online courses I’m working through to build skills in security, web d
 | The Complete Guide To Custom GPTs and Actions | Colt Steele |
 | Docker & Kubernetes: The Practical Guide [2025 Edition] | Maximilian Schwarzmüller, Academind |
 | The Git & GitHub Bootcamp | Colt Steele |
-| Creative Advanced CSS & JavaScript Animations - 150 Projects | Ahmed Sadek |
+| Creative Advanced CSS & JavaScript Animations | Ahmed Sadek |
 | Build Responsive Real-World Websites with HTML and CSS | Jonas Schmedtmann |
 | The Complete Full-Stack Web Development Bootcamp | Dr. Angela Yu |
 
