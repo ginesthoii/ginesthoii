@@ -71,7 +71,39 @@
   <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  
 </p>
+
+## Security / CLI
+- Scripting & Systems: Bash, Linux/Windows administration & hardening  
+- Security Tools: Wireshark, Kali Linux, Burp Suite, Nessus, Hashcat  
+- QA & AppSec: OWASP, Semgrep, Snyk  
+<p align="left">
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nessus-009639?style=for-the-badge&logo=tenable&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hashcat-EE0000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Semgrep-000000?style=for-the-badge&logo=semgrep&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"/>
+</p>
+
+
+## Maker Tools
+- Creative & Engineering: Blender, SketchUp, Ender3 (3D printing)  
+<p align="left">
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ender3-FF6600?style=for-the-badge&logo=3d&logoColor=white"/>
+</p>
+
+<br>
 
 ---
 
@@ -84,13 +116,11 @@
 ---
 
 ### **Experimental / Creative**
-- **[CaregiverQR](https://github.com/ginesthoii/CaregiverQR)** – Secure QR-based health info sharing tool with AppSec-first design. Lightweight, open-source tool that helps caregivers and families track daily care.
 - **[ModelMiddleEarth](https://github.com/ginesthoii/ModelMiddleEarth)** – Digital explorations of Middle-earth: 3D models, maps, and datasets built with Blender, Python, Ender, and secure coding practices.
 - **[CulinaryCodex](https://github.com/ginesthoii/CulinaryCodex)** – Ancient and modern recipes + cultural food research, structured into a secure/organized digital codex.  
 - **[Shelfscapes](https://github.com/ginesthoii/Shelfscapes)** – A structured maker + documentation project for immersive **book nooks**  Each nook is managed like a software repo with reproducible designs (CAD files, BOMs), embedded electronics (Arduino/ESP32 lighting), and gallery documentation. Demonstrates **engineering discipline, creative integration, and open-source reproducibility**.  
-- **[CyberPersona](https://github.com/ginesthoii/CyberPersona)** – Personality + identity generator combining MBTI, Enneagram, and psychometric models. Useful for roleplay, testing, and worldbuilding. Highlights **data structuring, taxonomy design, and applied psychology in code**.  
+- **[CyberPersona](https://github.com/ginesthoii/CyberPersona)** – Personality + identity generator combining MBTI, Enneagram, and psychometric models. Useful for writing, testing, and worldbuilding. Highlights **data structuring, taxonomy design, and applied psychology in code**.  
 - **[MythicalMenagerie](https://github.com/ginesthoii/MythicalMenagerie)** – Digital bestiary for mythological creatures. Search, learn, and generate mash-ups of monsters with maps and comparisons.  
-- **Monster Mashup** – Subproject/game concept under MythicalMenagerie.  
 
  
 ---
@@ -179,6 +209,9 @@ tools, experiments, and utilities at the intersection of **AppSec and automation
 
   
 <br>
+
+- **[CaregiverQR](https://github.com/ginesthoii/CaregiverQR)** – Secure QR-based health info sharing tool with AppSec-first design. Lightweight, open-source tool that helps caregivers and families track daily care.
+
 
 ---
 
