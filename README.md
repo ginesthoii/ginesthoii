@@ -170,9 +170,8 @@ Self-contained Python scripts for quick practice or demos. Each project runs in 
 </div>
 
 <br>
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8e16c893-f389-48d2-9381-be0d5a5fc60e" 
+  <img src="https://github.com/user-attachments/assets/e877e39f-384b-4d00-a0ca-da6fe4d1489e" 
        alt="Image" style="width:600px; height:auto;"/>
 </p>
 
