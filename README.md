@@ -1,5 +1,5 @@
 <p align="center">
-<img width="790" height="440" alt="Image" src="https://github.com/user-attachments/assets/7ca2881a-8013-4fc3-9b78-4651f6f91d6e" alt="Banner" width="600"/>
+<img width="790" height="470" alt="Image" src="https://github.com/user-attachments/assets/7ca2881a-8013-4fc3-9b78-4651f6f91d6e" alt="Banner" width="600"/>
 </p>
 
 <h3 align="center">Building Secure, Automated, and User-Friendly Apps.   <br><br> Washington University Cybersecurity Certification Grad • Mizzou Alum.</h3>
@@ -164,6 +164,11 @@ Self-contained Python scripts for quick practice or demos. Each project runs in 
 ---
 
 <br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8e16c893-f389-48d2-9381-be0d5a5fc60e" 
+       alt="Image" style="width:600px; height:auto;"/>
+</p>
 
 
 <img width="979" height="346" alt="Image" src="https://github.com/user-attachments/assets/8ae764e3-4f9e-4b99-ae49-e9e20529d4a8" />
