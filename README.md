@@ -205,7 +205,9 @@ Self-contained Python scripts for quick practice or demos. Each project runs in 
         <div align="center">
         <h3 style="margin:0; text-align:center;">📱 <strong>CaregiverQR</strong></h3>
           </div>
-        <p style="text-align:center; margin:8px 0 12px;"><em>Lightweight, QR-based care tracking for meals, meds, and night checks — not a full HIPAA EMR, just timestamped logs.</em></p>
+        <p style="text-align:left; margin:8px 0 12px;">
+          <em>Lightweight, QR-based care tracking for meals, meds, and night checks — not a full HIPAA EMR, just timestamped logs.</em>
+        </p>
         <ul>
           <li><a href="#">CaregiverQR</a> – Core repo (AppSheet + AppScript).</li>
           <li><a href="#">CareSheets</a> – Pre-made Google Sheets templates.</li>
@@ -218,7 +220,9 @@ Self-contained Python scripts for quick practice or demos. Each project runs in 
     <div align="center">
     <h3 style="margin:0; text-align:center;">📖 <strong>StoryShield</strong></h3>
       </div>
-    <p style="text-align:center; margin:8px 0 12px;"><em>Secure creative tools for writers &amp; worldbuilders — encrypted collaboration, role-based access, modular APIs.</em></p>
+    <p style="text-align:left; margin:8px 0 12px;">
+      <em>Secure creative tools for writers &amp; worldbuilders — encrypted collaboration, role-based access, modular APIs.</em>
+    </p>
     <ul>
       <li><a href="#">StoryShield</a> – Core platform repo.</li>
       <li><a href="#">StoryShieldApp</a> – Frontend concept (React/Django).</li>
@@ -235,7 +239,9 @@ Self-contained Python scripts for quick practice or demos. Each project runs in 
         <div align="center">
         <h3 style="margin:0; text-align:center;">🗡️ <strong>CloakAndCipher</strong></h3>
           </div>
-        <p style="text-align:center; margin:8px 0 12px;"><em>Security-minded development tools — AppSec + automation at the core.</em></p>
+        <p style="text-align:left; margin:8px 0 12px;">
+          <em>Security-minded development tools — AppSec + automation at the core.</em>
+        </p>
         <ul>
           <li><a href="#">PhantomScanner</a> – Normalize, visualize &amp; report on results from Semgrep, Bandit, Trivy, Snyk, CodeQL, ZAP.</li>
         </ul>
@@ -247,7 +253,9 @@ Self-contained Python scripts for quick practice or demos. Each project runs in 
     <div align="center">
     <h3 style="margin:0; text-align:center;">🍄 <strong>aFungusAmongUs</strong></h3>
       </div>
-    <p style="text-align:center; margin:8px 0 12px;"><em>Playful but practical open source for fungi — grow, cook, forage, and learn.</em></p>
+    <p style="text-align:left; margin:8px 0 12px;">
+      <em>Playful but practical open source for fungi — grow, cook, forage, and learn.</em>
+    </p>
     <ul>
       <li><a href="#">MorelMaps</a> – Seasonal/geo maps of mushroom flushes.</li>
       <li><a href="#">SporeLore</a> – Educational resources &amp; guides.</li>
@@ -264,7 +272,9 @@ Self-contained Python scripts for quick practice or demos. Each project runs in 
          <div align="center">
         <h3 style="margin:0; text-align:center;">🔮 <strong>SnakeWitch</strong></h3>
             </div>
-        <p style="text-align:center; margin:8px 0 12px;"><em>Lightweight snake-keeping toolkit — quick utilities, integrations, and AppSheet automations.</em></p>
+        <p style="text-align:left; margin:8px 0 12px;">
+          <em>Lightweight snake-keeping toolkit — quick utilities, integrations, and AppSheet automations.</em>
+        </p>
         <ul>
           <li><a href="#">SnakeWitch-Sheets</a> – Google Sheets + AppScript templates.</li>
           <li><a href="#">TankTemp</a> – Temperature + unit converter.</li>
@@ -280,9 +290,11 @@ Self-contained Python scripts for quick practice or demos. Each project runs in 
   <div style="background:#f6f8fa; border:1px solid #d0d7de; border-radius:6px; padding:14px; height:480px; overflow:auto;">
     <div align="center">
     <h3 style="margin:0; text-align:center;">🐍 <strong>CatholicMedusa</strong></h3>
-      </div>
-    <p style="text-align:center; margin:8px 0 12px;"><em>Modular ecosystem for ball python husbandry — blends biology, security, and software into one toolkit.</em></p>
-    <ul>
+    </div>
+        <p style="text-align:left; margin:8px 0 12px;">
+      <em>Modular ecosystem for ball python husbandry — blends biology, security, and software into one toolkit.</em>
+        </p>
+    <ul style="text-align:left; padding-left:4px; margin:0;">
       <li><a href="#">SerpentTracker</a> – Daily husbandry logger.</li>
       <li><a href="#">GorgonGenetics</a> – Morph inheritance simulator.</li>
       <li><a href="#">MedusasGaze</a> – Vision + sensor tools.</li>
