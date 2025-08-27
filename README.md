@@ -111,20 +111,20 @@
 
 ---
 
-
-   <div align="center">
+<div align="center">
      
-## <img width="525" height="101" alt="Image" src="https://github.com/user-attachments/assets/38dd53fe-07b1-490a-ab4a-b02327609253" />
+## <img width="525" height="101" alt="Image" src="https://github.com/user-attachments/assets/38dd53fe-07b1-490a-ab4a-b02327609253"/>
 
 </div>
-   <div align="center">
-     
-   ## **JavaScript • HTML • CSS Projects**  
-  <img width="904" height="28" alt="Image" src="https://github.com/user-attachments/assets/03ee561f-4934-4ae5-a1b7-92dcee6ef825" />
-  </div>
-   
-Self-contained front-end apps for practice and demos. Each project runs directly in the browser by opening `index.html`.  
 
+<div align="center"> 
+  
+## **JavaScript • HTML • CSS Projects**  
+<img width="904" height="28" alt="Image" src="https://github.com/user-attachments/assets/03ee561f-4934-4ae5-a1b7-92dcee6ef825" />
+</div>
+<div align="left"> 
+  
+Self-contained front-end apps for practice and demos. Each project runs directly in the browser by opening `index.html`.  
 - `TextToSpeech/` – Convert text into speech with pitch, speed, and voice controls (Web Speech API).  
 - `Pomodoro-Timer/` – 25-minute timer with circular progress ring, session notes, and CSV export.  
 - `Basic-Calculator/` – Four-function calculator with calculation history stored in `localStorage`.  
@@ -133,16 +133,20 @@ Self-contained front-end apps for practice and demos. Each project runs directly
 - `PlayablePiano/` – Browser piano with real key layout, recording, playback, metronome, and pitch detection.  
 - `Typing-Speed-Test-Game/` – Typing test with WPM/CPM tracking, accuracy, mistakes, progress bar, and dark mode.  
 - `Dog-Age-Calculator/` – A quick dog age → human years calculator with size-adjusted estimates.  
-- `Dog-Clicker-Trainer/` – A browser-based dog training clicker tool. Plays a sharp “click” sound and tracks session stats.
+- `Dog-Clicker-Trainer/` – A browser-based dog training clicker tool. Plays a sharp “click” sound and tracks session stats.  
+</div>
+
+---
 
 <div align="center">
 
-  ## **Python Projects**  
+## **Python Projects**  
 <img width="904" height="21" alt="Image" src="https://github.com/user-attachments/assets/c683de25-61b9-42c1-a717-97f919ade98a" />
+
 </div>
-
+<div align="left"> 
+  
 Self-contained Python scripts for quick practice or demos. Each project runs in a terminal with one command.  
-
 - `password_generator/` – Random password generator using letters, digits, and punctuation.  
 - `countdown/` – Simple countdown timer (`time.sleep`).  
 - `dice/` – Six-sided dice roller.  
@@ -154,9 +158,11 @@ Self-contained Python scripts for quick practice or demos. Each project runs in 
 - `qr_generator/` – Creates a QR code PNG from text/URL (uses `qrcode[pil]`).  
 - `todo_json/` – Minimal to-do list with JSON storage.  
 - `stopwatch/` – Basic stopwatch with Enter to start/stop.  
-- `word_frequency/` – Counts words with `collections.Counter`.  
+- `word_frequency/` – Counts words with `collections.Counter`.
 
-<br> 
+</div>
+
+  <br>
 
  <div align="center">
 
