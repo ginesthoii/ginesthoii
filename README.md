@@ -161,8 +161,6 @@ Self-contained Python scripts for quick practice or demos. Each project runs in 
 - `stopwatch/` – Basic stopwatch with Enter to start/stop.  
 - `word_frequency/` – Counts words with `collections.Counter`.  
 
----
-
 <br> 
 
  <div align="center">
