@@ -115,8 +115,6 @@
 ---
 
 
-<br>
-
    <div align="center">
      
 ## <img width="525" height="101" alt="Image" src="https://github.com/user-attachments/assets/38dd53fe-07b1-490a-ab4a-b02327609253" />
@@ -304,8 +302,6 @@ Self-contained Python scripts for quick practice or demos. Each project runs in 
   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/badge.png" 
        alt="Badge" width="200"/>
 </p>
-
-<br>
 
 
 # Washington University Cybersecurity Boot Camp 
