@@ -1,7 +1,7 @@
 <p align="center">
-<img width="790" height="470" alt="Image" src="https://github.com/user-attachments/assets/7ca2881a-8013-4fc3-9b78-4651f6f91d6e" alt="Banner" width="600"/>
+<img width="790" height="475" alt="Image" src="https://github.com/user-attachments/assets/7ca2881a-8013-4fc3-9b78-4651f6f91d6e" alt="Banner" width="600"/>
 
-<h3 align="center"> <img width="700" height="217" alt="Image" src="https://github.com/user-attachments/assets/d2799166-4daa-4d80-8a1e-f595efcc76d8" </h3>
+<h3 align="center"> <img width="600" height="317" alt="Image" src="https://github.com/user-attachments/assets/d2799166-4daa-4d80-8a1e-f595efcc76d8" </h3>
 
 <br>
 
