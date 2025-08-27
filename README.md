@@ -40,12 +40,12 @@
 ---
 
 
-<div style="display:flex; gap:20px; justify-content:center; align-items:center;">
-  <img src="https://github.com/user-attachments/assets/a6ff2ec9-538f-4b1c-b4ae-b7da2d77a6cf"
-       alt="Image 1" style="width:45%; height:270px; object-fit:cover;"/>
-  <img src="https://github.com/user-attachments/assets/949d9d8c-415a-43a6-9fd7-e06de331f0d6"
-       alt="Image 2" style="width:45%; height:270px; object-fit:cover;"/>
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a6ff2ec9-538f-4b1c-b4ae-b7da2d77a6cf" 
+       alt="Skills Left" width="49%"/>
+  <img src="https://github.com/user-attachments/assets/949d9d8c-415a-43a6-9fd7-e06de331f0d6" 
+       alt="Skills Right" width="49%"/>
+</p>
 
 ---
 
