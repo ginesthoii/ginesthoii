@@ -1,7 +1,6 @@
 <p align="center">
 <img width="790" height="475" alt="Image" src="https://github.com/user-attachments/assets/7ca2881a-8013-4fc3-9b78-4651f6f91d6e" alt="Banner" width="600"/>
 
-<h3 align="center"> <img width="600" height="317" alt="Image" src="https://github.com/user-attachments/assets/d2799166-4daa-4d80-8a1e-f595efcc76d8" </h3>
 
 <br>
 
@@ -18,11 +17,19 @@
 </p>
 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7ecf5c4e-16b3-4a39-a933-b466ccb29bf6" 
+       alt="Skills Left" width="70%"/>
+</p>
+
+
+
+
 ---
 
 
 
-<br>
+
 
 <p align="center">
   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(3).gif" alt="Terminal GIF" width="900"/>
