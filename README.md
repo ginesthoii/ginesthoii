@@ -45,9 +45,9 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a6ff2ec9-538f-4b1c-b4ae-b7da2d77a6cf" 
+  <img src="https://github.com/user-attachments/assets/14fc68c0-fcbd-4eaf-be73-5ec6f64a3d9f" 
        alt="Skills Left" width="49%"/>
-  <img src="https://github.com/user-attachments/assets/949d9d8c-415a-43a6-9fd7-e06de331f0d6" 
+  <img src="https://github.com/user-attachments/assets/ac0e586f-ebb2-463c-9a63-93734a1a0fa3" 
        alt="Skills Right" width="49%"/>
 </p>
 
