@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/83d666a2-7830-4a1d-b416-97ad4d4e4a20"
+  <img src="https://github.com/user-attachments/assets/c8f2ff7e-afa9-462e-98b8-e935e2132c74"
        alt="Skills Left" width="70%" style="border-radius:15px;"/>
 </p>
 
