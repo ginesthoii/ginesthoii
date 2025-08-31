@@ -1,18 +1,18 @@
 <p align="center">
-<img width="790" height="475" alt="Image" src="https://github.com/user-attachments/assets/7ca2881a-8013-4fc3-9b78-4651f6f91d6e" alt="Banner" width="600"/>
+<img width="790" height="475" alt="Image" src="https://github.com/user-attachments/assets/d8320db6-bfe4-49f6-adb4-21b71c2c491d" alt="Banner" width="600"/>
 
 
 <br>
 
 <p align="center">
   <a href="https://ginesthoii.github.io/oliviagriffin.pro/" style="display:inline-block; margin:0 24px;">
-    <img src="https://img.shields.io/badge/Portfolio-Website-739f84?style=for-the-badge&labelColor=9a4496&&color=9a4496&&logoColor=white" height="70">
+    <img src="https://img.shields.io/badge/Portfolio-Website-739f84?style=for-the-badge&labelColor=336465&&color=336465&&logoColor=white" height="70">
   </a>
   <a href="https://www.linkedin.com/olivia-griffin-a08a20115/" style="display:inline-block; margin:0 24px;">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-739f84?style=for-the-badge&labelColor=9a4496&&color=9a4496&&logo=linkedin&logoColor=white" height="70">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-739f84?style=for-the-badge&labelColor=336465&&color=336465&&logo=linkedin&logoColor=white" height="70">
   </a>
   <a href="mailto:oliviagriffindev@gmail.com" style="display:inline-block; margin:0 24px;">
-    <img src="https://img.shields.io/badge/Email-Contact-739f84?style=for-the-badge&labelColor=9a4496&color=9a4496&&logoColor=white" height="70">
+    <img src="https://img.shields.io/badge/Email-Contact-739f84?style=for-the-badge&labelColor=336465&color=336465&&logoColor=white" height="70">
   </a>
 </p>
 
@@ -32,7 +32,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(3).gif" alt="Terminal GIF" width="900"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(3).gif" alt="Terminal GIF" width="800"/>
 </p>
 
 ---
@@ -40,16 +40,16 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/59c1f520-cfb5-40ee-855e-f75bde3b0f7d" alt="Image" width="800"/>
+  <img src="https://github.com/user-attachments/assets/d4d9c6cd-8a74-4e61-b30d-f1480d116396" alt="Image" width="800"/>
 </p>
 
 ---
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/14fc68c0-fcbd-4eaf-be73-5ec6f64a3d9f" 
+  <img src="https://github.com/user-attachments/assets/419f7def-00b5-420d-818d-6ab7f9650ab0" 
        alt="Skills Left" width="49%"/>
-  <img src="https://github.com/user-attachments/assets/ac0e586f-ebb2-463c-9a63-93734a1a0fa3" 
+  <img src="https://github.com/user-attachments/assets/ad61ff04-dfb3-415e-8f6c-09acfa77fc50" 
        alt="Skills Right" width="49%"/>
 </p>
 
