@@ -18,8 +18,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7ecf5c4e-16b3-4a39-a933-b466ccb29bf6" 
-       alt="Skills Left" width="70%"/>
+  <img src="https://github.com/user-attachments/assets/8ed3f338-e654-4cb6-9439-f31d16b83761" 
+       alt="Skills Left" width="60%"/>
 </p>
 
 
