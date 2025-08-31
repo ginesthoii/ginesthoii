@@ -16,10 +16,9 @@
   </a>
 </p>
 
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6be74326-ea89-48e9-9b40-6dcabd75a041" 
-       alt="Skills Left" width="60%"/>
+  <img src="https://github.com/user-attachments/assets/83d666a2-7830-4a1d-b416-97ad4d4e4a20"
+       alt="Skills Left" width="70%" style="border-radius:15px;"/>
 </p>
 
 
