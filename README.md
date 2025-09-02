@@ -61,6 +61,15 @@
 
 ---
 
+
+   <div align="center">
+     
+# <img width="1517" height="369" alt="Image" src="https://github.com/user-attachments/assets/b0f41ea5-4704-4856-a45d-54def4d247d6" />
+
+   </div>
+
+ ---
+ 
    <div align="center">
      
 # <img width="517" height="169" alt="Image" src="https://github.com/user-attachments/assets/cabac5b2-cecf-4b54-b5bc-1ee53b650215" />
@@ -187,7 +196,7 @@ Self-contained Python scripts for quick practice or demos. Each project runs in 
 
 <br>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e877e39f-384b-4d00-a0ca-da6fe4d1489e" 
+  <img src="https://github.com/user-attachments/assets/15bc9526-e1cb-4e00-b28f-efc5ea68985a" 
        alt="Image" style="width:600px; height:auto;"/>
 </p>
 
@@ -197,7 +206,7 @@ Self-contained Python scripts for quick practice or demos. Each project runs in 
 
 </div>
 
-<img width="979" height="346" alt="Image" src="https://github.com/user-attachments/assets/8ae764e3-4f9e-4b99-ae49-e9e20529d4a8" />
+<img width="579" height="346" alt="Image" src="https://github.com/user-attachments/assets/f1431f0d-45fd-4c5c-b026-1a1114f865f3" />
 
 <br>
 
