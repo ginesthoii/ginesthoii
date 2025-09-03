@@ -1,31 +1,26 @@
 <p align="center">
 <img width="790" height="475" alt="Image" src="https://github.com/user-attachments/assets/1e5edb90-152b-4b21-afd7-591f74356cf2" alt="Banner" width="600"/>
 
-
 <br>
-
-<br>
-
 
 <p align="center">
   <a href="https://ginesthoii.github.io/oliviagriffin.pro/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-739f84?style=for-the-badge&labelColor=a0a0a0&color=a0a0a0&logoColor=white" height="100">
+    <img src="https://img.shields.io/badge/Portfolio-Website-739f84?style=for-the-badge&labelColor=a0a0a0&color=a0a0a0&logoColor=white" height="200">
   </a>
   &nbsp;&nbsp;&nbsp; <!-- spacing -->
   <a href="https://www.linkedin.com/olivia-griffin-a08a20115/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-739f84?style=for-the-badge&labelColor=a0a0a0&color=a0a0a0&logo=linkedin&logoColor=white" height="100">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-739f84?style=for-the-badge&labelColor=a0a0a0&color=a0a0a0&logo=linkedin&logoColor=white" height="200">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:oliviagriffindev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-739f84?style=for-the-badge&labelColor=a0a0a0&color=a0a0a0&logoColor=white" height="100">
+    <img src="https://img.shields.io/badge/Email-Contact-739f84?style=for-the-badge&labelColor=a0a0a0&color=a0a0a0&logoColor=white" height="200">
   </a>
 </p>
 
 
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4f627da2-bdf4-41bf-8051-127879e098d3"
-       alt="Skills Left" width="70%" style="border-radius:15px;"/>
+       alt="Skills Left" width="80%" style="border-radius:15px;"/>
 </p>
 
 
