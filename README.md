@@ -44,7 +44,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ddee8e11-9dfd-43f6-904b-7bcb6d1e7ea3" alt="Image" width="700"/>
+  <img src="https://github.com/user-attachments/assets/a1a37ee0-9dd8-49d2-abf3-8141dd54dbbd" alt="Image" width="700"/>
 </p>
 
 
@@ -53,10 +53,11 @@
 
    <div align="center">
      
-# <img width="1517" height="369" alt="Image" src="https://github.com/user-attachments/assets/b0f41ea5-4704-4856-a45d-54def4d247d6" />
+# <img width="1517" height="369" alt="Image" src="https://github.com/user-attachments/assets/977f2ecb-9b84-4a0b-a94d-3280813a876e" />
+     
+# <img width="1517" height="369" alt="Image" src="https://github.com/user-attachments/assets/ab4498d2-4844-4655-aa1d-7cf0f87f9d87" />
 
    </div>
-
 
 ---
 
@@ -133,6 +134,12 @@
 
 ---
 
+<div align="center">
+     
+## <img width="525" height="101" alt="Image" src="https://github.com/user-attachments/assets/38dd53fe-07b1-490a-ab4a-b02327609253"/>
+
+</div>
+
 <table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:8px;">
 
 <tr>
@@ -155,7 +162,7 @@
 
   <!-- Python -->
   <td style="width:55%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
-    <h3 align="center"> Mini Python</h3>
+    <h3 align="center"> Mini Python</h3>   
     <p align="center"><em>Self-contained Python scripts. Run from terminal with one command.</em></p>
     <ul>
       <li><strong>password_generator/</strong> – Random secure password generator.</li>
