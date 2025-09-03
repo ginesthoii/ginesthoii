@@ -24,7 +24,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c8f2ff7e-afa9-462e-98b8-e935e2132c74"
+  <img src="https://github.com/user-attachments/assets/0312e723-61a9-4b20-8038-0470f557d215"
        alt="Skills Left" width="70%" style="border-radius:15px;"/>
 </p>
 
@@ -47,6 +47,13 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9df849c0-e0aa-4d62-9a0a-ddf6d0f2ba68" alt="Image" width="800"/>
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/636243b7-52b2-4d0a-9a8e-81357d08194b" alt="Image" width="500"/>
 </p>
 
 ---
