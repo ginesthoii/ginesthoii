@@ -1,5 +1,5 @@
 <p align="center">
-<img width="790" height="475" alt="Image" src="https://github.com/user-attachments/assets/d8320db6-bfe4-49f6-adb4-21b71c2c491d" alt="Banner" width="600"/>
+<img width="790" height="475" alt="Image" src="https://github.com/user-attachments/assets/1e5edb90-152b-4b21-afd7-591f74356cf2" alt="Banner" width="600"/>
 
 
 <br>
@@ -9,37 +9,28 @@
 
 <p align="center">
   <a href="https://ginesthoii.github.io/oliviagriffin.pro/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-739f84?style=for-the-badge&labelColor=336465&color=336465&logoColor=white" height="100">
+    <img src="https://img.shields.io/badge/Portfolio-Website-739f84?style=for-the-badge&labelColor=a0a0a0&color=a0a0a0&logoColor=white" height="100">
   </a>
   &nbsp;&nbsp;&nbsp; <!-- spacing -->
   <a href="https://www.linkedin.com/olivia-griffin-a08a20115/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-739f84?style=for-the-badge&labelColor=336465&color=336465&logo=linkedin&logoColor=white" height="100">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-739f84?style=for-the-badge&labelColor=a0a0a0&color=a0a0a0&logo=linkedin&logoColor=white" height="100">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:oliviagriffindev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-739f84?style=for-the-badge&labelColor=336465&color=336465&logoColor=white" height="100">
+    <img src="https://img.shields.io/badge/Email-Contact-739f84?style=for-the-badge&labelColor=a0a0a0&color=a0a0a0&logoColor=white" height="100">
   </a>
 </p>
 
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0312e723-61a9-4b20-8038-0470f557d215"
+  <img src="https://github.com/user-attachments/assets/4f627da2-bdf4-41bf-8051-127879e098d3"
        alt="Skills Left" width="70%" style="border-radius:15px;"/>
 </p>
 
 
 
 
----
-
-
-
-
-
-<p align="center">
-  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(3).gif" alt="Terminal GIF" width="800"/>
-</p>
 
 ---
 
@@ -53,8 +44,9 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/636243b7-52b2-4d0a-9a8e-81357d08194b" alt="Image" width="500"/>
+  <img src="https://github.com/user-attachments/assets/7cc38d8a-6d25-4f0e-8965-039f4adf2d37" alt="Image" width="550"/>
 </p>
+
 
 ---
 
@@ -65,7 +57,16 @@
 
    </div>
 
+
+---
+
+<p align="center">
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(3).gif" alt="Terminal GIF" width="800"/>
+</p>
+
+
  ---
+
  
    <div align="center">
      
@@ -203,7 +204,6 @@ Self-contained Python scripts for quick practice or demos. Each project runs in 
 
 </div>
 
-<img width="579" height="346" alt="Image" src="https://github.com/user-attachments/assets/f1431f0d-45fd-4c5c-b026-1a1114f865f3" />
 
 <br>
 
