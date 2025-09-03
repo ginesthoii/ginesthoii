@@ -46,17 +46,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d4d9c6cd-8a74-4e61-b30d-f1480d116396" alt="Image" width="800"/>
-</p>
-
----
-
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/419f7def-00b5-420d-818d-6ab7f9650ab0" 
-       alt="Skills Left" width="49%"/>
-  <img src="https://github.com/user-attachments/assets/ad61ff04-dfb3-415e-8f6c-09acfa77fc50" 
-       alt="Skills Right" width="49%"/>
+  <img src="https://github.com/user-attachments/assets/3692e6e0-091d-4f3d-8cf1-78d4cf8e2925" alt="Image" width="800"/>
 </p>
 
 ---
