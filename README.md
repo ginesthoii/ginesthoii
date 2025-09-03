@@ -44,7 +44,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7cc38d8a-6d25-4f0e-8965-039f4adf2d37" alt="Image" width="550"/>
+  <img src="https://github.com/user-attachments/assets/ddee8e11-9dfd-43f6-904b-7bcb6d1e7ea3" alt="Image" width="700"/>
 </p>
 
 
@@ -130,6 +130,51 @@
 
 </table>
 
+
+---
+
+<table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:8px;">
+
+<tr>
+  <!-- JS/HTML/CSS -->
+  <td style="width:45%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
+    <h3 align="center"> Mini JavaScript • HTML • CSS</h3>
+    <p align="center"><em>Self-contained front-end apps. Run directly in the browser with <code>index.html</code>.</em></p>
+    <ul>
+      <li><strong>TextToSpeech/</strong> – Convert text into speech with pitch, speed, and voice controls.</li>
+      <li><strong>Pomodoro-Timer/</strong> – 25-min timer with progress ring, notes, and CSV export.</li>
+      <li><strong>Basic-Calculator/</strong> – Four-function calculator with history in <code>localStorage</code>.</li>
+      <li><strong>Hex-Color-Generator/</strong> – Pick a color + see its hex instantly.</li>
+      <li><strong>Image-Color-Hex-Extractor/</strong> – Extract dominant colors from an image (k-means clustering).</li>
+      <li><strong>PlayablePiano/</strong> – Browser piano with recording, playback, metronome, pitch detection.</li>
+      <li><strong>Typing-Speed-Test-Game/</strong> – Typing test with WPM/CPM, accuracy, mistakes, dark mode.</li>
+      <li><strong>Dog-Age-Calculator/</strong> – Human-year estimate adjusted by dog size.</li>
+      <li><strong>Dog-Clicker-Trainer/</strong> – Digital training clicker with sound + session stats.</li>
+    </ul>
+  </td>
+
+  <!-- Python -->
+  <td style="width:55%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
+    <h3 align="center"> Mini Python</h3>
+    <p align="center"><em>Self-contained Python scripts. Run from terminal with one command.</em></p>
+    <ul>
+      <li><strong>password_generator/</strong> – Random secure password generator.</li>
+      <li><strong>countdown/</strong> – Simple timer with <code>time.sleep</code>.</li>
+      <li><strong>dice/</strong> – Six-sided dice roller.</li>
+      <li><strong>reverse_text/</strong> – Reverse any input string.</li>
+      <li><strong>weather/</strong> – Minimal OpenWeather client (API key required).</li>
+      <li><strong>number_guess/</strong> – Guessing game (1–50).</li>
+      <li><strong>currency_converter/</strong> – USD → EUR/GBP/JPY (sample rates).</li>
+      <li><strong>file_organizer/</strong> – Sort files into subfolders by extension.</li>
+      <li><strong>qr_generator/</strong> – Create QR code PNGs from text/URL.</li>
+      <li><strong>todo_json/</strong> – Minimal to-do list with JSON storage.</li>
+      <li><strong>stopwatch/</strong> – Basic stopwatch with Enter to start/stop.</li>
+      <li><strong>word_frequency/</strong> – Count words with <code>collections.Counter</code>.</li>
+    </ul>
+  </td>
+</tr>
+
+</table>
 
 ---
 
