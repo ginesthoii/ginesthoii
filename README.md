@@ -24,12 +24,13 @@
 </p>
 
 
-
-
-
 ---
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/425ab325-7c95-4a8a-803b-4ba087e8ae9b" alt="Terminal GIF" height="200" width="200"/>
+</p>
 
+---
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9df849c0-e0aa-4d62-9a0a-ddf6d0f2ba68" alt="Image" width="800"/>
