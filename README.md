@@ -34,7 +34,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/36475c44-a6c7-45cc-ae50-fc87fdfba01b" alt="Image" width="800"/>
+  <img src="https://github.com/user-attachments/assets/f93872b7-2172-4b08-8a62-a2fcedebbbe7" alt="Image" width="740"/>
 </p>
 
 ---
@@ -57,9 +57,9 @@
 
    <div align="center">
      
-# <img width="900" height="369" alt="Image" src="https://github.com/user-attachments/assets/977f2ecb-9b84-4a0b-a94d-3280813a876e" >
+# <img width="820" height="369" alt="Image" src="https://github.com/user-attachments/assets/977f2ecb-9b84-4a0b-a94d-3280813a876e" >
      
-# <img width="900" height="369" alt="Image" src="https://github.com/user-attachments/assets/ab4498d2-4844-4655-aa1d-7cf0f87f9d87" />
+# <img width="820" height="369" alt="Image" src="https://github.com/user-attachments/assets/ab4498d2-4844-4655-aa1d-7cf0f87f9d87" />
 
    </div>
 
