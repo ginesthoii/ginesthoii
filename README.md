@@ -27,7 +27,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/425ab325-7c95-4a8a-803b-4ba087e8ae9b" alt="Terminal GIF" height="200" width="200"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(4).gif" alt="Terminal GIF" height="200" width="200"/>
 </p>
 
 ---
