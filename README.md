@@ -26,8 +26,9 @@
 
 ---
 
+
 <p align="center">
-  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/pup.gif" alt="Terminal GIF" height="200" width="200"/>
+  <img src="https://github.com/user-attachments/assets/2d7ef59d-d610-4d3a-935e-862dee8e13c7" alt="Terminal GIF" height="200" width="300"/>
 </p>
 
 ---
@@ -66,10 +67,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2d7ef59d-d610-4d3a-935e-862dee8e13c7" alt="Terminal GIF" height="400" width="500"/>
-</p>
 
+
+<p align="center">
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/pup.gif" alt="Terminal GIF" height="200" width="200"/>
+</p>
 
  ---
 
