@@ -57,9 +57,9 @@
 
    <div align="center">
      
-# <img width="820" height="369" alt="Image" src="https://github.com/user-attachments/assets/977f2ecb-9b84-4a0b-a94d-3280813a876e" >
+# <img width="920" height="369" alt="Image" src="https://github.com/user-attachments/assets/977f2ecb-9b84-4a0b-a94d-3280813a876e" >
      
-# <img width="820" height="369" alt="Image" src="https://github.com/user-attachments/assets/ab4498d2-4844-4655-aa1d-7cf0f87f9d87" />
+# <img width="920" height="369" alt="Image" src="https://github.com/user-attachments/assets/ab4498d2-4844-4655-aa1d-7cf0f87f9d87" />
 
    </div>
 
