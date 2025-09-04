@@ -73,24 +73,17 @@
   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/pup.gif" alt="Terminal GIF" height="200" width="200"/>
 </p>
 
- ---
 
- 
-   <div align="center">
-     
-# <img width="817" height="369" alt="Image" src="https://github.com/user-attachments/assets/246665ae-850e-4a3a-a73d-b249cc9e48d0" />
-
-   </div>
 
 
  ---
-
  
    <div align="center">
      
-# <img width="517" height="169" alt="Image" src="https://github.com/user-attachments/assets/cabac5b2-cecf-4b54-b5bc-1ee53b650215" />
+# <img width="817" height="369" alt="Image" src="https://github.com/user-attachments/assets/770c6ae4-a77a-45d0-ae74-163f46a46c27" />
 
    </div>
+ 
 <table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:8px;">
 
   <!-- Row 1 -->
