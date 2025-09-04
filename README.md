@@ -57,9 +57,9 @@
 
    <div align="center">
      
-# <img width="920" height="369" alt="Image" src="https://github.com/user-attachments/assets/977f2ecb-9b84-4a0b-a94d-3280813a876e" >
+# <img width="1000" height="369" alt="Image" src="https://github.com/user-attachments/assets/977f2ecb-9b84-4a0b-a94d-3280813a876e" >
      
-# <img width="920" height="369" alt="Image" src="https://github.com/user-attachments/assets/ab4498d2-4844-4655-aa1d-7cf0f87f9d87" />
+# <img width="1000" height="369" alt="Image" src="https://github.com/user-attachments/assets/ab4498d2-4844-4655-aa1d-7cf0f87f9d87" />
 
    </div>
 
@@ -80,7 +80,7 @@
  
    <div align="center">
      
-# <img width="717" height="300" alt="Image" src="https://github.com/user-attachments/assets/770c6ae4-a77a-45d0-ae74-163f46a46c27" />
+# <img width="817" height="320" alt="Image" src="https://github.com/user-attachments/assets/770c6ae4-a77a-45d0-ae74-163f46a46c27" />
 
    </div>
  
@@ -88,15 +88,15 @@
 
   <!-- Row 1 -->
   <tr>
-    <td style="width:33%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
+    <td style="width:33%; vertical-align:top; border:1px solid #ffffffff; border-radius:6px; padding:14px;">
       <h3 align="center">🎼 <a href="https://github.com/ginesthoii/SecureMaestro"><strong>SecureMaestro</strong></a></h3>
       <p>Secure, automated practice tools for musicians (<em>inspired by Vivaldi</em>). Focus on secure coding practices, sandboxing, and automation.</p>
     </td>
-    <td style="width:33%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
+    <td style="width:33%; vertical-align:top; border:1px solid #ffffffff; border-radius:6px; padding:14px;">
       <h3 align="center">💊 <a href="https://github.com/ginesthoii/PillPal-VitaPro"><strong>PillPal-VitaPro</strong></a></h3>
       <p>Supplement + prescription interaction checker with AppSec sandbox for safe testing.</p>
     </td>
-    <td style="width:33%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
+    <td style="width:33%; vertical-align:top; border:1px solid #ffffffff; border-radius:6px; padding:14px;">
       <h3 align="center">🏫 <a href="https://github.com/ginesthoii/WashU-Projects"><strong>WashU-Projects</strong></a></h3>
       <p>Portfolio hub for my Washington University Cybersecurity Boot Camp (Final Grade: A+). Covered networking, systems, vulnerability assessment, cloud security, penetration testing, and digital forensics.</p>
     </td>
@@ -104,9 +104,9 @@
 
   <!-- Row 2 Header -->
   <tr>
-    <td colspan="3" style="text-align:center; padding:10px;">
+    <td colspan="3" style="text-align:center;  border:1px solid #ffffffff; border-radius:6px; padding:10px;">
          <div align="center">
-      <h2> <img width="446" height="56" alt="image" src="https://github.com/user-attachments/assets/60b3f301-b0a9-4b54-bcdf-bc19b0d3d322" /> 
+      <h2> <img width="500" height="220" alt="image" src="https://github.com/user-attachments/assets/2d71ca03-1703-48a9-8cf2-3f44979ef903" /> 
         <div>
     </td>
   </tr>
