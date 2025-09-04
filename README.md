@@ -70,7 +70,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/pup.gif" alt="Terminal GIF" height="150" width="150"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/pup.gif" alt="Terminal GIF" height="180" width="180"/>
 </p>
 
 
@@ -248,34 +248,15 @@ Self-contained Python scripts for quick practice or demos. Each project runs in 
 
   <br>
 
- <div align="center">
-
-<img width="904" height="21" alt="Image" src="https://github.com/user-attachments/assets/76b3e3dd-4632-440e-98fe-5bc2ca9e2d84" />
-
-</div>
-
-<br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/15bc9526-e1cb-4e00-b28f-efc5ea68985a" 
-       alt="Image" style="width:600px; height:auto;"/>
-</p>
-
- <div align="center">
-
-<img width="904" height="21" alt="Image" src="https://github.com/user-attachments/assets/76b3e3dd-4632-440e-98fe-5bc2ca9e2d84" />
-
-</div>
-
-
-<br>
-
+ 
 ---
 
    <div align="center">
      
-# <img width="522" height="136" alt="Image" src="https://github.com/user-attachments/assets/8473d353-3d82-48ae-b348-129c1807f01c" />
+# <img width="822" height="400" alt="Image" src="https://github.com/user-attachments/assets/c4e2a144-2c94-4514-9c6b-67ce16ddfd7a" />
      
    </div>
+
 
    ---
    
