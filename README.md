@@ -19,7 +19,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4f627da2-bdf4-41bf-8051-127879e098d3"
+  <img src="https://github.com/user-attachments/assets/d87fa9bd-2ec8-4d2d-86da-05466945e3b4"
          alt="Skills Left" width="70%" style="border-radius:15px;"/>
 </p>
 
