@@ -49,7 +49,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(5).gif" alt="Terminal GIF" height="450" width="610"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(5).gif" alt="Terminal GIF" height="430" width="550"/>
 </p>
 
 ---
@@ -82,16 +82,6 @@
 
    </div>
 
-
- ---
-
- 
-   <div align="center">
-     
-# <img width="817" height="369" alt="Image" src="https://github.com/user-attachments/assets/792146be-cf75-4ab5-bdb1-6331eddee533" />
-
-   </div>
-   
 
  ---
 
