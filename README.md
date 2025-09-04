@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2d7ef59d-d610-4d3a-935e-862dee8e13c7" alt="Terminal GIF" height="200" width="300"/>
+  <img src="https://github.com/user-attachments/assets/2d7ef59d-d610-4d3a-935e-862dee8e13c7" alt="Terminal GIF" height="180" width="200"/>
 </p>
 
 ---
@@ -41,7 +41,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a1a37ee0-9dd8-49d2-abf3-8141dd54dbbd" alt="Image" width="700"/>
+  <img src="https://github.com/user-attachments/assets/a1a37ee0-9dd8-49d2-abf3-8141dd54dbbd" alt="Image" width="540"/>
 </p>
 
 
@@ -49,7 +49,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(5).gif" alt="Terminal GIF" height="430" width="550"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(5).gif" alt="Terminal GIF" height="440" width="540"/>
 </p>
 
 ---
@@ -80,7 +80,7 @@
  
    <div align="center">
      
-# <img width="817" height="369" alt="Image" src="https://github.com/user-attachments/assets/770c6ae4-a77a-45d0-ae74-163f46a46c27" />
+# <img width="717" height="300" alt="Image" src="https://github.com/user-attachments/assets/770c6ae4-a77a-45d0-ae74-163f46a46c27" />
 
    </div>
  
