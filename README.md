@@ -64,6 +64,33 @@
 
 
 
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2d7ef59d-d610-4d3a-935e-862dee8e13c7" alt="Terminal GIF" height="400" width="500"/>
+</p>
+
+
+ ---
+
+ 
+   <div align="center">
+     
+# <img width="817" height="369" alt="Image" src="https://github.com/user-attachments/assets/246665ae-850e-4a3a-a73d-b249cc9e48d0" />
+
+   </div>
+
+
+ ---
+
+ 
+   <div align="center">
+     
+# <img width="817" height="369" alt="Image" src="https://github.com/user-attachments/assets/792146be-cf75-4ab5-bdb1-6331eddee533" />
+
+   </div>
+   
+
  ---
 
  
