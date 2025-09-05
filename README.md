@@ -196,7 +196,7 @@
       <li><strong>todo_json/</strong> – Minimal to-do list with JSON storage.</li>
       <li><strong>stopwatch/</strong> – Basic stopwatch with Enter to start/stop.</li>
       <li><strong>word_frequency/</strong> – Count words with <code>collections.Counter.</code></li>
-      <li><strong>mini_metronome/</strong> – Lightweight CLI metronome</li>
+      <li><strong>mini_metronome/</strong> – Lightweight CLI metronome with downbeat accents (afplay/simpleaudio backend).</li>
     </ul>
   </td>
 </tr>
