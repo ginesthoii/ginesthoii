@@ -146,7 +146,7 @@
 
 <div align="center">
      
-## <img width="525" height="101" alt="Image" src="https://github.com/user-attachments/assets/38dd53fe-07b1-490a-ab4a-b02327609253"/>
+## <img width="500" height="220" alt="Image" src="https://github.com/user-attachments/assets/5d36c1c2-f978-4cc0-a942-31490312fad5"/>
 
 </div>
 
@@ -157,7 +157,11 @@
   <td style="width:45%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
     <h3 align="center"> Mini JavaScript • HTML • CSS</h3>
     <p align="center"><em>Self-contained front-end apps. Run directly in the browser with <code>index.html</code>.</em></p>
-    <ul>
+    <!-- Inserted Image -->
+    <div align="center">
+      <img width="904" height="28" alt="Image" src="https://github.com/user-attachments/assets/03ee561f-4934-4ae5-a1b7-92dcee6ef825" />
+    </div>
+        <ul>
       <li><strong>TextToSpeech/</strong> – Convert text into speech with pitch, speed, and voice controls.</li>
       <li><strong>Pomodoro-Timer/</strong> – 25-min timer with progress ring, notes, and CSV export.</li>
       <li><strong>Basic-Calculator/</strong> – Four-function calculator with history in <code>localStorage</code>.</li>
@@ -170,11 +174,16 @@
     </ul>
   </td>
 
-  <!-- Python -->
-  <td style="width:55%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
-    <h3 align="center"> Mini Python</h3>   
-    <p align="center"><em>Self-contained Python scripts. Run from terminal with one command.</em></p>
-    <ul>
+<!-- Python -->
+<td style="width:55%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
+  <h3 align="center"> Mini Python</h3>   
+  <p align="center"><em>Self-contained Python scripts. Run from terminal with one command.</em></p>
+  <!-- Inserted Image -->
+  <div align="center">
+    <img width="904" height="21" alt="Python Projects" src="https://github.com/user-attachments/assets/c683de25-61b9-42c1-a717-97f919ade98a" />
+  </div>
+
+  <ul>
       <li><strong>password_generator/</strong> – Random secure password generator.</li>
       <li><strong>countdown/</strong> – Simple timer with <code>time.sleep</code>.</li>
       <li><strong>dice/</strong> – Six-sided dice roller.</li>
@@ -187,67 +196,15 @@
       <li><strong>todo_json/</strong> – Minimal to-do list with JSON storage.</li>
       <li><strong>stopwatch/</strong> – Basic stopwatch with Enter to start/stop.</li>
       <li><strong>word_frequency/</strong> – Count words with <code>collections.Counter</code>.</li>
+      <li><strong>word_frequency/</strong> – Count words with <code>collections.Counter</code>.</li>
+      <li><strong>word_frequency/</strong> – Count words with <code>collections.Counter</code>.</li>
+      <li><strong>word_frequency/</strong> – Count words with <code>collections.Counter</code>.</li>
+      <li><strong>word_frequency/</strong> – Count words with <code>collections.Counter</code>.</li>
     </ul>
   </td>
 </tr>
 
 </table>
-
----
-
-<div align="center">
-     
-## <img width="525" height="101" alt="Image" src="https://github.com/user-attachments/assets/38dd53fe-07b1-490a-ab4a-b02327609253"/>
-
-</div>
-
-<div align="center"> 
-  
-## **JavaScript • HTML • CSS Projects**  
-<img width="904" height="28" alt="Image" src="https://github.com/user-attachments/assets/03ee561f-4934-4ae5-a1b7-92dcee6ef825" />
-</div>
-<div align="left"> 
-  
-Self-contained front-end apps for practice and demos. Each project runs directly in the browser by opening `index.html`.  
-- `TextToSpeech/` – Convert text into speech with pitch, speed, and voice controls (Web Speech API).  
-- `Pomodoro-Timer/` – 25-minute timer with circular progress ring, session notes, and CSV export.  
-- `Basic-Calculator/` – Four-function calculator with calculation history stored in `localStorage`.  
-- `Hex-Color-Generator/` – Pick a color and instantly see its hex code with live background preview.  
-- `Image-Color-Hex-Extractor/` – Upload an image and extract dominant colors using k-means clustering.  
-- `PlayablePiano/` – Browser piano with real key layout, recording, playback, metronome, and pitch detection.  
-- `Typing-Speed-Test-Game/` – Typing test with WPM/CPM tracking, accuracy, mistakes, progress bar, and dark mode.  
-- `Dog-Age-Calculator/` – A quick dog age → human years calculator with size-adjusted estimates.  
-- `Dog-Clicker-Trainer/` – A browser-based dog training clicker tool. Plays a sharp “click” sound and tracks session stats.  
-</div>
-
----
-
-<div align="center">
-
-## **Python Projects**  
-<img width="904" height="21" alt="Image" src="https://github.com/user-attachments/assets/c683de25-61b9-42c1-a717-97f919ade98a" />
-
-</div>
-<div align="left"> 
-  
-Self-contained Python scripts for quick practice or demos. Each project runs in a terminal with one command.  
-- `password_generator/` – Random password generator using letters, digits, and punctuation.  
-- `countdown/` – Simple countdown timer (`time.sleep`).  
-- `dice/` – Six-sided dice roller.  
-- `reverse_text/` – Reverse any input string.  
-- `weather/` – Minimal OpenWeather client (requires API key).  
-- `number_guess/` – Number guessing game (1–50).  
-- `currency_converter/` – USD → EUR/GBP/JPY using static sample rates.  
-- `file_organizer/` – Sorts files into subfolders by extension.  
-- `qr_generator/` – Creates a QR code PNG from text/URL (uses `qrcode[pil]`).  
-- `todo_json/` – Minimal to-do list with JSON storage.  
-- `stopwatch/` – Basic stopwatch with Enter to start/stop.  
-- `word_frequency/` – Counts words with `collections.Counter`.
-
-</div>
-
-  <br>
-
  
 ---
 
