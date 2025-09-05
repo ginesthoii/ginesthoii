@@ -89,15 +89,15 @@
   <!-- Row 1 -->
   <tr>
     <td style="width:33%; vertical-align:top; border:1px solid #ffffffff; border-radius:6px; padding:14px;">
-      <h3 align="center">🎼 <a href="https://github.com/ginesthoii/SecureMaestro"><strong>SecureMaestro</strong></a></h3>
+      <h3 align="center"> <a href="https://github.com/ginesthoii/SecureMaestro"><strong>SecureMaestro</strong></a></h3>
       <p>Secure, automated practice tools for musicians (<em>inspired by Vivaldi</em>). Focus on secure coding practices, sandboxing, and automation.</p>
     </td>
     <td style="width:33%; vertical-align:top; border:1px solid #ffffffff; border-radius:6px; padding:14px;">
-      <h3 align="center">💊 <a href="https://github.com/ginesthoii/PillPal-VitaPro"><strong>PillPal-VitaPro</strong></a></h3>
+      <h3 align="center"> <a href="https://github.com/ginesthoii/PillPal-VitaPro"><strong>PillPal-VitaPro</strong></a></h3>
       <p>Supplement + prescription interaction checker with AppSec sandbox for safe testing.</p>
     </td>
     <td style="width:33%; vertical-align:top; border:1px solid #ffffffff; border-radius:6px; padding:14px;">
-      <h3 align="center">🏫 <a href="https://github.com/ginesthoii/WashU-Projects"><strong>WashU-Projects</strong></a></h3>
+      <h3 align="center"> <a href="https://github.com/ginesthoii/WashU-Projects"><strong>WashU-Projects</strong></a></h3>
       <p>Portfolio hub for my Washington University Cybersecurity Boot Camp (Final Grade: A+). Covered networking, systems, vulnerability assessment, cloud security, penetration testing, and digital forensics.</p>
     </td>
   </tr>
@@ -114,15 +114,15 @@
   <!-- Row 3 -->
   <tr>
     <td style="width:33%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
-      <h3 align="center">🐉 <a href="https://github.com/ginesthoii/MythicalMenagerie"><strong>MythicalMenagerie</strong></a></h3>
+      <h3 align="center"> <a href="https://github.com/ginesthoii/MythicalMenagerie"><strong>MythicalMenagerie</strong></a></h3>
       <p>Digital bestiary for mythological creatures. Search, learn, and generate mash-ups of monsters with maps and comparisons.</p>
     </td>
     <td style="width:33%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
-      <h3 align="center">🌍 <a href="https://github.com/ginesthoii/ModelMiddleEarth"><strong>ModelMiddleEarth</strong></a></h3>
+      <h3 align="center"> <a href="https://github.com/ginesthoii/ModelMiddleEarth"><strong>ModelMiddleEarth</strong></a></h3>
       <p>Digital explorations of Middle-earth: 3D models, maps, and datasets built with Blender, Python, Ender, and secure coding practices.</p>
     </td>
     <td style="width:33%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
-      <h3 align="center">🍲 <a href="https://github.com/ginesthoii/CulinaryCodex"><strong>CulinaryCodex</strong></a></h3>
+      <h3 align="center"> <a href="https://github.com/ginesthoii/CulinaryCodex"><strong>CulinaryCodex</strong></a></h3>
       <p>Ancient + modern recipes &amp; cultural food research, structured into a secure digital codex.</p>
     </td>
   </tr>
@@ -130,11 +130,11 @@
   <!-- Row 4 -->
   <tr>
     <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
-      <h3 align="center">📚 <a href="https://github.com/ginesthoii/Shelfscapes"><strong>Shelfscapes</strong></a></h3>
+      <h3 align="center"> <a href="https://github.com/ginesthoii/Shelfscapes"><strong>Shelfscapes</strong></a></h3>
       <p>Maker + documentation project for immersive book nooks (CAD, BOMs, Arduino/ESP32 lighting, gallery docs). Emphasizes reproducibility + engineering discipline.</p>
     </td>
     <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
-      <h3 align="center">🧬 <a href="https://github.com/ginesthoii/CyberPersona"><strong>CyberPersona</strong></a></h3>
+      <h3 align="center"> <a href="https://github.com/ginesthoii/CyberPersona"><strong>CyberPersona</strong></a></h3>
       <p>Personality + identity generator combining MBTI, Enneagram, and psychometric models. Supports roleplay, testing, and applied psychology in code.</p>
     </td>
   </tr>
@@ -221,7 +221,7 @@
     <td style="width:50%; vertical-align:top;">
       <div style="background:#f6f8fa; border:1px solid #d0d7de; border-radius:6px; padding:14px; height:480px; overflow:auto;">
         <div align="center">
-        <h3 style="margin:0; text-align:center;">📱 <strong>CaregiverQR</strong></h3>
+        <h3 style="margin:0; text-align:center;"> <strong>CaregiverQR</strong></h3>
           </div>
         <p style="text-align:left; margin:8px 0 12px;">
           <em>Lightweight, QR-based care tracking for meals, meds, and night checks — not a full HIPAA EMR, just timestamped logs.</em>
@@ -236,7 +236,7 @@
 <td style="width:50%; vertical-align:top;">
   <div style="background:#f6f8fa; border:1px solid #d0d7de; border-radius:6px; padding:14px; height:480px; overflow:auto;">
     <div align="center">
-    <h3 style="margin:0; text-align:center;">📖 <strong>StoryShield</strong></h3>
+    <h3 style="margin:0; text-align:center;"> <strong>StoryShield</strong></h3>
       </div>
     <p style="text-align:left; margin:8px 0 12px;">
       <em>Secure creative tools for writers &amp; worldbuilders — encrypted collaboration, role-based access, modular APIs.</em>
@@ -255,7 +255,7 @@
     <td style="width:50%; vertical-align:top;">
       <div style="background:#f6f8fa; border:1px solid #d0d7de; border-radius:6px; padding:14px; height:480px; overflow:auto;">
         <div align="center">
-        <h3 style="margin:0; text-align:center;">🗡️ <strong>CloakAndCipher</strong></h3>
+        <h3 style="margin:0; text-align:center;"> <strong>CloakAndCipher</strong></h3>
           </div>
         <p style="text-align:left; margin:8px 0 12px;">
           <em>Security-minded development tools — AppSec + automation at the core.</em>
@@ -269,7 +269,7 @@
   <td style="width:50%; vertical-align:top;">
   <div style="background:#f6f8fa; border:1px solid #d0d7de; border-radius:6px; padding:14px; height:480px; overflow:auto;">
     <div align="center">
-    <h3 style="margin:0; text-align:center;">🍄 <strong>aFungusAmongUs</strong></h3>
+    <h3 style="margin:0; text-align:center;"> <strong>aFungusAmongUs</strong></h3>
       </div>
     <p style="text-align:left; margin:8px 0 12px;">
       <em>Playful but practical open source for fungi — grow, cook, forage, and learn.</em>
@@ -288,7 +288,7 @@
     <td style="width:50%; vertical-align:top;">
       <div style="background:#f6f8fa; border:1px solid #d0d7de; border-radius:6px; padding:14px; height:480px; overflow:auto;">
          <div align="center">
-        <h3 style="margin:0; text-align:center;">🔮 <strong>SnakeWitch</strong></h3>
+        <h3 style="margin:0; text-align:center;"> <strong>SnakeWitch</strong></h3>
             </div>
         <p style="text-align:left; margin:8px 0 12px;">
           <em>Lightweight snake-keeping toolkit — quick utilities, integrations, and AppSheet automations.</em>
@@ -307,7 +307,7 @@
 <td style="width:50%; vertical-align:top;">
   <div style="background:#f6f8fa; border:1px solid #d0d7de; border-radius:6px; padding:14px; height:480px; overflow:auto;">
     <div align="center">
-    <h3 style="margin:0; text-align:center;">🐍 <strong>CatholicMedusa</strong></h3>
+    <h3 style="margin:0; text-align:center;"> <strong>CatholicMedusa</strong></h3>
     </div>
         <p style="text-align:left; margin:8px 0 12px;">
       <em>Modular ecosystem for ball python husbandry — blends biology, security, and software into one toolkit.</em>
