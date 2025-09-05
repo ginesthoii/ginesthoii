@@ -196,10 +196,6 @@
       <li><strong>todo_json/</strong> – Minimal to-do list with JSON storage.</li>
       <li><strong>stopwatch/</strong> – Basic stopwatch with Enter to start/stop.</li>
       <li><strong>word_frequency/</strong> – Count words with <code>collections.Counter</code>.</li>
-      <li><strong>word_frequency/</strong> – Count words with <code>collections.Counter</code>.</li>
-      <li><strong>word_frequency/</strong> – Count words with <code>collections.Counter</code>.</li>
-      <li><strong>word_frequency/</strong> – Count words with <code>collections.Counter</code>.</li>
-      <li><strong>word_frequency/</strong> – Count words with <code>collections.Counter</code>.</li>
     </ul>
   </td>
 </tr>
