@@ -414,6 +414,54 @@ Tracking online courses I’m working through to build skills in security, web d
 
 
 
+## NDG
+| Course           | Level        | Type              |
+|------------------|--------------|-------------------|
+| Linux Essentials | Intermediate | Course | Self-paced |
+| Linux Unhatched  | Beginner     | Course | Self-paced |
+
+## Cisco Networking Academy
+| Course                              | Level        | Type              |
+|-------------------------------------|--------------|-------------------|
+| Operating Systems Basics            | Beginner     | Course | Self-paced |
+| Computer Hardware Basics            | Beginner     | Course | Self-paced |
+| Introduction to Data Science        | Beginner     | Course | Self-paced |
+| Data Analytics Essentials           | Beginner     | Course | Self-paced |
+| Data Science Essentials with Python | Intermediate | Course | Self-paced |
+| Introduction to Modern AI           | Beginner     | Course            |
+| Introduction to Cybersecurity       | Beginner     | Course | Self-paced |
+| Network Defense                     | Beginner     | Course | Self-paced |
+| Endpoint Security                   | Beginner     | Course | Self-paced |
+| Ethical Hacker                      | Intermediate | Course | Self-paced |
+
+## Python Institute
+| Course              | Level        | Type              |
+|---------------------|--------------|-------------------|
+| Python Essentials 1 | Beginner     | Course | Self-paced |
+| Python Essentials 2 | Intermediate | Course | Self-paced |
+
+## JavaScript Institute
+| Course                 | Level    | Type              |
+|------------------------|----------|-------------------|
+| JavaScript Essentials 1| Beginner | Course | Self-paced |
+
+## C++ Institute
+| Course          | Level    | Type              |
+|-----------------|----------|-------------------|
+| C++ Essentials 1| Beginner | Course | Self-paced |
+
+## IBM (SkillsBuild)
+| Course                          | Level    | Type              |
+|---------------------------------|----------|-------------------|
+| AI Fundamentals with IBM SkillsBuild | Beginner | Course | Self-paced |
+
+## Intel
+| Course                   | Level | Type   |
+|--------------------------|-------|--------|
+| Introduction to Generative AI | —     | Module |
+
+
+
 
 
 
