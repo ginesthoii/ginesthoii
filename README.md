@@ -410,17 +410,27 @@ Tracking online courses I’m working through to build skills in security, web d
 
 </div>
 
+<br>
 
+<div align="center">
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6d42b765-2219-46c0-8af6-8869d361805c" 
+       alt="Badge" width="300"/>
+</p>
 
-
-## NDG
 | Course           | Level        | Type              |
 |------------------|--------------|-------------------|
 | Linux Essentials | Intermediate | Course | Self-paced |
 | Linux Unhatched  | Beginner     | Course | Self-paced |
 
-## Cisco Networking Academy
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a701bc86-e93c-471d-abb3-81256cd2d981" 
+       alt="Badge" width="300"/>
+</p>
+
 | Course                              | Level        | Type              |
 |-------------------------------------|--------------|-------------------|
 | Operating Systems Basics            | Beginner     | Course | Self-paced |
@@ -434,35 +444,67 @@ Tracking online courses I’m working through to build skills in security, web d
 | Endpoint Security                   | Beginner     | Course | Self-paced |
 | Ethical Hacker                      | Intermediate | Course | Self-paced |
 
-## Python Institute
+<br> 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8b6d88eb-10d7-4ea3-91ba-e639a2625c67" 
+       alt="Badge" width="300"/>
+</p>
+
 | Course              | Level        | Type              |
 |---------------------|--------------|-------------------|
 | Python Essentials 1 | Beginner     | Course | Self-paced |
 | Python Essentials 2 | Intermediate | Course | Self-paced |
 
-## JavaScript Institute
+
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9d38bed0-0202-4677-baa1-ca847cd35dbc" 
+       alt="Badge" width="300"/>
+</p>
+
 | Course                 | Level    | Type              |
 |------------------------|----------|-------------------|
 | JavaScript Essentials 1| Beginner | Course | Self-paced |
 
-## C++ Institute
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b9b8cc9e-c62d-4f38-8c84-a3c10db4f6ad" 
+       alt="Badge" width="300"/>
+</p>
+
 | Course          | Level    | Type              |
 |-----------------|----------|-------------------|
 | C++ Essentials 1| Beginner | Course | Self-paced |
 
-## IBM (SkillsBuild)
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/511aa5ff-1cbd-4cb9-9c3e-5d982f916062" 
+       alt="Badge" width="300"/>
+</p>
+
+
 | Course                          | Level    | Type              |
 |---------------------------------|----------|-------------------|
 | AI Fundamentals with IBM SkillsBuild | Beginner | Course | Self-paced |
 
-## Intel
+<br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1a055c67-25c0-4ab7-bd67-d6ace9e9239b" 
+       alt="Badge" width="300"/>
+</p>
+
 | Course                   | Level | Type   |
 |--------------------------|-------|--------|
 | Introduction to Generative AI | —     | Module |
 
 
 
-
+</div>
 
 
 
