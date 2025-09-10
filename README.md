@@ -255,7 +255,7 @@
     <td style="width:50%; vertical-align:top;">
       <div style="background:#f6f8fa; border:1px solid #d0d7de; border-radius:6px; padding:14px; height:480px; overflow:auto;">
         <div align="center">
-        <h3 style="margin:0; text-align:center;"> <strong>CloakAndCipher</strong></h3>
+        <h3 style="margin:0; text-align:center;"> <strong>🗡CloakAndCipher</strong></h3>
           </div>
         <p style="text-align:left; margin:8px 0 12px;">
           <em>Security-minded development tools — AppSec + automation at the core.</em>
