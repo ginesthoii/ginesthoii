@@ -424,7 +424,7 @@
 
    <div align="center">
      
-# <img width="622" height="350" alt="Image" src="https://github.com/user-attachments/assets/4913c9df-2d09-4609-8d0c-9c18c93ca685" />
+# <img width="550" height="300" alt="Image" src="https://github.com/user-attachments/assets/4913c9df-2d09-4609-8d0c-9c18c93ca685" />
      
    </div>
 
@@ -438,7 +438,7 @@
 
 <p align="center">
   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/badge.png" 
-       alt="Badge" width="200"/>
+       alt="Badge" width="150"/>
 </p>
 
 <h1 align="center">Washington University Cybersecurity Boot Camp</h1>
@@ -528,7 +528,7 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e5d0eb75-94ea-4136-9e76-98916af14c1c" 
-       alt="Badge" width="300"/>
+       alt="Badge" width="250"/>
 </p>
 
 <div align="center">
@@ -651,7 +651,8 @@ Tracking online courses I’m working through to build skills in security, web d
 
 </div>
 
+<br><br><br><br>
 
-
-
-
+<p align="center">
+<img width="490" height="475" alt="Image" src="https://github.com/user-attachments/assets/cec53bf2-4e8c-48a6-bcda-f712db5b331f" alt="Banner" width="600"/>
+</p>
