@@ -654,5 +654,7 @@ Tracking online courses I’m working through to build skills in security, web d
 <br><br><br><br>
 
 <p align="center">
-<img width="490" height="475" alt="Image" src="https://github.com/user-attachments/assets/cec53bf2-4e8c-48a6-bcda-f712db5b331f" alt="Banner" width="600"/>
+<img width="490" height="475" alt="Image" src="https://github.com/user-attachments/assets/c1f57f6c-212e-40fb-a50d-9cef29ff51dc" alt="Banner" width="600"/>
 </p>
+
+<br><br><br><br>
