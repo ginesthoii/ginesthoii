@@ -90,7 +90,7 @@
 <table>
   <!-- Icons -->
   <tr bgcolor="#f6f8fa">
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/20a20bb9-725b-4966-b48e-a5abb82ad80d" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/8c47632c-7b4c-41b9-ba5d-e2f3d8884f2e" width="100"/></td>
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/6268bcd7-99b8-49fe-afca-c497fa1dabda" width="100"/></td>
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/cf46eeca-ed36-41cb-9287-5bf0caeabd26" width="100"/></td>
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/af64bd67-a436-4b4c-b443-7c624f036c30" width="100"/></td>
@@ -117,7 +117,7 @@
 <table>
   <!-- Icons -->
   <tr bgcolor="#ffffff">
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/16262d23-1914-4e2e-b9bb-728a15abbc29" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/f20d13dd-7c84-4388-8c51-bfba42ebdaf3" width="100"/></td>
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/9a3e41f7-7f5c-49bf-bda9-7302c43c7879" width="100"/></td>
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/7a6d7549-88a6-49f3-97a5-eac1e9f281c8" width="100"/></td>
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/f430092c-d2ce-483f-b7a9-e984bd53930a" width="100"/></td>
@@ -382,7 +382,7 @@
     <!-- SnakeWitch -->
     <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:480px;">
       <div align="center" style="padding-top:10px;">
-        <img src="https://github.com/user-attachments/assets/6144b5f6-9657-4554-bd5b-3c4f0fd06b7e" width="80" alt="SnakeWitch badge">
+        <img src="https://github.com/user-attachments/assets/cb659c76-c9f6-4abf-af5f-1d535be8fcb9" width="80" alt="SnakeWitch badge">
         <h3 style="margin:12px 0; text-align:center;"><strong>SnakeWitch</strong></h3>
       </div>
       <p style="text-align:center; margin:8px 0 16px;">
@@ -401,7 +401,7 @@
     <!-- CatholicMedusa -->
     <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:480px;">
       <div align="center" style="padding-top:10px;">
-        <img src="https://github.com/user-attachments/assets/0b897d4c-914b-4e95-a904-56cedd45d18a" width="80" alt="CatholicMedusa badge">
+        <img src="https://github.com/user-attachments/assets/88472d07-74b3-4788-8769-3b6d3ec6a18f" width="80" alt="CatholicMedusa badge">
         <h3 style="margin:12px 0; text-align:center;"><strong>CatholicMedusa</strong></h3>
       </div>
       <p style="text-align:center; margin:8px 0 16px;">
