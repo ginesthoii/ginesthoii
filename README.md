@@ -117,7 +117,7 @@
 <table>
   <!-- Icons -->
   <tr bgcolor="#ffffff">
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/57f7c865-b684-492b-97a4-4438d35f727d" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/01b335c2-9e79-41f4-97dd-0491180b132f" width="100"/></td>
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/9a3e41f7-7f5c-49bf-bda9-7302c43c7879" width="100"/></td>
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/7a6d7549-88a6-49f3-97a5-eac1e9f281c8" width="100"/></td>
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/f430092c-d2ce-483f-b7a9-e984bd53930a" width="100"/></td>
@@ -146,8 +146,8 @@
   <tr bgcolor="#f6f8fa">
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"/></td>
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/69325802-b742-47e3-8c7a-a4a12ad4d4ae" width="100"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/96ac8af7-3e15-4f93-8946-93bcbe9e8067" width="100"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/0c435e3e-1b69-40c7-a003-328b79c31628" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/a5228f78-90a9-41d3-9315-b26df34dfe96" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/ac6a2250-8785-41f4-8f72-35fbe0d446f0" width="100"/></td>
   </tr>
   <!-- Text -->
   <tr bgcolor="#f6f8fa">
@@ -198,7 +198,7 @@
 
 <div align="center">
      
-## <img width="500" height="220" alt="Image" src="https://github.com/user-attachments/assets/5d36c1c2-f978-4cc0-a942-31490312fad5"/>
+## <img width="550" height="250" alt="Image" src="https://github.com/user-attachments/assets/5d36c1c2-f978-4cc0-a942-31490312fad5"/>
 
 </div>
 
