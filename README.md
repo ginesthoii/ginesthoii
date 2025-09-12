@@ -257,13 +257,15 @@
 
  <br>
 <div align="center">
-  
-| <img src="https://github.com/user-attachments/assets/6e949dcf-6bce-42b9-a925-d186d75bdcda" height="400" width="420"/> | <img src="https://github.com/user-attachments/assets/a61618b3-6a50-4305-a5db-aeb36d6343e7" width="400" height="350"/> |
+
+| <img src="https://github.com/user-attachments/assets/6e949dcf-6bce-42b9-a925-d186d75bdcda" height="400" width="420"/> | <img src="https://github.com/user-attachments/assets/a61618b3-6a50-4305-a5db-aeb36d6343e7" height="400" width="420"/> |
 |---|---|
-| <img src="https://github.com/user-attachments/assets/1e5aad69-12ee-4750-887f-feb4b64b2b36" width="350"/> | <img src="https://github.com/user-attachments/assets/bf81a157-87b7-45d4-ba31-f47b4a60b4c3" width="350"/> |
+| <img src="https://github.com/user-attachments/assets/704ca26d-df8a-420e-ab1a-e482340b8928" height="400" width="420"/> | <img src="https://github.com/user-attachments/assets/bf81a157-87b7-45d4-ba31-f47b4a60b4c3" height="400" width="420"/> |
+
 </div>
 
 ---
+
 
    <div align="center">
      
@@ -387,6 +389,16 @@
 
 ---
 
+   <div align="center">
+     
+# <img width="622" height="350" alt="Image" src="https://github.com/user-attachments/assets/4913c9df-2d09-4609-8d0c-9c18c93ca685" />
+     
+   </div>
+
+   
+---
+
+
 </p>
 
 <br>
@@ -396,45 +408,83 @@
        alt="Badge" width="200"/>
 </p>
 
+<h1 align="center">Washington University Cybersecurity Boot Camp</h1>
 
-# Washington University Cybersecurity Boot Camp 
+<p align="center">
+  
+- Completed a 24-week intensive program focused on IT, networking, and modern information security. Final Grade: A+
 
-**Completed a 24-week intensive program** focused on IT, networking, and modern information security.  
-Final Grade: **A+**
-
-This multidisciplinary boot camp emphasized both defensive and offensive security techniques, while training on industry-standard tools.
-
-- **[WashU-Projects](https://github.com/ginesthoii/WashU-Projects)** - This repository serves as a portfolio hub for my work completed during my Washington University Cybersecurity Boot Camp. 
-
----
-
-## Skills Gained
-
-- **Networking & Systems**
-  - Packet analysis with Wireshark
-  - Windows & Linux administration + hardening
-  - Secure network design and architecture
-
-- **Cybersecurity**
-  - Risk management & cryptography
-  - Identity & access management
-  - Cloud security investigations
-  - Digital forensics & incident response
-  - Ethical hacking & penetration testing
-
-- **Tools & Frameworks**
-  - Wireshark, Kali Linux, Metasploit, Nessus
-  - Hashcat, Burp Suite
-  - Vulnerability assessment workflows
-  - Bash scripting for automation
-
-- **Core Practices**
-  - Vulnerability assessment & exploitation
-  - Security operations & analytics
-  - Malware analysis & reverse engineering
-  - Secure reporting & communication of risks
+- This multidisciplinary boot camp emphasized both defensive and offensive security techniques, while training on industry-standard tools.
+  
+- **[WashU-Projects](https://github.com/ginesthoii/WashU-Projects)** - This repository serves as a portfolio hub for my work completed during the court.
+  
+</p>
 
 ---
+
+<div align="center">
+<table style="width:100%; table-layout:fixed; border-collapse:collapse;">
+
+<tr>
+<td style="width:50%; vertical-align:top; padding:20px; border:1px solid #e5e7eb;">
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/e37cb2cd-5830-4f9c-81d7-f780eb275b5f" width="100" alt="Networking Badge">
+    <h3 align="center">Networking &amp; Systems</h3>
+  </div>
+  <ul style="margin:3; padding-left:20px; text-align:left;">
+    <li>Packet analysis with Wireshark</li>
+    <li>Windows &amp; Linux administration + hardening</li>
+    <li>Secure network design and architecture</li>
+    <li>Secure network architecture</li>
+  </ul>
+</td>
+
+<td style="width:50%; vertical-align:top; padding:20px; border:1px solid #e5e7eb;">
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/c36b420d-128c-40f3-9acd-12fd3cc94cd9" width="100" alt="Cybersecurity Badge">
+    <h3 align="center">Cybersecurity</h3>
+  </div>
+  <ul style="margin:3; padding-left:20px; text-align:left;">
+    <li>Risk management &amp; cryptography</li>
+    <li>Identity &amp; access management</li>
+    <li>Cloud security investigations</li>
+    <li>Digital forensics &amp; incident response</li>
+    <li>Ethical hacking &amp; penetration testing</li>
+  </ul>
+</td>
+</tr>
+
+<tr>
+<td style="width:50%; vertical-align:top; padding:20px; border:1px solid #e5e7eb;">
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/beeec753-84ed-4bbf-9942-7c9415e9b25b" width="100" alt="Tools Badge">
+    <h3 align="center">Tools &amp; Frameworks</h3>
+  </div>
+  <ul style="margin:3; padding-left:20px; text-align:left;">
+    <li>Wireshark, Kali Linux, Metasploit, Nessus</li>
+    <li>Hashcat, Burp Suite</li>
+    <li>Vulnerability assessment workflows</li>
+    <li>Bash scripting for automation</li>
+  </ul>
+</td>
+
+<td style="width:50%; vertical-align:top; padding:20px; border:1px solid #e5e7eb;">
+  <div align="center">
+    <img src="https://github.com/user-attachments/assets/06af8a88-72b4-4d94-8a3b-a4a530f4160a" width="100" alt="Core Practices Badge">
+    <h3 align="center">Core Practices</h3>
+  </div>
+  <ul style="margin:3; padding-left:20px; text-align:left;">
+    <li>Vulnerability assessment &amp; exploitation</li>
+    <li>Security operations &amp; analytics</li>
+    <li>Malware analysis &amp; reverse engineering</li>
+    <li>Secure reporting &amp; communication of risks</li>
+  </ul>
+</td>
+</tr>
+
+</table>
+</div>
+
 
 ## Tools Covered
 `Wireshark` · `Kali Linux` · `Metasploit` · `Nessus` · `Burp Suite` ·   `Hashcat` · `Windows & Linux Hardening` · `Bash`  
@@ -473,102 +523,100 @@ Tracking online courses I’m working through to build skills in security, web d
 <br>
 
 <div align="center">
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6d42b765-2219-46c0-8af6-8869d361805c" 
-       alt="Badge" width="300"/>
-</p>
-
-| Course           | Level        | Type              |
-|------------------|--------------|-------------------|
-| Linux Essentials | Intermediate | Course | Self-paced |
-| Linux Unhatched  | Beginner     | Course | Self-paced |
-
-<br>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a701bc86-e93c-471d-abb3-81256cd2d981" 
-       alt="Badge" width="300"/>
-</p>
-
-| Course                              | Level        | Type              |
-|-------------------------------------|--------------|-------------------|
-| Operating Systems Basics            | Beginner     | Course | Self-paced |
-| Computer Hardware Basics            | Beginner     | Course | Self-paced |
-| Introduction to Data Science        | Beginner     | Course | Self-paced |
-| Data Analytics Essentials           | Beginner     | Course | Self-paced |
-| Data Science Essentials with Python | Intermediate | Course | Self-paced |
-| Introduction to Modern AI           | Beginner     | Course            |
-| Introduction to Cybersecurity       | Beginner     | Course | Self-paced |
-| Network Defense                     | Beginner     | Course | Self-paced |
-| Endpoint Security                   | Beginner     | Course | Self-paced |
-| Ethical Hacker                      | Intermediate | Course | Self-paced |
-
-<br> 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8b6d88eb-10d7-4ea3-91ba-e639a2625c67" 
-       alt="Badge" width="300"/>
-</p>
-
-| Course              | Level        | Type              |
-|---------------------|--------------|-------------------|
-| Python Essentials 1 | Beginner     | Course | Self-paced |
-| Python Essentials 2 | Intermediate | Course | Self-paced |
-
-
-<br>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9d38bed0-0202-4677-baa1-ca847cd35dbc" 
-       alt="Badge" width="300"/>
-</p>
-
-| Course                 | Level    | Type              |
-|------------------------|----------|-------------------|
-| JavaScript Essentials 1| Beginner | Course | Self-paced |
-
-<br>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/b9b8cc9e-c62d-4f38-8c84-a3c10db4f6ad" 
-       alt="Badge" width="300"/>
-</p>
-
-| Course          | Level    | Type              |
-|-----------------|----------|-------------------|
-| C++ Essentials 1| Beginner | Course | Self-paced |
-
-<br>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/511aa5ff-1cbd-4cb9-9c3e-5d982f916062" 
-       alt="Badge" width="300"/>
-</p>
-
-
-| Course                          | Level    | Type              |
-|---------------------------------|----------|-------------------|
-| AI Fundamentals with IBM SkillsBuild | Beginner | Course | Self-paced |
-
-<br>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1a055c67-25c0-4ab7-bd67-d6ace9e9239b" 
-       alt="Badge" width="300"/>
-</p>
-
-| Course                   | Level | Type   |
-|--------------------------|-------|--------|
-| Introduction to Generative AI | —     | Module |
-
-
-
+<table width="100%" style="table-layout: fixed; border-collapse: collapse; margin: 14px 0;">
+  <tr>
+    <!-- Badge row -->
+    <td align="center" style="padding:12px; border:1px solid #e5e7eb; height:140px;">
+      <img src="https://github.com/user-attachments/assets/a701bc86-e93c-471d-abb3-81256cd2d981" width="120" height="120" alt="Cisco Networking Academy"/>
+    </td>
+  </tr>
+  <tr>
+    <!-- Info row -->
+    <td align="left" valign="top" style="padding:14px 16px; border:1px solid #e5e7eb;">
+      <b>Cisco Networking Academy</b><br>
+      • Operating Systems Basics — <i>Beginner</i><br>
+      • Computer Hardware Basics — <i>Beginner</i><br>
+      • Introduction to Data Science — <i>Beginner</i><br>
+      • Data Analytics Essentials — <i>Beginner</i><br>
+      • Data Science Essentials with Python — <i>Intermediate</i><br>
+      • Introduction to Modern AI — <i>Beginner</i><br>
+      • Introduction to Cybersecurity — <i>Beginner</i><br>
+      • Network Defense — <i>Beginner</i><br>
+      • Endpoint Security — <i>Beginner</i><br>
+      • Ethical Hacker — <i>Intermediate</i>
+    </td>
+  </tr>
+</table>
 </div>
 
+<br>
 
 
+<div align="center">
 
+<table style="width:100%; table-layout:fixed; border-collapse:collapse; margin:14px 0;">
+  <tr>
+    <!-- Row 1: badges -->
+    <td style="width:33.33%; padding:12px; border:1px solid #e5e7eb; height:500px;" align="center">
+      <img src="https://github.com/user-attachments/assets/6d42b765-2219-46c0-8af6-8869d361805c" width="140" height="180" alt="NDG">
+    </td>
+    <td style="width:33.33%; padding:12px; border:1px solid #e5e7eb; height:200px;" align="center">
+      <img src="https://github.com/user-attachments/assets/8b6d88eb-10d7-4ea3-91ba-e639a2625c67" width="140" height="180" alt="Python Institute">
+    </td>
+    <td style="width:33.33%; padding:12px; border:1px solid #e5e7eb; height:200px;" align="center">
+      <img src="https://github.com/user-attachments/assets/9d38bed0-0202-4677-baa1-ca847cd35dbc" width="140" height="180" alt="JavaScript Institute">
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Row 2: info -->
+    <td style="width:33.33%; padding:14px 16px; border:1px solid #e5e7eb;" align="left" valign="top">
+      <b>NDG (Linux)</b><br>
+      • Linux Essentials — <i>Intermediate</i><br>
+      • Linux Unhatched — <i>Beginner</i>
+    </td>
+    <td style="width:33.33%; padding:14px 16px; border:1px solid #e5e7eb;" align="left" valign="top">
+      <b>Python Essentials (Cisco)</b><br>
+      • Python Essentials 1 — <i>Beginner</i><br>
+      • Python Essentials 2 — <i>Intermediate</i>
+    </td>
+    <td style="width:33.33%; padding:14px 16px; border:1px solid #e5e7eb;" align="left" valign="top">
+      <b>JavaScript Essentials (Cisco)</b><br>
+      • JavaScript Essentials 1 — <i>Beginner</i>
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Row 3: badges -->
+    <td style="width:33.33%; padding:12px; border:1px solid #e5e7eb; height:100px;" align="center">
+      <img src="https://github.com/user-attachments/assets/b9b8cc9e-c62d-4f38-8c84-a3c10db4f6ad" width="140" height="140" alt="C++ Institute">
+    </td>
+    <td style="width:33.33%; padding:12px; border:1px solid #e5e7eb; height:100px;" align="center">
+      <img src="https://github.com/user-attachments/assets/511aa5ff-1cbd-4cb9-9c3e-5d982f916062" width="140" height="140" alt="IBM SkillsBuild">
+    </td>
+    <td style="width:33.33%; padding:12px; border:1px solid #e5e7eb; height:100px;" align="center">
+      <img src="https://github.com/user-attachments/assets/1a055c67-25c0-4ab7-bd67-d6ace9e9239b" width="140" height="140" alt="Google Cloud">
+    </td>
+  </tr>
+
+  <tr>
+    <!-- Row 4: info -->
+    <td style="width:33.33%; padding:14px 16px; border:1px solid #e5e7eb;height:200px;" align="left" valign="top">
+      <b>C++ Essentials (Cisco)</b><br>
+      • C++ Essentials 1 — <i>Beginner</i>
+    </td>
+    <td style="width:33.33%; padding:14px 16px; border:1px solid #e5e7eb;height:200px;" align="left" valign="top">
+      <b>IBM SkillsBuild</b><br>
+      • AI Fundamentals — <i>Beginner</i>
+    </td>
+    <td style="width:33.33%; padding:14px 16px; border:1px solid #e5e7eb; height:200px;" align="left" valign="top">
+      <b>Google Cloud</b><br>
+      • Introduction to Generative AI — <i>Module</i>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 
