@@ -276,114 +276,151 @@
 
    ---
    
-<table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:8px;">
-
+<table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:16px;">
   <!-- Row 1 -->
   <tr>
-    <td style="width:50%; vertical-align:top;">
-      <div style="background:#f6f8fa; border:1px solid #d0d7de; border-radius:6px; padding:14px; height:480px; overflow:auto;">
-        <div align="center">
-        <h3 style="margin:0; text-align:center;"> <strong>CaregiverQR</strong></h3>
-          </div>
-        <p style="text-align:left; margin:8px 0 12px;">
-          <em>Lightweight, QR-based care tracking for meals, meds, and night checks — not a full HIPAA EMR, just timestamped logs.</em>
-        </p>
-        <ul>
-          <li><a href="#">CaregiverQR</a> – Core repo (AppSheet + AppScript).</li>
-          <li><a href="#">CareSheets</a> – Pre-made Google Sheets templates.</li>
-        </ul>
+    <!-- CaregiverQR -->
+    <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; padding:24px; height:480px;">
+      <div align="center" style="padding-top:10px;">
+        <img src="https://github.com/user-attachments/assets/ba45d9ad-a6ea-4fe9-9a3b-9a0cfd15b707" width="80" alt="CaregiverQR badge">
+        <h3 style="margin:12px 0; text-align:center;"><strong>CaregiverQR</strong></h3>
       </div>
+      <p style="text-align:center; margin:8px 0 16px;">
+        <em>A lightweight QR-based care tracking tool</em> for caregivers, facilities, and families — log meals, meds, and daily activities with quick scans. Not a full HIPAA EMR.
+      </p>
+      <ul style="text-align:left; padding-left:20px; margin:0;">
+        <li><a href="https://github.com/CaregiverQR">CaregiverQR</a> — org</li>
+        <li><a href="https://github.com/CaregiverQR/CareSheets">CareSheets</a> — Google Sheets templates</li>
+      </ul>
     </td>
-
-<td style="width:50%; vertical-align:top;">
-  <div style="background:#f6f8fa; border:1px solid #d0d7de; border-radius:6px; padding:14px; height:480px; overflow:auto;">
-    <div align="center">
-    <h3 style="margin:0; text-align:center;"> <strong>StoryShield</strong></h3>
+    <!-- PhantomScanner -->
+    <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; padding:24px; height:480px;">
+      <div align="center" style="padding-top:10px;">
+        <img src="https://github.com/user-attachments/assets/515e789c-66f8-49b2-9052-98b3077eeb53" width="80" alt="CloakAndCipher badge">
+        <h3 style="margin:12px 0; text-align:center;"><strong>PhantomScanner</strong></h3>
       </div>
-    <p style="text-align:left; margin:8px 0 12px;">
-      <em>Secure creative tools for writers &amp; worldbuilders — encrypted collaboration, role-based access, modular APIs.</em>
-    </p>
-    <ul>
-      <li><a href="#">StoryShield</a> – Core platform repo.</li>
-      <li><a href="#">StoryShieldApp</a> – Frontend concept (React/Django).</li>
-    </ul>
-  </div>
-</td>
-
+      <p style="text-align:center; margin:8px 0 16px;">
+        Normalize. Visualize. Automate. Ingests results from Semgrep, Bandit, Trivy, Snyk, CodeQL, and OWASP ZAP; deduplicates findings; generates dashboards and reports.
+      </p>
+      <ul style="text-align:left; padding-left:20px; margin:0;">
+        <li><a href="https://github.com/CloakAndCipher">CloakAndCipher</a> — org</li>
+        <li><a href="https://github.com/CloakAndCipher/PhantomScanner">PhantomScanner</a> — main project</li>
+      </ul>
+    </td>
   </tr>
-
+  
   <!-- Row 2 -->
   <tr>
-    <td style="width:50%; vertical-align:top;">
-      <div style="background:#f6f8fa; border:1px solid #d0d7de; border-radius:6px; padding:14px; height:480px; overflow:auto;">
-        <div align="center">
-        <h3 style="margin:0; text-align:center;"> <strong>CloakAndCipher</strong></h3>
-          </div>
-        <p style="text-align:left; margin:8px 0 12px;">
-          <em>Security-minded development tools — AppSec + automation at the core.</em>
-        </p>
-        <ul>
-          <li><a href="#">PhantomScanner</a> – Normalize, visualize &amp; report on results from Semgrep, Bandit, Trivy, Snyk, CodeQL, ZAP.</li>
-        </ul>
+    <!-- GargoyleOffGrid -->
+    <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; padding:24px; height:480px;">
+      <div align="center" style="padding-top:10px;">
+        <img src="https://github.com/user-attachments/assets/db2854c5-4c55-4795-b697-eeb8767387e1" width="80" alt="GargoyleOffGrid badge">
+        <h3 style="margin:12px 0; text-align:center;"><strong>GargoyleOffGrid</strong></h3>
       </div>
+      <p style="text-align:center; margin:8px 0 16px;">
+        Practical off-grid living tools — sustainable DIY and resource tracking.
+      </p>
+      <ul style="text-align:left; padding-left:20px; margin:0;">
+        <li><a href="https://github.com/GargoyleOffGrid">Org</a></li>
+        <li><a href="https://github.com/GargoyleOffGrid/Offline">Offline</a> — offline toolkit</li>
+        <li><a href="https://github.com/GargoyleOffGrid/MaraudersMap">MaraudersMap</a> — survival guide + schematics</li>
+      </ul>
     </td>
-
-  <td style="width:50%; vertical-align:top;">
-  <div style="background:#f6f8fa; border:1px solid #d0d7de; border-radius:6px; padding:14px; height:480px; overflow:auto;">
-    <div align="center">
-    <h3 style="margin:0; text-align:center;"> <strong>aFungusAmongUs</strong></h3>
+    <!-- AlexandriaArchiveAPI -->
+    <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; padding:24px; height:480px;">
+      <div align="center" style="padding-top:10px;">
+        <img src="https://github.com/user-attachments/assets/38da0fdd-f7f3-48c1-9e6c-909874fde336" width="80" alt="Alexandria badge">
+        <h3 style="margin:12px 0; text-align:center;"><strong>AlexandriaArchiveAPI</strong></h3>
       </div>
-    <p style="text-align:left; margin:8px 0 12px;">
-      <em>Playful but practical open source for fungi — grow, cook, forage, and learn.</em>
-    </p>
-    <ul>
-      <li><a href="#">MorelMaps</a> – Seasonal/geo maps of mushroom flushes.</li>
-      <li><a href="#">SporeLore</a> – Educational resources &amp; guides.</li>
-      <li><a href="#">ShroomAndSpoon</a> – Recipes + nutrition facts.</li>
-    </ul>
-  </div>
-</td>
+      <p style="text-align:center; margin:8px 0 16px;">
+        Structured APIs for archives, libraries, and repositories — SQLite schemas, endpoints, and historical data projects.
+      </p>
+      <ul style="text-align:left; padding-left:20px; margin:0;">
+        <li><a href="https://github.com/AlexandriaArchiveAPI">Org</a></li>
+        <li><a href="https://github.com/AlexandriaArchiveAPI/EnginesOfWar">EnginesOfWar</a></li>
+        <li><a href="https://github.com/AlexandriaArchiveAPI/WarChest">WarChest</a></li>
+      </ul>
+    </td>
   </tr>
-
+  
   <!-- Row 3 -->
-   <tr>
-    <td style="width:50%; vertical-align:top;">
-      <div style="background:#f6f8fa; border:1px solid #d0d7de; border-radius:6px; padding:14px; height:480px; overflow:auto;">
-         <div align="center">
-        <h3 style="margin:0; text-align:center;"> <strong>SnakeWitch</strong></h3>
-            </div>
-        <p style="text-align:left; margin:8px 0 12px;">
-          <em>Lightweight snake-keeping toolkit — quick utilities, integrations, and AppSheet automations.</em>
-        </p>
-        <ul>
-          <li><a href="#">SnakeWitch-Sheets</a> – Google Sheets + AppScript templates.</li>
-          <li><a href="#">TankTemp</a> – Temperature + unit converter.</li>
-          <li><a href="#">FeedingCharm</a> – Feeding log reminders.</li>
-          <li><a href="#">MorphNotes</a> – Markdown templates for morph projects.</li>
-          <li><a href="#">IncubatorCalc</a> – Humidity &amp; temperature calculator.</li>
-          <li><a href="#">ShedAlert</a> – Shed cycle prediction tool.</li>
-        </ul>
+  <tr>
+    <!-- StoryShield -->
+    <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:480px;">
+      <div align="center" style="padding-top:10px;">
+        <img src="https://github.com/user-attachments/assets/322bfb13-f57b-4d79-afab-f8b885de6c1c" width="80" alt="StoryShield badge">
+        <h3 style="margin:12px 0; text-align:center;"><strong>StoryShield</strong></h3>
       </div>
+      <p style="text-align:center; margin:8px 0 16px;">
+        Secure creative suite for writers & worldbuilders — encrypted collaboration, role-based access, and modular APIs.
+      </p>
+      <ul style="text-align:left; padding-left:20px; margin:0;">
+        <li><a href="https://github.com/myStoryShield">myStoryShield</a> — org</li>
+        <li><a href="https://github.com/myStoryShield/StoryShieldSheets">StoryShieldSheets</a></li>
+        <li><a href="https://github.com/myStoryShield/Storyshield">Storyshield</a></li>
+        <li><a href="https://github.com/StoryShieldApp">StoryShieldApp</a></li>
+      </ul>
     </td>
-
-<td style="width:50%; vertical-align:top;">
-  <div style="background:#f6f8fa; border:1px solid #d0d7de; border-radius:6px; padding:14px; height:480px; overflow:auto;">
-    <div align="center">
-    <h3 style="margin:0; text-align:center;"> <strong>CatholicMedusa</strong></h3>
-    </div>
-        <p style="text-align:left; margin:8px 0 12px;">
-      <em>Modular ecosystem for ball python husbandry — blends biology, security, and software into one toolkit.</em>
-        </p>
-    <ul style="text-align:left; padding-left:4px; margin:0;">
-      <li><a href="#">SerpentTracker</a> – Daily husbandry logger.</li>
-      <li><a href="#">GorgonGenetics</a> – Morph inheritance simulator.</li>
-      <li><a href="#">MedusasGaze</a> – Vision + sensor tools.</li>
-      <li><a href="#">HydraHub</a> – Integration layer API.</li>
-      <li><a href="#">ClutchKeeper</a> – Clutch dashboard &amp; insights.</li>
-      <li><a href="#">MedusaCore</a> – Core Java models &amp; utilities.</li>
-    </ul>
-  </div>
-</td>
+    <!-- aFungusAmongUs -->
+    <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:480px;">
+      <div align="center" style="padding-top:10px;">
+        <img src="https://github.com/user-attachments/assets/f32c9516-b385-4343-9b91-02b1a019e912" width="80" alt="Fungus badge">
+        <h3 style="margin:12px 0; text-align:center;"><strong>aFungusAmongUs</strong></h3>
+      </div>
+      <p style="text-align:center; margin:8px 0 16px;">
+        Grow, cook, forage & learn — a playful but practical open-source ecosystem for fungi.
+      </p>
+      <ul style="text-align:left; padding-left:20px; margin:0;">
+        <li><a href="https://github.com/aFungusAmongUs">Org</a></li>
+        <li><a href="https://github.com/aFungusAmongUs/SmallScripts">SmallScripts</a></li>
+        <li><a href="https://github.com/aFungusAmongUs/SporeLog">SporeLog</a></li>
+        <li><a href="https://github.com/aFungusAmongUs/ShroomAndSpoon">ShroomAndSpoon</a></li>
+        <li><a href="https://github.com/aFungusAmongUs/SporeLore">SporeLore</a></li>
+        <li><a href="https://github.com/aFungusAmongUs/MorelMaps">MorelMaps</a></li>
+      </ul>
+    </td>
+  </tr>
+  
+  <!-- Row 4 -->
+  <tr>
+    <!-- SnakeWitch -->
+    <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:480px;">
+      <div align="center" style="padding-top:10px;">
+        <img src="https://github.com/user-attachments/assets/6144b5f6-9657-4554-bd5b-3c4f0fd06b7e" width="80" alt="SnakeWitch badge">
+        <h3 style="margin:12px 0; text-align:center;"><strong>SnakeWitch</strong></h3>
+      </div>
+      <p style="text-align:center; margin:8px 0 16px;">
+        Lightweight snake-keeping toolkit — quick utilities, integrations, and AppSheet automations.
+      </p>
+      <ul style="text-align:left; padding-left:20px; margin:0;">
+        <li><a href="https://github.com/SnakeWitch">Org</a></li>
+        <li><a href="https://github.com/SnakeWitch/SnakeWitchSheets">SnakeWitchSheets</a></li>
+        <li><a href="https://github.com/SnakeWitch/TankTemp">TankTemp</a></li>
+        <li><a href="https://github.com/SnakeWitch/FeedingCharm">FeedingCharm</a></li>
+        <li><a href="https://github.com/SnakeWitch/MorphNotes">MorphNotes</a></li>
+        <li><a href="https://github.com/SnakeWitch/IncubatorCalc">IncubatorCalc</a></li>
+        <li><a href="https://github.com/SnakeWitch/ShedAlert">ShedAlert</a></li>
+      </ul>
+    </td>
+    <!-- CatholicMedusa -->
+    <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:480px;">
+      <div align="center" style="padding-top:10px;">
+        <img src="https://github.com/user-attachments/assets/0b897d4c-914b-4e95-a904-56cedd45d18a" width="80" alt="CatholicMedusa badge">
+        <h3 style="margin:12px 0; text-align:center;"><strong>CatholicMedusa</strong></h3>
+      </div>
+      <p style="text-align:center; margin:8px 0 16px;">
+        Modular ecosystem for ball python husbandry — blends biology, security, and software into one toolkit.
+      </p>
+      <ul style="text-align:left; padding-left:20px; margin:0;">
+        <li><a href="https://github.com/CatholicMedusa">Org</a></li>
+        <li><a href="https://github.com/CatholicMedusa/SerpentTracker">SerpentTracker</a></li>
+        <li><a href="https://github.com/CatholicMedusa/GorgonGenetics">GorgonGenetics</a></li>
+        <li><a href="https://github.com/CatholicMedusa/MedusasGaze">MedusasGaze</a></li>
+        <li><a href="https://github.com/CatholicMedusa/HydraHub">HydraHub</a></li>
+        <li><a href="https://github.com/CatholicMedusa/ClutchKeeper">ClutchKeeper</a></li>
+        <li><a href="https://github.com/CatholicMedusa/MedusaCore">MedusaCore</a></li>
+      </ul>
+    </td>
   </tr>
 </table>
 
