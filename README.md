@@ -198,7 +198,7 @@
 
 <div align="center">
      
-## <img width="550" height="250" alt="Image" src="https://github.com/user-attachments/assets/5d36c1c2-f978-4cc0-a942-31490312fad5"/>
+## <img width="650" height="300" alt="Image" src="https://github.com/user-attachments/assets/5d36c1c2-f978-4cc0-a942-31490312fad5"/>
 
 </div>
 
@@ -269,14 +269,13 @@
 
    <div align="center">
      
-# <img width="622" height="350" alt="Image" src="https://github.com/user-attachments/assets/c4e2a144-2c94-4514-9c6b-67ce16ddfd7a" />
+# <img width="722" height="350" alt="Image" src="https://github.com/user-attachments/assets/c4e2a144-2c94-4514-9c6b-67ce16ddfd7a" />
      
    </div>
 
 
    ---
-   
-<table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:16px;">
+  <table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:16px;">
   <!-- Row 1 -->
   <tr>
     <!-- CaregiverQR -->
@@ -290,7 +289,7 @@
       </p>
       <ul style="text-align:left; padding-left:20px; margin:0;">
         <li><a href="https://github.com/CaregiverQR">CaregiverQR</a> — org</li>
-        <li><a href="https://github.com/CaregiverQR/CareSheets">CareSheets</a> — Google Sheets templates</li>
+        <li><a href="https://github.com/CaregiverQR/CareSheets">CareSheets</a> — Google Sheets + AppScript templates for quick deployment</li>
       </ul>
     </td>
     <!-- PhantomScanner -->
@@ -304,11 +303,10 @@
       </p>
       <ul style="text-align:left; padding-left:20px; margin:0;">
         <li><a href="https://github.com/CloakAndCipher">CloakAndCipher</a> — org</li>
-        <li><a href="https://github.com/CloakAndCipher/PhantomScanner">PhantomScanner</a> — main project</li>
+        <li><a href="https://github.com/CloakAndCipher/PhantomScanner">PhantomScanner</a> — unified ingestion + dedupe + reporting pipeline</li>
       </ul>
     </td>
   </tr>
-  
   <!-- Row 2 -->
   <tr>
     <!-- GargoyleOffGrid -->
@@ -322,8 +320,8 @@
       </p>
       <ul style="text-align:left; padding-left:20px; margin:0;">
         <li><a href="https://github.com/GargoyleOffGrid">Org</a></li>
-        <li><a href="https://github.com/GargoyleOffGrid/Offline">Offline</a> — offline toolkit</li>
-        <li><a href="https://github.com/GargoyleOffGrid/MaraudersMap">MaraudersMap</a> — survival guide + schematics</li>
+        <li><a href="https://github.com/GargoyleOffGrid/Offline">Offline</a> — offline-first toolkit (inventory, checklists, maps, guides)</li>
+        <li><a href="https://github.com/GargoyleOffGrid/MaraudersMap">MaraudersMap</a> — living knowledge base of survival guides & schematics</li>
       </ul>
     </td>
     <!-- AlexandriaArchiveAPI -->
@@ -337,12 +335,11 @@
       </p>
       <ul style="text-align:left; padding-left:20px; margin:0;">
         <li><a href="https://github.com/AlexandriaArchiveAPI">Org</a></li>
-        <li><a href="https://github.com/AlexandriaArchiveAPI/EnginesOfWar">EnginesOfWar</a></li>
-        <li><a href="https://github.com/AlexandriaArchiveAPI/WarChest">WarChest</a></li>
+        <li><a href="https://github.com/AlexandriaArchiveAPI/EnginesOfWar">EnginesOfWar</a> — code-first catalogue of wartime tech (weapons, armor, siege, logistics, doctrines) with data, schema, API, and analyses</li>
+        <li><a href="https://github.com/AlexandriaArchiveAPI/WarChest">WarChest</a> — codex of battles & warfare: strategies, tactics, and conflict history</li>
       </ul>
     </td>
   </tr>
-  
   <!-- Row 3 -->
   <tr>
     <!-- StoryShield -->
@@ -356,9 +353,9 @@
       </p>
       <ul style="text-align:left; padding-left:20px; margin:0;">
         <li><a href="https://github.com/myStoryShield">myStoryShield</a> — org</li>
-        <li><a href="https://github.com/myStoryShield/StoryShieldSheets">StoryShieldSheets</a></li>
-        <li><a href="https://github.com/myStoryShield/Storyshield">Storyshield</a></li>
-        <li><a href="https://github.com/StoryShieldApp">StoryShieldApp</a></li>
+        <li><a href="https://github.com/myStoryShield/StoryShieldSheets">StoryShieldSheets</a> — Google Sheets + AppScript + AppSheet templates</li>
+        <li><a href="https://github.com/myStoryShield/Storyshield">Storyshield</a> — core platform repo</li>
+        <li><a href="https://github.com/StoryShieldApp">StoryShieldApp</a> — app/front-end concepts</li>
       </ul>
     </td>
     <!-- aFungusAmongUs -->
@@ -372,15 +369,14 @@
       </p>
       <ul style="text-align:left; padding-left:20px; margin:0;">
         <li><a href="https://github.com/aFungusAmongUs">Org</a></li>
-        <li><a href="https://github.com/aFungusAmongUs/SmallScripts">SmallScripts</a></li>
-        <li><a href="https://github.com/aFungusAmongUs/SporeLog">SporeLog</a></li>
-        <li><a href="https://github.com/aFungusAmongUs/ShroomAndSpoon">ShroomAndSpoon</a></li>
-        <li><a href="https://github.com/aFungusAmongUs/SporeLore">SporeLore</a></li>
-        <li><a href="https://github.com/aFungusAmongUs/MorelMaps">MorelMaps</a></li>
+        <li><a href="https://github.com/aFungusAmongUs/SmallScripts">SmallScripts</a> — automation for cultivation (Arduino/ESP/RPi + logging)</li>
+        <li><a href="https://github.com/aFungusAmongUs/SporeLog">SporeLog</a> — minimal CLI to log finds & export data (not an ID tool)</li>
+        <li><a href="https://github.com/aFungusAmongUs/ShroomAndSpoon">ShroomAndSpoon</a> — recipes linked to species; nutrition & substitutions</li>
+        <li><a href="https://github.com/aFungusAmongUs/SporeLore">SporeLore</a> — educational resources, field guides, and research</li>
+        <li><a href="https://github.com/aFungusAmongUs/MorelMaps">MorelMaps</a> — seasonal & geographic flush maps; trail logging & prediction</li>
       </ul>
     </td>
   </tr>
-  
   <!-- Row 4 -->
   <tr>
     <!-- SnakeWitch -->
@@ -394,12 +390,12 @@
       </p>
       <ul style="text-align:left; padding-left:20px; margin:0;">
         <li><a href="https://github.com/SnakeWitch">Org</a></li>
-        <li><a href="https://github.com/SnakeWitch/SnakeWitchSheets">SnakeWitchSheets</a></li>
-        <li><a href="https://github.com/SnakeWitch/TankTemp">TankTemp</a></li>
-        <li><a href="https://github.com/SnakeWitch/FeedingCharm">FeedingCharm</a></li>
-        <li><a href="https://github.com/SnakeWitch/MorphNotes">MorphNotes</a></li>
-        <li><a href="https://github.com/SnakeWitch/IncubatorCalc">IncubatorCalc</a></li>
-        <li><a href="https://github.com/SnakeWitch/ShedAlert">ShedAlert</a></li>
+        <li><a href="https://github.com/SnakeWitch/SnakeWitchSheets">SnakeWitchSheets</a> — Sheets + AppScript templates</li>
+        <li><a href="https://github.com/SnakeWitch/TankTemp">TankTemp</a> — temperature & unit converter</li>
+        <li><a href="https://github.com/SnakeWitch/FeedingCharm">FeedingCharm</a> — feeding log reminders</li>
+        <li><a href="https://github.com/SnakeWitch/MorphNotes">MorphNotes</a> — markdown templates for morphs</li>
+        <li><a href="https://github.com/SnakeWitch/IncubatorCalc">IncubatorCalc</a> — humidity & temperature calculator</li>
+        <li><a href="https://github.com/SnakeWitch/ShedAlert">ShedAlert</a> — shed cycle prediction</li>
       </ul>
     </td>
     <!-- CatholicMedusa -->
@@ -413,12 +409,12 @@
       </p>
       <ul style="text-align:left; padding-left:20px; margin:0;">
         <li><a href="https://github.com/CatholicMedusa">Org</a></li>
-        <li><a href="https://github.com/CatholicMedusa/SerpentTracker">SerpentTracker</a></li>
-        <li><a href="https://github.com/CatholicMedusa/GorgonGenetics">GorgonGenetics</a></li>
-        <li><a href="https://github.com/CatholicMedusa/MedusasGaze">MedusasGaze</a></li>
-        <li><a href="https://github.com/CatholicMedusa/HydraHub">HydraHub</a></li>
-        <li><a href="https://github.com/CatholicMedusa/ClutchKeeper">ClutchKeeper</a></li>
-        <li><a href="https://github.com/CatholicMedusa/MedusaCore">MedusaCore</a></li>
+        <li><a href="https://github.com/CatholicMedusa/SerpentTracker">SerpentTracker</a> — daily husbandry logger</li>
+        <li><a href="https://github.com/CatholicMedusa/GorgonGenetics">GorgonGenetics</a> — morph inheritance simulator</li>
+        <li><a href="https://github.com/CatholicMedusa/MedusasGaze">MedusasGaze</a> — vision & sensor tools</li>
+        <li><a href="https://github.com/CatholicMedusa/HydraHub">HydraHub</a> — integration/API layer</li>
+        <li><a href="https://github.com/CatholicMedusa/ClutchKeeper">ClutchKeeper</a> — clutch dashboard & insights</li>
+        <li><a href="https://github.com/CatholicMedusa/MedusaCore">MedusaCore</a> — core Java models & utilities</li>
       </ul>
     </td>
   </tr>
