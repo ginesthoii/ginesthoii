@@ -84,61 +84,113 @@
 
    </div>
  
-<table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:8px;">
 
-  <!-- Row 1 -->
-  <tr>
-    <td style="width:33%; vertical-align:top; border:1px solid #ffffffff; border-radius:6px; padding:14px;">
-      <h3 align="center"> <a href="https://github.com/ginesthoii/SecureMaestro"><strong>SecureMaestro</strong></a></h3>
-      <p>Secure, automated practice tools for musicians (<em>inspired by Vivaldi</em>). Focus on secure coding practices, sandboxing, and automation.</p>
-    </td>
-    <td style="width:33%; vertical-align:top; border:1px solid #ffffffff; border-radius:6px; padding:14px;">
-      <h3 align="center"> <a href="https://github.com/ginesthoii/PillPal-VitaPro"><strong>PillPal-VitaPro</strong></a></h3>
-      <p>Supplement + prescription interaction checker with AppSec sandbox for safe testing.</p>
-    </td>
-    <td style="width:33%; vertical-align:top; border:1px solid #ffffffff; border-radius:6px; padding:14px;">
-      <h3 align="center"> <a href="https://github.com/ginesthoii/WashU-Projects"><strong>WashU-Projects</strong></a></h3>
-      <p>Portfolio hub for my Washington University Cybersecurity Boot Camp (Final Grade: A+). Covered networking, systems, vulnerability assessment, cloud security, penetration testing, and digital forensics.</p>
-    </td>
+<h1 align="center">Security & Professional</h1>
+
+<table>
+  <!-- Icons -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/20a20bb9-725b-4966-b48e-a5abb82ad80d" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/6268bcd7-99b8-49fe-afca-c497fa1dabda" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/cf46eeca-ed36-41cb-9287-5bf0caeabd26" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/af64bd67-a436-4b4c-b443-7c624f036c30" width="100"/></td>
   </tr>
-
-  <!-- Row 2 Header -->
-  <tr>
-    <td colspan="3" style="text-align:center;  border:1px solid #ffffffff; border-radius:6px; padding:10px;">
-         <div align="center">
-      <h2> <img width="500" height="220" alt="image" src="https://github.com/user-attachments/assets/2d71ca03-1703-48a9-8cf2-3f44979ef903" /> 
-        <div>
-    </td>
+  <!-- Text -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><a href="https://github.com/ginesthoii/SecureMaestro"><strong>SecureMaestro</strong></a><br>Secure, automated practice tools for musicians.<br>
+      <em>Tech:</em> Python, AppSec sandboxing, Semgrep.<br>
+      <em>Status:</em> Active (looping + YouTube API integration).</td>
+    <td align="center"><a href="https://github.com/ginesthoii/PillPal-VitaPro"><strong>PillPal-VitaPro</strong></a><br>Supplement + prescription interaction checker.<br>
+      <em>Tech:</em> Python, Vite, AppSec sandbox.<br>
+      <em>Status:</em> Active (supplement DB expansion).</td>
+    <td align="center"><a href="https://github.com/ginesthoii/WashU-Projects"><strong>WashU-Projects</strong></a><br>Cybersecurity Boot Camp portfolio hub (A+).<br>
+      <em>Tech:</em> Cryptography, Azure, malware analysis.<br>
+      <em>Status:</em> Completed coursework archive.</td>
+    <td align="center"><a href="https://github.com/ginesthoii/HabitHelpers"><strong>HabitHelpers</strong></a><br>Modular habit suite with API + automation.<br>
+      <em>Tech:</em> React, Python, Docker, GitHub API.<br>
+      <em>Status:</em> Active (Discord/Slack bot in dev).</td>
   </tr>
+</table>
 
-  <!-- Row 3 -->
-  <tr>
-    <td style="width:33%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
-      <h3 align="center"> <a href="https://github.com/ginesthoii/MythicalMenagerie"><strong>MythicalMenagerie</strong></a></h3>
-      <p>Digital bestiary for mythological creatures. Search, learn, and generate mash-ups of monsters with maps and comparisons.</p>
-    </td>
-    <td style="width:33%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
-      <h3 align="center"> <a href="https://github.com/ginesthoii/ModelMiddleEarth"><strong>ModelMiddleEarth</strong></a></h3>
-      <p>Digital explorations of Middle-earth: 3D models, maps, and datasets built with Blender, Python, Ender, and secure coding practices.</p>
-    </td>
-    <td style="width:33%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
-      <h3 align="center"> <a href="https://github.com/ginesthoii/CulinaryCodex"><strong>CulinaryCodex</strong></a></h3>
-      <p>Ancient + modern recipes &amp; cultural food research, structured into a secure digital codex.</p>
-    </td>
+<h1 align="center">Creative & Worldbuilding</h1>
+
+<table>
+  <!-- Icons -->
+  <tr bgcolor="#ffffff">
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/57f7c865-b684-492b-97a4-4438d35f727d" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/9a3e41f7-7f5c-49bf-bda9-7302c43c7879" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/7a6d7549-88a6-49f3-97a5-eac1e9f281c8" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/f430092c-d2ce-483f-b7a9-e984bd53930a" width="100"/></td>
   </tr>
-
-  <!-- Row 4 -->
-  <tr>
-    <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
-      <h3 align="center"> <a href="https://github.com/ginesthoii/Shelfscapes"><strong>Shelfscapes</strong></a></h3>
-      <p>Maker + documentation project for immersive book nooks (CAD, BOMs, Arduino/ESP32 lighting, gallery docs). Emphasizes reproducibility + engineering discipline.</p>
-    </td>
-    <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
-      <h3 align="center"> <a href="https://github.com/ginesthoii/CyberPersona"><strong>CyberPersona</strong></a></h3>
-      <p>Personality + identity generator combining MBTI, Enneagram, and psychometric models. Supports roleplay, testing, and applied psychology in code.</p>
-    </td>
+  <!-- Text -->
+  <tr bgcolor="#ffffff">
+    <td align="center"><a href="https://github.com/ginesthoii/MythicalMenagerie"><strong>MythicalMenagerie</strong></a><br>Digital bestiary for global myth creatures.<br>
+      <em>Tech:</em> JavaScript, JSON, HTML/CSS.<br>
+      <em>Status:</em> Active (adding mash-up generator).</td>
+    <td align="center"><a href="https://github.com/ginesthoii/ModelMiddleEarth"><strong>ModelMiddleEarth</strong></a><br>3D explorations of Middle-earth.<br>
+      <em>Tech:</em> Python, Blender, FreeCAD.<br>
+      <em>Status:</em> Active (new terrain models).</td>
+    <td align="center"><a href="https://github.com/ginesthoii/CulinaryCodex"><strong>CulinaryCodex</strong></a><br>Ancient + modern food research codex.<br>
+      <em>Tech:</em> Python, JS, structured datasets.<br>
+      <em>Status:</em> Expanding cultural recipes DB.</td>
+    <td align="center"><a href="https://github.com/ginesthoii/CyberPersona"><strong>CyberPersona</strong></a><br>MBTI + Enneagram persona generator.<br>
+      <em>Tech:</em> Python, YAML, taxonomy design.<br>
+      <em>Status:</em> Active (adding archetypes).</td>
   </tr>
+</table>
 
+
+<h1 align="center">Fitness & Health</h1>
+<table>
+  <!-- Icons -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/69325802-b742-47e3-8c7a-a4a12ad4d4ae" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/96ac8af7-3e15-4f93-8946-93bcbe9e8067" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/0c435e3e-1b69-40c7-a003-328b79c31628" width="100"/></td>
+  </tr>
+  <!-- Text -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><a href="https://github.com/ginesthoii/StretchStud-io"><strong>StretchStud-io</strong></a><br>Yoga + stretching routines + dashboards.<br>
+      <em>Tech:</em> Python, Google Sheets, dashboards.<br>
+      <em>Status:</em> Active (expanding routines).</td>
+    <td align="center"><a href="https://github.com/ginesthoii/TheHungerGains"><strong>TheHungerGains</strong></a><br>Minimalist intermittent fasting tracker. <br>
+      <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
+      <em>Status:</em> Active (v1 stable).</td>
+    <td align="center"><a href="https://github.com/ginesthoii/StrokeOfGenius"><strong>StrokeOfGenius</strong></a><br>Swimming logbook + analyzer.<br>
+      <em>Tech:</em> Python, Pandas, dashboards.<br>
+      <em>Status:</em> Active (data viz in progress).</td>
+    <td align="center"><a href="https://github.com/ginesthoii/SweatScript"><strong>SweatScript</strong></a><br>CLI workout tracker with dashboards.<br>
+      <em>Tech:</em> Python, Bash, Google Sheets.<br>
+      <em>Status:</em> Active (refining CLI interface).</td>
+  </tr>
+</table>
+
+
+<h1 align="center">Maker & DIY</h1>
+<table>
+  <!-- Icons -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/165dd4b1-4c46-4605-a7f3-4d46f68ac803" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/b0a0fe50-8934-40a1-a102-f3171b689ba8" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/5e160e6d-9998-4fb5-a2b0-dac785989407" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c927ecf8-a22b-486c-a879-291787470b58" width="100"/></td>
+  </tr>
+  <!-- Text -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><a href="https://github.com/ginesthoii/WoodenItBeNice"><strong>WoodenItBeNice</strong></a><br>DIY woodworking meets code.<br>
+      <em>Tech:</em> Python, Java, Blender, YAML.<br>
+      <em>Status:</em> Active (adding jigs + boards).</td>
+    <td align="center"><a href="https://github.com/ginesthoii/PixelPortfolio"><strong>PixelPortfolio</strong></a><br>Retro-inspired Pygame gallery.<br>
+      <em>Tech:</em> Python, Pygame, sprite design.<br>
+      <em>Status:</em> Active (adding mini-games).</td>
+    <td align="center"><a href="https://github.com/ginesthoii/Mini-Massive"><strong>Mini-Massive</strong></a><br>Lightweight agent-based simulations.<br>
+      <em>Tech:</em> Python, WebGL, Three.js.<br>
+      <em>Status:</em> Active (traffic + battle sims).</td>
+    <td align="center"><a href="https://github.com/ginesthoii/ShelfScapes"><strong>ShelfScapes</strong></a><br>Immersive book nooks: CAD, Arduino lighting. <br>
+      <em>Tech:</em> CAD, Arduino/ESP32, FreeCAD.<br>
+      <em>Status:</em> Active (gallery docs in progress).</td>
+  </tr>
 </table>
 
 
@@ -207,7 +259,7 @@
 
    <div align="center">
      
-# <img width="822" height="400" alt="Image" src="https://github.com/user-attachments/assets/c4e2a144-2c94-4514-9c6b-67ce16ddfd7a" />
+# <img width="722" height="350" alt="Image" src="https://github.com/user-attachments/assets/c4e2a144-2c94-4514-9c6b-67ce16ddfd7a" />
      
    </div>
 
@@ -255,7 +307,7 @@
     <td style="width:50%; vertical-align:top;">
       <div style="background:#f6f8fa; border:1px solid #d0d7de; border-radius:6px; padding:14px; height:480px; overflow:auto;">
         <div align="center">
-        <h3 style="margin:0; text-align:center;"> <strong>🗡CloakAndCipher</strong></h3>
+        <h3 style="margin:0; text-align:center;"> <strong>CloakAndCipher</strong></h3>
           </div>
         <p style="text-align:left; margin:8px 0 12px;">
           <em>Security-minded development tools — AppSec + automation at the core.</em>
