@@ -559,8 +559,8 @@ Tracking online courses I’m working through to build skills in security, web d
 <table width="100%" style="table-layout: fixed; border-collapse: collapse; margin: 14px 0;">
   <tr>
     <!-- Badge row -->
-    <td align="center" style="padding:12px; border:1px solid #e5e7eb; height:140px;">
-      <img src="https://github.com/user-attachments/assets/a701bc86-e93c-471d-abb3-81256cd2d981" width="120" height="120" alt="Cisco Networking Academy"/>
+    <td align="center" style="padding:12px; border:1px solid #e5e7eb; height:240px;">
+      <img src="https://github.com/user-attachments/assets/68c474d4-7eb6-4250-be9a-c47a0cf74c8b" width="220" height="320" alt="Cisco Networking Academy"/>
     </td>
   </tr>
   <tr>
@@ -628,7 +628,7 @@ Tracking online courses I’m working through to build skills in security, web d
       <img src="https://github.com/user-attachments/assets/511aa5ff-1cbd-4cb9-9c3e-5d982f916062" width="140" height="140" alt="IBM SkillsBuild">
     </td>
     <td style="width:33.33%; padding:12px; border:1px solid #e5e7eb; height:100px;" align="center">
-      <img src="https://github.com/user-attachments/assets/1a055c67-25c0-4ab7-bd67-d6ace9e9239b" width="140" height="140" alt="Google Cloud">
+      <img src="https://github.com/user-attachments/assets/30261607-7073-42a7-a3d5-fdbfb071a31c" width="140" height="140" alt="Google Cloud">
     </td>
   </tr>
 
@@ -643,7 +643,7 @@ Tracking online courses I’m working through to build skills in security, web d
       • AI Fundamentals — <i>Beginner</i>
     </td>
     <td style="width:33.33%; padding:14px 16px; border:1px solid #e5e7eb; height:200px;" align="left" valign="top">
-      <b>Google Cloud</b><br>
+      <b>Intel</b><br>
       • Introduction to Generative AI — <i>Module</i>
     </td>
   </tr>
