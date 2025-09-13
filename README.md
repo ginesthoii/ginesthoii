@@ -258,9 +258,9 @@
  <br>
 <div align="center">
 
-| <img src="https://github.com/user-attachments/assets/6e949dcf-6bce-42b9-a925-d186d75bdcda" height="400" width="420"/> | <img src="https://github.com/user-attachments/assets/a61618b3-6a50-4305-a5db-aeb36d6343e7" height="400" width="420"/> |
+| <img src="https://github.com/user-attachments/assets/6e949dcf-6bce-42b9-a925-d186d75bdcda" height="300" width="320"/> | <img src="https://github.com/user-attachments/assets/a61618b3-6a50-4305-a5db-aeb36d6343e7" height="300" width="320"/> |
 |---|---|
-| <img src="https://github.com/user-attachments/assets/704ca26d-df8a-420e-ab1a-e482340b8928" height="400" width="420"/> | <img src="https://github.com/user-attachments/assets/bf81a157-87b7-45d4-ba31-f47b4a60b4c3" height="400" width="420"/> |
+| <img src="https://github.com/user-attachments/assets/704ca26d-df8a-420e-ab1a-e482340b8928" height="300" width="320"/> | <img src="https://github.com/user-attachments/assets/bf81a157-87b7-45d4-ba31-f47b4a60b4c3" height="300" width="320"/> |
 
 </div>
 
