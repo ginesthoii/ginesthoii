@@ -17,10 +17,10 @@
   </a>
 </p>
 
+<br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d87fa9bd-2ec8-4d2d-86da-05466945e3b4"
-         alt="Skills Left" width="70%" style="border-radius:15px;"/>
+  <img src="https://github.com/user-attachments/assets/eed3dd21-e924-4fb4-88a8-78844c8302b5" alt="Skills Left" width="70%" style="border-radius:15px;"/>
 </p>
 
 
@@ -28,7 +28,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2d7ef59d-d610-4d3a-935e-862dee8e13c7" alt="Terminal GIF" height="320" width="320"/>
+  <img src="https://github.com/user-attachments/assets/2d7ef59d-d610-4d3a-935e-862dee8e13c7" alt="Terminal GIF" height="350" width="350"/>
 </p>
 
 ---
