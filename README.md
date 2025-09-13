@@ -70,7 +70,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/pup.gif" alt="Terminal GIF" height="180" width="180"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/pup.gif" alt="Terminal GIF" height="200" width="200"/>
 </p>
 
 
@@ -424,7 +424,7 @@
 
    <div align="center">
      
-# <img width="550" height="300" alt="Image" src="https://github.com/user-attachments/assets/4913c9df-2d09-4609-8d0c-9c18c93ca685" />
+# <img width="570" height="300" alt="Image" src="https://github.com/user-attachments/assets/4913c9df-2d09-4609-8d0c-9c18c93ca685" />
      
    </div>
 
@@ -651,7 +651,7 @@ Tracking online courses I’m working through to build skills in security, web d
 
 </div>
 
-<br><br><br><br>
+<br><br>
 
 <p align="center">
 <img width="490" height="475" alt="Image" src="https://github.com/user-attachments/assets/84989cd6-5416-4840-8a2b-a63be9e9afca" alt="Banner" width="600"/>
