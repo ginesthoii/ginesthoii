@@ -440,7 +440,7 @@
        alt="Badge" width="150"/>
 </p>
 
-<h1 align="center">Washington University Cybersecurity Boot Camp</h1>
+<h1 align="center">Washington University Cybersecurity Certification Boot Camp</h1>
 
 <p align="center">
   
@@ -653,7 +653,7 @@ Tracking online courses I’m working through to build skills in security, web d
 <br><br>
 
 <p align="center">
-<img width="490" height="475" alt="Image" src="https://github.com/user-attachments/assets/84989cd6-5416-4840-8a2b-a63be9e9afca" alt="Banner" width="600"/>
+<img width="690" height="675" alt="Image" src="https://github.com/user-attachments/assets/731cbb0d-6cad-4994-8394-e2f9d3510f1a" alt="Banner" width="600"/>
 </p>
 
 <br><br><br><br>
