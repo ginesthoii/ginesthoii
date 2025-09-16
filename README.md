@@ -1,7 +1,6 @@
 <p align="center">
 <img width="790" height="475" alt="Image" src="https://github.com/user-attachments/assets/863bf6e6-7cde-4736-bf01-b4ebd5a34a5b" alt="Banner" width="600"/>
-
-<br>
+<br><br>
 
 <p align="center">
   <a href="https://ginesthoii.github.io/oliviagriffin.pro/">
@@ -20,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eed3dd21-e924-4fb4-88a8-78844c8302b5" alt="Skills Left" width="70%" style="border-radius:15px;"/>
+  <img src="https://github.com/user-attachments/assets/058ec6ee-b52a-49fe-8199-7663b147f522" alt="Skills Left" width="70%" style="border-radius:15px;"/>
 </p>
 
 
