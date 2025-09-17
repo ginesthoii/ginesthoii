@@ -45,7 +45,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f655df86-b234-4771-a67c-07063fcb800d" alt="Image" width="750"/>
+  <img src="https://github.com/user-attachments/assets/f655df86-b234-4771-a67c-07063fcb800d" alt="Image" width="800"/>
 </p>
 
 ---
@@ -82,15 +82,22 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/db1c7685-5388-4f91-925c-1067af645164" 
-    alt="Badge" width="600" height="275"/>
+       alt="Badge" width="600" height="275"/>
 </p>
- 
----
 
-<p align="center">
+
+<p align="center"> 
   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/badge.png" 
-       alt="Badge" width="150"/>
+       alt="Badge" align="top center" width="150"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/840752c2-3dc5-4b21-b943-38142bc961b1" 
+       alt="Badge" align="top center" width="150"/>
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/de52cde8-599b-4341-861c-78ea0b479e5d" 
+       alt="Badge" align="middle center" width="350"/>
 </p>
+
+
 
 ---
 
@@ -101,7 +108,7 @@
  
    <div align="center">
      
-# <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/5dd6dfee-19c4-4d9e-a8db-d71258885ae0" />
+# <img width="600" height="250" alt="Image" src="https://github.com/user-attachments/assets/1a863016-2f6f-4293-ada8-df4b0f8a9d59" />
 
    </div>
  
@@ -445,7 +452,7 @@
 
    <div align="center">
      
-# <img width="570" height="300" alt="Image" src="https://github.com/user-attachments/assets/4913c9df-2d09-4609-8d0c-9c18c93ca685" />
+# <img width="570" height="300" alt="Image" src="https://github.com/user-attachments/assets/a4d5db8b-7724-4a90-b6fa-8e97e91224b1" />
      
    </div>
 
@@ -458,10 +465,10 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/514f75e3-1c24-4b53-8301-93515861a9ee" alt="Badge" width="400"/>
+  <img src="https://github.com/user-attachments/assets/7800b24b-5386-47f1-ba39-f3eac500fafe" alt="Badge" width="300"/>
 </p>
 
-<h1 align="center">Washington University Cybersecurity Certification Boot Camp</h1>
+<h1 align="center">Washington University, Saint Louis <br> Cybersecurity Certification Boot Camp</h1>
 
 <p align="center">
   
@@ -674,7 +681,7 @@ Tracking online courses I’m working through to build skills in security, web d
 <br><br>
 
 <p align="center">
-<img width="690" height="675" alt="Image" src="https://github.com/user-attachments/assets/58fad9bb-2a8d-4cc0-bf1c-0333b4456dbe" alt="Banner" width="600"/>
+<img width="690" height="675" alt="Image" src="https://github.com/user-attachments/assets/d662ac3c-a300-440c-85bf-5aed6b36f02a" alt="Banner" width="600"/>
 </p>
 
 <br><br><br><br>
