@@ -25,13 +25,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(5).gif" alt="Terminal GIF" height="440" width="540"/>
-</p>
 
-
-
----
 
 
 
@@ -43,14 +37,23 @@
 ---
 
 <p align="center">
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(5).gif" alt="Terminal GIF" height="440" width="540"/>
+</p>
+
+
+
+---
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/9850f151-2284-4992-b49a-d4a0bb545b7b" alt="Image" width="850"/>
 </p>
 
 ---
 
 
+
 <p align="center">
-  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/pup.gif" alt="Terminal GIF" height="200" width="200"/>
+  <img src="https://github.com/user-attachments/assets/2d7ef59d-d610-4d3a-935e-862dee8e13c7" alt="GIF" height="300" width="300"/>
 </p>
 
 
@@ -71,6 +74,13 @@
 ---
 
 <p align="center">
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/pup.gif" alt="pup GIF" height="200" width="200"/>
+</p>
+
+
+ ---
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/db1c7685-5388-4f91-925c-1067af645164" 
     alt="Badge" width="600" height="275"/>
 </p>
@@ -85,16 +95,13 @@
 ---
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2d7ef59d-d610-4d3a-935e-862dee8e13c7" alt="GIF" height="300" width="300"/>
-</p>
 
 
- ---
+
  
    <div align="center">
      
-# <img width="500" height="250" alt="Image" src="https://github.com/user-attachments/assets/2ace484d-6dba-4384-b873-0d85fd0eded2" />
+# <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/5dd6dfee-19c4-4d9e-a8db-d71258885ae0" />
 
    </div>
  
@@ -212,7 +219,7 @@
 
 <div align="center">
      
-## <img width="650" height="300" alt="Image" src="https://github.com/user-attachments/assets/5d36c1c2-f978-4cc0-a942-31490312fad5"/>
+## <img width="650" height="300" alt="Image" src="https://github.com/user-attachments/assets/e9bd6f69-1604-437a-a76f-ead639affbbf"/>
 
 </div>
 
@@ -283,7 +290,7 @@
 
    <div align="center">
      
-# <img width="722" height="350" alt="Image" src="https://github.com/user-attachments/assets/c4e2a144-2c94-4514-9c6b-67ce16ddfd7a" />
+# <img width="722" height="350" alt="Image" src="https://github.com/user-attachments/assets/f23cda11-1692-43e0-85c3-3e040dbafbb6" />
      
    </div>
 
