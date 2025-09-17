@@ -25,10 +25,10 @@
 
 ---
 
-
 <p align="center">
   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(5).gif" alt="Terminal GIF" height="440" width="540"/>
 </p>
+
 
 
 ---
@@ -48,9 +48,12 @@
 
 ---
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2d7ef59d-d610-4d3a-935e-862dee8e13c7" alt="Terminal GIF" height="300" width="300"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/pup.gif" alt="Terminal GIF" height="200" width="200"/>
 </p>
+
+
 
 ---
 
@@ -62,15 +65,6 @@
 # <img width="1000" height="369" alt="Image" src="https://github.com/user-attachments/assets/8513f418-152c-40fd-a4b0-783304e20df7"/>
 
    </div>
-
-
----
-
-
-
-<p align="center">
-  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/pup.gif" alt="Terminal GIF" height="200" width="200"/>
-</p>
 
 
 
@@ -88,11 +82,19 @@
        alt="Badge" width="150"/>
 </p>
 
+---
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2d7ef59d-d610-4d3a-935e-862dee8e13c7" alt="GIF" height="300" width="300"/>
+</p>
+
+
  ---
  
    <div align="center">
      
-# <img width="717" height="300" alt="Image" src="https://github.com/user-attachments/assets/770c6ae4-a77a-45d0-ae74-163f46a46c27" />
+# <img width="500" height="250" alt="Image" src="https://github.com/user-attachments/assets/2ace484d-6dba-4384-b873-0d85fd0eded2" />
 
    </div>
  
