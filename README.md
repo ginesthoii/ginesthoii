@@ -38,12 +38,9 @@
 
 ---
 
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a1a37ee0-9dd8-49d2-abf3-8141dd54dbbd" alt="Image" width="540"/>
+  <img src="https://github.com/user-attachments/assets/fefcad3f-a42b-4cc9-8475-df2ffc91dee5" alt="Image" width="800"/>
 </p>
-
-
 
 ---
 
