@@ -74,12 +74,25 @@
 
 
 
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/db1c7685-5388-4f91-925c-1067af645164" 
+    alt="Badge" width="600" height="275"/>
+</p>
+ 
+---
+
+<p align="center">
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/badge.png" 
+       alt="Badge" width="150"/>
+</p>
 
  ---
  
    <div align="center">
      
-# <img width="817" height="320" alt="Image" src="https://github.com/user-attachments/assets/770c6ae4-a77a-45d0-ae74-163f46a46c27" />
+# <img width="717" height="300" alt="Image" src="https://github.com/user-attachments/assets/770c6ae4-a77a-45d0-ae74-163f46a46c27" />
 
    </div>
  
@@ -436,8 +449,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/badge.png" 
-       alt="Badge" width="150"/>
+  <img src="https://github.com/user-attachments/assets/514f75e3-1c24-4b53-8301-93515861a9ee" alt="Badge" width="400"/>
 </p>
 
 <h1 align="center">Washington University Cybersecurity Certification Boot Camp</h1>
@@ -653,7 +665,7 @@ Tracking online courses I’m working through to build skills in security, web d
 <br><br>
 
 <p align="center">
-<img width="690" height="675" alt="Image" src="https://github.com/user-attachments/assets/731cbb0d-6cad-4994-8394-e2f9d3510f1a" alt="Banner" width="600"/>
+<img width="690" height="675" alt="Image" src="https://github.com/user-attachments/assets/58fad9bb-2a8d-4cc0-bf1c-0333b4456dbe" alt="Banner" width="600"/>
 </p>
 
 <br><br><br><br>
