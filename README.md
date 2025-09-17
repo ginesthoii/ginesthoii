@@ -27,14 +27,18 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2d7ef59d-d610-4d3a-935e-862dee8e13c7" alt="Terminal GIF" height="350" width="350"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(5).gif" alt="Terminal GIF" height="440" width="540"/>
 </p>
+
 
 ---
 
+
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f93872b7-2172-4b08-8a62-a2fcedebbbe7" alt="Image" width="740"/>
+  <img src="https://github.com/user-attachments/assets/3cb68315-f60f-486c-862e-29643577b94a" alt="Image" width="740"/>
 </p>
+
 
 ---
 
@@ -45,7 +49,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(5).gif" alt="Terminal GIF" height="440" width="540"/>
+  <img src="https://github.com/user-attachments/assets/2d7ef59d-d610-4d3a-935e-862dee8e13c7" alt="Terminal GIF" height="300" width="300"/>
 </p>
 
 ---
