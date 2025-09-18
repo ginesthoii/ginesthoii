@@ -1,5 +1,5 @@
 <p align="center">
-<img width="790" height="475" alt="Image" src="https://github.com/user-attachments/assets/863bf6e6-7cde-4736-bf01-b4ebd5a34a5b" alt="Banner" width="600"/>
+<img width="790" height="475" alt="Image" src="https://github.com/user-attachments/assets/844fcd8f-620c-4b5e-81d8-fd6565adc49f" alt="Banner" width="600"/>
 <br><br>
 
 <p align="center">
@@ -89,18 +89,19 @@
 <p align="center"> 
   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/badge.png" 
        alt="Badge" align="top center" width="150"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/840752c2-3dc5-4b21-b943-38142bc961b1" 
        alt="Badge" align="top center" width="150"/>
-  &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/de52cde8-599b-4341-861c-78ea0b479e5d" 
-       alt="Badge" align="middle center" width="350"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/1de734e4-b69b-429b-9dc7-09d1f5b637d6" 
+       alt="Badge" align="middle center" width="150"/>
 </p>
 
 
 
 ---
 
+<br>
 
 
 
