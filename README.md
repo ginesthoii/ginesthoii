@@ -1,69 +1,61 @@
 <p align="center">
-<img width="790" height="475" alt="Image" src="https://github.com/user-attachments/assets/c4f191fc-167a-4941-85b1-8aecf256fc0f" alt="Banner" width="600"/>
-<br><br>
+  <img src="https://github.com/user-attachments/assets/ba2494bf-1b1c-4963-874a-36c12c42cbd9" alt="Banner" width="100%" height="50%" style="border-radius:15px;"/>
+</p>
+
+<br>
 
 <p align="center">
   <a href="https://ginesthoii.github.io/oliviagriffin.pro/">
-    <img src="https://img.shields.io/badge/Portfolio-Website-739f84?style=for-the-badge&labelColor=a0a0a0&color=a0a0a0&logoColor=white" height="200">
+    <img src="https://img.shields.io/badge/Portfolio-Website-739f84?style=for-the-badge&labelColor=a86a8f&color=a86a8f&logoColor=white" height="200">
   </a>
   &nbsp;&nbsp;&nbsp; <!-- spacing -->
   <a href="https://www.linkedin.com/olivia-griffin-a08a20115/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-739f84?style=for-the-badge&labelColor=a0a0a0&color=a0a0a0&logo=linkedin&logoColor=white" height="200">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-739f84?style=for-the-badge&labelColor=a86a8f&color=a86a8f&logo=linkedin&logoColor=white" height="200">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:oliviagriffindev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-739f84?style=for-the-badge&labelColor=a0a0a0&color=a0a0a0&logoColor=white" height="200">
+    <img src="https://img.shields.io/badge/Email-Contact-739f84?style=for-the-badge&labelColor=a86a8f&color=a86a8f&logoColor=white" height="200">
   </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6cd5cbc6-d30b-4315-9cf8-52bbaa71f6f8" alt="Skills Left" width="70%" style="border-radius:15px;"/>
+  <img src="https://github.com/user-attachments/assets/6cd5cbc6-d30b-4315-9cf8-52bbaa71f6f8" alt="Skills Left" width="75%" height="50%" style="border-radius:15px;"/>
 </p>
+
 
 
 ---
 
 
-
-
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4aacaf35-1c47-4699-a730-ec3697731b37" alt="Image" width="780"/>
+  <img src="https://github.com/user-attachments/assets/23ef6619-9793-4bb7-8bf3-109d25ac0a72" alt="Skills Left" width="100%" height="70%" style="border-radius:15px;"/>
 </p>
-
 
 ---
 
 <p align="center">
-  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(5).gif" alt="Terminal GIF" height="440" width="540"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(5).gif" alt="Term" width="55%" height="70%" style="border-radius:15px;"/>
 </p>
-
 
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/accf0873-159f-41a0-9bf3-8616c41b3ce7" alt="Image" width="500" height="260" />
+  <img src="https://github.com/user-attachments/assets/accf0873-159f-41a0-9bf3-8616c41b3ce7" alt="Image" width="60%" height="30%" style="border-radius:15px;"/>
 </p>
-
-
 
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f655df86-b234-4771-a67c-07063fcb800d" alt="Image" width="800"/>
+  <img src="https://github.com/user-attachments/assets/f655df86-b234-4771-a67c-07063fcb800d" alt="Image" width="100%" height="60%" style="border-radius:15px;"/>
 </p>
 
 ---
-
-
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2d7ef59d-d610-4d3a-935e-862dee8e13c7" alt="GIF" height="300" width="300"/>
 </p>
-
-
 
 ---
 
@@ -86,10 +78,11 @@
 
 
  ---
-
+ 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/db1c7685-5388-4f91-925c-1067af645164" 
-       alt="Badge" width="600" height="275"/>
+  <img src="https://github.com/user-attachments/assets/db1c7685-5388-4f91-925c-1067af645164" alt="Image" width="60%" height="20%" style="border-radius:15px;"/>
+</p>
+
 </p>
 
 
@@ -111,14 +104,9 @@
 <br>
 
 
-
-
- 
-   <div align="center">
-     
-# <img width="600" height="250" alt="Image" src="https://github.com/user-attachments/assets/afe39306-abd8-4dd3-96fe-73f9ee3d5b01" />
-
-   </div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/afe39306-abd8-4dd3-96fe-73f9ee3d5b01" alt="Image" width="60%" height="20%" style="border-radius:15px;"/>
+</p>
  
 
 <h1 align="center">Security & Professional</h1>
@@ -232,11 +220,9 @@
 
 ---
 
-<div align="center">
-     
-## <img width="650" height="300" alt="Image" src="https://github.com/user-attachments/assets/8ea417a5-9caa-4bc5-a479-101b763b385e"/>
-
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ea417a5-9caa-4bc5-a479-101b763b385e" alt="Image" width="60%" height="20%" style="border-radius:15px;"/>
+</p>
 
 <table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:8px;">
 
@@ -302,13 +288,9 @@
 
 ---
 
-
-   <div align="center">
-     
-# <img width="722" height="350" alt="Image" src="https://github.com/user-attachments/assets/f23cda11-1692-43e0-85c3-3e040dbafbb6" />
-     
-   </div>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f23cda11-1692-43e0-85c3-3e040dbafbb6" alt="Image" width="65%" height="20%" style="border-radius:15px;"/>
+</p>
 
    ---
   <table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:16px;">
@@ -458,12 +440,9 @@
 
 ---
 
-   <div align="center">
-     
-# <img width="570" height="300" alt="Image" src="https://github.com/user-attachments/assets/07371edf-95a2-4e28-9896-b506896409b2" />
-     
-   </div>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/07371edf-95a2-4e28-9896-b506896409b2" alt="Image" width="60%" height="20%" style="border-radius:15px;"/>
+</p>
    
 ---
 
@@ -473,8 +452,9 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7800b24b-5386-47f1-ba39-f3eac500fafe" alt="Badge" width="250"/>
+  <img src="https://github.com/user-attachments/assets/7800b24b-5386-47f1-ba39-f3eac500fafe" alt="Image" width="35%" height="20%" style="border-radius:15px;"/>
 </p>
+
 
 <h1 align="center">Washington University, Saint Louis <br> Cybersecurity Certification Boot Camp</h1>
 
