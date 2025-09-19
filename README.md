@@ -116,7 +116,7 @@
  
    <div align="center">
      
-# <img width="600" height="250" alt="Image" src="https://github.com/user-attachments/assets/1a863016-2f6f-4293-ada8-df4b0f8a9d59" />
+# <img width="600" height="250" alt="Image" src="https://github.com/user-attachments/assets/afe39306-abd8-4dd3-96fe-73f9ee3d5b01" />
 
    </div>
  
