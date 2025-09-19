@@ -21,10 +21,8 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6cd5cbc6-d30b-4315-9cf8-52bbaa71f6f8" alt="Skills Left" width="75%" height="50%" style="border-radius:15px;"/>
+  <img src="https://github.com/user-attachments/assets/acab5d1e-c4b0-4fac-8b52-3a3a7bb5580f" alt="Skills Left" width="75%" height="50%" style="border-radius:15px;"/>
 </p>
-
-
 
 ---
 
