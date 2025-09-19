@@ -348,7 +348,7 @@
     <!-- GargoyleOffGrid -->
     <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; padding:24px; height:480px;">
       <div align="center" style="padding-top:10px;">
-        <img src="https://github.com/user-attachments/assets/db2854c5-4c55-4795-b697-eeb8767387e1" width="80" alt="GargoyleOffGrid badge">
+        <img src="https://github.com/user-attachments/assets/f6fe2453-b64d-4a64-9ebc-3c302e9eee79" width="80" alt="GargoyleOffGrid badge">
         <h3 style="margin:12px 0; text-align:center;"><strong>GargoyleOffGrid</strong></h3>
       </div>
       <p style="text-align:center; margin:8px 0 16px;">
