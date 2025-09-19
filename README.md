@@ -460,7 +460,7 @@
 
    <div align="center">
      
-# <img width="570" height="300" alt="Image" src="https://github.com/user-attachments/assets/a4d5db8b-7724-4a90-b6fa-8e97e91224b1" />
+# <img width="570" height="300" alt="Image" src="https://github.com/user-attachments/assets/07371edf-95a2-4e28-9896-b506896409b2" />
      
    </div>
 
@@ -473,7 +473,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7800b24b-5386-47f1-ba39-f3eac500fafe" alt="Badge" width="300"/>
+  <img src="https://github.com/user-attachments/assets/7800b24b-5386-47f1-ba39-f3eac500fafe" alt="Badge" width="250"/>
 </p>
 
 <h1 align="center">Washington University, Saint Louis <br> Cybersecurity Certification Boot Camp</h1>
