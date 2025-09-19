@@ -60,7 +60,7 @@
 
    <div align="center">
      
-# <img width="1000" height="369" alt="Image" src="https://github.com/user-attachments/assets/977f2ecb-9b84-4a0b-a94d-3280813a876e" >
+# <img width="1000" height="369" alt="Image" src="https://github.com/user-attachments/assets/e9d97ce1-7d5f-4f91-85f8-4ef2cdbd7674" >
      
 # <img width="1000" height="369" alt="Image" src="https://github.com/user-attachments/assets/8513f418-152c-40fd-a4b0-783304e20df7"/>
 
