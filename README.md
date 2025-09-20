@@ -33,15 +33,13 @@
 
 ---
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2c520dc8-904b-4f30-a94f-f9ffee5c59d3" alt="Image" height="350" width="600"/>
-<p align="center">
   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(5).gif" alt="Term" height="600" width="600"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bfeccaee-ee5c-4f60-93a1-8d7f1bbc08b8" alt="Image" height="500" width="2000"/>
+  <img src="https://github.com/user-attachments/assets/5ebdfa36-579c-447d-89c6-1f2b18972fa7" alt="Image" height="500" width="2000"/>
 </p>
 
 ---
@@ -215,7 +213,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8ea417a5-9caa-4bc5-a479-101b763b385e" alt="Image" width="60%" height="20%" style="border-radius:15px;"/>
+  <img src="https://github.com/user-attachments/assets/8ea417a5-9caa-4bc5-a479-101b763b385e" alt="Image" width="55%" height="10%" style="border-radius:15px;"/>
 </p>
 
 <table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:8px;">
