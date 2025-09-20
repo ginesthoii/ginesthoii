@@ -32,21 +32,16 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(5).gif" alt="Term" width="55%" height="70%" style="border-radius:15px;"/>
+  <img src="https://github.com/user-attachments/assets/2c520dc8-904b-4f30-a94f-f9ffee5c59d3" alt="Image" height="350" width="600"/>
+<p align="center">
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(5).gif" alt="Term" height="600" width="600"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/accf0873-159f-41a0-9bf3-8616c41b3ce7" alt="Image" width="60%" height="30%" style="border-radius:15px;"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ad49d5be-ac35-4992-b9cf-9a647cb2b8e9" alt="Image" width="100%" height="30%" style="border-radius:15px;"/>
+  <img src="https://github.com/user-attachments/assets/bfeccaee-ee5c-4f60-93a1-8d7f1bbc08b8" alt="Image" height="500" width="2000"/>
 </p>
 
 ---
@@ -82,7 +77,7 @@
 </p>
 
 </p>
-
+<br>
 
 <p align="center"> 
   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/badge.png" 
@@ -99,13 +94,14 @@
 
 ---
 
-<br>
+<br><br>
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/afe39306-abd8-4dd3-96fe-73f9ee3d5b01" alt="Image" width="60%" height="20%" style="border-radius:15px;"/>
+  <img src="https://github.com/user-attachments/assets/19a4363c-fccd-459c-86a0-ffded139f326" alt="Image" width="70%" height="10%" style="border-radius:1px;"/>
 </p>
  
+
 
 <h1 align="center">Security & Professional</h1>
 
@@ -287,7 +283,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f23cda11-1692-43e0-85c3-3e040dbafbb6" alt="Image" width="65%" height="20%" style="border-radius:15px;"/>
+  <img src="https://github.com/user-attachments/assets/3c3fe3af-3d7b-46c3-8689-9fafe1a12c60" alt="Image" width="65%" height="20%" style="border-radius:15px;"/>
 </p>
 
    ---
@@ -667,7 +663,8 @@ Tracking online courses I’m working through to build skills in security, web d
 <br><br>
 
 <p align="center">
-<img width="690" height="675" alt="Image" src="https://github.com/user-attachments/assets/d662ac3c-a300-440c-85bf-5aed6b36f02a" alt="Banner" width="600"/>
+  <img src="https://github.com/user-attachments/assets/2897e2b7-f036-41db-a54a-0ca1662579e2" alt="Banner" width="100%" height="50%" style="border-radius:15px;"/>
 </p>
+
 
 <br><br><br><br>
