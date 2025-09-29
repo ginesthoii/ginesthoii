@@ -265,6 +265,7 @@
       <li><strong>stopwatch/</strong> – Basic stopwatch with Enter to start/stop.</li>
       <li><strong>word_frequency/</strong> – Count words with <code>collections.Counter.</code></li>
       <li><strong>mini_metronome/</strong> – Lightweight CLI metronome with downbeat accents (afplay/simpleaudio backend).</li>
+      <li><strong>Watermark/</strong> — Modern, flexible PDF watermarking. Single PDF or whole folder (batch), default watermark (PDF or generated text), customizable pages, locations, rotation. </li>
     </ul>
   </td>
 </tr>
