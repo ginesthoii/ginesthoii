@@ -102,6 +102,33 @@
 </p>
  
 
+<h1 align="center">Professional</h1>
+
+<table>
+  <!-- Icons -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/8c47632c-7b4c-41b9-ba5d-e2f3d8884f2e" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/6268bcd7-99b8-49fe-afca-c497fa1dabda" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/cf46eeca-ed36-41cb-9287-5bf0caeabd26" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/af64bd67-a436-4b4c-b443-7c624f036c30" width="100"/></td>
+  </tr>
+  <!-- Text -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><a href="https://github.com/ginesthoii/DevGaze"><strong>SecureMaestro</strong></a><br>Secure, automated practice tools for musicians.<br>
+      <em>Tech:</em> Python, AppSec sandboxing, Semgrep.<br>
+      <em>Status:</em> Active (looping + YouTube API integration).</td>
+    <td align="center"><a href="https://github.com/ginesthoii/PillPal-VitaPro"><strong>11111111</strong></a><br>Supplement + prescription interaction checker.<br>
+      <em>Tech:</em> Python, Vite, AppSec sandbox.<br>
+      <em>Status:</em> Active (supplement DB expansion).</td>
+    <td align="center"><a href="https://github.com/ginesthoii/WashU-Projects"><strong>222222</strong></a><br>Cybersecurity Boot Camp portfolio hub (A+).<br>
+      <em>Tech:</em> Cryptography, Azure, malware analysis.<br>
+      <em>Status:</em> Completed coursework archive.</td>
+    <td align="center"><a href="https://github.com/ginesthoii/HabitHelpers"><strong>33333</strong></a><br>Modular habit suite with API + automation.<br>
+      <em>Tech:</em> React, Python, Docker, GitHub API.<br>
+      <em>Status:</em> Active (Discord/Slack bot in dev).</td>
+  </tr>
+</table>
+
 
 <h1 align="center">Security & Professional</h1>
 
