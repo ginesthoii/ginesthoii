@@ -108,26 +108,50 @@
   <!-- Icons -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/8c47632c-7b4c-41b9-ba5d-e2f3d8884f2e" width="100"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/6268bcd7-99b8-49fe-afca-c497fa1dabda" width="100"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/cf46eeca-ed36-41cb-9287-5bf0caeabd26" width="100"/></td>
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/af64bd67-a436-4b4c-b443-7c624f036c30" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/be3f5f7c-4fd5-425b-8f6d-4fe6c55a22b3" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/6eb8b464-d5e0-45f7-a93d-5ba6ce9c51a4" width="100"/></td>
   </tr>
   <!-- Text -->
   <tr bgcolor="#f6f8fa">
-    <td align="center"><a href="https://github.com/ginesthoii/DevGaze"><strong>SecureMaestro</strong></a><br>Secure, automated practice tools for musicians.<br>
+    <td align="center"><a href="https://github.com/ginesthoii/Mini-Massive"><strong>Mini-Massive</strong></a><br>Secure, automated practice tools for musicians.<br>
       <em>Tech:</em> Python, AppSec sandboxing, Semgrep.<br>
       <em>Status:</em> Active (looping + YouTube API integration).</td>
-    <td align="center"><a href="https://github.com/ginesthoii/PillPal-VitaPro"><strong>11111111</strong></a><br>Supplement + prescription interaction checker.<br>
+    <td align="center"><a href="https://github.com/ginesthoii/HabitHelpers"><strong>Habit Helpers</strong></a><br>Supplement + prescription interaction checker.<br>
       <em>Tech:</em> Python, Vite, AppSec sandbox.<br>
       <em>Status:</em> Active (supplement DB expansion).</td>
-    <td align="center"><a href="https://github.com/ginesthoii/WashU-Projects"><strong>222222</strong></a><br>Cybersecurity Boot Camp portfolio hub (A+).<br>
+    <td align="center"><a href="https://github.com/ginesthoii/DevGaze"><strong>DevGaze</strong></a><br>Cybersecurity Boot Camp portfolio hub (A+).<br>
       <em>Tech:</em> Cryptography, Azure, malware analysis.<br>
       <em>Status:</em> Completed coursework archive.</td>
-    <td align="center"><a href="https://github.com/ginesthoii/HabitHelpers"><strong>33333</strong></a><br>Modular habit suite with API + automation.<br>
+    <td align="center"><a href="https://github.com/ginesthoii/CheckMate"><strong>CheckMate</strong></a><br>Modular habit suite with API + automation.<br>
       <em>Tech:</em> React, Python, Docker, GitHub API.<br>
       <em>Status:</em> Active (Discord/Slack bot in dev).</td>
+ </tr>
+   <!-- Row 2 Icons -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
+  </tr>
+  <!-- Row 2 Text -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><a href="https://github.com/ginesthoii/StretchYourLegs"><strong>StretchYourLegs</strong></a><br>Minimalist intermittent fasting tracker. <br>
+      <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
+      <em>Status:</em> Active (v1 stable).</td>
+    <td align="center"><a href="https://github.com/ginesthoii/TheHungerGains"><strong>NewProject2</strong></a><br>Minimalist intermittent fasting tracker. <br>
+      <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
+      <em>Status:</em> Active (v1 stable).</td>
+    <td align="center"><a href="https://github.com/ginesthoii/TheHungerGains"><strong>NewProject3</strong></a><br>inimalist intermittent fasting tracker. <br>
+      <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
+      <em>Status:</em> Active (v1 stable).</td>
+     <td align="center"><a href="https://github.com/ginesthoii/TheHungerGains"><strong>NewProject3</strong></a><br>inimalist intermittent fasting tracker. <br>
+      <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
+      <em>Status:</em> Active (v1 stable).</td>
+ </td>
   </tr>
 </table>
+
 
 
 <h1 align="center">Security & Professional</h1>
@@ -154,8 +178,32 @@
     <td align="center"><a href="https://github.com/ginesthoii/HabitHelpers"><strong>HabitHelpers</strong></a><br>Modular habit suite with API + automation.<br>
       <em>Tech:</em> React, Python, Docker, GitHub API.<br>
       <em>Status:</em> Active (Discord/Slack bot in dev).</td>
+ </tr>
+   <!-- Row 2 Icons -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
+  </tr>
+  <!-- Row 2 Text -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><a href="https://github.com/ginesthoii/StretchYourLegs"><strong>StretchYourLegs</strong></a><br>Minimalist intermittent fasting tracker. <br>
+      <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
+      <em>Status:</em> Active (v1 stable).</td>
+    <td align="center"><a href="https://github.com/ginesthoii/TheHungerGains"><strong>NewProject2</strong></a><br>Minimalist intermittent fasting tracker. <br>
+      <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
+      <em>Status:</em> Active (v1 stable).</td>
+    <td align="center"><a href="https://github.com/ginesthoii/TheHungerGains"><strong>NewProject3</strong></a><br>inimalist intermittent fasting tracker. <br>
+      <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
+      <em>Status:</em> Active (v1 stable).</td>
+     <td align="center"><a href="https://github.com/ginesthoii/TheHungerGains"><strong>NewProject3</strong></a><br>inimalist intermittent fasting tracker. <br>
+      <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
+      <em>Status:</em> Active (v1 stable).</td>
+ </td>
   </tr>
 </table>
+
 
 <h1 align="center">Creative & Worldbuilding</h1>
 
@@ -164,7 +212,7 @@
   <tr bgcolor="#ffffff">
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/f20d13dd-7c84-4388-8c51-bfba42ebdaf3" width="100"/></td>
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/9a3e41f7-7f5c-49bf-bda9-7302c43c7879" width="100"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/7a6d7549-88a6-49f3-97a5-eac1e9f281c8" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/2172227a-4542-4672-9a4d-945fcaa759b6" width="100"/></td>
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/f430092c-d2ce-483f-b7a9-e984bd53930a" width="100"/></td>
   </tr>
   <!-- Text -->
@@ -182,7 +230,31 @@
       <em>Tech:</em> Python, YAML, taxonomy design.<br>
       <em>Status:</em> Active (adding archetypes).</td>
   </tr>
+   <!-- Row 2 Icons -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
+  </tr>
+  <!-- Row 2 Text -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><a href="https://github.com/ginesthoii/StretchYourLegs"><strong>StretchYourLegs</strong></a><br>Minimalist intermittent fasting tracker. <br>
+      <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
+      <em>Status:</em> Active (v1 stable).</td>
+    <td align="center"><a href="https://github.com/ginesthoii/TheHungerGains"><strong>NewProject2</strong></a><br>Minimalist intermittent fasting tracker. <br>
+      <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
+      <em>Status:</em> Active (v1 stable).</td>
+    <td align="center"><a href="https://github.com/ginesthoii/TheHungerGains"><strong>NewProject3</strong></a><br>inimalist intermittent fasting tracker. <br>
+      <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
+      <em>Status:</em> Active (v1 stable).</td>
+     <td align="center"><a href="https://github.com/ginesthoii/TheHungerGains"><strong>NewProject3</strong></a><br>inimalist intermittent fasting tracker. <br>
+      <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
+      <em>Status:</em> Active (v1 stable).</td>
+ </td>
+  </tr>
 </table>
+
 
 
 <h1 align="center">Fitness & Health</h1>
@@ -209,6 +281,29 @@
       <em>Tech:</em> Python, Bash, Google Sheets.<br>
       <em>Status:</em> Active (refining CLI interface).</td>
   </tr>
+   <!-- Row 2 Icons -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
+  </tr>
+  <!-- Row 2 Text -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><a href="https://github.com/ginesthoii/StretchYourLegs"><strong>StretchYourLegs</strong></a><br>Minimalist intermittent fasting tracker. <br>
+      <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
+      <em>Status:</em> Active (v1 stable).</td>
+    <td align="center"><a href="https://github.com/ginesthoii/TheHungerGains"><strong>NewProject2</strong></a><br>Minimalist intermittent fasting tracker. <br>
+      <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
+      <em>Status:</em> Active (v1 stable).</td>
+    <td align="center"><a href="https://github.com/ginesthoii/TheHungerGains"><strong>NewProject3</strong></a><br>inimalist intermittent fasting tracker. <br>
+      <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
+      <em>Status:</em> Active (v1 stable).</td>
+     <td align="center"><a href="https://github.com/ginesthoii/TheHungerGains"><strong>NewProject3</strong></a><br>inimalist intermittent fasting tracker. <br>
+      <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
+      <em>Status:</em> Active (v1 stable).</td>
+ </td>
+  </tr>
 </table>
 
 
@@ -223,7 +318,7 @@
   </tr>
   <!-- Text -->
   <tr bgcolor="#f6f8fa">
-    <td align="center"><a href="https://github.com/ginesthoii/WoodenItBeNice"><strong>WoodenItBeNice</strong></a><br>DIY woodworking meets code.<br>
+    <td align="center"><a href="https://github.com/ginesthoii/WoodenItBeNice"><strong>Wooden It Be Nice</strong></a><br>DIY woodworking meets code.<br>
       <em>Tech:</em> Python, Java, Blender, YAML.<br>
       <em>Status:</em> Active (adding jigs + boards).</td>
     <td align="center"><a href="https://github.com/ginesthoii/PixelPortfolio"><strong>PixelPortfolio</strong></a><br>Retro-inspired Pygame gallery.<br>
@@ -235,9 +330,86 @@
     <td align="center"><a href="https://github.com/ginesthoii/ShelfScapes"><strong>ShelfScapes</strong></a><br>Immersive book nooks: CAD, Arduino lighting. <br>
       <em>Tech:</em> CAD, Arduino/ESP32, FreeCAD.<br>
       <em>Status:</em> Active (gallery docs in progress).</td>
+ </tr>
+   <!-- Row 2 Icons -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
+  </tr>
+  <!-- Row 2 Text -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><a href="https://github.com/ginesthoii/hook-and-ring"><strong>Hook-and-Ring</strong></a><br>Minimalist intermittent fasting tracker. <br>
+      <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
+      <em>Status:</em> Active (v1 stable).</td>
+    <td align="center"><a href="https://github.com/ginesthoii/TheHungerGains"><strong>NewProject2</strong></a><br>Minimalist intermittent fasting tracker. <br>
+      <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
+      <em>Status:</em> Active (v1 stable).</td>
+    <td align="center"><a href="https://github.com/ginesthoii/TheHungerGains"><strong>NewProject3</strong></a><br>inimalist intermittent fasting tracker. <br>
+      <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
+      <em>Status:</em> Active (v1 stable).</td>
+     <td align="center"><a href="https://github.com/ginesthoii/TheHungerGains"><strong>NewProject3</strong></a><br>inimalist intermittent fasting tracker. <br>
+      <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
+      <em>Status:</em> Active (v1 stable).</td>
+ </td>
   </tr>
 </table>
 
+
+
+---
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8ea417a5-9caa-4bc5-a479-101b763b385e" alt="Image" width="55%" height="10%" style="border-radius:15px;"/>
+</p>
+
+<table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:8px;">
+
+<tr>
+  <!-- CPP/C# -->
+  <td style="width:45%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
+    <h3 align="center">  C## • CPP</h3>
+    <p align="center"><em>Self-contained front-end apps. Run directly in the browser with <code>index.html</code>.</em></p>
+    <!-- Inserted Image -->
+    <div align="center">
+      <img width="904" height="28" alt="Image" src="https://github.com/user-attachments/assets/03ee561f-4934-4ae5-a1b7-92dcee6ef825" />
+    </div>
+        <ul>
+      <li><strong>TextToSpeech/</strong> – Convert text into speech with pitch, speed, and voice controls.</li>
+      <li><strong>Dog-Clicker-Trainer/</strong> – Digital training clicker with sound + session stats.</li>
+      <li><strong>Basic-Post-It-Notes/</strong> –   Interactive post-it notes app built with HTML, CSS, and JavaScript — create, edit, and delete notes directly in the browser.</li>
+    </ul>
+  </td>
+
+<!-- Java/Rust -->
+<td style="width:55%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
+  <h3 align="center"> Java/Rust</h3>   
+  <p align="center"><em>Self-contained Python scripts. Run from terminal with one command.</em></p>
+  <!-- Inserted Image -->
+  <div align="center">
+    <img width="904" height="21" alt="Python Projects" src="https://github.com/user-attachments/assets/c683de25-61b9-42c1-a717-97f919ade98a" />
+  </div>
+
+  <ul>
+      <li><strong>password_generator/</strong> – Random secure password generator.</li>
+      <li><strong>countdown/</strong> – Simple timer with <code>time.sleep</code>.</li>
+    </ul>
+  </td>
+</tr>
+
+</table>
+
+<div align="center">
+
+| <img src="https://github.com/user-attachments/assets/6e949dcf-6bce-42b9-a925-d186d75bdcda" height="300" width="320"/> | <img src="https://github.com/user-attachments/assets/a61618b3-6a50-4305-a5db-aeb36d6343e7" height="300" width="320"/> | <img src="https://github.com/user-attachments/assets/bf81a157-87b7-45d4-ba31-f47b4a60b4c3" height="300" width="320"/> |
+|---|---|---|
+
+
+
+</div>
 
 ---
 
@@ -426,6 +598,47 @@
       <div align="center" style="padding-top:10px;">
         <img src="https://github.com/user-attachments/assets/cb659c76-c9f6-4abf-af5f-1d535be8fcb9" width="80" alt="SnakeWitch badge">
         <h3 style="margin:12px 0; text-align:center;"><strong>SnakeWitch</strong></h3>
+      </div>
+      <p style="text-align:center; margin:8px 0 16px;">
+        Lightweight snake-keeping toolkit — quick utilities, integrations, and AppSheet automations.
+      </p>
+      <ul style="text-align:left; padding-left:20px; margin:0;">
+        <li><a href="https://github.com/SnakeWitch">Org</a></li>
+        <li><a href="https://github.com/SnakeWitch/SnakeWitchSheets">SnakeWitchSheets</a> — Sheets + AppScript templates</li>
+        <li><a href="https://github.com/SnakeWitch/TankTemp">TankTemp</a> — temperature & unit converter</li>
+        <li><a href="https://github.com/SnakeWitch/FeedingCharm">FeedingCharm</a> — feeding log reminders</li>
+        <li><a href="https://github.com/SnakeWitch/MorphNotes">MorphNotes</a> — markdown templates for morphs</li>
+        <li><a href="https://github.com/SnakeWitch/IncubatorCalc">IncubatorCalc</a> — humidity & temperature calculator</li>
+        <li><a href="https://github.com/SnakeWitch/ShedAlert">ShedAlert</a> — shed cycle prediction</li>
+      </ul>
+    </td>
+    <!-- CatholicMedusa -->
+    <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:480px;">
+      <div align="center" style="padding-top:10px;">
+        <img src="https://github.com/user-attachments/assets/88472d07-74b3-4788-8769-3b6d3ec6a18f" width="80" alt="CatholicMedusa badge">
+        <h3 style="margin:12px 0; text-align:center;"><strong>CatholicMedusa</strong></h3>
+      </div>
+      <p style="text-align:center; margin:8px 0 16px;">
+        Modular ecosystem for ball python husbandry — blends biology, security, and software into one toolkit.
+      </p>
+      <ul style="text-align:left; padding-left:20px; margin:0;">
+        <li><a href="https://github.com/CatholicMedusa">Org</a></li>
+        <li><a href="https://github.com/CatholicMedusa/SerpentTracker">SerpentTracker</a> — daily husbandry logger</li>
+        <li><a href="https://github.com/CatholicMedusa/GorgonGenetics">GorgonGenetics</a> — morph inheritance simulator</li>
+        <li><a href="https://github.com/CatholicMedusa/MedusasGaze">MedusasGaze</a> — vision & sensor tools</li>
+        <li><a href="https://github.com/CatholicMedusa/HydraHub">HydraHub</a> — integration/API layer</li>
+        <li><a href="https://github.com/CatholicMedusa/ClutchKeeper">ClutchKeeper</a> — clutch dashboard & insights</li>
+        <li><a href="https://github.com/CatholicMedusa/MedusaCore">MedusaCore</a> — core Java models & utilities</li>
+      </ul>
+    </td>
+  </tr>
+<!-- Row 5 -->
+  <tr>
+    <!-- Self-Taught Sandbox -->
+    <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:480px;">
+      <div align="center" style="padding-top:10px;">
+        <img src="https://github.com/user-attachments/assets/cb659c76-c9f6-4abf-af5f-1d535be8fcb9" width="80" alt="SnakeWitch badge">
+        <h3 style="margin:12px 0; text-align:center;"><strong>Self-Taught Sandbox</strong></h3>
       </div>
       <p style="text-align:center; margin:8px 0 16px;">
         Lightweight snake-keeping toolkit — quick utilities, integrations, and AppSheet automations.
