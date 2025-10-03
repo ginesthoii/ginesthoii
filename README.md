@@ -266,6 +266,7 @@
       <li><strong>Typing-Speed-Test-Game/</strong> – Typing test with WPM/CPM, accuracy, mistakes, dark mode.</li>
       <li><strong>Dog-Age-Calculator/</strong> – Human-year estimate adjusted by dog size.</li>
       <li><strong>Dog-Clicker-Trainer/</strong> – Digital training clicker with sound + session stats.</li>
+      <li><strong>Basic-Post-It-Notes/</strong> –   Interactive post-it notes app built with HTML, CSS, and JavaScript — create, edit, and delete notes directly in the browser.</li>
     </ul>
   </td>
 
