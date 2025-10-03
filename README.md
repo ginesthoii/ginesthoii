@@ -333,9 +333,9 @@
  </tr>
    <!-- Row 2 Icons -->
   <tr bgcolor="#f6f8fa">
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/a294a038-c212-40b6-a237-63810b8db3e1" width="100"</td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/ad4057af-d496-44b5-a3e8-18e745b5252a" width="100"</td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/49673efd-5a63-4e11-a0c5-28472d52475d" width="100"</td>
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
   </tr>
   <!-- Row 2 Text -->
@@ -357,6 +357,10 @@
 </table>
 
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1bfbfdf9-7555-4b03-b3e9-f09b31f7145e" width="600" height="300" >
+</p>
+     
 
 ---
 
@@ -791,33 +795,38 @@ Tracking online courses I’m working through to build skills in security, web d
 
 | Course | Instructor(s) |
 |--------|---------------|
-| CompTIA Security+ (SY0-701) Complete Course & Practice Exam | Jason Dion, Jamario Kelly, Dion Training |
-| The Web Developer Bootcamp 2025 | Colt Steele |
-| Advanced CSS and Sass: Flexbox, Grid, Animations and More! | Jonas Schmedtmann |
 | The Ultimate 2025 Fullstack Web Development Bootcamp | Kane Ezki, Kalob Taulien, Radek Wilk |
-| Visual Studio Code for Developers 2025: Beginner to Advanced | Estefania Cassingena Navone |
+| The Complete Full-Stack Web Development Bootcamp | Dr. Angela Yu |
+| CompTIA Security+ (SY0-701) Complete Course & Practice Exam | Jason Dion, Jamario Kelly, Dion Training |
 | The Complete Guide To Custom GPTs and Actions | Colt Steele |
 | Docker & Kubernetes: The Practical Guide [2025 Edition] | Maximilian Schwarzmüller, Academind |
+| The Web Developer Bootcamp 2025 | Colt Steele |
 | The Git & GitHub Bootcamp | Colt Steele |
+| Advanced CSS and Sass: Flexbox, Grid, Animations and More! | Jonas Schmedtmann |
+| Visual Studio Code for Developers 2025: Beginner to Advanced | Estefania Cassingena Navone |
 | Creative Advanced CSS & JavaScript Animations - 150 Projects | Ahmed Sadek |
 | Build Responsive Real-World Websites with HTML and CSS | Jonas Schmedtmann |
-| The Complete Full-Stack Web Development Bootcamp | Dr. Angela Yu |
 
 </div>
 
 <br>
 
+
 <div align="center">
-<table width="100%" style="table-layout: fixed; border-collapse: collapse; margin: 14px 0;">
+
+<table style="width:100%; table-layout:fixed; border-collapse:collapse; margin:14px 0;">
   <tr>
-    <!-- Badge row -->
-    <td align="center" style="padding:12px; border:1px solid #e5e7eb; height:240px;">
-      <img src="https://github.com/user-attachments/assets/68c474d4-7eb6-4250-be9a-c47a0cf74c8b" width="220" height="320" alt="Cisco Networking Academy"/>
+    <!-- Row 1: badges -->
+    <td style="width:33.33%; padding:12px; border:1px solid #e5e7eb; height:500px;" align="center">
+  <img src="https://github.com/user-attachments/assets/68c474d4-7eb6-4250-be9a-c47a0cf74c8b" width="220" height="320" alt="Cisco Networking Academy"/>    </td>
+    <td style="width:33.33%; padding:12px; border:1px solid #e5e7eb; height:200px;" align="center">
+      <img src="https://github.com/user-attachments/assets/30dfb9e1-e0ea-4dd8-bfe8-65e252c3fe1b" width="140" height="180" alt="Python Institute">
     </td>
   </tr>
-  <tr>
-    <!-- Info row -->
-    <td align="left" valign="top" style="padding:14px 16px; border:1px solid #e5e7eb;">
+
+   <tr>
+    <!-- Row 2: info -->
+    <td style="width:33.33%; padding:14px 16px; border:1px solid #e5e7eb;" align="left" valign="top">
       <b>Cisco Networking Academy</b><br>
       • Operating Systems Basics — <i>Beginner</i><br>
       • Computer Hardware Basics — <i>Beginner</i><br>
@@ -830,11 +839,17 @@ Tracking online courses I’m working through to build skills in security, web d
       • Endpoint Security — <i>Beginner</i><br>
       • Ethical Hacker — <i>Intermediate</i>
     </td>
+    <td style="width:33.33%; padding:14px 16px; border:1px solid #e5e7eb;" align="left" valign="top">
+      <b>Oracle University</b><br>
+      • OCI AI Foundations — <i>Credential: Foundations Associate</i><br>
+      • OCI Generative AI — <i>Credential: Professional</i><br>
+      • Oracle AI Vector Search — <i>Credential: Foundations Professional</i><br>
+      • OCI Data Science — <i>Credential: Professional</i><br>
+    </td>
   </tr>
-</table>
-</div>
+  
 
-<br>
+<br><br>
 
 
 <div align="center">
