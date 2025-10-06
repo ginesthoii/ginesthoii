@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/acab5d1e-c4b0-4fac-8b52-3a3a7bb5580f" alt="Skills Left" width="75%" height="50%" style="border-radius:15px;"/>
+  <img src="https://github.com/user-attachments/assets/acab5d1e-c4b0-4fac-8b52-3a3a7bb5580f" alt="Skills Left" width="75%" height="40%" style="border-radius:15px;"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@
 <br> 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/97efb6b8-5976-416c-a3c9-3cbee9b89f8e" alt="GIF" height="370" width="370"/>
+  <img src="https://github.com/user-attachments/assets/97efb6b8-5976-416c-a3c9-3cbee9b89f8e" alt="GIF" height="320" width="320"/>
 </p>
 
 <br> 
@@ -89,7 +89,7 @@
  ---
  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/db1c7685-5388-4f91-925c-1067af645164" alt="Image" width="70%" height="20%" style="border-radius:15px;"/>
+  <img src="https://github.com/user-attachments/assets/db1c7685-5388-4f91-925c-1067af645164" alt="Image" width="600" height="300" style="border-radius:15px;"/>
 </p>
 
 </p>
@@ -108,7 +108,7 @@
 
 
 
-<br><br> 
+<br>
 
 ---
  
@@ -116,15 +116,13 @@
   <img src="https://github.com/user-attachments/assets/6a9fbc3b-9c0f-4a3c-85c5-8589fb27eb69" alt="Image" width="100%" height="20%" style="border-radius:15px;"/>
 </p>
 
-<br> 
 
 ---
 
-<br><br>
-
+<br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/19a4363c-fccd-459c-86a0-ffded139f326" alt="Image" width="70%" height="10%" style="border-radius:1px;"/>
+  <img src="https://github.com/user-attachments/assets/19a4363c-fccd-459c-86a0-ffded139f326" alt="Image" width="600" height="400" style="border-radius:1px;"/>
 </p>
  
 
@@ -395,32 +393,29 @@
 <table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:8px;">
 
 <tr>
-  <!-- CPP/C# -->
-  <td style="width:45%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
-    <h3 align="center">  C## • CPP</h3>
-    <p align="center"><em>Self-contained front-end apps. Run directly in the browser with <code>index.html</code>.</em></p>
-    <!-- Inserted Image -->
-    <div align="center">
-      <img width="904" height="28" alt="Image" src="https://github.com/user-attachments/assets/03ee561f-4934-4ae5-a1b7-92dcee6ef825" />
+  <!-- C++ / C# -->
+  <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:4px;">
+    <h3 align="center">C++ • C • C#</h3>
+    <p align="center"><em>Compiled or engine-based demos. GUI and logic focused.</em></p>
+     <div align="center">
+      <img width="904" height="108" alt="Image" src="https://github.com/user-attachments/assets/8eb394af-cd7e-4c2c-908c-8e3ce845d759" />
     </div>
-        <ul>
+    <ul>
       <li><strong>TextToSpeech/</strong> – Convert text into speech with pitch, speed, and voice controls.</li>
       <li><strong>Dog-Clicker-Trainer/</strong> – Digital training clicker with sound + session stats.</li>
     </ul>
   </td>
 
-<!-- Java/Rust -->
-<td style="width:55%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
-  <h3 align="center"> Java/Rust</h3>   
-  <p align="center"><em>Self-contained Python scripts. Run from terminal with one command.</em></p>
-  <!-- Inserted Image -->
-  <div align="center">
-    <img width="904" height="21" alt="Python Projects" src="https://github.com/user-attachments/assets/c683de25-61b9-42c1-a717-97f919ade98a" />
-  </div>
-
-  <ul>
+  <!-- Java / Rust -->
+  <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:4px;">
+    <h3 align="center">Java • Rust</h3>
+    <p align="center"><em>Systems or terminal-based builds. Lightweight and self-contained.</em></p>
+   <div align="center">
+      <img width="904" height="108" alt="Image" src="https://github.com/user-attachments/assets/8324cc0f-e1ff-42f5-85f9-8bfdcf293c94" />
+    </div>
+    <ul>
       <li><strong>password_generator/</strong> – Random secure password generator.</li>
-      <li><strong>countdown/</strong> – Simple timer with <code>time.sleep</code>.</li>
+      <li><strong>countdown/</strong> – Simple timer using <code>sleep</code>.</li>
     </ul>
   </td>
 </tr>
@@ -428,10 +423,6 @@
 </table>
 
 ---
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8ea417a5-9caa-4bc5-a479-101b763b385e" alt="Image" width="55%" height="10%" style="border-radius:15px;"/>
-</p>
 
 <table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:8px;">
 
