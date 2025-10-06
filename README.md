@@ -32,11 +32,19 @@
 </p>
 
 ---
+
+<br> 
+
 <p align="center">
   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(5).gif" alt="Term" height="600" width="600"/>
 </p>
 
+<br> 
+
 ---
+
+<br> 
+
 
    <div align="center">
      
@@ -47,13 +55,17 @@
    </div>
 
 
-
+<br> 
 
 ---
+
+<br> 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/97efb6b8-5976-416c-a3c9-3cbee9b89f8e" alt="GIF" height="370" width="370"/>
 </p>
+
+<br> 
 
 ---
 
@@ -62,13 +74,17 @@
   <img src="https://github.com/user-attachments/assets/5ebdfa36-579c-447d-89c6-1f2b18972fa7" alt="Image" height="500" width="2000"/>
 </p>
 
+<br> 
 
 ---
+
+<br> 
 
 <p align="center">
   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/pup.gif" alt="pup GIF" height="200" width="200"/>
 </p>
 
+<br> 
 
  ---
  
@@ -91,6 +107,16 @@
 </p>
 
 
+
+<br><br> 
+
+---
+ 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6a9fbc3b-9c0f-4a3c-85c5-8589fb27eb69" alt="Image" width="100%" height="20%" style="border-radius:15px;"/>
+</p>
+
+<br> 
 
 ---
 
@@ -357,10 +383,6 @@
 </table>
 
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/1bfbfdf9-7555-4b03-b3e9-f09b31f7145e" width="600" height="300" >
-</p>
-     
 
 ---
 
@@ -384,7 +406,6 @@
         <ul>
       <li><strong>TextToSpeech/</strong> – Convert text into speech with pitch, speed, and voice controls.</li>
       <li><strong>Dog-Clicker-Trainer/</strong> – Digital training clicker with sound + session stats.</li>
-      <li><strong>Basic-Post-It-Notes/</strong> –   Interactive post-it notes app built with HTML, CSS, and JavaScript — create, edit, and delete notes directly in the browser.</li>
     </ul>
   </td>
 
@@ -405,15 +426,6 @@
 </tr>
 
 </table>
-
-<div align="center">
-
-| <img src="https://github.com/user-attachments/assets/6e949dcf-6bce-42b9-a925-d186d75bdcda" height="300" width="320"/> | <img src="https://github.com/user-attachments/assets/a61618b3-6a50-4305-a5db-aeb36d6343e7" height="300" width="320"/> | <img src="https://github.com/user-attachments/assets/bf81a157-87b7-45d4-ba31-f47b4a60b4c3" height="300" width="320"/> |
-|---|---|---|
-
-
-
-</div>
 
 ---
 
