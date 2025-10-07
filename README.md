@@ -780,6 +780,14 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1d0e27b9-aa09-41ce-bd76-4ea2c2834633"
+ alt="Image" width="650" height="650"/>
+</p>
+
+
+
+
 <br>
 
 <p align="center">
@@ -828,16 +836,12 @@ Tracking online courses I’m working through to build skills in security, web d
     <!-- Row 2: info -->
     <td style="width:33.33%; padding:14px 16px; border:1px solid #e5e7eb;" align="left" valign="top">
       <b>Cisco Networking Academy</b><br>
-      • Operating Systems Basics — <i>Beginner</i><br>
-      • Computer Hardware Basics — <i>Beginner</i><br>
       • Introduction to Data Science — <i>Beginner</i><br>
       • Data Analytics Essentials — <i>Beginner</i><br>
       • Data Science Essentials with Python — <i>Intermediate</i><br>
       • Introduction to Modern AI — <i>Beginner</i><br>
       • Introduction to Cybersecurity — <i>Beginner</i><br>
       • Network Defense — <i>Beginner</i><br>
-      • Endpoint Security — <i>Beginner</i><br>
-      • Ethical Hacker — <i>Intermediate</i>
     </td>
     <td style="width:33.33%; padding:14px 16px; border:1px solid #e5e7eb;" align="left" valign="top">
       <b>Oracle University</b><br>
@@ -851,14 +855,14 @@ Tracking online courses I’m working through to build skills in security, web d
 
 <br><br>
 
-
 <div align="center">
 
 <table style="width:100%; table-layout:fixed; border-collapse:collapse; margin:14px 0;">
+
   <tr>
     <!-- Row 1: badges -->
-    <td style="width:33.33%; padding:12px; border:1px solid #e5e7eb; height:500px;" align="center">
-      <img src="https://github.com/user-attachments/assets/6d42b765-2219-46c0-8af6-8869d361805c" width="140" height="180" alt="NDG">
+    <td style="width:33.33%; padding:12px; border:1px solid #e5e7eb; height:200px;" align="center">
+      <img src="https://github.com/user-attachments/assets/b9b8cc9e-c62d-4f38-8c84-a3c10db4f6ad" width="140" height="140" alt="C++ Institute">
     </td>
     <td style="width:33.33%; padding:12px; border:1px solid #e5e7eb; height:200px;" align="center">
       <img src="https://github.com/user-attachments/assets/8b6d88eb-10d7-4ea3-91ba-e639a2625c67" width="140" height="180" alt="Python Institute">
@@ -871,9 +875,8 @@ Tracking online courses I’m working through to build skills in security, web d
   <tr>
     <!-- Row 2: info -->
     <td style="width:33.33%; padding:14px 16px; border:1px solid #e5e7eb;" align="left" valign="top">
-      <b>NDG (Linux)</b><br>
-      • Linux Essentials — <i>Intermediate</i><br>
-      • Linux Unhatched — <i>Beginner</i>
+      <b>C++ Essentials (Cisco)</b><br>
+      • C++ Essentials 1 — <i>Beginner</i>
     </td>
     <td style="width:33.33%; padding:14px 16px; border:1px solid #e5e7eb;" align="left" valign="top">
       <b>Python Essentials (Cisco)</b><br>
@@ -886,34 +889,6 @@ Tracking online courses I’m working through to build skills in security, web d
     </td>
   </tr>
 
-  <tr>
-    <!-- Row 3: badges -->
-    <td style="width:33.33%; padding:12px; border:1px solid #e5e7eb; height:100px;" align="center">
-      <img src="https://github.com/user-attachments/assets/b9b8cc9e-c62d-4f38-8c84-a3c10db4f6ad" width="140" height="140" alt="C++ Institute">
-    </td>
-    <td style="width:33.33%; padding:12px; border:1px solid #e5e7eb; height:100px;" align="center">
-      <img src="https://github.com/user-attachments/assets/511aa5ff-1cbd-4cb9-9c3e-5d982f916062" width="140" height="140" alt="IBM SkillsBuild">
-    </td>
-    <td style="width:33.33%; padding:12px; border:1px solid #e5e7eb; height:100px;" align="center">
-      <img src="https://github.com/user-attachments/assets/30261607-7073-42a7-a3d5-fdbfb071a31c" width="140" height="140" alt="Google Cloud">
-    </td>
-  </tr>
-
-  <tr>
-    <!-- Row 4: info -->
-    <td style="width:33.33%; padding:14px 16px; border:1px solid #e5e7eb;height:200px;" align="left" valign="top">
-      <b>C++ Essentials (Cisco)</b><br>
-      • C++ Essentials 1 — <i>Beginner</i>
-    </td>
-    <td style="width:33.33%; padding:14px 16px; border:1px solid #e5e7eb;height:200px;" align="left" valign="top">
-      <b>IBM SkillsBuild</b><br>
-      • AI Fundamentals — <i>Beginner</i>
-    </td>
-    <td style="width:33.33%; padding:14px 16px; border:1px solid #e5e7eb; height:200px;" align="left" valign="top">
-      <b>Intel</b><br>
-      • Introduction to Generative AI — <i>Module</i>
-    </td>
-  </tr>
 </table>
 
 </div>
