@@ -357,7 +357,7 @@
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/a294a038-c212-40b6-a237-63810b8db3e1" width="100"</td>
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/ad4057af-d496-44b5-a3e8-18e745b5252a" width="100"</td>
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/49673efd-5a63-4e11-a0c5-28472d52475d" width="100"</td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"</td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/d9271229-7163-44f0-8f56-3235a13d312f" width="100"</td>
   </tr>
   <!-- Row 2 Text -->
   <tr bgcolor="#f6f8fa">
@@ -370,7 +370,7 @@
     <td align="center"><a href="https://github.com/ginesthoii/TheHungerGains"><strong>NewProject3</strong></a><br>inimalist intermittent fasting tracker. <br>
       <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
       <em>Status:</em> Active (v1 stable).</td>
-     <td align="center"><a href="https://github.com/ginesthoii/TheHungerGains"><strong>NewProject3</strong></a><br>inimalist intermittent fasting tracker. <br>
+     <td align="center"><a href="https://github.com/ginesthoii/CutCoach"><strong>CutCoach</strong></a><br>inimalist intermittent fasting tracker. <br>
       <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
       <em>Status:</em> Active (v1 stable).</td>
  </td>
