@@ -459,6 +459,9 @@
       <li><strong>password_generator/</strong> – Random secure password generator.</li>
       <li><strong>countdown/</strong> – Simple timer with <code>time.sleep</code>.</li>
       <li><strong>dice/</strong> – Six-sided dice roller.</li>
+      <li><strong>custom-start-day-calendar/</strong> – Generate calendars with any chosen start day            (e.g. Sunday instead of Monday).</li>
+      <li><strong>monthly-calendar/</strong> – Print a single month’s calendar in the terminal.</li>
+      <li><strong>yearly-calendar/</strong> –  Display an entire year’s calendar in text format.</li>
       <li><strong>reverse_text/</strong> – Reverse any input string.</li>
       <li><strong>weather/</strong> – Minimal OpenWeather client (API key required).</li>
       <li><strong>number_guess/</strong> – Guessing game (1–50).</li>
@@ -471,6 +474,7 @@
       <li><strong>mini_metronome/</strong> – Lightweight CLI metronome with downbeat accents (afplay/simpleaudio backend).</li>
       <li><strong>Watermark/</strong> — Modern, flexible PDF watermarking. Single PDF or whole folder (batch), default watermark (PDF or generated text), customizable pages, locations, rotation. </li>
     <li><strong>Detect-Plagiarism/</strong> —Compare two text files with Dice and Jaccard similarity, stopword filtering, and a simple Tkinter interface. </li>
+       <li><strong>Domain-Lookup/</strong> — Lightweight CLI to check domain registration data reliably across modern TLDs. (RDAP-first, WHOIS fallback) </li>
     </ul>
   </td>
 </tr>
