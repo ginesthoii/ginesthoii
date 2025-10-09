@@ -781,8 +781,8 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1d0e27b9-aa09-41ce-bd76-4ea2c2834633"
- alt="Image" width="650" height="650"/>
+  <img src="https://github.com/user-attachments/assets/f2301059-c514-45ba-9afe-ac33536786c1"
+ alt="Image" width="550" height="300"/>
 </p>
 
 
