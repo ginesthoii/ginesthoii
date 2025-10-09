@@ -782,7 +782,7 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f2301059-c514-45ba-9afe-ac33536786c1"
- alt="Image" width="550" height="300"/>
+ alt="Image" width="450" height="250"/>
 </p>
 
 
