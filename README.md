@@ -501,9 +501,11 @@
   <!-- Row 1 -->
   <tr>
     <!-- CaregiverQR -->
-    <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; padding:24px; height:480px;">
-      <div align="center" style="padding-top:10px;">
-        <img src="https://github.com/user-attachments/assets/ba45d9ad-a6ea-4fe9-9a3b-9a0cfd15b707" width="80" alt="CaregiverQR badge">
+    <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; padding:24px; height:550px;">
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="60">
+  <!-- spacer --> <br><br>
+  <img src="https://github.com/user-attachments/assets/ba45d9ad-a6ea-4fe9-9a3b-9a0cfd15b707" width="80" alt="CaregiverQR badge">
         <h3 style="margin:12px 0; text-align:center;"><strong>CaregiverQR</strong></h3>
       </div>
       <p style="text-align:center; margin:8px 0 16px;">
@@ -515,9 +517,11 @@
       </ul>
     </td>
     <!-- PhantomScanner -->
-    <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; padding:24px; height:480px;">
-      <div align="center" style="padding-top:10px;">
-        <img src="https://github.com/user-attachments/assets/515e789c-66f8-49b2-9052-98b3077eeb53" width="80" alt="CloakAndCipher badge">
+    <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; padding:24px; height:550px;">
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="60">
+  <!-- spacer --> <br><br>
+  <img src="https://github.com/user-attachments/assets/515e789c-66f8-49b2-9052-98b3077eeb53" width="80" alt="CloakAndCipher badge">
         <h3 style="margin:12px 0; text-align:center;"><strong>PhantomScanner</strong></h3>
       </div>
       <p style="text-align:center; margin:8px 0 16px;">
@@ -532,9 +536,11 @@
   <!-- Row 2 -->
   <tr>
     <!-- GargoyleOffGrid -->
-    <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; padding:24px; height:480px;">
-      <div align="center" style="padding-top:10px;">
-        <img src="https://github.com/user-attachments/assets/23ae9e72-5ee3-4fe7-9eb4-39f537df1a02" width="80" alt="GargoyleOffGrid badge">
+    <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; padding:24px; height:550px;">
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="60">
+  <!-- spacer --> <br><br>
+  <img src="https://github.com/user-attachments/assets/23ae9e72-5ee3-4fe7-9eb4-39f537df1a02" width="80" alt="GargoyleOffGrid badge">
         <h3 style="margin:12px 0; text-align:center;"><strong>GargoyleOffGrid</strong></h3>
       </div>
       <p style="text-align:center; margin:8px 0 16px;">
@@ -547,9 +553,11 @@
       </ul>
     </td>
     <!-- AlexandriaArchiveAPI -->
-    <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; padding:24px; height:480px;">
-      <div align="center" style="padding-top:10px;">
-        <img src="https://github.com/user-attachments/assets/38da0fdd-f7f3-48c1-9e6c-909874fde336" width="80" alt="Alexandria badge">
+    <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; padding:24px; height:550px;">
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="60">
+  <!-- spacer --> <br><br>
+  <img src="https://github.com/user-attachments/assets/38da0fdd-f7f3-48c1-9e6c-909874fde336" width="80" alt="Alexandria badge">
         <h3 style="margin:12px 0; text-align:center;"><strong>AlexandriaArchiveAPI</strong></h3>
       </div>
       <p style="text-align:center; margin:8px 0 16px;">
@@ -565,9 +573,9 @@
   <!-- Row 3 -->
   <tr>
     <!-- StoryShield -->
-    <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:480px;">
+    <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:750px;">
       <div align="center" style="padding-top:10px;">
-        <img src="https://github.com/user-attachments/assets/322bfb13-f57b-4d79-afab-f8b885de6c1c" width="80" alt="StoryShield badge">
+        <img src="https://github.com/user-attachments/assets/ffb51f3c-4984-4fca-9386-c40f40f2520a" width="80" alt="StoryShield badge">
         <h3 style="margin:12px 0; text-align:center;"><strong>StoryShield</strong></h3>
       </div>
       <p style="text-align:center; margin:8px 0 16px;">
@@ -577,18 +585,26 @@
         <li><a href="https://github.com/myStoryShield">myStoryShield</a> — org</li>
         <li><a href="https://github.com/myStoryShield/StoryShieldSheets">StoryShieldSheets</a> — Google Sheets + AppScript + AppSheet templates</li>
         <li><a href="https://github.com/myStoryShield/Storyshield">Storyshield</a> — core platform repo</li>
-        <li><a href="https://github.com/StoryShieldApp">StoryShieldApp</a> — app/front-end concepts</li>
+        <li><a href="https://github.com/myStoryShield/Book-Manager"</a> Book Manager</li>
+        <li><a href="https://github.com/myStoryShield/SideScripts"</a> Side Scripts</li>
+        <li><a href="https://github.com/StoryShieldApp">StoryShieldApp</a> — app/PWA </li>
+        <li><a href="https://github.com/StoryShieldApp/Frontend">StoryShieldApp</a> — app/Frontend concepts</li>
       </ul>
     </td>
     <!-- aFungusAmongUs -->
-    <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:480px;">
-      <div align="center" style="padding-top:10px;">
-        <img src="https://github.com/user-attachments/assets/f32c9516-b385-4343-9b91-02b1a019e912" width="80" alt="Fungus badge">
-        <h3 style="margin:12px 0; text-align:center;"><strong>aFungusAmongUs</strong></h3>
-      </div>
-      <p style="text-align:center; margin:8px 0 16px;">
-        Grow, cook, forage & learn — a playful but practical open-source ecosystem for fungi.
-      </p>
+<!-- aFungusAmongUs (make this match) -->
+<td style="width:50%; vertical-align:center; border:5px solid #d0d7de; padding:24px; height:750px;">
+  <!-- Spacer that never collapses -->
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="60">
+  <!-- spacer --> <br><br>
+  <img src="https://github.com/user-attachments/assets/7b3e8cf5-659b-4dfc-bfda-5758ede4cb3d" width="80" alt="Fungus badge">
+  <h3><strong>aFungusAmongUs</strong></h3>
+</div>
+
+  <p style="text-align:center; margin:8px 0 16px;">
+    Grow, cook, forage & learn — a playful but practical open-source ecosystem for fungi.
+  </p>
       <ul style="text-align:left; padding-left:20px; margin:0;">
         <li><a href="https://github.com/aFungusAmongUs">Org</a></li>
         <li><a href="https://github.com/aFungusAmongUs/SmallScripts">SmallScripts</a> — automation for cultivation (Arduino/ESP/RPi + logging)</li>
@@ -599,11 +615,14 @@
       </ul>
     </td>
   </tr>
+  <br>
   <!-- Row 4 -->
   <tr>
     <!-- SnakeWitch -->
-    <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:480px;">
+    <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:550px;">
       <div align="center" style="padding-top:10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="60">
+  <!-- spacer --> <br><br>
         <img src="https://github.com/user-attachments/assets/cb659c76-c9f6-4abf-af5f-1d535be8fcb9" width="80" alt="SnakeWitch badge">
         <h3 style="margin:12px 0; text-align:center;"><strong>SnakeWitch</strong></h3>
       </div>
@@ -621,9 +640,11 @@
       </ul>
     </td>
     <!-- CatholicMedusa -->
-    <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:480px;">
-      <div align="center" style="padding-top:10px;">
-        <img src="https://github.com/user-attachments/assets/88472d07-74b3-4788-8769-3b6d3ec6a18f" width="80" alt="CatholicMedusa badge">
+    <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:550px;">
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="60">
+  <!-- spacer --> <br><br>
+  <img src="https://github.com/user-attachments/assets/88472d07-74b3-4788-8769-3b6d3ec6a18f" width="80" alt="CatholicMedusa badge">
         <h3 style="margin:12px 0; text-align:center;"><strong>CatholicMedusa</strong></h3>
       </div>
       <p style="text-align:center; margin:8px 0 16px;">
@@ -643,9 +664,9 @@
 <!-- Row 5 -->
   <tr>
     <!-- Self-Taught Sandbox -->
-    <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:480px;">
+    <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:550px;">
       <div align="center" style="padding-top:10px;">
-        <img src="https://github.com/user-attachments/assets/cb659c76-c9f6-4abf-af5f-1d535be8fcb9" width="80" alt="SnakeWitch badge">
+        <img src="https://github.com/user-attachments/assets/e16cfb1f-a582-4d2a-86c5-0a7cb47827d6" width="80" alt="SnakeWitch badge">
         <h3 style="margin:12px 0; text-align:center;"><strong>Self-Taught Sandbox</strong></h3>
       </div>
       <p style="text-align:center; margin:8px 0 16px;">
@@ -662,9 +683,11 @@
       </ul>
     </td>
     <!-- CatholicMedusa -->
-    <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:480px;">
-      <div align="center" style="padding-top:10px;">
-        <img src="https://github.com/user-attachments/assets/88472d07-74b3-4788-8769-3b6d3ec6a18f" width="80" alt="CatholicMedusa badge">
+    <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:550px;">
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="60">
+  <!-- spacer --> <br><br>
+  <img src="https://github.com/user-attachments/assets/a869d1bb-01a9-47da-9cf8-2a7d84ce3150" width="80" alt="CatholicMedusa badge">
         <h3 style="margin:12px 0; text-align:center;"><strong>CatholicMedusa</strong></h3>
       </div>
       <p style="text-align:center; margin:8px 0 16px;">
@@ -905,3 +928,28 @@ Tracking online courses I’m working through to build skills in security, web d
 
 
 <br><br><br><br>
+
+
+<br><br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1abba39c-b1f5-4a46-8e7b-d294dc70e7dc" alt="Banner" width="100%" height="50%" style="border-radius:15px;"/>
+</p>
+
+
+<br><br><br><br>
+
+
+
+<br><br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ade367dd-0bd5-4332-97bd-08b5fb985b99" alt="Banner" width="100%" height="50%" style="border-radius:15px;"/>
+</p>
+
+<br><br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b9367e36-8781-457e-97f7-423e898fa8a6" alt="Banner" width="100%" height="50%" style="border-radius:15px;"/>
+</p>
+
