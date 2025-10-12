@@ -575,7 +575,7 @@
     <!-- StoryShield -->
     <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:750px;">
       <div align="center" style="padding-top:10px;">
-        <img src="https://github.com/user-attachments/assets/ffb51f3c-4984-4fca-9386-c40f40f2520a" width="80" alt="StoryShield badge">
+        <img src="https://github.com/user-attachments/assets/27bc4151-7da9-49c6-ac1c-1835413fc117" width="80" alt="StoryShield badge">
         <h3 style="margin:12px 0; text-align:center;"><strong>StoryShield</strong></h3>
       </div>
       <p style="text-align:center; margin:8px 0 16px;">
