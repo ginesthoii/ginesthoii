@@ -598,7 +598,7 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="60">
   <!-- spacer --> <br><br>
-  <img src="https://github.com/user-attachments/assets/7b3e8cf5-659b-4dfc-bfda-5758ede4cb3d" width="80" alt="Fungus badge">
+  <img src="https://github.com/user-attachments/assets/8101e6ea-8f34-49f6-aec6-8628a9415084" height="170" width="150" alt="Fungus badge">
   <h3><strong>aFungusAmongUs</strong></h3>
 </div>
 
@@ -623,7 +623,7 @@
       <div align="center" style="padding-top:10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="60">
   <!-- spacer --> <br><br>
-        <img src="https://github.com/user-attachments/assets/cb659c76-c9f6-4abf-af5f-1d535be8fcb9" width="80" alt="SnakeWitch badge">
+        <img src="https://github.com/user-attachments/assets/a57fa67c-3c55-4d25-887b-ba54e24938a6" width="100" height="150" alt="SnakeWitch badge">
         <h3 style="margin:12px 0; text-align:center;"><strong>SnakeWitch</strong></h3>
       </div>
       <p style="text-align:center; margin:8px 0 16px;">
@@ -644,7 +644,7 @@
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="60">
   <!-- spacer --> <br><br>
-  <img src="https://github.com/user-attachments/assets/88472d07-74b3-4788-8769-3b6d3ec6a18f" width="80" alt="CatholicMedusa badge">
+  <img src="https://github.com/user-attachments/assets/6feeb37f-8925-4f0c-9626-204a406b0adf" width="80" alt="CatholicMedusa badge">
         <h3 style="margin:12px 0; text-align:center;"><strong>CatholicMedusa</strong></h3>
       </div>
       <p style="text-align:center; margin:8px 0 16px;">
