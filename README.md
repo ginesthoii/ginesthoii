@@ -556,18 +556,23 @@
     <div align="center">
       <img width="904" height="28" alt="Image" src="https://github.com/user-attachments/assets/03ee561f-4934-4ae5-a1b7-92dcee6ef825" />
     </div>
-        <ul>
-      <li><strong>TextToSpeech/</strong> – Convert text into speech with pitch, speed, and voice controls.</li>
-      <li><strong>Pomodoro-Timer/</strong> – 25-min timer with progress ring, notes, and CSV export.</li>
-      <li><strong>Basic-Calculator/</strong> – Four-function calculator with history in <code>localStorage</code>.</li>
-      <li><strong>Hex-Color-Generator/</strong> – Pick a color + see its hex instantly.</li>
-      <li><strong>Image-Color-Hex-Extractor/</strong> – Extract dominant colors from an image (k-means clustering).</li>
-      <li><strong>PlayablePiano/</strong> – Browser piano with recording, playback, metronome, pitch detection.</li>
-      <li><strong>Typing-Speed-Test-Game/</strong> – Typing test with WPM/CPM, accuracy, mistakes, dark mode.</li>
-      <li><strong>Dog-Age-Calculator/</strong> – Human-year estimate adjusted by dog size.</li>
-      <li><strong>Dog-Clicker-Trainer/</strong> – Digital training clicker with sound + session stats.</li>
-      <li><strong>Basic-Post-It-Notes/</strong> –   Interactive post-it notes app built with HTML, CSS, and JavaScript — create, edit, and delete notes directly in the browser.</li>
-    </ul>
+   <ul>
+  <li><strong>TextToSpeech/</strong> — Convert text to speech with pitch, speed, volume, and voice controls (Web Speech API).</li>
+  <li><strong>Pomodoro Timer/</strong> — 25-minute Pomodoro timer with progress ring, notes, and CSV export.</li>
+  <li><strong>Basic Calculator/</strong> — Four-function calculator (optionally with history via <code>localStorage</code>).</li>
+  <li><strong>Hex Color Generator/</strong> — Pick a color and get its hex instantly.</li>
+  <li><strong>Image Color Hex Extractor (Upload Drag...)/</strong> — Extract dominant colors from an image (k-means clustering).</li>
+  <li><strong>PlayablePiano/</strong> — Browser piano with recording/playback, metronome, and pitch detection.</li>
+  <li><strong>Typing Speed Test Game/</strong> — Typing test with WPM/CPM, accuracy, mistakes, and dark mode.</li>
+  <li><strong>Dog Clicker Trainer/</strong> — Digital training clicker with sound + session stats.</li>
+
+  <li><strong>basic-post-it-notes/</strong> — Sticky-notes app: create/edit/delete notes in-browser with persistence.</li>
+  <li><strong>dog age calculator/</strong> — Estimate a dog’s “human age” adjusted by dog size.</li>
+
+  <li><strong>netflix-clone/</strong> — Netflix-style UI clone (layout + styling practice).</li>
+  <li><strong>pricing-table/</strong> — Responsive pricing table component (layout + CSS practice).</li>
+  <li><strong>StoryShield-Pricing/</strong> — Pricing page/component experiment for “StoryShield” (UI layout + iteration).</li>
+</ul>
   </td>
 
 <!-- Python -->
