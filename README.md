@@ -514,42 +514,8 @@
 <table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:8px;">
 
 <tr>
-  <!-- C++ / C# -->
-  <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:4px;">
-    <h3 align="center">C++ • C • C#</h3>
-    <p align="center"><em>Compiled or engine-based demos. GUI and logic focused.</em></p>
-     <div align="center">
-      <img width="904" height="108" alt="Image" src="https://github.com/user-attachments/assets/8eb394af-cd7e-4c2c-908c-8e3ce845d759" />
-    </div>
-    <ul>
-      <li><strong>TextToSpeech/</strong> – Convert text into speech with pitch, speed, and voice controls.</li>
-      <li><strong>Dog-Clicker-Trainer/</strong> – Digital training clicker with sound + session stats.</li>
-    </ul>
-  </td>
-
-  <!-- Java / Rust -->
-  <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:4px;">
-    <h3 align="center">Java • Rust</h3>
-    <p align="center"><em>Systems or terminal-based builds. Lightweight and self-contained.</em></p>
-   <div align="center">
-      <img width="904" height="108" alt="Image" src="https://github.com/user-attachments/assets/8324cc0f-e1ff-42f5-85f9-8bfdcf293c94" />
-    </div>
-    <ul>
-      <li><strong>password_generator/</strong> – Random secure password generator.</li>
-      <li><strong>countdown/</strong> – Simple timer using <code>sleep</code>.</li>
-    </ul>
-  </td>
-</tr>
-
-</table>
-
----
-
-<table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:8px;">
-
-<tr>
   <!-- JS/HTML/CSS -->
-  <td style="width:45%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
+  <td style="width:55%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
     <h3 align="center"> Mini JavaScript • HTML • CSS</h3>
     <p align="center"><em>Self-contained front-end apps. Run directly in the browser with <code>index.html</code>.</em></p>
     <!-- Inserted Image -->
@@ -576,7 +542,7 @@
   </td>
 
 <!-- Python -->
-<td style="width:55%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
+<td style="width:45%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
   <h3 align="center"> Mini Python</h3>   
   <p align="center"><em>Self-contained Python scripts. Run from terminal with one command.</em></p>
   <!-- Inserted Image -->
