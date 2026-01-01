@@ -129,7 +129,210 @@
 </p>
  
 
+
+<h1 align="center">Core Flagship Systems</h1>
+<h2 align="center">Autonomous & Local-First Infrastructure & Systems</h2>
+
+<h3 align="center">Offline-First, Knowledge & Organization Systems</h3>
+
+<table>
+  <tr bgcolor="#f6f8fa">
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/8811ef45-d4af-4615-8f9d-220b0dee06c1" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/4c32e21e-c5e9-4002-b3e1-e62c048aded7" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/640027e9-c1c1-452c-a38a-5abd4559ebd0" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/56829713-0e4c-4cf9-b7cf-8cbbba82ebf4" width="150"/></td>
+  </tr>
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><strong>metadata-librarian</strong><br>Local ingestion & metadata pipelines.<br><em>Tech:</em> Python, SQLite.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>smart-tag-system</strong><br>Ontology & classification framework.<br><em>Tech:</em> YAML, schema design.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>mini-metadata</strong><br>Lightweight metadata primitives.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>tree-me</strong><br>Filesystem reconstruction tool.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
+  </tr>
+</table>
+
+<table>
+  <tr bgcolor="#f6f8fa">
+    <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/738f3830-b3ed-4bf4-91c5-7ec44953babe" width="150"/></td>
+    <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/79901269-8855-42e7-81ef-527373db4cc8" width="150"/></td>
+    <td width="34%" align="center"><img src="https://github.com/user-attachments/assets/bc68ed64-0f44-4cfd-b272-23b6f285cfb9" width="150"/></td>
+  </tr>
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><strong>offline-label-station</strong><br>Local labeling & tracking.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>paperwitch</strong><br>Offline PDF & image ingestion.<br><em>Tech:</em> OCR pipelines.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>framework</strong><br>Local auto folder creators for projects. Language specific.<br><em>Tech:</em> PDF, OCR, infrastructure tooling.<br><em>Status:</em> Active.</td>
+  </tr>
+</table>
+
+<h2 align="center">Automation, Scraping & Utilities</h2>
+
+<table>
+  <tr bgcolor="#f6f8fa">
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/30ae9afa-af09-40f4-8370-e1471027e966" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/27197c16-2d10-408e-9b83-722c7a6b37bc" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/34ed11d8-d5e2-4e92-abad-4f5385639a1c" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/32344843-e8a0-4c54-bd8b-24ecb09f0f2e" width="150"/></td>
+  </tr>
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><strong>smart-page-downloader</strong><br>Offline web capture utility.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>search-review-tracker</strong><br>Search & review monitoring.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>tool-equipment-tracker</strong><br>Inventory tracking system.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>pdf-engine</strong><br>PDF processing pipeline.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr bgcolor="#f6f8fa">
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/a76c3ec0-c86a-473a-8df3-9a67a737fa73" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/6a167eb2-4bc6-4154-8c43-1ce998d4a436" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/fda7bd17-8ef3-4820-82ac-c17307937af1" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/f13dcb4e-29d3-4ccd-aa29-4c22f6632da4" width="150"/></td>
+  </tr>
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><strong>backtalk</strong><br>CLI automation utility.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>offline-translator</strong><br>Local translation tooling.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>dog-logs</strong><br>Animal logging system.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>hen-manager</strong><br>Poultry management system.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
+  </tr>
+</table>
+
+<table>
+  <tr bgcolor="#f6f8fa">
+    <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/5cca93d1-60b7-4193-af90-0abfbb9bc47a" width="150"/></td>
+    <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/069e3d8c-de64-4013-9087-c48c118e8741" width="150"/></td>
+    <td width="34%" align="center"><img src="https://github.com/user-attachments/assets/7d40450e-955e-483b-997f-47ef023e697a" width="150"/></td>
+  </tr>
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><strong>php-projects</strong><br>PHP language experiments.<br><em>Tech:</em> PHP.<br><em>Status:</em> Archived.</td>
+    <td align="center"><strong>java-projects</strong><br>Java language experiments.<br><em>Tech:</em> Java.<br><em>Status:</em> Archived.</td>
+    <td align="center"><strong>c-cpp-crash-projects</strong><br>Systems language practice.<br><em>Tech:</em> C/C++.<br><em>Status:</em> Archived.</td>
+  </tr>
+</table>
+
+<h2 align="center">Systems, Embedded & Infrastructure</h2>
+
+<table>
+  <tr bgcolor="#f6f8fa">
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/730f2c4d-35a7-4315-95bb-3de4da82e917"width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/57191031-0ee0-427d-bb89-bfa6568166d5" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/d4336987-a6ed-45cd-9dc8-3acd866967cf" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/616264c4-c677-45b2-8f25-afbb10171582" width="150"/></td>
+  </tr>
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><strong>guardian</strong><br>ESP32 environmental safety monitor.<br><em>Tech:</em> ESP32, sensors.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>weather-oracle</strong><br>Offline weather monitoring & forecasting.<br><em>Tech:</em> Python, sensors.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>automation-oracle</strong><br>Embedded automation & sensing pipelines.<br><em>Tech:</em> ESP32.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>thermal-imaging-camera</strong><br>Thermal sensing pipeline.<br><em>Tech:</em> Imaging sensors.<br><em>Status:</em> Active.</td>
+  </tr>
+</table>
+
+<table>
+  <tr bgcolor="#f6f8fa">
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/03e1129a-35c7-4e8d-942f-cbc7a98a81bf" width="170"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/3919b897-b496-4502-8917-d1ff7a6cf14a" width="120"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/1e525891-0a03-4672-b02b-8188999aa31b" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/0341c9b9-2ecf-4650-931e-d52803104a7f" width="150"/></td>
+  </tr>
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><strong>hydro-systems-lab</strong><br>Infrastructure modeling & simulation.<br><em>Tech:</em> Python, modeling frameworks.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>offline-maps</strong><br>Local tile serving & offline UX.<br><em>Tech:</em> Map tiles, local storage.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>incubator</strong><br>Environmental control & automation system.<br><em>Tech:</em> Sensors, controllers.<br><em>Status:</em> Active.</td>
+   <td align="center"><strong>automated-chicken-coop</strong><br>Automated chicken coop door.<br><em>Tech:</em> Arduino sensors.<br><em>Status:</em> Active.</td>
+  </tr>
+</table>
+
+<table>
+  <tr bgcolor="#f6f8fa">
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/82cd5fcd-674f-42f9-b871-919bcfbc3514"width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/a7f9e5c4-3648-42f1-88c8-b99dd428ae29" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/e8cae427-4d36-4aa1-b910-402f875cf613" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/52bc4a64-cc5f-47e9-8971-128bc7248089" width="150"/></td>
+  </tr>
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><strong>olive-automation</strong><br>olive automation.<br><em>Tech:</em> ESP32, sensors.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>Notflix</strong><br>Offline weather monitoring & forecasting.<br><em>Tech:</em> Python, sensors.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>sourdough-starter</strong><br>calculator for flour, water, sourdough starters.<br><em>Tech:</em> ESP32.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>phantom-terminal</strong><br>phantom terminal.<br><em>Tech:</em> Imaging sensors.<br><em>Status:</em> Active.</td>
+  </tr>
+</table>
+
+<table>
+  <tr bgcolor="#f6f8fa">
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/2d7d4b0f-6946-49f2-8bd9-f2c0ab9829b9"width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/a77c80b4-07fe-4a56-84c9-9a252d5c8877" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/cb279784-79ec-49a5-9484-22456c92947c" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/da6718db-5880-44fd-a81c-e45b12404de8" width="150"/></td>
+  </tr>
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><strong>scenario-engine</strong><br>scenario engine scenario.<br><em>Tech:</em> ESP32, sensors.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>real-estate-scraper</strong><br>real-estate<br><em>Tech:</em> Python, sensors.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>plant-sensor-automation-water</strong><br>Embedded automation & sensing pipelines.<br><em>Tech:</em> ESP32.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>auto-drip-irrigation</strong><br>Thermal sensing pipeline.<br><em>Tech:</em> Imaging sensors.<br><em>Status:</em> Active.</td>
+  </tr>
+</table>
+
+<table>
+  <tr bgcolor="#f6f8fa">
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/c339b0bc-0f39-4af5-89e1-ed25003a280b"width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/7296c492-8791-47aa-8298-59e247a13991" width="150"/></td>
+      <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/be3f5f7c-4fd5-425b-8f6d-4fe6c55a22b3" width="150"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/6eb8b464-d5e0-45f7-a93d-5ba6ce9c51a4" width="150"/></td>
+  </tr>
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><strong>kanban-board</strong><br>aaaaaaaaaaaaaa.<br><em>Tech:</em> aaaaaaa.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>sql-xslx-csv-scraper</strong><br>bbbbbbbbbbbb<br><em>Tech:</em> bbbbbbbbb.<br><em>Status:</em> Active.</td>
+     <td align="center"><a href="https://github.com/ginesthoii/DevGaze"><strong>DevGaze</strong></a><br>Cybersecurity Boot Camp portfolio hub (A+).<br>
+      <em>Tech:</em> Cryptography, Azure, malware analysis.<br>
+      <em>Status:</em> Completed coursework archive.</td>
+    <td align="center"><a href="https://github.com/ginesthoii/CheckMate"><strong>CheckMate</strong></a><br>Modular habit suite with API + automation.<br>
+      <em>Tech:</em> React, Python, Docker, GitHub API.<br>
+      <em>Status:</em> Active (Discord/Slack bot in dev).</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr bgcolor="#f6f8fa">
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/497c7eb8-c3a5-4cb6-a656-9eb4e669c4c2"width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/6b16ebeb-5088-4517-98ff-e200a2bef1d8" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/95ef72f2-441e-49fb-9d67-1a787ad30d9b" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/4723208d-f832-4da5-930c-615bf635791b" width="150"/></td>
+  </tr>
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><strong>chicken-auto-waterer</strong><br>aaaaaaaaaaaaaa.<br><em>Tech:</em> aaaaaaa.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>food-for-thought</strong><br>bbbbbbbbbbbb<br><em>Tech:</em> bbbbbbbbb.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>search-review-scraper</strong><br>ccccccccccccc.<br><em>Tech:</em> cccccccc.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>morph-calculator</strong><br>ddddddddddd<br><em>Tech:</em> ddddddddddd.<br><em>Status:</em> Active.</td>
+  </tr>
+</table>
+
+<table>
+  <tr bgcolor="#f6f8fa">
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/7f5371a8-d9cd-4336-93b9-38d53b171b9a"width="150"/></td>
+    <td width="25%" align="center"><img src="" width="150"/></td>
+    <td width="25%" align="center"><img src="" width="150"/></td>
+    <td width="25%" align="center"><img src="" width="150"/></td>
+  </tr>
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><strong>bobby-duck</strong><br>aaaaaaaaaaaaaa.<br><em>Tech:</em> aaaaaaa.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>bbbbbbbb</strong><br>bbbbbbbbbbbb<br><em>Tech:</em> bbbbbbbbb.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>ccccccccc</strong><br>ccccccccccccc.<br><em>Tech:</em> cccccccc.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>ddddddddddd</strong><br>ddddddddddd<br><em>Tech:</em> ddddddddddd.<br><em>Status:</em> Active.</td>
+  </tr>
+</table>
+
 <h1 align="center">Professional</h1>
+<table>
+  <tr bgcolor="#f6f8fa">
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/cf46eeca-ed36-41cb-9287-5bf0caeabd26" width="150"/>
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/d7da0bb3-1af3-4c86-843b-85b863a880a8" width="150"/></td>
+    </td>
+  </tr>
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><strong>WUSTL-VIRT-CYBER-PT-01-2024-U-LOLC-main</strong><br>Bootcamp labs & capstone materials.<br><em>Tech:</em> Blue team tooling.<br><em>Status:</em> Completed.</td>
+     <td align="center"><strong>washu-projects</strong><br>Cybersecurity coursework archive.<br><em>Tech:</em> Azure, cryptography.<br><em>Status:</em> Completed.</td>
+  </tr>
+</table>
 
 <table>
   <!-- Icons -->
@@ -185,6 +388,26 @@
  </tr>
 </table>
 
+<h1 align="center">Research & Knowledge Systems</h1>
+
+<h2 align="center">Research & Synthesis</h2>
+
+<table>
+  <tr bgcolor="#ffffff">
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/3dd392c0-5559-4515-89d5-3b0674a48b3b" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/ca4ee536-1d71-437d-8e18-b971173d84cc" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/a3c0df2e-ed84-4406-a7af-6c4cb531e5f9" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/5769b085-0b83-46f9-8e68-abdb2576d097" width="150"/></td>
+  </tr>
+  <tr bgcolor="#ffffff">
+    <td align="center"><strong>food-for-thought</strong><br>Structured research notes.<br><em>Tech:</em> Markdown.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>muses</strong><br>Idea & concept exploration.<br><em>Tech:</em> Notes, schemas.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>promptpal</strong><br>Prompt taxonomy system.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>storyteller</strong><br>Narrative systems tooling.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
+        <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/f430092c-d2ce-483f-b7a9-e984bd53930a" width="100"/></td>
+  </tr>
+</table>
+
 
 <h1 align="center">Creative & Worldbuilding</h1>
 
@@ -213,16 +436,26 @@
   </tr>
 </table>
 
+<table>
+  <tr bgcolor="#ffffff">
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/2fb9b246-665c-46cf-af45-713dcb205c26" width="150"/></td>
+    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/194a13f6-1045-4bf6-a4ae-51a39c76a0fb" width="150"/></td>
+  </tr>
+  <tr bgcolor="#ffffff">
+    <td align="center"><strong>thats-what-im-tolkien-about</strong><br>Systems-driven fandom project.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>unity-csharp-games</strong><br>Unity game experiments.<br><em>Tech:</em> C#.<br><em>Status:</em> Active.</td>
+  </tr>
+</table>
 
 
 <h1 align="center">Fitness & Health</h1>
 <table>
   <!-- Icons -->
   <tr bgcolor="#f6f8fa">
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c4bce6e7-915e-4bd0-86c2-b322bea4090c" width="100"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/69325802-b742-47e3-8c7a-a4a12ad4d4ae" width="100"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/a5228f78-90a9-41d3-9315-b26df34dfe96" width="100"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/ac6a2250-8785-41f4-8f72-35fbe0d446f0" width="100"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/d6fb7704-5186-4ccd-b541-b0e0033500bf" width="150"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/682a5323-e64b-447d-9688-9a2a3869b330" width="150"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/a5228f78-90a9-41d3-9315-b26df34dfe96" width="150"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/ac6a2250-8785-41f4-8f72-35fbe0d446f0" width="150"/></td>
   </tr>
   <!-- Text -->
   <tr bgcolor="#f6f8fa">
