@@ -205,7 +205,7 @@
   <tr bgcolor="#f6f8fa">
     <td align="center"><strong>php-projects</strong><br>PHP language experiments.<br><em>Tech:</em> PHP.<br><em>Status:</em> Archived.</td>
     <td align="center"><strong>java-projects</strong><br>Java language experiments.<br><em>Tech:</em> Java.<br><em>Status:</em> Archived.</td>
-    <td align="center"><strong>c-cpp-crash-projects</strong><br>Systems language practice.<br><em>Tech:</em> C/C++.<br><em>Status:</em> Archived.</td>
+    <td align="center"><strong>c-cpp-csharp-projects</strong><br>Systems language practice.<br><em>Tech:</em> C/C++/C#.<br><em>Status:</em> Archived.</td>
   </tr>
 </table>
 
