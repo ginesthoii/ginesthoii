@@ -310,16 +310,51 @@
   <tr bgcolor="#f6f8fa">
     <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/7f5371a8-d9cd-4336-93b9-38d53b171b9a"width="150"/></td>
     <td width="25%" align="center"><img src="" width="150"/></td>
-    <td width="25%" align="center"><img src="" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/62b2ba28-5153-4fc9-bddf-c46935cbdc7e" width="150"/></td>
     <td width="25%" align="center"><img src="" width="150"/></td>
   </tr>
   <tr bgcolor="#f6f8fa">
     <td align="center"><strong>bobby-duck</strong><br>aaaaaaaaaaaaaa.<br><em>Tech:</em> aaaaaaa.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>bbbbbbbb</strong><br>bbbbbbbbbbbb<br><em>Tech:</em> bbbbbbbbb.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>ccccccccc</strong><br>ccccccccccccc.<br><em>Tech:</em> cccccccc.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>ddddddddddd</strong><br>ddddddddddd<br><em>Tech:</em> ddddddddddd.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>morse-code-mentor</strong><br>An offline-capable Morse code trainer that helps you *learn by tapping*. It’s designed for clarity, rhythm accuracy, and self-paced mastery — built to run anywhere, even without internet access.<br><em>Tech:</em> bbbbbbbbb.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>morse-code-master</strong><br>A tiny, offline morse-code trainer that works on battery or USB.<br><em>Tech:</em> Raspberry Pi Pico.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>enyo</strong><br>Enyo is a medical education engine for med students and lay people. Off-grid friendly.
+<br><em>Tech:</em> LLama<br><em>Status:</em> Active.</td>
   </tr>
 </table>
+
+
+
+<table>
+  <tr bgcolor="#f6f8fa">
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/9ab60ad8-f046-4b23-ac86-04dc595bcc93"width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/d8b06151-a2a4-4e29-9f56-b79e65f6ab8c" width="150"/></td>
+    <td width="25%" align="center"><img src="" width="150"/></td>
+    <td width="25%" align="center"><img src="" width="150"/></td>
+  </tr>
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><strong>build-a-board</strong><br>A scrollable digital posterboard where you can create, arrange, and collect visual ideas — your way.<br><em>Tech:</em> aaaaaaa.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>wall-mounted-smart-display</strong><br>ddddddd.<br><em>Tech:</em> Raspberry Pi 4<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>pvc-builds</strong><br>dddddd<br><em>Tech:</em> dddddd.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>php-projects</strong><br> ddddddddd<br><em>Tech:</em> LLama<br><em>Status:</em> Active.</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr bgcolor="#f6f8fa">
+    <td width="25%" align="center"><img src=""width="150"/></td>
+    <td width="25%" align="center"><img src="" width="150"/></td>
+    <td width="25%" align="center"><img src="" width="150"/></td>
+    <td width="25%" align="center"><img src="" width="150"/></td>
+  </tr>
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><strong>digital-loom</strong><br>aaaaaaaaaaaaaa.<br><em>Tech:</em> aaaaaaa.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>livestock-logs</strong><br>ddddddd.<br><em>Tech:</em> bbbbbbbbb.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>livestock-locator</strong><br>dddddd<br><em>Tech:</em> dddddd.<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>dddddd</strong><br> ddddddddd<br><em>Tech:</em> LLama<br><em>Status:</em> Active.</td>
+  </tr>
+</table>
+
 
 <h1 align="center">Professional</h1>
 <table>
