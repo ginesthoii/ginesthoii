@@ -591,7 +591,20 @@
   <img src="https://github.com/user-attachments/assets/3c3fe3af-3d7b-46c3-8689-9fafe1a12c60" alt="Image" width="65%" height="20%" style="border-radius:15px;"/>
 </p>
 
-   ---
+---
+
+<br>
+
+<p align="center">
+  <img 
+    src="https://img.shields.io/badge/Flagship%20Organizations-Solo--Led-2E6F7E?style=for-the-badge"
+    alt="Flagship Organizations (Solo-Led)"
+    width="450"
+  >
+</p>
+
+   
+
   <table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:16px;">
   <!-- Row 1 -->
   <tr>
