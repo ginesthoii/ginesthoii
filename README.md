@@ -306,11 +306,13 @@
   </tr>
 </table>
 
+
+
 <table>
   <tr bgcolor="#f6f8fa">
     <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/7f5371a8-d9cd-4336-93b9-38d53b171b9a"width="150"/></td>
-    <td width="25%" align="center"><img src="" width="150"/></td>
     <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/62b2ba28-5153-4fc9-bddf-c46935cbdc7e" width="150"/></td>
+    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/0f4dcf6c-9aa2-4bc4-84ec-868f0d9a58ee" width="150"/></td>
     <td width="25%" align="center"><img src="" width="150"/></td>
   </tr>
   <tr bgcolor="#f6f8fa">
@@ -351,7 +353,8 @@
     <td align="center"><strong>digital-loom</strong><br>aaaaaaaaaaaaaa.<br><em>Tech:</em> aaaaaaa.<br><em>Status:</em> Active.</td>
     <td align="center"><strong>livestock-logs</strong><br>ddddddd.<br><em>Tech:</em> bbbbbbbbb.<br><em>Status:</em> Active.</td>
     <td align="center"><strong>livestock-locator</strong><br>dddddd<br><em>Tech:</em> dddddd.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>dddddd</strong><br> ddddddddd<br><em>Tech:</em> LLama<br><em>Status:</em> Active.</td>
+    <td align="center"><strong>CutCoach</strong><br>Augmented reality app that teaches and guides DIY haircuts in real time.
+<br><em>Tech:</em> Unity + AR Foundation, C# <br><em>Status:</em> Active.</td>
   </tr>
 </table>
 
