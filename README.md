@@ -130,416 +130,1242 @@
  
 
 
-<h1 align="center">Core Flagship Systems</h1>
-<h2 align="center">Autonomous & Local-First Infrastructure & Systems</h2>
-
-<h3 align="center">Offline-First, Knowledge & Organization Systems</h3>
+<h1 align="center">Professional · Cybersecurity</h1>
 
 <table>
   <tr bgcolor="#f6f8fa">
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/8811ef45-d4af-4615-8f9d-220b0dee06c1" width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/4c32e21e-c5e9-4002-b3e1-e62c048aded7" width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/640027e9-c1c1-452c-a38a-5abd4559ebd0" width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/56829713-0e4c-4cf9-b7cf-8cbbba82ebf4" width="150"/></td>
-  </tr>
-  <tr bgcolor="#f6f8fa">
-    <td align="center"><strong>metadata-librarian</strong><br>Local ingestion & metadata pipelines.<br><em>Tech:</em> Python, SQLite.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>smart-tag-system</strong><br>Ontology & classification framework.<br><em>Tech:</em> YAML, schema design.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>mini-metadata</strong><br>Lightweight metadata primitives.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>tree-me</strong><br>Filesystem reconstruction tool.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
-  </tr>
-</table>
-
-<table>
-  <tr bgcolor="#f6f8fa">
-    <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/738f3830-b3ed-4bf4-91c5-7ec44953babe" width="150"/></td>
-    <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/79901269-8855-42e7-81ef-527373db4cc8" width="150"/></td>
-    <td width="34%" align="center"><img src="https://github.com/user-attachments/assets/bc68ed64-0f44-4cfd-b272-23b6f285cfb9" width="150"/></td>
-  </tr>
-  <tr bgcolor="#f6f8fa">
-    <td align="center"><strong>offline-label-station</strong><br>Local labeling & tracking.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>paperwitch</strong><br>Offline PDF & image ingestion.<br><em>Tech:</em> OCR pipelines.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>framework</strong><br>Local auto folder creators for projects. Language specific.<br><em>Tech:</em> PDF, OCR, infrastructure tooling.<br><em>Status:</em> Active.</td>
-  </tr>
-</table>
-
-<h2 align="center">Automation, Scraping & Utilities</h2>
-
-<table>
-  <tr bgcolor="#f6f8fa">
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/30ae9afa-af09-40f4-8370-e1471027e966" width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/27197c16-2d10-408e-9b83-722c7a6b37bc" width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/34ed11d8-d5e2-4e92-abad-4f5385639a1c" width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/32344843-e8a0-4c54-bd8b-24ecb09f0f2e" width="150"/></td>
-  </tr>
-  <tr bgcolor="#f6f8fa">
-    <td align="center"><strong>smart-page-downloader</strong><br>Offline web capture utility.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>search-review-tracker</strong><br>Search & review monitoring.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>tool-equipment-tracker</strong><br>Inventory tracking system.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>pdf-engine</strong><br>PDF processing pipeline.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
-  </tr>
-</table>
-
-
-<table>
-  <tr bgcolor="#f6f8fa">
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/a76c3ec0-c86a-473a-8df3-9a67a737fa73" width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/6a167eb2-4bc6-4154-8c43-1ce998d4a436" width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/fda7bd17-8ef3-4820-82ac-c17307937af1" width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/f13dcb4e-29d3-4ccd-aa29-4c22f6632da4" width="150"/></td>
-  </tr>
-  <tr bgcolor="#f6f8fa">
-    <td align="center"><strong>backtalk</strong><br>CLI automation utility.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>offline-translator</strong><br>Local translation tooling.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>dog-logs</strong><br>Animal logging system.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>hen-manager</strong><br>Poultry management system.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
-  </tr>
-</table>
-
-<table>
-  <tr bgcolor="#f6f8fa">
-    <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/5cca93d1-60b7-4193-af90-0abfbb9bc47a" width="150"/></td>
-    <td width="33%" align="center"><img src="https://github.com/user-attachments/assets/069e3d8c-de64-4013-9087-c48c118e8741" width="150"/></td>
-    <td width="34%" align="center"><img src="https://github.com/user-attachments/assets/7d40450e-955e-483b-997f-47ef023e697a" width="150"/></td>
-  </tr>
-  <tr bgcolor="#f6f8fa">
-    <td align="center"><strong>php-projects</strong><br>PHP language experiments.<br><em>Tech:</em> PHP.<br><em>Status:</em> Archived.</td>
-    <td align="center"><strong>java-projects</strong><br>Java language experiments.<br><em>Tech:</em> Java.<br><em>Status:</em> Archived.</td>
-    <td align="center"><strong>c-cpp-csharp-projects</strong><br>Systems language practice.<br><em>Tech:</em> C/C++/C#.<br><em>Status:</em> Archived.</td>
-  </tr>
-</table>
-
-<h2 align="center">Systems, Embedded & Infrastructure</h2>
-
-<table>
-  <tr bgcolor="#f6f8fa">
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/730f2c4d-35a7-4315-95bb-3de4da82e917"width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/57191031-0ee0-427d-bb89-bfa6568166d5" width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/d4336987-a6ed-45cd-9dc8-3acd866967cf" width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/616264c4-c677-45b2-8f25-afbb10171582" width="150"/></td>
-  </tr>
-  <tr bgcolor="#f6f8fa">
-    <td align="center"><strong>guardian</strong><br>ESP32 environmental safety monitor.<br><em>Tech:</em> ESP32, sensors.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>weather-oracle</strong><br>Offline weather monitoring & forecasting.<br><em>Tech:</em> Python, sensors.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>automation-oracle</strong><br>Embedded automation & sensing pipelines.<br><em>Tech:</em> ESP32.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>thermal-imaging-camera</strong><br>Thermal sensing pipeline.<br><em>Tech:</em> Imaging sensors.<br><em>Status:</em> Active.</td>
-  </tr>
-</table>
-
-<table>
-  <tr bgcolor="#f6f8fa">
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/03e1129a-35c7-4e8d-942f-cbc7a98a81bf" width="170"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/3919b897-b496-4502-8917-d1ff7a6cf14a" width="120"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/1e525891-0a03-4672-b02b-8188999aa31b" width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/0341c9b9-2ecf-4650-931e-d52803104a7f" width="150"/></td>
-  </tr>
-  <tr bgcolor="#f6f8fa">
-    <td align="center"><strong>hydro-systems-lab</strong><br>Infrastructure modeling & simulation.<br><em>Tech:</em> Python, modeling frameworks.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>offline-maps</strong><br>Local tile serving & offline UX.<br><em>Tech:</em> Map tiles, local storage.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>incubator</strong><br>Environmental control & automation system.<br><em>Tech:</em> Sensors, controllers.<br><em>Status:</em> Active.</td>
-   <td align="center"><strong>automated-chicken-coop</strong><br>Automated chicken coop door.<br><em>Tech:</em> Arduino sensors.<br><em>Status:</em> Active.</td>
-  </tr>
-</table>
-
-<table>
-  <tr bgcolor="#f6f8fa">
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/82cd5fcd-674f-42f9-b871-919bcfbc3514"width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/a7f9e5c4-3648-42f1-88c8-b99dd428ae29" width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/e8cae427-4d36-4aa1-b910-402f875cf613" width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/52bc4a64-cc5f-47e9-8971-128bc7248089" width="150"/></td>
-  </tr>
-  <tr bgcolor="#f6f8fa">
-    <td align="center"><strong>olive-automation</strong><br>olive automation.<br><em>Tech:</em> ESP32, sensors.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>Notflix</strong><br>Offline weather monitoring & forecasting.<br><em>Tech:</em> Python, sensors.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>sourdough-starter</strong><br>calculator for flour, water, sourdough starters.<br><em>Tech:</em> ESP32.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>phantom-terminal</strong><br>phantom terminal.<br><em>Tech:</em> Imaging sensors.<br><em>Status:</em> Active.</td>
-  </tr>
-</table>
-
-<table>
-  <tr bgcolor="#f6f8fa">
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/2d7d4b0f-6946-49f2-8bd9-f2c0ab9829b9"width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/a77c80b4-07fe-4a56-84c9-9a252d5c8877" width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/cb279784-79ec-49a5-9484-22456c92947c" width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/da6718db-5880-44fd-a81c-e45b12404de8" width="150"/></td>
-  </tr>
-  <tr bgcolor="#f6f8fa">
-    <td align="center"><strong>scenario-engine</strong><br>scenario engine scenario.<br><em>Tech:</em> ESP32, sensors.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>real-estate-scraper</strong><br>real-estate<br><em>Tech:</em> Python, sensors.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>plant-sensor-automation-water</strong><br>Embedded automation & sensing pipelines.<br><em>Tech:</em> ESP32.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>auto-drip-irrigation</strong><br>Thermal sensing pipeline.<br><em>Tech:</em> Imaging sensors.<br><em>Status:</em> Active.</td>
-  </tr>
-</table>
-
-<table>
-  <tr bgcolor="#f6f8fa">
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/c339b0bc-0f39-4af5-89e1-ed25003a280b"width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/7296c492-8791-47aa-8298-59e247a13991" width="150"/></td>
-      <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/be3f5f7c-4fd5-425b-8f6d-4fe6c55a22b3" width="150"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/6eb8b464-d5e0-45f7-a93d-5ba6ce9c51a4" width="150"/></td>
-  </tr>
-  <tr bgcolor="#f6f8fa">
-    <td align="center"><strong>kanban-board</strong><br>aaaaaaaaaaaaaa.<br><em>Tech:</em> aaaaaaa.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>sql-xslx-csv-scraper</strong><br>bbbbbbbbbbbb<br><em>Tech:</em> bbbbbbbbb.<br><em>Status:</em> Active.</td>
-     <td align="center"><a href="https://github.com/ginesthoii/DevGaze"><strong>DevGaze</strong></a><br>Cybersecurity Boot Camp portfolio hub (A+).<br>
-      <em>Tech:</em> Cryptography, Azure, malware analysis.<br>
-      <em>Status:</em> Completed coursework archive.</td>
-    <td align="center"><a href="https://github.com/ginesthoii/CheckMate"><strong>CheckMate</strong></a><br>Modular habit suite with API + automation.<br>
-      <em>Tech:</em> React, Python, Docker, GitHub API.<br>
-      <em>Status:</em> Active (Discord/Slack bot in dev).</td>
-  </tr>
-</table>
-
-
-<table>
-  <tr bgcolor="#f6f8fa">
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/497c7eb8-c3a5-4cb6-a656-9eb4e669c4c2"width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/6b16ebeb-5088-4517-98ff-e200a2bef1d8" width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/95ef72f2-441e-49fb-9d67-1a787ad30d9b" width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/4723208d-f832-4da5-930c-615bf635791b" width="150"/></td>
-  </tr>
-  <tr bgcolor="#f6f8fa">
-    <td align="center"><strong>chicken-auto-waterer</strong><br>aaaaaaaaaaaaaa.<br><em>Tech:</em> aaaaaaa.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>food-for-thought</strong><br>bbbbbbbbbbbb<br><em>Tech:</em> bbbbbbbbb.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>search-review-scraper</strong><br>ccccccccccccc.<br><em>Tech:</em> cccccccc.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>morph-calculator</strong><br>ddddddddddd<br><em>Tech:</em> ddddddddddd.<br><em>Status:</em> Active.</td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr bgcolor="#f6f8fa">
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/7f5371a8-d9cd-4336-93b9-38d53b171b9a"width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/62b2ba28-5153-4fc9-bddf-c46935cbdc7e" width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/0f4dcf6c-9aa2-4bc4-84ec-868f0d9a58ee" width="150"/></td>
-    <td width="25%" align="center"><img src="" width="150"/></td>
-  </tr>
-  <tr bgcolor="#f6f8fa">
-    <td align="center"><strong>bobby-duck</strong><br>aaaaaaaaaaaaaa.<br><em>Tech:</em> aaaaaaa.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>morse-code-mentor</strong><br>An offline-capable Morse code trainer that helps you *learn by tapping*. It’s designed for clarity, rhythm accuracy, and self-paced mastery — built to run anywhere, even without internet access.<br><em>Tech:</em> bbbbbbbbb.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>morse-code-master</strong><br>A tiny, offline morse-code trainer that works on battery or USB.<br><em>Tech:</em> Raspberry Pi Pico.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>enyo</strong><br>Enyo is a medical education engine for med students and lay people. Off-grid friendly.
-<br><em>Tech:</em> LLama<br><em>Status:</em> Active.</td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr bgcolor="#f6f8fa">
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/9ab60ad8-f046-4b23-ac86-04dc595bcc93"width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/d8b06151-a2a4-4e29-9f56-b79e65f6ab8c" width="150"/></td>
-    <td width="25%" align="center"><img src="" width="150"/></td>
-    <td width="25%" align="center"><img src="" width="150"/></td>
-  </tr>
-  <tr bgcolor="#f6f8fa">
-    <td align="center"><strong>build-a-board</strong><br>A scrollable digital posterboard where you can create, arrange, and collect visual ideas — your way.<br><em>Tech:</em> aaaaaaa.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>wall-mounted-smart-display</strong><br>ddddddd.<br><em>Tech:</em> Raspberry Pi 4<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>pvc-builds</strong><br>dddddd<br><em>Tech:</em> dddddd.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>php-projects</strong><br> ddddddddd<br><em>Tech:</em> LLama<br><em>Status:</em> Active.</td>
-  </tr>
-</table>
-
-
-<table>
-  <tr bgcolor="#f6f8fa">
-    <td width="25%" align="center"><img src=""width="150"/></td>
-    <td width="25%" align="center"><img src="" width="150"/></td>
-    <td width="25%" align="center"><img src="" width="150"/></td>
-    <td width="25%" align="center"><img src="" width="150"/></td>
-  </tr>
-  <tr bgcolor="#f6f8fa">
-    <td align="center"><strong>digital-loom</strong><br>aaaaaaaaaaaaaa.<br><em>Tech:</em> aaaaaaa.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>livestock-logs</strong><br>ddddddd.<br><em>Tech:</em> bbbbbbbbb.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>livestock-locator</strong><br>dddddd<br><em>Tech:</em> dddddd.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>CutCoach</strong><br>Augmented reality app that teaches and guides DIY haircuts in real time.
-<br><em>Tech:</em> Unity + AR Foundation, C# <br><em>Status:</em> Active.</td>
-  </tr>
-</table>
-
-
-<h1 align="center">Professional</h1>
-<table>
-  <tr bgcolor="#f6f8fa">
-    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/cf46eeca-ed36-41cb-9287-5bf0caeabd26" width="150"/>
-    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/d7da0bb3-1af3-4c86-843b-85b863a880a8" width="150"/></td>
+    <td width="53%" align="center">
+      <img src="https://github.com/user-attachments/assets/cf46eeca-ed36-41cb-9287-5bf0caeabd26" width="140"/>
+    </td>
+    <td width="48%" align="center">
+      <img src="https://github.com/user-attachments/assets/d7da0bb3-1af3-4c86-843b-85b863a880a8" width="160"/>
     </td>
   </tr>
   <tr bgcolor="#f6f8fa">
-    <td align="center"><strong>WUSTL-VIRT-CYBER-PT-01-2024-U-LOLC-main</strong><br>Bootcamp labs & capstone materials.<br><em>Tech:</em> Blue team tooling.<br><em>Status:</em> Completed.</td>
-     <td align="center"><strong>washu-projects</strong><br>Cybersecurity coursework archive.<br><em>Tech:</em> Azure, cryptography.<br><em>Status:</em> Completed.</td>
+    <td align="center">
+      <a href="https://github.com/ginesthoii/WUSTL-VIRT-CYBER-PT-01-2024-U-LOLC-main"><br>
+        <strong>WUSTL Cybersecurity Boot Camp</strong><br>
+      </a><br>
+      Structured labs, capstone work, and assessments from an intensive cybersecurity program.<br><br>
+      Emphasis on blue-team operations, incident response, malware analysis & system hardening.<br><br>
+      <em>Tech:</em> Wireshark, Kali Linux, Metasploit, Bash, Windows & Linux hardening.<br>
+      <em>Status:</em> Completed (Final Grade: A+).
+    </td>
+    <td align="center">
+      <a href="https://github.com/ginesthoii/WashU-Projects">
+        <strong>WashU Projects</strong><br>
+      </a><br>
+      Applied cybersecurity projects and investigations completed during the WashU Cybersecurity program.<br><br>
+      Works in networking, vulnerability assessment, cloud security, penetration testing & digital forensics.<br><br>
+      <em>Tech:</em> Azure, cryptography, IAM, cloud security tooling.<br>
+      <em>Status:</em> Completed (final program grade: A+).
+    </td>
   </tr>
 </table>
+    
+<br><br>
+
+<h1 align="center">Simulation & Systems Modeling</h1>
+
+<table>
+  <!-- Icons Row -->
+  <tr bgcolor="#f6f8fa">
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/2d7d4b0f-6946-49f2-8bd9-f2c0ab9829b9" width="200"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github.com/user-attachments/assets/5e160e6d-9998-4fb5-a2b0-dac785989407" width="140"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center">
+      <a href="https://github.com/ginesthoii/ScenarioEngine"><br>
+        <strong>ScenarioEngine</strong><br>
+      </a><br>
+      Timeline-based stochastic simulation engine for modeling risk, failure, and long-term outcomes.<br><br>
+      Used for finance, energy systems, and other real-world planning problems.<br><br>
+      <em>Tech:</em> Python, Monte Carlo methods, state modeling.<br>
+      <em>Status:</em> Active.
+    </td>
+    <td align="center">
+      <a href="https://github.com/ginesthoii/Mini-Massive"><br>
+        <strong>Mini-Massive</strong><br>
+      </a><br>
+      Lightweight agent-based simulation framework for modeling emergent system behavior
+      (crowds, traffic, tactical interactions).<br><br>
+      Inspired by Weta Digital’s Massive system used in <em>The Lord of the Rings</em>.<br><br>
+      <em>Tech:</em> Python, WebGL, Three.js.<br>
+      <em>Status:</em> Active.
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<br><br>
+
+<h1 align="center">Knowledge, Metadata & Information Systems</h1>
+
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/6385f01c-5331-4975-8d0c-d688754ef9aa" width="110"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/49886ad6-1c20-4350-935e-6b68d81f57c4" width="180"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/9cc8f73d-d174-4049-beb6-1f53fc24d490" width="150"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/172f3701-00a2-4e04-85cf-c9cab19d974c" width="150"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/metadata_librarian"><strong>metadata-librarian</strong></a><br><br>
+      Local-first archival and metadata extraction system for documents, media, and images.<br><br>
+      <em>Tech:</em> Python, YAML, OCR, SQLite<br>
+      <em>Status:</em> Active.
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/mini-metadata"><strong>mini-metadata</strong></a><br><br>
+      Lightweight metadata utilities shared across projects.<br><br>
+      <em>Tech:</em> Python, SQLite<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/smart-tag-system"><strong>smart-tag-system</strong></a><br><br>
+      Universal hierarchical tagging framework for cross-domain organization.<br><br>
+      <em>Tech:</em> Python, PyQt6, OCR, SQLite3<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/catalog-orchestrator"><strong>catalog-orchestrator</strong></a><br><br>
+      Offline system for inventorying and publishing repository metadata.<br><br>
+      <em>Tech:</em> Automation tooling.<br>
+      <em>Status:</em> Active
+    </td>
+  </tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+      <td align="center" width="27%">
+      <img src="https://github.com/user-attachments/assets/bff0310f-4c71-4e3f-b880-13306413ac59" width="90"/>
+    </td>
+    <td align="center" width="46%">
+      <img src="https://github.com/user-attachments/assets/48b83707-498c-4ad7-9abb-522422ba37f1" width="190"/>
+    </td>
+    <td align="center" width="27%">
+      <img src="https://github.com/user-attachments/assets/6ef3ea80-6e1b-410c-906c-7ce7cc358d87" width="90"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/tree-me"><strong>tree-me</strong></a><br><br>
+      A fully offline desktop app that reconstructs folder & file structures from pasted text, uploaded images, PDFs, or dropped files.
+<br><br>
+      <em>Tech:</em> Python, PyQt6, SQLite<br>
+      <em>Status:</em> Active
+    </td>
+     <td align="center"><br>
+      <a href="https://github.com/ginesthoii/framework"><strong>framework</strong></a><br><br>
+     A personal operating system for ideas, projects, and research. <br> Provides developer-friendly starter files for every project type and language, each with project- and language-specific templates, automation, and a consistent, reproducible structure.
+      <br><br>
+      <em>Tech:</em> Python, PyQt6, SQLite, Markdown<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/storyteller"><strong>storyteller</strong></a><br><br>
+      Resumable offline audiobook generator for text, PDF, DOCX, MOBI, and EPUB files.<br><br>
+      <em>Tech:</em> Python, TTS engines, SQLite, document parsing.<br>
+      <em>Status:</em> Active
+    </td>
+  </tr>
+</table>
+
+
+<br><br>
+
+<h1 align="center">Application Security & Automation</h1>
+
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/55acb3b2-87bc-4230-a391-c70ee17c007f" width="100"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/3ef78176-daa9-4e9d-893a-4c07db4a2829" width="100"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/0d248a46-109e-4874-bf8c-10afffc85326" width="100"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/homestead-control-plane-hardener">
+        <strong>homestead-control-plane-hardener</strong>
+      </a><br><br>
+      A local security auditing tool that scans homestead control systems for exposed services, weak authentication, and unsafe defaults that could allow unintended control of physical equipment or data leakage.<br><br>
+      <em>Tech:</em> Python · Nmap · Config File Parsing · SQLite<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/remote-access-gatekeeper">
+        <strong>remote-access-gatekeeper</strong>
+      </a><br><br>
+      A perimeter-aware access control system that governs remote access to homestead systems by checking network exposure, service state, and connection context before allowing control or data access.<br><br>
+      <em>Tech:</em> Python · Network Inspection · Token Enforcement · Policy Logic<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/automation-safety-interlock-system">
+        <strong>automation-safety-interlock-system</strong>
+      </a><br><br>
+      A rule-based safety layer that blocks automation actions when system state or environmental conditions are unsafe, preventing equipment damage, resource loss, or hazardous behavior caused by bad assumptions.<br><br>
+      <em>Tech:</em> Python · Rule Engines · State Validation<br>
+      <em>Status:</em> Active
+    </td>
+  </tr>
+</table>
+<table width="70%" align="center" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="60%">
+      <img src="https://github.com/user-attachments/assets/4c2c498d-f89a-45ad-a63f-47437929c0f5" width="290"/>
+    </td>
+    <td align="center" width="40%">
+      <img src="https://github.com/user-attachments/assets/1d6d6493-1261-47b5-9b07-a1aa6dc1e08a" width="120"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/sensor-data-integrity-monitor">
+        <strong>sensor-data-integrity-monitor</strong>
+      </a><br><br>
+      A sensor data integrity subsystem that continuously validates environmental readings for plausibility, continuity, and consistency, preventing corrupted or unreliable data from influencing automation, alerts, or operational decisions and stopping faulty data from triggering pumps, heaters, feeders, or alerts.<br><br>
+      <em>Tech:</em> Python · Rule-Based Checks · Time-Series Validation · SQLite<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/SecureMaestro">
+        <strong>SecureMaestro</strong>
+      </a><br><br>
+      Secure, automated practice tools for musicians with looping and YouTube API integration, designed with application security boundaries and sandboxed execution in mind.<br><br>
+      <em>Tech:</em> Python · AppSec Sandboxing · Semgrep<br>
+      <em>Status:</em> Active
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<h1 align="center">Developer Tools, Platforms & Interactive Demos</h1>
+
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/bd012b6a-09ab-4550-91e8-645a95851d36" width="150"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/c71d7380-55fa-443b-b3ec-43ca56fbe265" width="190"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/phantom-terminal"><strong>phantom-terminal</strong></a><br><br>
+      An animated, self-typing terminal emulator for creating realistic command-line demos. <br><br>Type, edit, or script commands that appear as if a ghost were at the keyboard—then export the performance as PNG, GIF, or video.<br><br>
+      <em>Tech:</em> JS, HTML, CSS<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/Notflix"><strong>notflix</strong></a><br><br>
+      A fully local, Netflix-style streaming demo designed for learning full-stack development and DevSecOps. <br><br> It runs entirely on a local machine with zero paid dependencies, demonstrating containerized services, frontend/backend integration, and security tooling using Node.js, React, Docker, and GitHub Actions.
+<br><br>
+      <em>Tech:</em> Python, JS, HTML, Dockerfile<br>
+      <em>Status:</em> Active
+    </td>
+  </tr>
+</table>
+  <table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/25da5075-680d-4bf3-9a98-515664377349" width="120"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/f31a38f2-f5b0-4a41-b673-3b91bab50b13" width="150"/>
+    </td>
+      <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+ <td align="center"><br>
+      <a href="https://github.com/ginesthoii/DevGaze"><strong>DevGaze</strong></a><br><br>
+      Mobile-friendly developer playground that lets you see what code does instantly. Paste HTML/CSS/JS, upload a file, or point your camera at code to OCR and preview it live — all inside one app.<br><br>
+      <em>Tech:</em> HTML, CSS, JS, OCR<br>
+      <em>Status:</em> Active
+    </td>
+        <td align="center"><br>
+      <a href="https://github.com/ginesthoii/build-a-board"><strong>build-a-board</strong></a><br><br>
+      A scrollable digital posterboard where you can create, arrange, and collect visual ideas — your way.<br><br>
+      <em>Tech:</em> HTML, CSS, JS, Typescript<br>
+      <em>Status:</em> Active
+    </td>
+      </td>
+  </tr>
+  </table>
+    
+
+<br><br>
+
+
+<h1 align="center">Specialized Modeling & Computational Systems</h1>
+
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/277693d5-17bc-4377-b61b-9920c07e3bc5" width="150"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/a1db4381-c920-4ef1-aebe-cd335f14f4ca" width="190"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/hypercalculia"><strong>hypercalculia</strong></a><br><br>
+     High-intensity offline computation engine for complex numerical processing.<br><br>
+      <em>Tech:</em> Perl, Python<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/morph-tracker"><strong>morph-tracker</strong></a><br><br>
+      Ball python morph genetics tracker with morph IDs and a breeding outcome calculator. Designed to model inheritance, visualize outcomes, and manage pairing data.<br><br>
+      <em>Tech:</em> Python, Google Sheets, Appscript, JSON, CSV, SQLite<br>
+      <em>Status:</em> Active
+    </td>
+  </tr>
+</table>
+
+
+
+<br><br>
+
+
+
+<h1 align="center">Web Data Collection & Systems</h1>
+
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/2d2add16-1e8e-4a97-999d-b2eee32e8716" width="150"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/51d6ff7a-34cf-4737-8cc8-8113dde8c1c1" width="150"/>
+    </td>
+     <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/34efa5c3-0e0b-4cf4-9a4c-4fb6ffce1b05" width="150"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/ef8a4537-f409-4ba1-8b85-fd04431c2b35" width="150"/>
+    </td>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/search-review-scraper"><strong>search-review-scraper</strong></a><br><br>
+      Personalized search review scraper.<br><br>
+      <em>Tech:</em> Python<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/search-review-tracker"><strong>search-review-tracker</strong></a><br><br>
+     SEO and reputation monitoring with alerts.<br><br>
+      <em>Tech:</em> Python, SQLite, Plotly.<br>
+      <em>Status:</em> Active
+    </td>
+     <td align="center"><br>
+      <a href="https://github.com/ginesthoii/real-estate-scraper"><strong>real-estate-scraper</strong></a><br><br>
+      Real estate listing data collection and analysis system.<br><br>
+      <em>Tech:</em> Python<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/sql-xslx-csv-scraper"><strong>sql-xslx-csv-scraper</strong></a><br><br>
+      Structured data extraction and transformation utilities.<br><br>
+      <em>Tech:</em> Python<br>
+      <em>Status:</em> Active
+    </td>
+  </tr>
+</table>
+
+
+<br><br>
+
+<h1 align="center">Local Intelligence, Assistants & Reasoning</h1>
+
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/1c248ab0-aacb-4334-8f34-3f74aff53796" width="190"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/6706f143-0e07-411a-b3b7-a161e8aab610" width="150"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/35f786d5-95df-4059-8ad9-8d8f811f7086" width="160"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/e2d18f38-6856-4800-a546-cb64a0e955f2" width="150"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/bobby-duck"><strong>bobby-duck</strong></a><br><br>
+      Fully offline personal AI assistant with document ingestion, vector storage, and long-term memory.<br><br>
+      <em>Tech:</em> Python, vector databases<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/Muses"><strong>Muses</strong></a><br><br>
+      Personalized prompt builder and idea generator for local language models.<br><br>
+      <em>Tech:</em> Python, SQLite, PyQt6<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/PromptPal"><strong>PromptPal</strong></a><br><br>
+      Prompt discovery, categorization, and remix tool for local LLM interaction.<br><br>
+      <em>Tech:</em> Python, SQLite, PyQt6<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/Enyo"><strong>Enyo</strong></a><br><br>
+      An offline-capable reference and learning system for first-aid and emergency knowledge, combining curated manuals and skills documentation with local-only query and reasoning support.<br><br>
+      <em>Tech:</em> Streamlit · LangGraph · Ollama<br>
+      <em>Status:</em> Active
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<h1 align="center">Document Processing & Media Automation</h1>
+
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/c77fa307-8855-4615-adee-3bd8397f6290" width="150"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/32874c81-219a-4c37-a7f7-f3db8d5a0f94" width="150"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/6c1345bf-6a95-4c03-9631-f12e20c6ae90" width="150"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/paperwitch"><strong>paperwitch</strong></a><br><br>
+      Offline desktop app for merging PDFs and images with GUI and CLI support.<br><br>
+      <em>Tech:</em> Python, PyQt6, Pillow.<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/pdf-engine"><strong>pdf-engine</strong></a><br><br>
+      Core PDF processing utilities and tools shared across multiple projects.<br><br>
+      <em>Tech:</em> Python<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/smart-page-downloader"><strong>smart-page-downloader</strong></a><br><br>
+      Automated PDF, image and media downloader for dynamic web flows.<br><br>
+      <em>Tech:</em> Python, Selenium.<br>
+      <em>Status:</em> Active
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+
+
+<h1 align="center">Language, Translation & Communication</h1>
+
+<table>
+  <!-- Icons Row -->
+  <tr bgcolor="#f6f8fa">
+    <td width="33%" align="center">
+      <img src="https://github.com/user-attachments/assets/6bf65244-6ec8-47f7-b22a-dbf230ca6bc7" width="120"/>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github.com/user-attachments/assets/17a73309-1719-484e-bbcc-b791e1c0a8ed" width="330"/>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://github.com/user-attachments/assets/7121fb1e-27af-4fbc-aa60-3f6f39abffd9" width="170"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center">
+      <a href="https://github.com/ginesthoii/offline-translator"><br>
+        <strong>offline-translator</strong><br>
+      </a><br>
+      Fully offline translation engine for browser, terminal, and desktop use.<br><br>
+      <em>Tech:</em> Python, MarianMT, M2M100.<br>
+      <em>Status:</em> Active.
+    </td>
+    <td align="center">
+      <a href="https://github.com/ginesthoii/backtalk"><br>
+        <strong>backtalk</strong><br>
+      </a><br>
+      Offline communication suite supporting text, speech, OCR, and document workflows.<br><br>
+      <em>Tech:</em> Python, OCR, TTS.<br>
+      <em>Status:</em> Active.
+    </td>
+<td align="center">
+  <a href="https://github.com/ginesthoii/ASL-interpreter"><br>
+    <strong>ASL Interpreter</strong><br>
+  </a><br>
+  Offline American Sign Language recognition and translation system without cloud dependency.<br><br>
+  <em>Tech:</em> Python, computer vision, pose estimation. <br>
+  <em>Status:</em> Active
+</td>
+  </tr>
+</table>
+
+<table width="50%" align="center" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="100%">
+      <img src="https://github.com/user-attachments/assets/2852185f-6fe9-4607-9c99-5bf114f95362" width="120"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/offline-maps">
+        <strong>offline-maps</strong>
+      </a><br><br>
+      Fully offline navigation and spatial communication system comparable to offline Google Maps. Supports local map tiles, routing, and interactive map rendering without network access or external services.
+<br><br>
+      <em>Tech:</em> Python, PHP, JavaScript, Leaflet, OSM map tiles, MapTiler <br>
+      <em>Status:</em> Active
+    </td>
+  </tr>
+</table>
+
+
+<br>
+
+<h2 align="center">Morse Code Learning System</h2>
+<p align="center">
+  Paired hardware encoder/decoder with automatic evaluation and guided offline training.
+</p>
+
+<br>
+
 
 <table>
   <!-- Icons -->
   <tr bgcolor="#f6f8fa">
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/8c47632c-7b4c-41b9-ba5d-e2f3d8884f2e" width="100"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/af64bd67-a436-4b4c-b443-7c624f036c30" width="100"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/be3f5f7c-4fd5-425b-8f6d-4fe6c55a22b3" width="100"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/6eb8b464-d5e0-45f7-a93d-5ba6ce9c51a4" width="100"/></td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/62b2ba28-5153-4fc9-bddf-c46935cbdc7e" width="200"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/0f4dcf6c-9aa2-4bc4-84ec-868f0d9a58ee" width="200"/>
+    </td>
   </tr>
   <!-- Text -->
   <tr bgcolor="#f6f8fa">
-    <td align="center"><a href="https://github.com/ginesthoii/Mini-Massive"><strong>Mini-Massive</strong></a><br>Secure, automated practice tools for musicians.<br>
-      <em>Tech:</em> Python, AppSec sandboxing, Semgrep.<br>
-      <em>Status:</em> Active (looping + YouTube API integration).</td>
-    <td align="center"><a href="https://github.com/ginesthoii/HabitHelpers"><strong>Habit Helpers</strong></a><br>Supplement + prescription interaction checker.<br>
-      <em>Tech:</em> Python, Vite, AppSec sandbox.<br>
-      <em>Status:</em> Active (supplement DB expansion).</td>
-    <td align="center"><a href="https://github.com/ginesthoii/DevGaze"><strong>DevGaze</strong></a><br>Cybersecurity Boot Camp portfolio hub (A+).<br>
-      <em>Tech:</em> Cryptography, Azure, malware analysis.<br>
-      <em>Status:</em> Completed coursework archive.</td>
-    <td align="center"><a href="https://github.com/ginesthoii/CheckMate"><strong>CheckMate</strong></a><br>Modular habit suite with API + automation.<br>
-      <em>Tech:</em> React, Python, Docker, GitHub API.<br>
-      <em>Status:</em> Active (Discord/Slack bot in dev).</td>
- </tr>
+    <td align="center">
+      <a href="https://github.com/ginesthoii/morse-code-master/tree/main"><br>
+        <strong>morse-code-master</strong><br>
+      </a><br>
+      Offline Raspberry Pi Pico Morse-code encoder/decoder with autonomous timing analysis and accuracy scoring.<br><br>
+      <em>Tech:</em> MicroPython, Raspberry Pi Pico, GPIO, LEDs.<br>
+      <em>Status:</em> Active.
+    </td>
+    <td align="center">
+      <a href="https://github.com/ginesthoii/MorseCodeMentor"><br>
+        <strong>MorseCodeMentor</strong><br>
+      </a><br>
+      Offline Morse-code training app focused on guided practice and rhythm mastery.<br><br>
+      <em>Tech:</em> JavaScript, HTML, CSS.<br>
+      <em>Status:</em> Active.
+    </td>
+  </tr>
 </table>
 
 
+<br><br>
 
-<h1 align="center">Security & Professional</h1>
+<h1 align="center">Maker & DIY</h1>
 
-<table>
+<table width="100%">
   <!-- Icons -->
   <tr bgcolor="#f6f8fa">
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/8c47632c-7b4c-41b9-ba5d-e2f3d8884f2e" width="100"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/6268bcd7-99b8-49fe-afca-c497fa1dabda" width="100"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/cf46eeca-ed36-41cb-9287-5bf0caeabd26" width="100"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/af64bd67-a436-4b4c-b443-7c624f036c30" width="100"/></td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/165dd4b1-4c46-4605-a7f3-4d46f68ac803" width="150"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/658b3d9a-f8d5-445a-b893-bf606da052ad" width="150"/>
+    </td>
   </tr>
   <!-- Text -->
   <tr bgcolor="#f6f8fa">
-    <td align="center"><a href="https://github.com/ginesthoii/SecureMaestro"><strong>SecureMaestro</strong></a><br>Secure, automated practice tools for musicians.<br>
-      <em>Tech:</em> Python, AppSec sandboxing, Semgrep.<br>
-      <em>Status:</em> Active (looping + YouTube API integration).</td>
-    <td align="center"><a href="https://github.com/ginesthoii/PillPal-VitaPro"><strong>PillPal-VitaPro</strong></a><br>Supplement + prescription interaction checker.<br>
-      <em>Tech:</em> Python, Vite, AppSec sandbox.<br>
-      <em>Status:</em> Active (supplement DB expansion).</td>
-    <td align="center"><a href="https://github.com/ginesthoii/WashU-Projects"><strong>WashU-Projects</strong></a><br>Cybersecurity Boot Camp portfolio hub (A+).<br>
-      <em>Tech:</em> Cryptography, Azure, malware analysis.<br>
-      <em>Status:</em> Completed coursework archive.</td>
-    <td align="center"><a href="https://github.com/ginesthoii/HabitHelpers"><strong>HabitHelpers</strong></a><br>Modular habit suite with API + automation.<br>
-      <em>Tech:</em> React, Python, Docker, GitHub API.<br>
-      <em>Status:</em> Active (Discord/Slack bot in dev).</td>
- </tr>
-</table>
-
-<h1 align="center">Research & Knowledge Systems</h1>
-
-<h2 align="center">Research & Synthesis</h2>
-
-<table>
-  <tr bgcolor="#ffffff">
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/3dd392c0-5559-4515-89d5-3b0674a48b3b" width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/ca4ee536-1d71-437d-8e18-b971173d84cc" width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/a3c0df2e-ed84-4406-a7af-6c4cb531e5f9" width="150"/></td>
-    <td width="25%" align="center"><img src="https://github.com/user-attachments/assets/5769b085-0b83-46f9-8e68-abdb2576d097" width="150"/></td>
-  </tr>
-  <tr bgcolor="#ffffff">
-    <td align="center"><strong>food-for-thought</strong><br>Structured research notes.<br><em>Tech:</em> Markdown.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>muses</strong><br>Idea & concept exploration.<br><em>Tech:</em> Notes, schemas.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>promptpal</strong><br>Prompt taxonomy system.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>storyteller</strong><br>Narrative systems tooling.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
-        <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/f430092c-d2ce-483f-b7a9-e984bd53930a" width="100"/></td>
+    <td align="center">
+      <a href="https://github.com/ginesthoii/WoodenItBeNice">
+        <strong>WoodenItBeNice</strong>
+      </a><br>
+        <br>
+      DIY small woodworking projects and build designs paired with parametric design and tooling scripts.<br>
+        <br>
+      <em>Tech:</em> Python, Java, Blender, YAML.<br>
+      <em>Status:</em> Active.
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/pvc-builds">
+        <strong>pvc-builds</strong>
+      </a><br>
+        <br>
+      DIY PVC-based designs for irrigation, animals, utilities, and infrastructure builds. Focused on being low-cost, durable, and repairable.<br>
+      <br>
+      <em>Tech:</em> PVC systems, gravity-fed design, pressure-rated plumbing.<br>
+      <em>Status:</em> Active.
+    </td>
   </tr>
 </table>
-
-
-<h1 align="center">Creative & Worldbuilding</h1>
-
-<table>
+<table width="100%">
   <!-- Icons -->
-  <tr bgcolor="#ffffff">
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/f20d13dd-7c84-4388-8c51-bfba42ebdaf3" width="100"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/9a3e41f7-7f5c-49bf-bda9-7302c43c7879" width="100"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/2172227a-4542-4672-9a4d-945fcaa759b6" width="100"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/f430092c-d2ce-483f-b7a9-e984bd53930a" width="100"/></td>
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="30%">
+      <img src="https://github.com/user-attachments/assets/c927ecf8-a22b-486c-a879-291787470b58" width="150"/>
+    </td>
+    <td align="center" width="40%">
+      <img src="https://github.com/user-attachments/assets/51e34a17-e5ce-4fb5-b424-37d6496ab12b" width="270"/>
+    </td>
+    <td align="center" width="30%">
+      <img src="https://github.com/user-attachments/assets/9a3e41f7-7f5c-49bf-bda9-7302c43c7879" width="130"/>
+    </td>
   </tr>
   <!-- Text -->
-  <tr bgcolor="#ffffff">
-    <td align="center"><a href="https://github.com/ginesthoii/MythicalMenagerie"><strong>MythicalMenagerie</strong></a><br>Digital bestiary for global myth creatures.<br>
-      <em>Tech:</em> JavaScript, JSON, HTML/CSS.<br>
-      <em>Status:</em> Active (adding mash-up generator).</td>
-    <td align="center"><a href="https://github.com/ginesthoii/ModelMiddleEarth"><strong>ModelMiddleEarth</strong></a><br>3D explorations of Middle-earth.<br>
+  <tr bgcolor="#f6f8fa">
+    <td align="center">
+      <a href="https://github.com/ginesthoii/ShelfScapes">
+        <strong>ShelfScapes</strong><br>
+      </a><br>
+      Immersive book-nook and display builds combining physical fabrication and electronics.<br><br>
+      <em>Tech:</em> CAD, Arduino/ESP32, FreeCAD.<br>
+      <em>Status:</em> Active.
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/digital_loom">
+        <strong>Digital Loom</strong><br>
+      </a><br>
+      Offline desktop tool for generating printable needlepoint and cross-stitch patterns from images.<br>
+      Produces tiled PDFs with DMC color matching, symbols, and stitch grids.<br><br>
+      <em>Tech:</em> Python, Pillow, Tkinter, PDF/CSV export.<br>
+      <em>Status:</em> Active.
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/ModelMiddleEarth">
+        <strong>ModelMiddleEarth</strong><br>
+      </a><br>
+      3D explorations of Middle-earth environments and terrain with a focus on spatial layout and worldbuilding fidelity.<br><br>
       <em>Tech:</em> Python, Blender, FreeCAD.<br>
-      <em>Status:</em> Active (new terrain models).</td>
-    <td align="center"><a href="https://github.com/ginesthoii/CulinaryCodex"><strong>CulinaryCodex</strong></a><br>Ancient + modern food research codex.<br>
-      <em>Tech:</em> Python, JS, structured datasets.<br>
-      <em>Status:</em> Expanding cultural recipes DB.</td>
-    <td align="center"><a href="https://github.com/ginesthoii/CyberPersona"><strong>CyberPersona</strong></a><br>MBTI + Enneagram persona generator.<br>
-      <em>Tech:</em> Python, YAML, taxonomy design.<br>
-      <em>Status:</em> Active (adding archetypes).</td>
+      <em>Status:</em> Active.
+    </td>
+  </tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/ff357a9b-60b6-4a8b-8a74-65b17a4e5f88" width="150"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/02e0692f-a398-42fc-a6cf-4d3f9454c0ff" width="190"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/2106a838-51a6-4f75-aaee-be65c8922560" width="150"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/b606ab22-efb4-4fa1-b57b-939eb1f589f0" width="150"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+     <td align="center"><br>
+<a href="https://github.com/ginesthoii/guided-vertical-platform-lift">
+  <strong>guided-vertical-platform-lift</strong>
+</a><br><br>
+        A wall-mounted, rail-guided vertical platform lift system (GVPL) with rigid, enclosed carriage with door on hinge. Designed around a 2,000 lb target load for safely moving heavy or bulky items. 
+<br><br>
+      <em>Tech:</em> OpenSCAD, Crafty Amigo<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/foldable-axe-throwing-board"><strong>foldable-axe-throwing-board</strong></a><br><br>
+      DIY foldable, freestanding wooden axe-throwing target designed for stability, durability, and easy transport. Built for backyard use with a durable wood-block face and compact storage.
+<br><br>
+      <em>Tech:</em> Crafty Amigo<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/project-greenhouse"><strong>project-greenhouse</strong></a><br><br>
+      A complete set of DIY plans, material lists, and automation software for building scalable greenhouse systems<br><br>
+      <em>Tech:</em> Raspberry Pi, Arduino, Crafty Amigo, LDR, DHT22 <br>
+      <em>Status:</em> Active.
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/diy-kiln-designs"><strong>diy-kiln-designs</strong></a><br><br>
+      Resources and plans for building DIY pottery and ceramic kilns, ranging from primitive and raku designs to electric, wood-fired, and gas-fired kilns.
+<br><br>
+      <em>Tech:</em> OpenSCAD, CAD, Crafty Amigo, Markdown<br>
+      <em>Status:</em> Active.
+    </td>
+  </tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/08cc7431-2dcc-4d73-90aa-1c73524aba7c" width="150"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/4bc3188f-158d-4d09-a56a-7bac581b2cdd" width="150"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/smart-display-frame"><strong>smart-display-frame</strong></a><br><br>
+      A DIY wall-mounted smart display dashboard with repurposed computer monitor screen. Features shared family calendars, to-do lists, reminders and local weather.
+      <br><br>
+      <em>Tech:</em> Raspberry Pi 4.<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/thermal-imaging-camera"><strong>thermal-imaging-camera</strong></a><br><br>
+      A buildable, FLIR-style thermal imaging camera using an MLX90640 sensor, ESP32-S3, and 3.5″ ILI9488 display. Includes enclosure CAD, hardware layout, and build documentation for a complete handheld device.
+<br><br>
+      <em>Tech:</em> OpenSCAD, FLIR, MLX sensors.<br>
+      <em>Status:</em> Active
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<h1 align="center">Operational Tools & Asset Management</h1>
+
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/c908df28-f8ec-462a-bab1-379a72d16e6c" width="150"/>
+    </td>
+     <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/a00b841d-997b-4402-85d0-746101860883" width="150"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/tool-equipment-tracker">
+        <strong>tool-equipment-tracker</strong>
+      </a><br><br>
+      Tool and equipment tracking system for inventory, maintenance, and usage management. A Python desktop app for cataloging tools, equipment, and materials that supports automatic metadata scraping from product URLs, image previews, dropdown memory, a structured department/category hierarchy, offline image caching, and one-click syncing to Google Sheets.<br><br>
+      <em>Tech:</em> Python, SQLite, Google Sheets, App Scripts, Google Workspace<br>
+      <em>Status:</em> Active
+    </td>
+     <td align="center"><br>
+             <a href="https://github.com/ginesthoii/seed-ledger">
+      <strong>seed-ledger</strong><br><br> </a><br>
+      Structured seed inventory and viability tracking system for gardeners and seed savers, designed to prevent duplicate purchases, manage aging stock, and support long-term garden planning and seasonal planting decisions.<br><br>
+      <em>Tech:</em> Google Sheets · Excel · Structured Data Modeling · Python · SQLite · CSV Import/Export · Inventory State Modeling · Rule-Based Scheduling · USDA Zone Data · Frost-Date Tables · Local Weather Datasets (Cached)
+      <br>
+        <em>Status:</em> Active <br>
+    </td> 
+  </tr>
+</table>
+
+<h1 align="center">Games & Interactive Systems</h1>
+
+<h2 align="center">Teaching & Serious Interactive Systems</h2>
+
+<table>
+  <!-- Icons -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/905ead19-3392-4fe8-bbb6-8904cef3ae3b" width="250"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/f4204621-88cd-45d2-801d-1c0706bd0ce8" width="250"/>
+    </td>
+  </tr>
+  <!-- Text -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/CheckMate">
+        <strong>CheckMate</strong> <br>
+      </a><br>
+      Interactive, teaching-first chess coach powered by Stockfish.<br>
+      Play against the engine or watch AI self-play duels. <br><br>
+      Train with live overlays that explain mistakes, highlight tactics and principles, surface best-move plans and tactical mistakes in real time.<br> <br>
+      <em>Tech:</em> Python, Pygame, Stockfish, python-chess.<br>
+      <em>Status:</em> Active.
+    </td>
+    <td align="center">
+      <a href="https://github.com/ginesthoii/CutCoach">
+        <strong>CutCoach</strong> <br>
+      </a><br>
+      Augmented-reality app that teaches and guides DIY haircuts in real time.<br><br>
+      Uses AR overlays and structured “recipe” steps to safely guide sectioning, cut planes, calibration, and mirrored UI modes.<br><br>
+      <em>Tech:</em> Unity, C#, AR Foundation, ARKit / ARCore.<br>
+      <em>Status:</em> Active.
+    </td>
+  </tr>
+</table>
+
+<BR> 
+
+<h3 align="center">Tooling & Game Foundations</h3>
+<p align="center">
+  Game-adjacent tooling, rapid mechanics experiments, and engine-level prototypes — from asset pipelines to playable systems.
+</p>
+
+<table>
+  <!-- Icons -->
+  <tr bgcolor="#ffffff">
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/1a73e9c5-bc52-47b0-ad8a-3a5c2187b064" width="180"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/b0a0fe50-8934-40a1-a102-f3171b689ba8" width="110"/>
+    </td>
+  </tr>
+  <!-- Text -->
+  <tr bgcolor="#ffffff">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/OlivisionWorks"><strong>OlivisionWorks</strong></a><br><br>
+      Tooling workshop for sprites, animation, and visual asset workflows for games.<br>
+      A set of editors and utilities that streamline sprite slicing, palette work, and animation assets.<br><br>
+      <em>Tech:</em> Python, Tkinter, Pillow, PyGame.<br>
+      <em>Status:</em> Active.
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/PixelPortfolio"><strong>PixelPortfolio</strong></a><br><br>
+      Retro-inspired interactive gallery of bite-sized games and mechanics experiments.<br>
+      Showcases arcade demos, puzzle loops, and mechanic explorations with sprite-driven feedback.<br><br>
+      <em>Tech:</em> Python, Pygame, sprite design, JavaScript, HTML/CSS, C#.<br>
+      <em>Status:</em> Active.
+    </td>
   </tr>
 </table>
 
 <table>
+  <!-- Icons -->
   <tr bgcolor="#ffffff">
-    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/2fb9b246-665c-46cf-af45-713dcb205c26" width="150"/></td>
-    <td width="50%" align="center"><img src="https://github.com/user-attachments/assets/194a13f6-1045-4bf6-a4ae-51a39c76a0fb" width="150"/></td>
+    <td align="center" width="35%">
+      <img src="https://github.com/user-attachments/assets/ac8ebf15-9504-4924-96f6-93e0c48ebecb" width="150"/>
+    </td>
+    <td align="center" width="30%">
+      <img src="https://github.com/user-attachments/assets/2919dfb3-b1ef-4be4-9b1e-51a0199e353a" width="150"/>
+    </td>
+    <td align="center" width="35%">
+      <img src="https://github.com/user-attachments/assets/579b7a3b-0b8f-4191-b200-0f9f78e4154c" width="110"/>
+    </td>
   </tr>
+  <!-- Text -->
   <tr bgcolor="#ffffff">
-    <td align="center"><strong>thats-what-im-tolkien-about</strong><br>Systems-driven fandom project.<br><em>Tech:</em> Python.<br><em>Status:</em> Active.</td>
-    <td align="center"><strong>unity-csharp-games</strong><br>Unity game experiments.<br><em>Tech:</em> C#.<br><em>Status:</em> Active.</td>
+    <td align="center">
+      <a href="https://github.com/ginesthoii/hook-and-ring"><strong>Hook & Ring</strong></a><br>
+      Hybrid build: a browser physics mini-game plus an Arduino scorer for a real hook & ring setup.<br><br>
+      <em>Tech:</em> JavaScript/HTML/CSS, Arduino (C++), OpenSCAD.<br>
+      <em>Status:</em> Active.
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/unity-csharp-games"><strong>unity-csharp-games</strong></a><br><br>
+      Unity gameplay experiments exploring C# systems and engine mechanics.<br>
+     <br>
+      <em>Tech:</em> Unity, C#, gameplay systems, component patterns.<br>
+      <em>Status:</em> Active.
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/thats-what-im-tolkien-about"><strong>that’s What I’m Tolkien About</strong></a><br><br>
+      Retro-arcade mini-games inspired by Tolkien’s legendarium.<br>
+      Multiple themes & mechanics: platforming, maze chase, logic puzzles, and more.<br><br>
+      <em>Tech:</em> Python, 2D game loops, state machines, arcade logic.<br>
+      <em>Status:</em> Active.
+    </td>
   </tr>
 </table>
 
 
-<h1 align="center">Fitness & Health</h1>
+
+
+
+<br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+
+
+<h1 align="center">Nutrition, Fitness & Health Systems</h1>
 <table>
   <!-- Icons -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/d6fb7704-5186-4ccd-b541-b0e0033500bf" width="150"/></td>
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/682a5323-e64b-447d-9688-9a2a3869b330" width="150"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/a5228f78-90a9-41d3-9315-b26df34dfe96" width="150"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/a5228f78-90a9-41d3-9315-b26df34dfe96" width="130"/></td>
     <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/ac6a2250-8785-41f4-8f72-35fbe0d446f0" width="150"/></td>
   </tr>
   <!-- Text -->
   <tr bgcolor="#f6f8fa">
-    <td align="center"><a href="https://github.com/ginesthoii/StretchStud-io"><strong>StretchStud-io</strong></a><br>Yoga + stretching routines + dashboards.<br>
+    <td align="center"><a href="https://github.com/ginesthoii/StretchStud-io"><strong>StretchStud-io</strong></a><br>
+      <br>Yoga + stretching routines + dashboards.<br><br>
       <em>Tech:</em> Python, Google Sheets, dashboards.<br>
-      <em>Status:</em> Active (expanding routines).</td>
-    <td align="center"><a href="https://github.com/ginesthoii/TheHungerGains"><strong>TheHungerGains</strong></a><br>Minimalist intermittent fasting tracker. <br>
+      <em>Status:</em> Active.</td>
+    <td align="center"><a href="https://github.com/ginesthoii/TheHungerGains"><strong>TheHungerGains</strong></a><br>
+      <br>Minimalist intermittent fasting tracker. <br><br>
       <em>Tech:</em> Python, AppSheet, Google Apps Script.<br>
-      <em>Status:</em> Active (v1 stable).</td>
-    <td align="center"><a href="https://github.com/ginesthoii/StrokeOfGenius"><strong>StrokeOfGenius</strong></a><br>Swimming logbook + analyzer.<br>
+      <em>Status:</em> Active.</td>
+    <td align="center"><a href="https://github.com/ginesthoii/StrokeOfGenius"><strong>StrokeOfGenius</strong></a><br>
+      <br>Swimming logbook + analyzer.<br><br>
       <em>Tech:</em> Python, Pandas, dashboards.<br>
-      <em>Status:</em> Active (data viz in progress).</td>
-    <td align="center"><a href="https://github.com/ginesthoii/SweatScript"><strong>SweatScript</strong></a><br>CLI workout tracker with dashboards.<br>
+      <em>Status:</em> Active.</td>
+    <td align="center"><a href="https://github.com/ginesthoii/SweatScript"><strong>SweatScript</strong></a><br><br>CLI workout tracker with dashboards.<br><br>
       <em>Tech:</em> Python, Bash, Google Sheets.<br>
-      <em>Status:</em> Active (refining CLI interface).</td>
+      <em>Status:</em> Active.</td>
   </tr>
 </table>
-
-
-<h1 align="center">Maker & DIY</h1>
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/62150da5-b87d-4c08-b361-f5e568d0f370" width="170"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/ebb270e0-59f5-449b-8fa3-8a680a247231" width="150"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/9ac301e8-205e-4bed-9a85-5ac879be8d81" width="150"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/9ec3b8ac-ae8e-4521-9f75-7936f7764f5b" width="150"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/protein-plus"><strong>protein-plus</strong></a><br><br>
+      Protein-first nutrition tracker that keeps things simple. <br> Track calories, protein, carbs, and fats with fast food search, barcode scanning & a robust food database<br><br>
+      <em>Tech:</em> Google Sheets, Apps Script, SQLite3<br>
+      <em>Status:</em> Active.
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/food-for-thought"><strong>food-for-thought</strong></a><br><br>
+      An offline food and symptom tracker based on the FODMAP system, designed to help users identify foods and recipes their body can tolerate.<br><br>
+      <em>Tech:</em> Python, PyQt6, Google Sheets and SQLite<br>
+      <em>Status:</em> Active.
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/sourdough-starter"><strong>sourdough-starter</strong></a><br><br>
+     Offline sourdough starter manager with diagnostics, calculations, stability tracking, and corrective logic for flour, water, and starter ratios.
+<br><br>
+      <em>Tech:</em> Python, PyQt6, and SQLite<br>
+      <em>Status:</em> Active.
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/CulinaryCodex"><strong>CulinaryCodex</strong></a><br><br>
+      Ancient + modern food research codex. Food history and cultural research that gives us a taste of the past. <br><br>
+      <em>Tech:</em> Python, JS, HTML, CSS, Flask, SQLite<br>
+      <em>Status:</em> Active.
+    </td>
+  </tr>
+</table>
 <table>
+      <table align="center">
   <!-- Icons -->
   <tr bgcolor="#f6f8fa">
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/165dd4b1-4c46-4605-a7f3-4d46f68ac803" width="100"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/b0a0fe50-8934-40a1-a102-f3171b689ba8" width="100"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/5e160e6d-9998-4fb5-a2b0-dac785989407" width="100"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/c927ecf8-a22b-486c-a879-291787470b58" width="100"/></td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/111f949a-27a6-4c31-8183-e8c118168929" width="200"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/af64bd67-a436-4b4c-b443-7c624f036c30" width="150"/>
+    </td>
   </tr>
   <!-- Text -->
   <tr bgcolor="#f6f8fa">
-    <td align="center"><a href="https://github.com/ginesthoii/WoodenItBeNice"><strong>Wooden It Be Nice</strong></a><br>DIY woodworking meets code.<br>
-      <em>Tech:</em> Python, Java, Blender, YAML.<br>
-      <em>Status:</em> Active (adding jigs + boards).</td>
-    <td align="center"><a href="https://github.com/ginesthoii/PixelPortfolio"><strong>PixelPortfolio</strong></a><br>Retro-inspired Pygame gallery.<br>
-      <em>Tech:</em> Python, Pygame, sprite design.<br>
-      <em>Status:</em> Active (adding mini-games).</td>
-    <td align="center"><a href="https://github.com/ginesthoii/Mini-Massive"><strong>Mini-Massive</strong></a><br>Lightweight agent-based simulations.<br>
-      <em>Tech:</em> Python, WebGL, Three.js.<br>
-      <em>Status:</em> Active (traffic + battle sims).</td>
-    <td align="center"><a href="https://github.com/ginesthoii/ShelfScapes"><strong>ShelfScapes</strong></a><br>Immersive book nooks: CAD, Arduino lighting. <br>
-      <em>Tech:</em> CAD, Arduino/ESP32, FreeCAD.<br>
-      <em>Status:</em> Active (gallery docs in progress).</td>
- </tr>
+    <td align="center"> 
+      <a href="https://github.com/ginesthoii/PillPal-VitaPro">
+        <strong>PillPal-VitaPro</strong><br>
+      </a><br>
+      Supplement + prescription interaction checker.<br><br>
+      <em>Tech:</em> Python, Vite, AppSec sandbox.<br>
+      <em>Status:</em> Active.
+    </td>
+    <td align="center">
+      <br>
+      <a href="https://github.com/ginesthoii/HabitHelpers">
+        <strong>HabitHelpers</strong>
+      </a><br>
+      Modular habit suite with API + automation.<br><br>
+      <em>Tech:</em> React, Python, Docker, GitHub API.<br>
+      <em>Status:</em> Active.
+    </td>
+  </tr>
 </table>
 
 
+<br><br>
+
+<h1 align="center">Animal Care, Livestock & Biosecurity Systems</h1>
+
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/324a53a1-2ff7-4649-a710-af30e14370c8" width="150"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/08e823a9-714f-4cb4-9cf1-81d3873f1e96" width="150"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/f94bcd01-4154-4c53-8269-f92ab862f1e0" width="150"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/150dfa85-bfba-4cc0-a804-cf1b92935169" width="150"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/automated-chicken-coop"><strong>automated-chicken-coop</strong></a><br><br>
+      ESP32-powered poultry coop automation system.<br><br>
+      <em>Tech:</em> ESP32, C.<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/chicken-auto-waterer"><strong>chicken-auto-waterer</strong></a><br><br>
+      Automated poultry watering system.<br><br>
+      <em>Tech:</em> Embedded systems.<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/incubator"><strong>incubator</strong></a><br><br>
+      Temperature, light and humidity controlled incubator system.<br><br>
+      <em>Tech:</em> ESP32, C++.<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/hen-manager"><strong>hen-manager</strong></a><br><br>
+      Poultry analytics for egg production, molt cycles, and breeding.<br><br>
+      <em>Tech:</em> Python<br>
+      <em>Status:</em> Active
+    </td>
+  </tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/4f0a3067-2396-4736-9355-e7c3a653661c" width="150"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/08915f90-a585-4b09-81bf-d513784a5069" width="150"/>
+    </td>
+      <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/51bbcb2d-aeef-4973-97da-2bfe5ef66c31" width="150"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/b1db7120-0c33-4490-ab07-1689dad9a490" width="150"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/livestock-log"><strong>livestock-log</strong></a><br><br>
+      Comprehensive livestock management and analytics system.<br><br>
+      <em>Tech:</em> Python, PyQt6, SQLite.<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/livestock-locator"><strong>livestock-locator</strong></a><br><br>
+      Livestock location, sensors and identification utilities.<br><br>
+      <em>Tech:</em> Python, Raspbery Pi<br>
+      <em>Status:</em> Active
+    </td>
+      <td align="center"><br>
+      <a href="https://github.com/ginesthoii/guardian"><strong>guardian</strong></a><br><br>
+      ESP32 environmental safety monitor with alarms, logging, WiFi alerts, LTE SMS backup.<br><br>
+      <em>Tech:</em> ESP32, C++, sensors.<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/dog-logs"><strong>dog-logs</strong></a><br><br>
+      Canine health and activity tracking system.<br><br>
+      <em>Tech:</em> Python, PyQt6, GoogleSheets, Apps Script, SQLite<br>
+      <em>Status:</em> Active
+    </td>
+  </tr>
+</table>
+
+
+<br><br>
+
+<h1 align="center">Environmental Monitoring, Agriculture & Infrastructure Systems</h1>
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="100%">
+      <img src="https://github.com/user-attachments/assets/6484c161-b1c5-472f-b847-41310ff075d1" width="200"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/weather-oracle"><strong>weather-oracle</strong></a><br><br>
+      A fully offline, self-contained weather monitoring and forecasting system using an ESP32 station, a Raspberry Pi collector, a SQLite climate database, and a hybrid online/offline ML + trend-based forecast engine. <br> No cloud, no subscriptions, no required internet. Solar friendly. <br><br>
+      <em>Tech:</em> ESP32, Raspberry Pi, SQLite, Python, ML<br>
+      <em>Status:</em> Active
+    </td>
+    </td>
+  </tr>
+</table>
+
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/41174008-35e7-4fbf-9a93-aae707e36d65" width="160"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/e4d0c82b-ca75-4707-a83d-4219b51fc29d" width="160"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/315f5242-b44d-44f0-8e69-0a166e4544ea" width="150"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/plant-sensor-automation-water"><strong>plant-sensor-automation-water</strong></a><br><br>
+      Embedded sensing pipelines for soil and water monitoring.<br><br>
+      <em>Tech:</em> ESP32.<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/auto-drip-irrigation"><strong>auto-drip-irrigation</strong></a><br><br>
+      Sensor-driven irrigation automation.<br><br>
+      <em>Tech:</em>  Python, Raspberry Pi, ESP32, C++.<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/automated-olives"><strong>automated-olives</strong></a><br><br>
+      ESP32 irrigation & monitoring system for indoor olive trees.<br><br>
+      <em>Tech:</em> ESP32, C++.<br>
+      <em>Status:</em> Active
+    </td>
+  </tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/25c7ceab-05f4-414b-bb4a-0801f54f3543" width="150"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/70bc9b42-6511-406c-9dc5-ff0dfd6b9f8f" width="150"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/the-waterworks"><strong>the-waterworks</strong></a><br><br>
+      A guide to designing and building a scalable, modular waterwheel system for residential or remote power generation. <br> Includes scripts for calculating renewable power potentials and simulating water flow dynamics for optimal waterwheel design.<br><br>
+      <em>Tech:</em> Python, ESP32, C++.<br>
+      <em>Status:</em> Active
+    </td>
+     <td align="center"><br>
+      <a href="https://github.com/ginesthoii/hydro-systems-lab"><strong>hydro-systems-lab</strong></a><br><br>
+     Water infrastructure planning, simulation, and automation toolkit.<br><br>
+      <em>Tech:</em> Python, Raspberry Pi, ESP32.<br>
+      <em>Status:</em> Active
+    </td>
+  </tr>
+</table>
+
+
+<h1 align="center">Language Foundations & Experiments</h1>
+
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/5cca93d1-60b7-4193-af90-0abfbb9bc47a" width="100"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/069e3d8c-de64-4013-9087-c48c118e8741" width="100"/>
+    </td>
+    <td align="center" width="34%">
+      <img src="https://github.com/user-attachments/assets/7d40450e-955e-483b-997f-47ef023e697a" width="100"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/php-projects">
+        <strong>php-projects</strong>
+      </a><br><br>
+      Archived language experiments exploring core PHP syntax, control flow, and application structure.<br><br>
+      <em>Tech:</em> PHP<br>
+      <em>Status:</em> Archived
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/java-projects">
+        <strong>java-projects</strong>
+      </a><br><br>
+      Archived Java language exercises focused on object-oriented design, type systems, and basic application patterns.<br><br>
+      <em>Tech:</em> Java<br>
+      <em>Status:</em> Archived
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/c-cpp-csharp-projects">
+        <strong>c-cpp-csharp-projects</strong>
+      </a><br><br>
+      Archived systems-language practice covering memory management, compilation models, and low-level program structure.<br><br>
+      <em>Tech:</em> C · C++ · C#<br>
+      <em>Status:</em> Archived
+    </td>
+  </tr>
+</table>
 
 ---
 
