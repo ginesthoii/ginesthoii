@@ -1189,16 +1189,16 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/4f0a3067-2396-4736-9355-e7c3a653661c" width="150"/>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/08915f90-a585-4b09-81bf-d513784a5069" width="150"/>
     </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/51bbcb2d-aeef-4973-97da-2bfe5ef66c31" width="150"/>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/b1db7120-0c33-4490-ab07-1689dad9a490" width="150"/>
     </td>
   </tr>
