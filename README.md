@@ -113,12 +113,6 @@
 
 <br>
 
----
- 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6a9fbc3b-9c0f-4a3c-85c5-8589fb27eb69" alt="Image" width="100%" height="20%" style="border-radius:15px;"/>
-</p>
-
 
 ---
 
