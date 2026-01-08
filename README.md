@@ -391,32 +391,47 @@
     </td>
   </tr>
 </table>
-  <table width="100%" cellpadding="0" cellspacing="0">
+<table width="100%" cellpadding="0" cellspacing="0">
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/25da5075-680d-4bf3-9a98-515664377349" width="120"/>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/f31a38f2-f5b0-4a41-b673-3b91bab50b13" width="150"/>
     </td>
-      <!-- Text Row -->
-  <tr bgcolor="#f6f8fa">
- <td align="center"><br>
-      <a href="https://github.com/ginesthoii/DevGaze"><strong>DevGaze</strong></a><br><br>
-      Mobile-friendly developer playground that lets you see what code does instantly. Paste HTML/CSS/JS, upload a file, or point your camera at code to OCR and preview it live — all inside one app.<br><br>
-      <em>Tech:</em> HTML, CSS, JS, OCR<br>
-      <em>Status:</em> Active
+    <td align="center" width="34%">
+      <img src="https://github.com/user-attachments/assets/3b156726-67f6-469c-a3ca-fa24d9bb6390" width="150"/>
     </td>
-        <td align="center"><br>
-      <a href="https://github.com/ginesthoii/build-a-board"><strong>build-a-board</strong></a><br><br>
-      A scrollable digital posterboard where you can create, arrange, and collect visual ideas — your way.<br><br>
-      <em>Tech:</em> HTML, CSS, JS, Typescript<br>
-      <em>Status:</em> Active
-    </td>
-      </td>
   </tr>
-  </table>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/DevGaze">
+        <strong>DevGaze</strong>
+      </a><br><br>
+      Mobile-friendly developer playground that lets you see what code does instantly. Paste HTML/CSS/JS, upload a file, or point your camera at code to OCR and preview it live — all inside one app.<br><br>
+      <em>Tech:</em> HTML · CSS · JavaScript · OCR<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/build-a-board">
+        <strong>build-a-board</strong>
+      </a><br><br>
+      A scrollable digital posterboard for creating, arranging, and collecting visual ideas in a freeform workspace.<br><br>
+      <em>Tech:</em> HTML · CSS · JavaScript · TypeScript<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/kanban-post-it">
+        <strong>kanban-post-it</strong>
+      </a><br><br>
+      Lightweight visual task and idea board inspired by physical Post-it workflows for quick planning and organization.<br><br>
+      <em>Tech:</em> JavaScript, HTML, CSS<br>
+      <em>Status:</em> Active
+    </td>
+  </tr>
+</table>
     
 
 <br><br>
