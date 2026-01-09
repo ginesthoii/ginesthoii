@@ -1467,192 +1467,604 @@
 </p>
 
    
+<!-- ROW 1 -->
+<table width="100%">
+  <!-- WHITE ROW: IMAGE + TITLE -->
+  <tr bgcolor="#ffffff">
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/4afa1504-05e6-46ea-b19c-fa3305fbb52c" width="180" alt="Room-Reader badge"><br><br>
+      <a href="https://github.com/room-reader" style="text-decoration:none;">
+        <strong>room-reader</strong><br><br>
+      </a>
+    </td>
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/1f3b83a8-cc29-4fb5-86b0-c99205804b8c" width="130" alt="CaregiverQR badge"><br><br>
+      <a href="https://github.com/CaregiverQR" style="text-decoration:none;">
+        <strong>CaregiverQR</strong><br><br>
+      </a>
+    </td>
+  </tr>
+  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      Room-level care visibility for assisted living, memory care, and nursing homes.
+      Offline-first. Secure. Staff-friendly. No cameras. No subscriptions.<br><br>
+      Uses intentional NFC badge taps at doorway, bedside, and care checkpoints
+      to show when care actually happened — recording presence and duration without audio,
+      video, or invasive monitoring.<br><br>
+      Designed to respect residents’ dignity, support caregivers by showing the real work
+      they do, and give families clear insight into daily care — even during outages.<br><br>
+      <strong>Tech:</strong><br>
+      ESP32 · PN532 NFC · NTAG213 · Raspberry Pi · FastAPI · SQLite · Python · Offline-first sync
+    </td>
+    <br>
+    <td align="center"><br>
+      A lightweight QR-based care tracking tool for caregivers, facilities, and families.
+      Log meals, medications, ADLs, and daily activities with simple scans.<br><br>
+      Focuses on everyday transparency rather than heavy systems —
+      not a full HIPAA EMR, just a simple, shared record of daily care that families
+      and staff can both understand.<br><br>
+      Built on familiar tools for fast setup and low-friction use,
+      making it especially suited to homes and smaller care settings.<br><br>
+      <strong>Tech:</strong><br>
+      QR Codes · Google Sheets · Google Apps Script · AppSheet · JavaScript
+    </td>
+    <br>
+  </tr>
+</table>
 
-  <table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:16px;">
-  <!-- Row 1 -->
-  <tr>
-    <!-- CaregiverQR -->
-    <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; padding:24px; height:550px;">
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="60">
-  <!-- spacer --> <br><br>
-  <img src="https://github.com/user-attachments/assets/ba45d9ad-a6ea-4fe9-9a3b-9a0cfd15b707" width="80" alt="CaregiverQR badge">
-        <h3 style="margin:12px 0; text-align:center;"><strong>CaregiverQR</strong></h3>
-      </div>
-      <p style="text-align:center; margin:8px 0 16px;">
-        <em>A lightweight QR-based care tracking tool</em> for caregivers, facilities, and families — log meals, meds, and daily activities with quick scans. Not a full HIPAA EMR.
-      </p>
-      <ul style="text-align:left; padding-left:20px; margin:0;">
-        <li><a href="https://github.com/CaregiverQR">CaregiverQR</a> — org</li>
-        <li><a href="https://github.com/CaregiverQR/CareSheets">CareSheets</a> — Google Sheets + AppScript templates for quick deployment</li>
-      </ul>
-    </td>
-    <!-- PhantomScanner -->
-    <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; padding:24px; height:550px;">
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="60">
-  <!-- spacer --> <br><br>
-  <img src="https://github.com/user-attachments/assets/515e789c-66f8-49b2-9052-98b3077eeb53" width="80" alt="CloakAndCipher badge">
-        <h3 style="margin:12px 0; text-align:center;"><strong>PhantomScanner</strong></h3>
-      </div>
-      <p style="text-align:center; margin:8px 0 16px;">
-        Normalize. Visualize. Automate. Ingests results from Semgrep, Bandit, Trivy, Snyk, CodeQL, and OWASP ZAP; deduplicates findings; generates dashboards and reports.
-      </p>
-      <ul style="text-align:left; padding-left:20px; margin:0;">
-        <li><a href="https://github.com/CloakAndCipher">CloakAndCipher</a> — org</li>
-        <li><a href="https://github.com/CloakAndCipher/PhantomScanner">PhantomScanner</a> — unified ingestion + dedupe + reporting pipeline</li>
-      </ul>
-    </td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>
-    <!-- GargoyleOffGrid -->
-    <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; padding:24px; height:550px;">
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="60">
-  <!-- spacer --> <br><br>
-  <img src="https://github.com/user-attachments/assets/23ae9e72-5ee3-4fe7-9eb4-39f537df1a02" width="80" alt="GargoyleOffGrid badge">
-        <h3 style="margin:12px 0; text-align:center;"><strong>GargoyleOffGrid</strong></h3>
-      </div>
-      <p style="text-align:center; margin:8px 0 16px;">
-        Practical off-grid living tools — sustainable DIY and resource tracking.
-      </p>
-      <ul style="text-align:left; padding-left:20px; margin:0;">
-        <li><a href="https://github.com/GargoyleOffGrid">Org</a></li>
-        <li><a href="https://github.com/GargoyleOffGrid/Offline">Offline</a> — offline-first toolkit (inventory, checklists, maps, guides)</li>
-        <li><a href="https://github.com/GargoyleOffGrid/MaraudersMap">MaraudersMap</a> — living knowledge base of survival guides & schematics</li>
-      </ul>
-    </td>
-    <!-- AlexandriaArchiveAPI -->
-    <td style="width:50%; vertical-align:top; border:1px solid #d0d7de; padding:24px; height:550px;">
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="60">
-  <!-- spacer --> <br><br>
-  <img src="https://github.com/user-attachments/assets/38da0fdd-f7f3-48c1-9e6c-909874fde336" width="80" alt="Alexandria badge">
-        <h3 style="margin:12px 0; text-align:center;"><strong>AlexandriaArchiveAPI</strong></h3>
-      </div>
-      <p style="text-align:center; margin:8px 0 16px;">
-        Structured APIs for archives, libraries, and repositories — SQLite schemas, endpoints, and historical data projects.
-      </p>
-      <ul style="text-align:left; padding-left:20px; margin:0;">
-        <li><a href="https://github.com/AlexandriaArchiveAPI">Org</a></li>
-        <li><a href="https://github.com/AlexandriaArchiveAPI/EnginesOfWar">EnginesOfWar</a> — code-first catalogue of wartime tech (weapons, armor, siege, logistics, doctrines) with data, schema, API, and analyses</li>
-        <li><a href="https://github.com/AlexandriaArchiveAPI/WarChest">WarChest</a> — codex of battles & warfare: strategies, tactics, and conflict history</li>
-      </ul>
-    </td>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
-    <!-- StoryShield -->
-    <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:750px;">
-      <div align="center" style="padding-top:10px;">
-        <img src="https://github.com/user-attachments/assets/599bdd08-d014-4491-920b-7785da711943" width="100" alt="StoryShield badge">
-        <h3 style="margin:12px 0; text-align:center;"><strong>StoryShield</strong></h3>
-      </div>
-      <p style="text-align:center; margin:8px 0 16px;">
-        Secure creative suite for writers & worldbuilders — encrypted collaboration, role-based access, and modular APIs.
-      </p>
-      <ul style="text-align:left; padding-left:20px; margin:0;">
-        <li><a href="https://github.com/myStoryShield">myStoryShield</a> — org</li>
-        <li><a href="https://github.com/myStoryShield/StoryShieldSheets">StoryShieldSheets</a> — Google Sheets + AppScript + AppSheet templates</li>
-        <li><a href="https://github.com/myStoryShield/Storyshield">Storyshield</a> — core platform repo</li>
-        <li><a href="https://github.com/myStoryShield/Book-Manager"</a> Book Manager</li>
-        <li><a href="https://github.com/myStoryShield/SideScripts"</a> Side Scripts</li>
-        <li><a href="https://github.com/StoryShieldApp">StoryShieldApp</a> — app/PWA </li>
-        <li><a href="https://github.com/StoryShieldApp/Frontend">StoryShieldApp</a> — app/Frontend concepts</li>
-      </ul>
-    </td>
-    <!-- aFungusAmongUs -->
-<!-- aFungusAmongUs (make this match) -->
-<td style="width:50%; vertical-align:center; border:5px solid #d0d7de; padding:24px; height:750px;">
-  <!-- Spacer that never collapses -->
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="60">
-  <!-- spacer --> <br><br>
-  <img src="https://github.com/user-attachments/assets/8101e6ea-8f34-49f6-aec6-8628a9415084" height="170" width="150" alt="Fungus badge">
-  <h3><strong>aFungusAmongUs</strong></h3>
-</div>
 
-  <p style="text-align:center; margin:8px 0 16px;">
-    Grow, cook, forage & learn — a playful but practical open-source ecosystem for fungi.
-  </p>
-      <ul style="text-align:left; padding-left:20px; margin:0;">
-        <li><a href="https://github.com/aFungusAmongUs">Org</a></li>
-        <li><a href="https://github.com/aFungusAmongUs/SmallScripts">SmallScripts</a> — automation for cultivation (Arduino/ESP/RPi + logging)</li>
-        <li><a href="https://github.com/aFungusAmongUs/SporeLog">SporeLog</a> — minimal CLI to log finds & export data (not an ID tool)</li>
-        <li><a href="https://github.com/aFungusAmongUs/ShroomAndSpoon">ShroomAndSpoon</a> — recipes linked to species; nutrition & substitutions</li>
-        <li><a href="https://github.com/aFungusAmongUs/SporeLore">SporeLore</a> — educational resources, field guides, and research</li>
-        <li><a href="https://github.com/aFungusAmongUs/MorelMaps">MorelMaps</a> — seasonal & geographic flush maps; trail logging & prediction</li>
-      </ul>
+<!-- ROW 2 -->
+<!-- ROW 2 -->
+<table width="100%">
+  <!-- WHITE ROW: IMAGE + TITLE -->
+  <tr bgcolor="#ffffff">
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/6e1bf750-28ce-461d-91ba-690acd9194d0" width="120" alt="LORIE badge"><br><br>
+      <a href="https://github.com/lorie-ai" style="text-decoration:none;">
+        <strong>lorie-ai</strong><br><br>
+      </a>
+    </td>
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/5503e622-7245-43be-b078-d31f38d54e7e" width="120" alt="ares-assist badge"><br><br>
+      <a href="https://github.com/ares-assist" style="text-decoration:none;">
+        <strong>ares-assist</strong><br><br>
+      </a>
     </td>
   </tr>
-  <br>
-  <!-- Row 4 -->
-  <tr>
-    <!-- SnakeWitch -->
-    <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:550px;">
-      <div align="center" style="padding-top:10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="60">
-  <!-- spacer --> <br><br>
-        <img src="https://github.com/user-attachments/assets/a57fa67c-3c55-4d25-887b-ba54e24938a6" width="100" height="150" alt="SnakeWitch badge">
-        <h3 style="margin:12px 0; text-align:center;"><strong>SnakeWitch</strong></h3>
-      </div>
-      <p style="text-align:center; margin:8px 0 16px;">
-        Lightweight snake-keeping toolkit — quick utilities, integrations, and AppSheet automations.
-      </p>
-      <ul style="text-align:left; padding-left:20px; margin:0;">
-        <li><a href="https://github.com/SnakeWitch">Org</a></li>
-        <li><a href="https://github.com/SnakeWitch/SnakeWitchSheets">SnakeWitchSheets</a> — Sheets + AppScript templates</li>
-        <li><a href="https://github.com/SnakeWitch/TankTemp">TankTemp</a> — temperature & unit converter</li>
-        <li><a href="https://github.com/SnakeWitch/FeedingCharm">FeedingCharm</a> — feeding log reminders</li>
-        <li><a href="https://github.com/SnakeWitch/MorphNotes">MorphNotes</a> — markdown templates for morphs</li>
-        <li><a href="https://github.com/SnakeWitch/IncubatorCalc">IncubatorCalc</a> — humidity & temperature calculator</li>
-        <li><a href="https://github.com/SnakeWitch/ShedAlert">ShedAlert</a> — shed cycle prediction</li>
-      </ul>
+
+  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <strong>Local Offline Reasoning Intelligence Engine.</strong><br><br>
+      A personal, fully offline LLM system for unified reasoning and retrieval
+      on local hardware.<br><br>
+      LORIE combines curated knowledge, retrieval-augmented generation,
+      and cross-domain reasoning to produce detailed, grounded answers
+      without relying on the cloud.<br><br>
+      Designed as a long-term personal knowledge system,
+      usable during outages, travel, or low-connectivity environments,
+      while remaining fast on consumer-grade machines.<br><br>
+      <strong>Tech:</strong><br>
+      Local LLMs · RAG · Embeddings · Python · PyQt6 · FastAPI · Offline-first architecture
     </td>
-    <!-- CatholicMedusa -->
-    <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:550px;">
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="60">
-  <!-- spacer --> <br><br>
-  <img src="https://github.com/user-attachments/assets/6feeb37f-8925-4f0c-9626-204a406b0adf" width="80" alt="CatholicMedusa badge">
-        <h3 style="margin:12px 0; text-align:center;"><strong>CatholicMedusa</strong></h3>
-      </div>
-      <p style="text-align:center; margin:8px 0 16px;">
-        Modular ecosystem for ball python husbandry — blends biology, security, and software into one toolkit.
-      </p>
-      <ul style="text-align:left; padding-left:20px; margin:0;">
-        <li><a href="https://github.com/CatholicMedusa">Org</a></li>
-        <li><a href="https://github.com/CatholicMedusa/SerpentTracker">SerpentTracker</a> — daily husbandry logger</li>
-        <li><a href="https://github.com/CatholicMedusa/GorgonGenetics">GorgonGenetics</a> — morph inheritance simulator</li>
-        <li><a href="https://github.com/CatholicMedusa/MedusasGaze">MedusasGaze</a> — vision & sensor tools</li>
-        <li><a href="https://github.com/CatholicMedusa/HydraHub">HydraHub</a> — integration/API layer</li>
-        <li><a href="https://github.com/CatholicMedusa/ClutchKeeper">ClutchKeeper</a> — clutch dashboard & insights</li>
-        <li><a href="https://github.com/CatholicMedusa/MedusaCore">MedusaCore</a> — core Java models & utilities</li>
-      </ul>
+    <br>
+    <td align="center"><br>
+      A local-first security and assistive framework that acts as the
+      cyber and physical perimeter layer for offline intelligence systems.<br><br>
+      ares-assist supports systems like LORIE by providing guardrails,
+      monitoring, and control across digital workflows and
+      real-world interfaces such as sensors, alerts, lighting, and access controls.<br><br>
+      Designed for predictable behavior and human-in-the-loop oversight,
+      prioritizing safety, privacy, and resilience across software,
+      environment, and physical space.<br><br>
+      <strong>Tech:</strong><br>
+      Python · Local security tooling · Sensors & automation · Policy enforcement · Offline-first design
+    </td>
+    <br>
+  </tr>
+</table>
+
+
+<!-- ROW 3 -->
+
+<!-- ROW 3 -->
+<table width="100%">
+  <!-- WHITE ROW: IMAGE + TITLE -->
+  <tr bgcolor="#ffffff">
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/567365d0-24b7-4fe8-bb60-7c103e89b6cf" width="200" alt="StoryShield badge"><br><br>
+      <a href="https://github.com/StoryShield" style="text-decoration:none;">
+        <strong>StoryShield</strong><br><br>
+      </a>
+    </td>
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/23ae9e72-5ee3-4fe7-9eb4-39f537df1a02" width="130" alt="GargoyleOffGrid badge"><br><br>
+      <a href="https://github.com/GargoyleOffGrid" style="text-decoration:none;">
+        <strong>GargoyleOffGrid</strong><br><br>
+      </a>
     </td>
   </tr>
-<!-- Row 5 -->
-  <tr>
-    <!-- Self-Taught Sandbox -->
-    <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:550px;">
-      <div align="center" style="padding-top:10px;">
-        <img src="" width="80" alt=" badge">
-        <h3 style="margin:12px 0; text-align:center;"><strong>Self-Taught Sandbox</strong></h3>
-      </div>
+
+  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      A privacy-first reading and creative writing companion app
+      designed to protect personal libraries, notes,
+      and creative work.<br><br>
+      StoryShield applies encryption and access controls
+      to reading data and creative metadata, enabling structured workflows
+      without exposing user behavior or personal habits.<br><br>
+      Built for writers, researchers, and worldbuilders
+      who want ownership, transparency, and control
+      rather than opaque, behavior-tracking platforms.<br><br>
+      <strong>Tech:</strong><br>
+      AppSheet · Google Sheets · AES-128 encryption · JavaScript · HTML · Privacy-first design
     </td>
-    <!-- TheRestOfUsGame -->
-    <td style="width:50%; vertical-align:top; border:5px solid #d0d7de; padding:24px; height:550px;">
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" height="60">
-  <!-- spacer --> <br><br>
-  <img src="https://github.com/user-attachments/assets/a869d1bb-01a9-47da-9cf8-2a7d84ce3150" width="80" alt="CatholicMedusa badge">
-        <h3 style="margin:12px 0; text-align:center;"><strong>CatholicMedusa</strong></h3>
-      </div>
-      <p style="text-align:center; margin:8px 0 16px;">
+    <br>
+    <td align="center"><br>
+      An open-source collection of offline-first tools and systems
+      for planning, building, and maintaining resilient living
+      and infrastructure both on and off the grid.<br><br>
+      GargoyleOffGrid provides practical software, documentation,
+      and low-power system designs for inventory tracking,
+      resource management, environmental monitoring,
+      and knowledge preservation under constrained conditions.<br><br>
+      Designed for explorers, builders, and small communities
+      who need tools that continue to function with limited power,
+      limited connectivity, or no internet at all.<br><br>
+      <strong>Tech:</strong><br>
+      C++ · Python · JavaScript · Offline-first tooling · Resource tracking · Documentation systems · DIY automation
+    </td>
+    <br>
+  </tr>
+</table>
+
+
+<!-- ROW 4 -->
+
+<!-- ROW 4 -->
+<table width="100%">
+  <!-- WHITE ROW: IMAGE + TITLE -->
+  <tr bgcolor="#ffffff">
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/d9adc711-0739-40f5-adb6-4b06c63c0c8e" width="150" alt="PhantomScanner badge"><br><br>
+      <a href="https://github.com/PhantomScanner" style="text-decoration:none;">
+        <strong>PhantomScanner</strong><br><br>
+      </a>
+    </td>
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/65999d50-c8f5-43e4-815b-2a1b4de8d87c" width="150" alt="CloakAndCipher badge"><br><br>
+      <a href="https://github.com/CloakAndCipher" style="text-decoration:none;">
+        <strong>CloakAndCipher</strong><br><br>
+      </a>
+    </td>
+  </tr>
+
+  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      Core automation, scanning, and security visibility engine
+      for multi-repository projects.<br><br>
+      Runs automated security audits across many
+      codebases, collecting results from multiple tools and
+      normalizing them into a single, unified dataset.<br><br>
+      Designed to give developers and small teams clear,
+      ongoing insight into their security posture without
+      expensive SaaS platforms or per-repository limits.<br><br>
+      <strong>Tech:</strong><br>
+      Python · Svelte · Semgrep · Bandit · Trivy · Gitleaks · SQLite / Postgres · Automated dashboards
+    </td>
+    <br>
+    <td align="center"><br>
+      Developer-first security automation and AppSec tooling
+      built for real-world workflows.<br><br>
+      Provides reusable security pipelines,
+      scanners, and automation components that can be dropped
+      directly into repositories to enforce baseline security.<br><br>
+      Focused on reducing setup friction and security theater,
+      making static and dynamic analysis part of everyday
+      development instead of a separate gate.<br><br>
+      <strong>Tech:</strong><br>
+      GitHub Actions · Python · Bandit · Semgrep · Trivy · Secret detection · CI-first AppSec
+    </td>
+    <br>
+  </tr>
+</table>
+
+<!-- ROW 5 -->
+
+<!-- ROW 5 -->
+<table width="100%">
+  <!-- WHITE ROW: IMAGE + TITLE -->
+  <tr bgcolor="#ffffff">
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/6dab0e0f-4b93-42b7-bbf3-17db6594352b" width="190" alt="aFungusAmongUs badge"><br><br>
+      <a href="https://github.com/aFungusAmongUs" style="text-decoration:none;">
+        <strong>aFungusAmongUs</strong><br><br>
+      </a>
+    </td>
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/d99c989a-ed70-4955-81ee-53f959f7824f" width="130" alt="WickedBotany badge"><br><br>
+      <a href="https://github.com/WickedBotany" style="text-decoration:none;">
+        <strong>WickedBotany</strong><br><br>
+      </a>
+    </td>
+  </tr>
+
+  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      An open-source ecosystem for learning, cultivating,
+      foraging, and cooking with fungi.<br><br>
+      aFungusAmongUs blends practical tools with education —
+      supporting mushroom growers, foragers, and curious learners
+      through logging, seasonal mapping, automation, and recipes.<br><br>
+      Built to be playful but grounded in real-world practice,
+      emphasizing safety, documentation, and respect for ecology
+      over hype or misidentification.<br><br>
+      <strong>Tech:</strong><br>
+      Python · CLI tools · Arduino / ESP / Raspberry Pi · Data logging · Seasonal mapping · Educational datasets
+    </td>
+    <br>
+    <td align="center"><br>
+      A darkly practical botanical research and cultivation suite
+      focused on dangerous, toxic, and predatory plants.<br><br>
+      WickedBotany explores plant chemistry, toxicology,
+      carnivorous behavior, and historical use through a
+      structured mix of data analysis, simulation, and field guides.<br><br>
+      Equal parts science lab and field manual — designed for
+      careful growers, researchers, and historians who want
+      understanding, not aesthetic-only gardening.<br><br>
+      <strong>Tech:</strong><br>
+      Python · Data modeling · Simulation engines · Greenhouse automation · Analytics · Historical datasets
+    </td>
+    <br>
+  </tr>
+</table>
+
+
+<!-- ROW 6 -->
+
+<!-- ROW 6 -->
+<table width="100%">
+  <!-- WHITE ROW: IMAGE + TITLE -->
+  <tr bgcolor="#ffffff">
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/6feeb37f-8925-4f0c-9626-204a406b0adf" width="90" alt="CatholicMedusa badge"><br><br>
+      <a href="https://github.com/CatholicMedusa" style="text-decoration:none;">
+        <strong>CatholicMedusa</strong><br><br>
+      </a>
+    </td>
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/a57fa67c-3c55-4d25-887b-ba54e24938a6" width="120" alt="SnakeWitch badge"><br><br>
+      <a href="https://github.com/SnakeWitch" style="text-decoration:none;">
+        <strong>SnakeWitch</strong><br><br>
+      </a>
+    </td>
+  </tr>
+
+  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      A modular, systems-driven platform for ball python husbandry,
+      breeding, and long-term care.<br><br>
+      CatholicMedusa blends biological modeling, genetics,
+      environmental monitoring, and software tooling into a
+      unified ecosystem for serious keepers and breeders.<br><br>
+      Designed to replace scattered spreadsheets and guesswork
+      with structured data, traceability, and automation —
+      without sacrificing animal welfare or keeper intuition.<br><br>
+      <strong>Tech:</strong><br>
+      Python · Java · Data modeling · Genetics simulation · Sensor integration · APIs · Husbandry analytics
+    </td>
+    <br>
+    <td align="center"><br>
+      A grimoire of lightweight snake-keeping tools —
+      small utilities that make daily husbandry easier.<br><br>
+      SnakeWitch focuses on quick calculations, reminders,
+      logs, and templates that support keepers in real time,
+      without requiring a full platform or backend.<br><br>
+      It complements CatholicMedusa by handling the “small but
+      constant” tasks — feeding schedules, shed prediction,
+      incubator math, and simple recordkeeping.<br><br>
+      <strong>Tech:</strong><br>
+      Python · CLI tools · Google Sheets · AppScript · AppSheet · Markdown templates
+    </td>
+    <br>
+  </tr>
+</table>
+
+
+<!-- ROW 7 -->
+
+<!-- ROW 7 -->
+<table width="100%">
+  <!-- WHITE ROW: IMAGE + TITLE -->
+  <tr bgcolor="#ffffff">
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/ea077617-3135-42c8-b3aa-4bd49731daea" width="130" alt="hypercalculia badge"><br><br>
+      <a href="https://github.com/hypercalculia" style="text-decoration:none;">
+        <strong>hypercalculia</strong><br><br>
+      </a>
+    </td>
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/0e82128a-dd4d-4e0d-9669-782d1f5f9c76" width="130" alt="SeasonalSidekick badge"><br><br>
+      <a href="https://github.com/SeasonalSidekick" style="text-decoration:none;">
+        <strong>SeasonalSidekick</strong><br><br>
+      </a>
+    </td>
+  </tr>
+
+  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      A high-intensity, offline-first computation engine
+      for mathematical, scientific, and engineering workloads.<br><br>
+      hypercalculia aggregates proven open-source numerical,
+      algebraic, and simulation libraries into a unified
+      environment focused on accuracy, performance,
+      and reproducibility.<br><br>
+      Designed for deep calculation — from symbolic math
+      and numerical analysis to physics, geometry,
+      and algorithmic experimentation — without relying
+      on cloud services.<br><br>
+      <strong>Tech:</strong><br>
+      Python · Rust · C++ · NumPy · SciPy · SymPy · JAX · OpenFOAM · Scientific & symbolic computing
+    </td>
+    <br>
+    <td align="center"><br>
+      Your all-season assistant for coding, cooking, gifting, and glowing.<br><br>
+      SeasonalSidekick is a playful but practical ecosystem of tools that help people
+      plan, build, celebrate, and stay safe throughout the year — from holiday automation
+      to first aid, recipes, and family traditions.<br><br>
+      Home of Moose, the year-round holiday helper — designed to reduce chaos, spark joy,
+      and make seasonal logistics feel human again.<br><br>
+      <strong>Tech:</strong><br>
+      JavaScript · Web apps · JSON automation · Google Sheets · AppScript · Smart-home integrations
+    </td>
+    <br>
+  </tr>
+</table>
+
+
+<!-- ROW 8 -->
+
+<!-- ROW 8 -->
+<table width="100%">
+  <!-- WHITE ROW: IMAGE + TITLE -->
+  <tr bgcolor="#ffffff">
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/069447c6-ade4-459d-8750-322bae837a0d" width="160" alt="the-waterworks badge"><br><br>
+      <a href="https://github.com/the-waterworks" style="text-decoration:none;">
+        <strong>the-waterworks</strong><br><br>
+      </a>
+    </td>
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/551e3139-d947-4dbb-b125-f565170d93ad" width="150" alt="AlexandriaArchiveAPI badge"><br><br>
+      <a href="https://github.com/AlexandriaArchiveAPI" style="text-decoration:none;">
+        <strong>AlexandriaArchiveAPI</strong><br><br>
+      </a>
+    </td>
+  </tr>
+
+  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      Practical tooling for water systems, utilities, and infrastructure tracking.<br><br>
+      the-waterworks focuses on documenting, modeling, and managing real-world water
+      and utility systems — from flow logic and maintenance notes to automation helpers
+      and operational scripts.<br><br>
+      Built for people working with physical systems — homeowners, homesteaders,
+      operators, and engineers — where clarity, durability, and offline access matter.<br><br>
+      <strong>Tech:</strong><br>
+      PHP · Utility scripting · Documentation systems · Offline-friendly workflows
+    </td>
+    <br>
+    <td align="center"><br>
+      A digital archive and API ecosystem for ancient and medieval history.<br><br>
+      AlexandriaArchiveAPI preserves and structures historical knowledge —
+      not only wars and rulers, but how people lived, ate, worked, worshipped,
+      loved, and survived across civilizations.<br><br>
+      Designed as a code-first historical commons: schemas, datasets,
+      and APIs that make cultural history explorable, searchable,
+      and reusable without flattening it into trivia.<br><br>
+      <strong>Tech:</strong><br>
+      Python · SQLite · Structured schemas · APIs · Historical data modeling
+    </td>
+    <br>
+  </tr>
+</table>
+
+<!-- ROW 9 -->
+
+<!-- ROW 9 -->
+<table width="100%">
+  <!-- WHITE ROW: IMAGE + TITLE -->
+  <tr bgcolor="#ffffff">
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/e0a8c24a-ef4d-4e3e-8747-683ac55af5a7" width="150" alt="Olivision badge"><br><br>
+      <a href="https://github.com/Olivision" style="text-decoration:none;">
+        <strong>Olivision</strong><br><br>
+      </a>
+    </td>
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/8d7e92d3-00d3-457a-a2b4-a0b8903772fe" width="140" alt="TheRestOfUsGame badge"><br><br>
+      <a href="https://github.com/TheRestOfUsGame" style="text-decoration:none;">
+        <strong>TheRestOfUs</strong><br><br>
+      </a>
+    </td>
+  </tr>
+
+  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      A suite of reflective apps for visual journaling,
+      habit tracking, and gentle personal insight.<br><br>
+      Olivision turns small moments, patterns, and observations
+      into something you can actually see — without pressure,
+      gamification, or forced productivity.<br><br>
+      Built for self-understanding rather than optimization:
+      capturing growth, noticing repetition, and making sense
+      of life as it unfolds.<br><br>
+      <strong>Tech:</strong><br>
+      Python · TypeScript · App-first design · Privacy-respecting data models
+    </td>
+    <br>
+    <td align="center"><br>
+      A narrative survival game built in Godot 4,
+      set in a post-collapse American Midwest.<br><br>
+      TheRestOfUs focuses on grounded storytelling,
+      environmental realism, and quiet human moments —
+      survival as lived experience rather than spectacle.<br><br>
+      Inspired by survival fiction, but rooted in
+      real geography, resource scarcity, and emotional weight.<br><br>
+      <strong>Tech:</strong><br>
+      Godot 4 · Narrative systems · Environmental design · Indie game architecture
+    </td>
+    <br>
+  </tr>
+</table>
+
+<!-- ROW 10 -->
+
+<!-- ROW 10 -->
+<table width="100%">
+  <!-- WHITE ROW: IMAGE + TITLE -->
+  <tr bgcolor="#ffffff">
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/71a2adc6-e47c-41f7-9820-6eecc0ee0bcf" width="170" alt="mini-farm-animals badge"><br><br>
+      <a href="https://github.com/mini-farm-animals" style="text-decoration:none;">
+        <strong>mini-farm-animals</strong><br><br>
+      </a>
+    </td>
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/9764849c-de7b-4e84-98cd-20b62e05641c" width="170" alt="mini-farm-plants badge"><br><br>
+      <a href="https://github.com/mini-farm-plants" style="text-decoration:none;">
+        <strong>mini-farm-plants</strong><br><br>
+      </a>
+    </td>
+  </tr>
+
+  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      A practical knowledge base for small-scale and mixed-species animal husbandry.<br><br>
+      mini-farm-animals organizes care, feeding, housing, and health guidance
+      across a wide range of animals — from poultry and rabbits to sheep,
+      donkeys, and cattle — with an emphasis on clarity and humane care.<br><br>
+      Built for real-world keepers managing complexity:
+      water systems, feed planning, seasonal changes,
+      and species-specific needs on a working mini-farm.<br><br>
+      <strong>Tech:</strong><br>
+      Structured documentation · Species-specific datasets · Practical care workflows
+    </td>
+    <br>
+    <td align="center"><br>
+      A crop and plant care system designed for small farms and homesteads.<br><br>
+      mini-farm-plants documents planting schedules, soil needs,
+      automation experiments, and seasonal care for food crops,
+      perennials, and supporting plants.<br><br>
+      Focused on sustainability and repeatability —
+      helping growers understand not just what to plant,
+      but how systems interact across soil, water, and time.<br><br>
+      <strong>Tech:</strong><br>
+      C++ automation experiments · Agricultural data modeling · Care schedules
+    </td>
+    <br>
+  </tr>
+</table>
+
+
+<!-- ROW 11 -->
+
+<!-- ROW 11 -->
+<table width="100%">
+  <!-- WHITE ROW: IMAGE + TITLE -->
+  <tr bgcolor="#ffffff">
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/5cf7c43e-e6e3-423e-8c2e-5d797e94af67" width="170" alt="self-sufficient-homestead badge"><br><br>
+      <a href="https://github.com/self-sufficient-homestead" style="text-decoration:none;">
+        <strong>self-sufficient-homestead</strong><br><br>
+      </a>
+    </td>
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/ad277e98-eaf9-4002-9c62-52e30c867e7c" width="170" alt="small-land-management badge"><br><br>
+      <a href="https://github.com/small-land-management" style="text-decoration:none;">
+        <strong>small-land-management</strong><br><br>
+      </a>
+    </td>
+  </tr>
+
+  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      A systems-first approach to building a resilient, self-sustaining homestead.<br><br>
+      self-sufficient-homestead focuses on automating and coordinating
+      the everyday realities of rural life — animal care, water,
+      feed, infrastructure, and energy — with an emphasis on reliability
+      over novelty.<br><br>
+      Designed for long-term independence:
+      fewer points of failure, clearer decision-making,
+      and tools that continue working even when outside systems don’t.<br><br>
+      <strong>Tech:</strong><br>
+      Automation workflows · Embedded systems · Animal automation · Offline-first design
+    </td>
+    <br>
+    <td align="center"><br>
+      An integrated planning and operations framework for managing small acreage.<br><br>
+      small-land-management brings together animals, plants,
+      infrastructure, utilities, sensors, automation,
+      and business planning into a single coherent system.<br><br>
+      Built for people balancing land stewardship with reality —
+      budgets, maintenance, security, skill-building,
+      and long-term sustainability rather than short-term yield.<br><br>
+      <strong>Tech:</strong><br>
+      OpenSCAD · Sensor systems · Automation · AI-assisted planning · Infrastructure modeling
+    </td>
+    <br>
+  </tr>
+</table>
+
+
+<!-- ROW 12 -->
+
+<!-- ROW 12 -->
+<table width="100%">
+  <!-- WHITE ROW: IMAGE + TITLE -->
+  <tr bgcolor="#ffffff">
+    <td align="center"><br>
+      <img src="https://github.com/user-attachments/assets/d1bdb5a9-565e-4e15-abe7-fca8c09f5e22" width="150" alt="SelfTaughtSandbox badge"><br><br>
+      <a href="https://github.com/SelfTaughtSandbox" style="text-decoration:none;">
+        <strong>SelfTaughtSandbox</strong><br><br>
+      </a>
+    </td>
+  </tr>
+
+  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      A living sandbox for learning, experimentation, and skill-building across disciplines.<br><br>
+      SelfTaughtSandbox is where ideas are tested before they become systems —
+      a place for prototypes, experiments, learning notes, and small tools
+      that don’t yet belong to a formal project.<br><br>
+      It reflects a self-directed approach to education:
+      learning by building, breaking, iterating, and integrating knowledge
+      across software, hardware, design, and real-world systems.<br><br>
+      <strong>Tech:</strong><br>
+      Exploratory code · Prototypes · Learning artifacts · Cross-domain experimentation
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+
+
+
 
 ---
 
