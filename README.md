@@ -1276,10 +1276,10 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/41174008-35e7-4fbf-9a93-aae707e36d65" width="190"/>
+      <img src="https://github.com/user-attachments/assets/41174008-35e7-4fbf-9a93-aae707e36d65" width="200"/>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/e4d0c82b-ca75-4707-a83d-4219b51fc29d" width="190"/>
+      <img src="https://github.com/user-attachments/assets/e4d0c82b-ca75-4707-a83d-4219b51fc29d" width="200"/>
     </td>
     <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/315f5242-b44d-44f0-8e69-0a166e4544ea" width="140"/>
@@ -1288,8 +1288,9 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Text Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center"><br>
-      <a href="https://github.com/ginesthoii/plant-sensor-automation-water"><strong>plant-sensor-automation-water</strong></a><br><br>
-      Embedded sensing pipelines for soil and water monitoring.<br><br>
+      <a href="https://github.com/ginesthoii/soil-guard"><strong>soil-guard</strong></a><br><br>
+      Closed-loop plant monitoring and sensor-driven irrigation system with real-time soil data, adaptive thresholds, and fail-safes to prevent over- and under-watering.
+<br><br>
       <em>Tech:</em> ESP32.<br>
       <em>Status:</em> Active
     </td>
