@@ -1469,7 +1469,7 @@
    
 <!-- ROW 1 -->
 <table width="100%">
-  <!-- WHITE ROW: IMAGE + TITLE -->
+  <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
       <img src="https://github.com/user-attachments/assets/4afa1504-05e6-46ea-b19c-fa3305fbb52c" width="180" alt="Room-Reader badge"><br><br>
@@ -1484,7 +1484,7 @@
       </a>
     </td>
   </tr>
-  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <!-- DESCRIPTION + TECH -->
   <tr bgcolor="#f6f8fa">
     <td align="center"><br>
       Room-level care visibility for assisted living, memory care, and nursing homes.
@@ -1515,12 +1515,11 @@
 
 
 <!-- ROW 2 -->
-<!-- ROW 2 -->
 <table width="100%">
-  <!-- WHITE ROW: IMAGE + TITLE -->
+  <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/6e1bf750-28ce-461d-91ba-690acd9194d0" width="120" alt="LORIE badge"><br><br>
+      <img src="https://github.com/user-attachments/assets/d308526e-d8fb-4036-931a-91f57ed3a09a width="120" alt="LORIE badge"><br><br>
       <a href="https://github.com/lorie-ai" style="text-decoration:none;">
         <strong>lorie-ai</strong><br><br>
       </a>
@@ -1533,7 +1532,7 @@
     </td>
   </tr>
 
-  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <!-- DESCRIPTION + TECH -->
   <tr bgcolor="#f6f8fa">
     <td align="center"><br>
       <strong>Local Offline Reasoning Intelligence Engine.</strong><br><br>
@@ -1570,7 +1569,7 @@
 
 <!-- ROW 3 -->
 <table width="100%">
-  <!-- WHITE ROW: IMAGE + TITLE -->
+  <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
       <img src="https://github.com/user-attachments/assets/567365d0-24b7-4fe8-bb60-7c103e89b6cf" width="200" alt="StoryShield badge"><br><br>
@@ -1586,7 +1585,7 @@
     </td>
   </tr>
 
-  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <!-- DESCRIPTION + TECH -->
   <tr bgcolor="#f6f8fa">
     <td align="center"><br>
       A privacy-first reading and creative writing companion app
@@ -1625,7 +1624,7 @@
 
 <!-- ROW 4 -->
 <table width="100%">
-  <!-- WHITE ROW: IMAGE + TITLE -->
+  <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
       <img src="https://github.com/user-attachments/assets/d9adc711-0739-40f5-adb6-4b06c63c0c8e" width="150" alt="PhantomScanner badge"><br><br>
@@ -1641,7 +1640,7 @@
     </td>
   </tr>
 
-  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <!-- DESCRIPTION + TECH -->
   <tr bgcolor="#f6f8fa">
     <td align="center"><br>
       Core automation, scanning, and security visibility engine
@@ -1676,7 +1675,7 @@
 
 <!-- ROW 5 -->
 <table width="100%">
-  <!-- WHITE ROW: IMAGE + TITLE -->
+  <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
       <img src="https://github.com/user-attachments/assets/6dab0e0f-4b93-42b7-bbf3-17db6594352b" width="190" alt="aFungusAmongUs badge"><br><br>
@@ -1692,7 +1691,7 @@
     </td>
   </tr>
 
-  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <!-- DESCRIPTION + TECH -->
   <tr bgcolor="#f6f8fa">
     <td align="center"><br>
       An open-source ecosystem for learning, cultivating,
@@ -1728,7 +1727,7 @@
 
 <!-- ROW 6 -->
 <table width="100%">
-  <!-- WHITE ROW: IMAGE + TITLE -->
+  <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
       <img src="https://github.com/user-attachments/assets/6feeb37f-8925-4f0c-9626-204a406b0adf" width="90" alt="CatholicMedusa badge"><br><br>
@@ -1744,7 +1743,7 @@
     </td>
   </tr>
 
-  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <!-- DESCRIPTION + TECH -->
   <tr bgcolor="#f6f8fa">
     <td align="center"><br>
       A modular, systems-driven platform for ball python husbandry,
@@ -1780,7 +1779,7 @@
 
 <!-- ROW 7 -->
 <table width="100%">
-  <!-- WHITE ROW: IMAGE + TITLE -->
+  <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
       <img src="https://github.com/user-attachments/assets/ea077617-3135-42c8-b3aa-4bd49731daea" width="130" alt="hypercalculia badge"><br><br>
@@ -1796,7 +1795,7 @@
     </td>
   </tr>
 
-  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <!-- DESCRIPTION + TECH -->
   <tr bgcolor="#f6f8fa">
     <td align="center"><br>
       A high-intensity, offline-first computation engine
@@ -1832,7 +1831,7 @@
 
 <!-- ROW 8 -->
 <table width="100%">
-  <!-- WHITE ROW: IMAGE + TITLE -->
+  <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
       <img src="https://github.com/user-attachments/assets/069447c6-ade4-459d-8750-322bae837a0d" width="160" alt="the-waterworks badge"><br><br>
@@ -1848,7 +1847,7 @@
     </td>
   </tr>
 
-  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <!-- DESCRIPTION + TECH -->
   <tr bgcolor="#f6f8fa">
     <td align="center"><br>
       Practical tooling for water systems, utilities, and infrastructure tracking.<br><br>
@@ -1880,7 +1879,7 @@
 
 <!-- ROW 9 -->
 <table width="100%">
-  <!-- WHITE ROW: IMAGE + TITLE -->
+  <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
       <img src="https://github.com/user-attachments/assets/e0a8c24a-ef4d-4e3e-8747-683ac55af5a7" width="150" alt="Olivision badge"><br><br>
@@ -1896,7 +1895,7 @@
     </td>
   </tr>
 
-  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <!-- DESCRIPTION + TECH -->
   <tr bgcolor="#f6f8fa">
     <td align="center"><br>
       A suite of reflective apps for visual journaling,
@@ -1930,7 +1929,7 @@
 
 <!-- ROW 10 -->
 <table width="100%">
-  <!-- WHITE ROW: IMAGE + TITLE -->
+  <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
       <img src="https://github.com/user-attachments/assets/c736259f-7dbb-4049-8068-564f97d7a3a4" width="170" alt="mini-farm-animals badge"><br><br>
@@ -1946,7 +1945,7 @@
     </td>
   </tr>
 
-  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <!-- DESCRIPTION + TECH -->
   <tr bgcolor="#f6f8fa">
     <td align="center"><br>
       A practical knowledge base for small-scale and mixed-species animal husbandry.<br><br>
@@ -1980,7 +1979,7 @@
 
 <!-- ROW 11 -->
 <table width="100%">
-  <!-- WHITE ROW: IMAGE + TITLE -->
+  <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
       <img src="https://github.com/user-attachments/assets/5cf7c43e-e6e3-423e-8c2e-5d797e94af67" width="170" alt="self-sufficient-homestead badge"><br><br>
@@ -1996,7 +1995,7 @@
     </td>
   </tr>
 
-  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <!-- DESCRIPTION + TECH -->
   <tr bgcolor="#f6f8fa">
     <td align="center"><br>
       A systems-first approach to building a resilient, self-sustaining homestead.<br><br>
@@ -2031,7 +2030,7 @@
 
 <!-- ROW 12 -->
 <table width="100%">
-  <!-- WHITE ROW: IMAGE + TITLE -->
+  <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td align="center"><br>
       <img src="https://github.com/user-attachments/assets/d1bdb5a9-565e-4e15-abe7-fca8c09f5e22" width="150" alt="SelfTaughtSandbox badge"><br><br>
@@ -2041,7 +2040,7 @@
     </td>
   </tr>
 
-  <!-- GREY ROW: DESCRIPTION + TECH -->
+  <!-- DESCRIPTION + TECH -->
   <tr bgcolor="#f6f8fa">
     <td align="center"><br>
       A living sandbox for learning, experimentation, and skill-building across disciplines.<br><br>
