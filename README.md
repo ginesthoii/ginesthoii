@@ -357,10 +357,13 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
-    <td align="center" width="25%">
+    <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/bd012b6a-09ab-4550-91e8-645a95851d36" width="150"/>
     </td>
-    <td align="center" width="25%">
+      <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/605c59f2-3668-46e5-bdd4-a81a0b18975f" width="210"/>
+    </td>
+    <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/c71d7380-55fa-443b-b3ec-43ca56fbe265" width="190"/>
     </td>
   </tr>
@@ -370,6 +373,16 @@
       <a href="https://github.com/ginesthoii/phantom-terminal"><strong>phantom-terminal</strong></a><br><br>
       An animated, self-typing terminal emulator for creating realistic command-line demos. <br><br>Type, edit, or script commands that appear as if a ghost were at the keyboard—then export the performance as PNG, GIF, or video.<br><br>
       <em>Tech:</em> JS, HTML, CSS<br>
+      <em>Status:</em> Active
+    </td>
+        <td align="center"><br>
+      <a href="https://github.com/ginesthoii/license-wizard">
+        <strong>license-wizard</strong>
+      </a><br><br>
+      An interactive, multi-step license generation platform for developers, researchers, makers, and indie creators.
+Uses a rules-based decision tree and scoring engine to recommend standard open-source licenses (MIT, GPL, AGPL, Apache, MPL) or generate custom hybrid licenses with strict usage clauses.
+<br><br>
+      <em>Tech:</em> HTML · CSS · JavaScript · Decision Trees · License Modeling · GitHub Actions<br>
       <em>Status:</em> Active
     </td>
     <td align="center"><br>
