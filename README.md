@@ -384,13 +384,13 @@
 <table width="100%" cellpadding="0" cellspacing="0">
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
-    <td align="center" width="33%">
+    <td align="center" width="36%">
       <img src="https://github.com/user-attachments/assets/25da5075-680d-4bf3-9a98-515664377349" width="120"/>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="34%">
       <img src="https://github.com/user-attachments/assets/f31a38f2-f5b0-4a41-b673-3b91bab50b13" width="150"/>
     </td>
-    <td align="center" width="34%">
+    <td align="center" width="30%">
       <img src="https://github.com/user-attachments/assets/3b156726-67f6-469c-a3ca-fa24d9bb6390" width="150"/>
     </td>
   </tr>
