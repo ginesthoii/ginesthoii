@@ -1263,13 +1263,13 @@
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/41174008-35e7-4fbf-9a93-aae707e36d65" width="160"/>
+      <img src="https://github.com/user-attachments/assets/41174008-35e7-4fbf-9a93-aae707e36d65" width="190"/>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/e4d0c82b-ca75-4707-a83d-4219b51fc29d" width="160"/>
+      <img src="https://github.com/user-attachments/assets/e4d0c82b-ca75-4707-a83d-4219b51fc29d" width="190"/>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/315f5242-b44d-44f0-8e69-0a166e4544ea" width="150"/>
+      <img src="https://github.com/user-attachments/assets/315f5242-b44d-44f0-8e69-0a166e4544ea" width="140"/>
     </td>
   </tr>
   <!-- Text Row -->
@@ -1298,10 +1298,10 @@
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/25c7ceab-05f4-414b-bb4a-0801f54f3543" width="150"/>
+      <img src="https://github.com/user-attachments/assets/25c7ceab-05f4-414b-bb4a-0801f54f3543" width="170"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/70bc9b42-6511-406c-9dc5-ff0dfd6b9f8f" width="150"/>
+      <img src="https://github.com/user-attachments/assets/70bc9b42-6511-406c-9dc5-ff0dfd6b9f8f" width="160"/>
     </td>
   </tr>
   <!-- Text Row -->
@@ -1328,13 +1328,13 @@
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/5cca93d1-60b7-4193-af90-0abfbb9bc47a" width="100"/>
+      <img src="https://github.com/user-attachments/assets/5cca93d1-60b7-4193-af90-0abfbb9bc47a" width="120"/>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/069e3d8c-de64-4013-9087-c48c118e8741" width="100"/>
+      <img src="https://github.com/user-attachments/assets/069e3d8c-de64-4013-9087-c48c118e8741" width="120"/>
     </td>
     <td align="center" width="34%">
-      <img src="https://github.com/user-attachments/assets/7d40450e-955e-483b-997f-47ef023e697a" width="100"/>
+      <img src="https://github.com/user-attachments/assets/7d40450e-955e-483b-997f-47ef023e697a" width="120"/>
     </td>
   </tr>
   <!-- Text Row -->
@@ -1519,7 +1519,7 @@
   <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/d308526e-d8fb-4036-931a-91f57ed3a09a width="120" alt="LORIE badge"><br><br>
+      <img src="https://github.com/user-attachments/assets/d308526e-d8fb-4036-931a-91f57ed3a09a" width="160" alt="LORIE badge"><br><br>
       <a href="https://github.com/lorie-ai" style="text-decoration:none;">
         <strong>lorie-ai</strong><br><br>
       </a>
@@ -2281,7 +2281,7 @@ Tracking online courses I’m working through to build skills in security, web d
 <br><br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bdaec8cd-9487-4f4e-94d5-9e50c26f224e" alt="Banner" width="100%" height="50%" style="border-radius:15px;"/>
+  <img src="https://github.com/user-attachments/assets/0e2064fd-0a31-459c-aa8e-1d359f22bcfd" alt="Banner" width="100%" height="50%" style="border-radius:15px;"/>
 </p>
 
 
