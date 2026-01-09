@@ -1933,7 +1933,7 @@
   <!-- WHITE ROW: IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/71a2adc6-e47c-41f7-9820-6eecc0ee0bcf" width="170" alt="mini-farm-animals badge"><br><br>
+      <img src="https://github.com/user-attachments/assets/c736259f-7dbb-4049-8068-564f97d7a3a4" width="170" alt="mini-farm-animals badge"><br><br>
       <a href="https://github.com/mini-farm-animals" style="text-decoration:none;">
         <strong>mini-farm-animals</strong><br><br>
       </a>
