@@ -76,16 +76,6 @@
 
 <br> 
 
----
-
-<br> 
-
-<p align="center">
-  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/pup.gif" alt="pup GIF" height="200" width="200"/>
-</p>
-
-<br> 
-
  ---
  
 <p align="center">
