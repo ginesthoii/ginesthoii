@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <a href="https://ginesthoii.github.io/oliviagriffin.pro/">
+  <a href="https://ginesthoi.github.io/oliviagriffin.pro/">
     <img src="https://img.shields.io/badge/Portfolio-Website-739f84?style=for-the-badge&labelColor=a86a8f&color=a86a8f&logoColor=white" height="200">
   </a>
   &nbsp;&nbsp;&nbsp; <!-- spacing -->
