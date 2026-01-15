@@ -22,11 +22,11 @@
 
 <div align="center" style="display:flex; justify-content:center; gap:18px; align-items:center; flex-wrap:wrap;">
   <a href="#repos">
-    <img src="https://github.com/user-attachments/assets/e3242bac-faaa-4abb-93c6-91c6a5cc68a7" height="150" />
+    <img src="https://github.com/user-attachments/assets/e3242bac-faaa-4abb-93c6-91c6a5cc68a7" height="200" />
   </a>
 
   <a href="#orgs">
-    <img src="https://github.com/user-attachments/assets/24dfba79-b12c-409f-b58f-73fdff192d1d" height="150" />
+    <img src="https://github.com/user-attachments/assets/24dfba79-b12c-409f-b58f-73fdff192d1d" height="200" />
   </a>
 </div>
 
