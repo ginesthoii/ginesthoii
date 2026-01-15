@@ -694,7 +694,6 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 
 
 <h1 align="center">Language, Translation & Communication</h1>
-
 <table>
   <!-- Icons Row -->
   <tr bgcolor="#f6f8fa">
@@ -736,41 +735,23 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 </td>
   </tr>
 </table>
-<table width="100%" cellpadding="0" cellspacing="0">
+<table width="110%" align="center" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
-    <!-- LEFT (unchanged) -->
-    <td align="center" width="33%" rowspan="2" style="padding:0;">
-      <img
-        src="https://github.com/user-attachments/assets/12c208a0-def2-4105-82f8-7f6e0427a212"
-        width="100%"
-        style="display:block;"
-      />
-    </td>
-    <!-- MIDDLE TOP (make this taller) -->
-    <td align="center" width="34%" height="260" valign="middle" style="padding:0;">
-      <img
-        src="https://github.com/user-attachments/assets/2852185f-6fe9-4607-9c99-5bf114f95362"
-        width="120"
-      />
-    </td>
-    <!-- RIGHT (unchanged) -->
-    <td align="center" width="33%" rowspan="2" style="padding:0;">
-      <img
-        src="https://github.com/user-attachments/assets/e130ef4b-acbc-494f-90b7-a34df4b99939"
-        width="100%"
-        style="display:block;"
-      />
+    <td align="center" width="100%">
+      <img src="https://github.com/user-attachments/assets/12c208a0-def2-4105-82f8-7f6e0427a212" width="170"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://github.com/user-attachments/assets/2852185f-6fe9-4607-9c99-5bf114f95362" width="120"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://github.com/user-attachments/assets/e130ef4b-acbc-494f-90b7-a34df4b99939" width="190"/>
     </td>
   </tr>
+  <!-- Text Row -->
   <tr bgcolor="#f6f8fa">
-    <!-- MIDDLE BOTTOM -->
-    <td align="center" width="34%" valign="top" style="padding:24px 18px;">
-      <a href="https://github.com/ginesthoii/offline-maps">
-        <strong>offline-maps</strong>
-      </a><br><br>
-      Fully offline navigation and spatial communication system comparable to offline Google Maps.
-      Supports local map tiles, routing, and interactive map rendering without network access or external services.
-      <br><br>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/offline-maps"><strong>offline-maps</strong></a><br><br>
+      Fully offline navigation and spatial communication system comparable to offline Google Maps.<br>
+      Supports local map tiles, routing, and interactive map rendering without network access or external services.<br><br>
       <em>Tech:</em> Python, PHP, JavaScript, Leaflet, OSM map tiles, MapTiler<br>
       <em>Status:</em> Active
     </td>
@@ -1597,7 +1578,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   </tr>
 </table>
 </table>
-<table width="100%" cellpadding="0" cellspacing="0">
+<table width="110%" align="center" cellpadding="0" cellspacing="0">
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="100%">
@@ -1698,51 +1679,27 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
  <h2 align="center">Sprouted Fodder System</h2>
 <h3 align="center">Fast, low-cost greens using stacked trays with mold-safe watering and airflow control.</h3>
 
-
-
-<table width="100%" cellpadding="0" cellspacing="0">
-  <!-- TOP ROW -->
+<table width="100%" align="center" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
-    <!-- LEFT IMAGE (spans both rows) -->
-    <td align="center" width="33%" rowspan="2" style="padding:0;">
-      <img
-        src="https://github.com/user-attachments/assets/9b250099-0e82-4da2-9c20-b286682cd986"
-        width="100%"
-        style="display:block;"
-      />
-    </td>
-    <!-- MIDDLE ICON -->
-    <td align="center" width="34%" style="padding-top:12px;">
-      <img
-        src="https://github.com/user-attachments/assets/132e8f13-5a82-48d6-a5cc-c3096f70ae8d"
-        width="120"
-      />
-    </td>
-    <!-- RIGHT IMAGE (spans both rows) -->
-    <td align="center" width="33%" rowspan="2" style="padding:0;">
-      <img
-        src="https://github.com/user-attachments/assets/f87575a8-cfc1-4375-b2f4-cfcf2ca480b6"
-        width="100%"
-        style="display:block;"
-      />
+    <td align="center" width="100%">
+      <img align="center" src="https://github.com/user-attachments/assets/132e8f13-5a82-48d6-a5cc-c3096f70ae8d" width="160"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" src="https://github.com/user-attachments/assets/9b250099-0e82-4da2-9c20-b286682cd986" width="170"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img align="center" src="https://github.com/user-attachments/assets/f87575a8-cfc1-4375-b2f4-cfcf2ca480b6" width="170"/>
     </td>
   </tr>
-  <!-- BOTTOM ROW -->
+  <!-- Text Row -->
   <tr bgcolor="#f6f8fa">
-    <!-- MIDDLE TEXT -->
-    <td align="center" width="34%" style="padding:18px 18px 22px;">
-      <a href="https://github.com/ginesthoii/fodder-system">
-        <strong>fodder-system</strong>
-      </a><br><br>
-      Sprouted fodder setup — tray system, watering schedule, mold prevention, yields &amp; storage.
-      <br><br>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/fodder-system"><strong>fodder-system</strong></a><br><br>
+      Sprouted fodder setup — tray system, watering schedule, mold prevention, yields &amp; storage.<br><br>
       <em>Tech:</em> trays/racks &amp; ESP32 • temp/humidity sensors • timed watering • drainage • airflow/fan control • yield tracking<br>
       <em>Status:</em> Active.
     </td>
   </tr>
 </table>
-
-
 
 
 
@@ -1999,7 +1956,7 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
 <br><br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8ea417a5-9caa-4bc5-a479-101b763b385e" alt="Image" width="75%" height="10%" style="border-radius:15px;"/>
+  <img src="https://github.com/user-attachments/assets/8ea417a5-9caa-4bc5-a479-101b763b385e" alt="Image" width="60%" height="10%" style="border-radius:15px;"/>
 </p>
 
 <table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:8px;">
@@ -2127,6 +2084,8 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
       they do, and give families clear insight into daily care — even during outages.<br><br>
       <strong>Tech:</strong><br>
       ESP32 · PN532 NFC · NTAG213 · Raspberry Pi · FastAPI · SQLite · Python · Offline-first sync
+       <br>
+       <br>
     </td>
     <br>
     <td align="center"><br>
