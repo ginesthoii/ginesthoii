@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a6188ece-c0b1-4f1a-8160-3d49482577ff" alt="Banner" width="100%" height="50%" style="border-radius:15px;"/>
 </p>
@@ -18,7 +19,17 @@
   </a>
 </p>
 
-<br>
+
+<div align="center" style="display:flex; justify-content:center; gap:18px; align-items:center; flex-wrap:wrap;">
+  <a href="#repos">
+    <img src="https://github.com/user-attachments/assets/e3242bac-faaa-4abb-93c6-91c6a5cc68a7" height="220" />
+  </a>
+
+  <a href="#orgs">
+    <img src="https://github.com/user-attachments/assets/24dfba79-b12c-409f-b58f-73fdff192d1d" height="220" />
+  </a>
+</div>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/acab5d1e-c4b0-4fac-8b52-3a3a7bb5580f" alt="Skills Left" width="75%" height="40%" style="border-radius:15px;"/>
@@ -31,15 +42,30 @@
   <img src="https://github.com/user-attachments/assets/23ef6619-9793-4bb7-8bf3-109d25ac0a72" alt="Skills Left" width="100%" height="70%" style="border-radius:15px;"/>
 </p>
 
+
+
 ---
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5ebdfa36-579c-447d-89c6-1f2b18972fa7" alt="Image" height="500" width="2000"/>
+</p>
+
+<br> 
+
+---
+
 
 <br> 
 
 <p align="center">
-  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(5).gif" alt="Term" height="600" width="600"/>
+  <img src="https://github.com/user-attachments/assets/97efb6b8-5976-416c-a3c9-3cbee9b89f8e" alt="GIF" height="320" width="320"/>
 </p>
 
 <br> 
+
+
+
 
 ---
 
@@ -57,24 +83,21 @@
 
 <br> 
 
----
 
-<br> 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/97efb6b8-5976-416c-a3c9-3cbee9b89f8e" alt="GIF" height="320" width="320"/>
-</p>
-
-<br> 
 
 ---
 
 
+
+<br> 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5ebdfa36-579c-447d-89c6-1f2b18972fa7" alt="Image" height="500" width="2000"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/banner/terminal%20(5).gif" alt="Term" height="600" width="600"/>
 </p>
 
 <br> 
+
+
 
  ---
  
@@ -106,13 +129,16 @@
 
 ---
 
-<br>
+<br><br>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/19a4363c-fccd-459c-86a0-ffded139f326" alt="Image" width="600" height="400" style="border-radius:1px;"/>
+<p align="center" id="repos">
+  <img src="https://github.com/user-attachments/assets/19a4363c-fccd-459c-86a0-ffded139f326"
+       alt="Projects"
+       width="620"
+       style="border-radius:10px;" />
 </p>
  
-
+<br><br>
 
 <h1 align="center">Professional · Cybersecurity</h1>
 
@@ -134,6 +160,7 @@
       Emphasis on blue-team operations, incident response, malware analysis & system hardening.<br><br>
       <em>Tech:</em> Wireshark, Kali Linux, Metasploit, Bash, Windows & Linux hardening.<br>
       <em>Status:</em> Completed (Final Grade: A+).
+      <br><br>
     </td>
     <td align="center">
       <a href="https://github.com/ginesthoii/WashU-Projects">
@@ -143,6 +170,7 @@
       Works in networking, vulnerability assessment, cloud security, penetration testing & digital forensics.<br><br>
       <em>Tech:</em> Azure, cryptography, IAM, cloud security tooling.<br>
       <em>Status:</em> Completed (final program grade: A+).
+      <br><br>
     </td>
   </tr>
 </table>
@@ -171,6 +199,7 @@
       Used for finance, energy systems, and other real-world planning problems.<br><br>
       <em>Tech:</em> Python, Monte Carlo methods, state modeling.<br>
       <em>Status:</em> Active.
+      <br><br>
     </td>
     <td align="center">
       <a href="https://github.com/ginesthoii/Mini-Massive"><br>
@@ -181,11 +210,10 @@
       Inspired by Weta Digital’s Massive system used in <em>The Lord of the Rings</em>.<br><br>
       <em>Tech:</em> Python, WebGL, Three.js.<br>
       <em>Status:</em> Active.
+      <br><br>
     </td>
   </tr>
 </table>
-
-<br><br>
 
 <br><br>
 
@@ -240,12 +268,15 @@
   <tr bgcolor="#f6f8fa">
       <td align="center" width="27%">
       <img src="https://github.com/user-attachments/assets/bff0310f-4c71-4e3f-b880-13306413ac59" width="90"/>
+        <br><br>
     </td>
     <td align="center" width="46%">
       <img src="https://github.com/user-attachments/assets/bad61a3d-5d4c-4b9f-94cd-1e7dae4a9799" width="210"/>
+      <br><br>
     </td>
     <td align="center" width="27%">
       <img src="https://github.com/user-attachments/assets/6ef3ea80-6e1b-410c-906c-7ce7cc358d87" width="90"/>
+      <br><br>
     </td>
   </tr>
   <!-- Text Row -->
@@ -256,6 +287,7 @@
 <br><br>
       <em>Tech:</em> Python, PyQt6, SQLite<br>
       <em>Status:</em> Active
+      <br><br>
     </td>
      <td align="center"><br>
       <a href="https://github.com/ginesthoii/framework"><strong>framework</strong></a><br><br>
@@ -263,12 +295,14 @@
       <br><br>
       <em>Tech:</em> Python, PyQt6, SQLite, Markdown<br>
       <em>Status:</em> Active
+       <br><br>
     </td>
     <td align="center"><br>
       <a href="https://github.com/ginesthoii/storyteller"><strong>storyteller</strong></a><br><br>
       Resumable offline audiobook generator for text, PDF, DOCX, MOBI, and EPUB files.<br><br>
       <em>Tech:</em> Python, TTS engines, SQLite, document parsing.<br>
       <em>Status:</em> Active
+      <br><br>
     </td>
   </tr>
 </table>
@@ -300,6 +334,7 @@
       A local security auditing tool that scans homestead control systems for exposed services, weak authentication, and unsafe defaults that could allow unintended control of physical equipment or data leakage.<br><br>
       <em>Tech:</em> Python · Nmap · Config File Parsing · SQLite<br>
       <em>Status:</em> Active
+      <br><br>
     </td>
     <td align="center"><br>
       <a href="https://github.com/ginesthoii/remote-access-gatekeeper">
@@ -308,6 +343,7 @@
       A perimeter-aware access control system that governs remote access to homestead systems by checking network exposure, service state, and connection context before allowing control or data access.<br><br>
       <em>Tech:</em> Python · Network Inspection · Token Enforcement · Policy Logic<br>
       <em>Status:</em> Active
+      <br><br>k
     </td>
     <td align="center"><br>
       <a href="https://github.com/ginesthoii/automation-safety-interlock-system">
@@ -316,6 +352,7 @@
       A rule-based safety layer that blocks automation actions when system state or environmental conditions are unsafe, preventing equipment damage, resource loss, or hazardous behavior caused by bad assumptions.<br><br>
       <em>Tech:</em> Python · Rule Engines · State Validation<br>
       <em>Status:</em> Active
+      <br><br>
     </td>
   </tr>
 </table>
@@ -338,6 +375,7 @@
       A sensor data integrity subsystem that continuously validates environmental readings for plausibility, continuity, and consistency, preventing corrupted or unreliable data from influencing automation, alerts, or operational decisions and stopping faulty data from triggering pumps, heaters, feeders, or alerts.<br><br>
       <em>Tech:</em> Python · Rule-Based Checks · Time-Series Validation · SQLite<br>
       <em>Status:</em> Active
+      <br><br>
     </td>
     <td align="center"><br>
       <a href="https://github.com/ginesthoii/SecureMaestro">
@@ -346,6 +384,7 @@
       Secure, automated practice tools for musicians with looping and YouTube API integration, designed with application security boundaries and sandboxed execution in mind.<br><br>
       <em>Tech:</em> Python · AppSec Sandboxing · Semgrep<br>
       <em>Status:</em> Active
+      <br><br>
     </td>
   </tr>
 </table>
@@ -391,6 +430,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 <br><br>
       <em>Tech:</em> Python, JS, HTML, Dockerfile<br>
       <em>Status:</em> Active
+      <br><br>
     </td>
   </tr>
 </table>
@@ -416,6 +456,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
       Mobile-friendly developer playground that lets you see what code does instantly. Paste HTML/CSS/JS, upload a file, or point your camera at code to OCR and preview it live — all inside one app.<br><br>
       <em>Tech:</em> HTML · CSS · JavaScript · OCR<br>
       <em>Status:</em> Active
+      <br><br>
     </td>
     <td align="center"><br>
       <a href="https://github.com/ginesthoii/build-a-board">
@@ -443,31 +484,45 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 <h1 align="center">Specialized Modeling & Computational Systems</h1>
 
 <table width="100%" cellpadding="0" cellspacing="0">
-  <!-- Icon Row -->
+  <!-- Top Row -->
   <tr bgcolor="#f6f8fa">
-    <td align="center" width="25%">
+    <!-- LEFT ICON -->
+    <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/277693d5-17bc-4377-b61b-9920c07e3bc5" width="150"/>
     </td>
-    <td align="center" width="25%">
+    <!-- MIDDLE FULL IMAGE (spans both rows) -->
+    <td align="center" width="34%" rowspan="2" style="padding:0;">
+      <img
+        src="https://github.com/user-attachments/assets/bb1a1647-5019-4237-a083-bd008a2d7712"
+        width="150%"
+        style="display:block;"
+      />
+    </td>
+    <!-- RIGHT ICON -->
+    <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/a1db4381-c920-4ef1-aebe-cd335f14f4ca" width="190"/>
     </td>
   </tr>
-  <!-- Text Row -->
+  <!-- Bottom Row -->
   <tr bgcolor="#f6f8fa">
-    <td align="center"><br>
+    <!-- LEFT TEXT -->
+    <td align="center" width="33%"><br>
       <a href="https://github.com/ginesthoii/hypercalculia"><strong>hypercalculia</strong></a><br><br>
-     High-intensity offline computation engine for complex numerical processing.<br><br>
+      High-intensity offline computation engine for complex numerical processing.<br><br>
       <em>Tech:</em> Perl, Python<br>
       <em>Status:</em> Active
     </td>
-    <td align="center"><br>
+    <!-- RIGHT TEXT -->
+    <td align="center" width="33%"><br>
       <a href="https://github.com/ginesthoii/morph-tracker"><strong>morph-tracker</strong></a><br><br>
-      Ball python morph genetics tracker with morph IDs and a breeding outcome calculator. Designed to model inheritance, visualize outcomes, and manage pairing data.<br><br>
+      Ball python morph genetics tracker with morph IDs and a breeding outcome calculator. Designed to model inheritance,
+      visualize outcomes, and manage pairing data.<br><br>
       <em>Tech:</em> Python, Google Sheets, Appscript, JSON, CSV, SQLite<br>
       <em>Status:</em> Active
     </td>
   </tr>
 </table>
+
 
 
 
@@ -527,49 +582,72 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 <h1 align="center">Local Intelligence, Assistants & Reasoning</h1>
 
 <table width="100%" cellpadding="0" cellspacing="0">
-  <!-- Icon Row -->
+  <!-- Top Row -->
   <tr bgcolor="#f6f8fa">
-    <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/1c248ab0-aacb-4334-8f34-3f74aff53796" width="190"/>
-    </td>
-    <td align="center" width="25%">
+    <!-- Left icon -->
+    <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/6706f143-0e07-411a-b3b7-a161e8aab610" width="150"/>
     </td>
-    <td align="center" width="25%">
+    <!-- Middle: spans BOTH rows (full card) -->
+    <td align="center" width="33%" rowspan="2" style="padding:0;">
+      <img
+        src="https://github.com/user-attachments/assets/48c83e40-533f-4981-99ae-eb612faba8c8"
+        width="100%"
+        style="display:block;"
+      />
+    </td>
+    <!-- Right icon -->
+    <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/35f786d5-95df-4059-8ad9-8d8f811f7086" width="160"/>
     </td>
-    <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/e2d18f38-6856-4800-a546-cb64a0e955f2" width="150"/>
-    </td>
   </tr>
-  <!-- Text Row -->
+  <!-- Bottom Row -->
   <tr bgcolor="#f6f8fa">
-    <td align="center"><br>
-      <a href="https://github.com/ginesthoii/bobby-duck"><strong>bobby-duck</strong></a><br><br>
-      Fully offline personal AI assistant with document ingestion, vector storage, and long-term memory.<br><br>
-      <em>Tech:</em> Python, vector databases<br>
-      <em>Status:</em> Active
-    </td>
+    <!-- Left text -->
     <td align="center"><br>
       <a href="https://github.com/ginesthoii/Muses"><strong>Muses</strong></a><br><br>
       Personalized prompt builder and idea generator for local language models.<br><br>
       <em>Tech:</em> Python, SQLite, PyQt6<br>
       <em>Status:</em> Active
     </td>
+    <!-- Right text -->
     <td align="center"><br>
       <a href="https://github.com/ginesthoii/PromptPal"><strong>PromptPal</strong></a><br><br>
       Prompt discovery, categorization, and remix tool for local LLM interaction.<br><br>
       <em>Tech:</em> Python, SQLite, PyQt6<br>
       <em>Status:</em> Active
     </td>
+  </tr>
+</table>
+<table align="center">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/e2d18f38-6856-4800-a546-cb64a0e955f2" width="150"/>
+    </td>
+ <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/1c248ab0-aacb-4334-8f34-3f74aff53796" width="190"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
     <td align="center"><br>
-      <a href="https://github.com/ginesthoii/Enyo"><strong>Enyo</strong></a><br><br>
+      <a href="https://github.com/ginesthoii/Enyo">
+        <strong>Enyo</strong><br>
+      </a><br>
       An offline-capable reference and learning system for first-aid and emergency knowledge, combining curated manuals and skills documentation with local-only query and reasoning support.<br><br>
       <em>Tech:</em> Streamlit · LangGraph · Ollama<br>
       <em>Status:</em> Active
     </td>
+ <td align="center"><br>
+      <a href="https://github.com/ginesthoii/bobby-duck"><strong>bobby-duck</strong></a><br><br>
+      Fully offline personal AI assistant with document ingestion, vector storage, and long-term memory.<br><br>
+      <em>Tech:</em> Python, vector databases<br>
+      <em>Status:</em> Active
+    </td>
   </tr>
 </table>
+
 
 <br><br>
 
@@ -658,30 +736,49 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 </td>
   </tr>
 </table>
-
-<table width="50%" align="center" cellpadding="0" cellspacing="0">
-  <!-- Icon Row -->
+<table width="100%" cellpadding="0" cellspacing="0">
   <tr bgcolor="#f6f8fa">
-    <td align="center" width="100%">
-      <img src="https://github.com/user-attachments/assets/2852185f-6fe9-4607-9c99-5bf114f95362" width="120"/>
+    <!-- LEFT (unchanged) -->
+    <td align="center" width="33%" rowspan="2" style="padding:0;">
+      <img
+        src="https://github.com/user-attachments/assets/12c208a0-def2-4105-82f8-7f6e0427a212"
+        width="100%"
+        style="display:block;"
+      />
+    </td>
+    <!-- MIDDLE TOP (make this taller) -->
+    <td align="center" width="34%" height="260" valign="middle" style="padding:0;">
+      <img
+        src="https://github.com/user-attachments/assets/2852185f-6fe9-4607-9c99-5bf114f95362"
+        width="120"
+      />
+    </td>
+    <!-- RIGHT (unchanged) -->
+    <td align="center" width="33%" rowspan="2" style="padding:0;">
+      <img
+        src="https://github.com/user-attachments/assets/e130ef4b-acbc-494f-90b7-a34df4b99939"
+        width="100%"
+        style="display:block;"
+      />
     </td>
   </tr>
-  <!-- Text Row -->
   <tr bgcolor="#f6f8fa">
-    <td align="center"><br>
+    <!-- MIDDLE BOTTOM -->
+    <td align="center" width="34%" valign="top" style="padding:24px 18px;">
       <a href="https://github.com/ginesthoii/offline-maps">
         <strong>offline-maps</strong>
       </a><br><br>
-      Fully offline navigation and spatial communication system comparable to offline Google Maps. Supports local map tiles, routing, and interactive map rendering without network access or external services.
-<br><br>
-      <em>Tech:</em> Python, PHP, JavaScript, Leaflet, OSM map tiles, MapTiler <br>
+      Fully offline navigation and spatial communication system comparable to offline Google Maps.
+      Supports local map tiles, routing, and interactive map rendering without network access or external services.
+      <br><br>
+      <em>Tech:</em> Python, PHP, JavaScript, Leaflet, OSM map tiles, MapTiler<br>
       <em>Status:</em> Active
     </td>
   </tr>
 </table>
 
 
-<br>
+<br><br>
 
 <h2 align="center">Morse Code Learning System</h2>
 <p align="center">
@@ -803,6 +900,36 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
     </td>
   </tr>
 </table>
+
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/08cc7431-2dcc-4d73-90aa-1c73524aba7c" width="150"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/4bc3188f-158d-4d09-a56a-7bac581b2cdd" width="150"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/smart-display-frame"><strong>smart-display-frame</strong></a><br><br>
+      A DIY wall-mounted smart display dashboard with repurposed computer monitor screen. Features shared family calendars, to-do lists, reminders and local weather.
+      <br><br>
+      <em>Tech:</em> Raspberry Pi 4.<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/thermal-imaging-camera"><strong>thermal-imaging-camera</strong></a><br><br>
+      A buildable, FLIR-style thermal imaging camera using an MLX90640 sensor, ESP32-S3, and 3.5″ ILI9488 display. Includes enclosure CAD, hardware layout, and build documentation for a complete handheld device.
+<br><br>
+      <em>Tech:</em> OpenSCAD, FLIR, MLX sensors.<br>
+      <em>Status:</em> Active
+    </td>
+  </tr>
+</table>
+
 <table width="100%" cellpadding="0" cellspacing="0">
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
@@ -852,34 +979,108 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
     </td>
   </tr>
 </table>
+
+
 <table width="100%" cellpadding="0" cellspacing="0">
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/08cc7431-2dcc-4d73-90aa-1c73524aba7c" width="150"/>
-    </td>
+      <img src="https://github.com/user-attachments/assets/ca8fbefe-f256-4380-8f43-8861f0d25f91" width="190"/>
+    </td> 
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/4bc3188f-158d-4d09-a56a-7bac581b2cdd" width="150"/>
+      <img src="https://github.com/user-attachments/assets/4d62c45c-7f39-4e3f-8803-64625401d497" width="120"/>
+    </td> 
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/8daa5502-4582-40e0-ba58-6e034551d7e3" width="190"/>
+    </td> 
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/4e103b6f-f7c0-49b9-be77-65460e199986" width="190"/>
     </td>
   </tr>
   <!-- Text Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center"><br>
-      <a href="https://github.com/ginesthoii/smart-display-frame"><strong>smart-display-frame</strong></a><br><br>
-      A DIY wall-mounted smart display dashboard with repurposed computer monitor screen. Features shared family calendars, to-do lists, reminders and local weather.
-      <br><br>
-      <em>Tech:</em> Raspberry Pi 4.<br>
+      <a href="https://github.com/ginesthoii/dog-food-dispenser"><strong>dog-food-dispenser</strong></a><br><br>
+      A simple, reliable dog food rotary drum dispenser build — measured portions, low-jam design, and easy refill/clean access.<br><br>
+      <em>Tech:</em> Crafty Amigo • Mechanical Build • Portioning Design<br>
       <em>Status:</em> Active
     </td>
     <td align="center"><br>
-      <a href="https://github.com/ginesthoii/thermal-imaging-camera"><strong>thermal-imaging-camera</strong></a><br><br>
-      A buildable, FLIR-style thermal imaging camera using an MLX90640 sensor, ESP32-S3, and 3.5″ ILI9488 display. Includes enclosure CAD, hardware layout, and build documentation for a complete handheld device.
-<br><br>
-      <em>Tech:</em> OpenSCAD, FLIR, MLX sensors.<br>
+      <a href="https://github.com/ginesthoii/iot-pet-food-dispenser"><strong>iot-pet-food-dispenser</strong></a><br><br>
+      An IoT pet feeder with scheduled dispensing, manual override, and logging — built for consistency and fail-safe feeding.<br><br>
+      <em>Tech:</em> ESP32 • Raspberry Pi • Motor Control • Scheduling<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/hutch-designs"><strong>hutch-designs</strong></a><br><br>
+      Modular rabbit hutch designs with clean access, weather protection, and scalable layouts for humane, low-maintenance care.<br><br>
+      <em>Tech:</em> CAD Plans • Cut Lists • Hardware Layouts<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/coop-enclosure-designs"><strong>coop-enclosure-designs</strong></a><br><br>
+      Coop + run enclosure designs focused on predator-proofing, airflow, and easy cleaning — from backyard builds to larger setups.<br><br>
+      <em>Tech:</em> CAD Plans • Structural Design • Hardware Layouts<br>
       <em>Status:</em> Active
     </td>
   </tr>
 </table>
+
+
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/d6c2fcc4-86f2-4f1e-a30e-2bf9f8ec61ec" width="240"/>
+    </td>   
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/e941b7bc-eaba-4ffa-b068-b31a0f456bf5"" width="110"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/73b91e78-5239-452a-a645-cc68c5d7df8b" width="350"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/2af3526f-5af9-47ba-bd74-2bb6841f8924" width="110"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/rolling-coop-sifter"><strong>rolling-coop-sifter</strong></a><br><br>
+      An automated coop-cleaning sifter on rails with a winch drive + timed IoT control to separate manure from sand/bedding hands-free.<br><br>
+      <em>Tech:</em> ESP32 • Motor Control • IoT Timers • Automation<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/diy-incubator"><strong>diy-incubator</strong></a><br><br>
+      A modular egg incubator build system ranging from a small countertop unit to a 100+ egg professional rack setup with stable heat/humidity control.<br><br>
+      <em>Tech:</em> ESP32/Raspberry Pi • Sensors • Control Loops • Automation<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/incubator-actuator"><strong>incubator-actuator</strong></a><br><br>
+      A motorized egg-turning actuator (roller + divider grid style) designed for gentle, consistent turns and scalable trays from small batches to larger racks.<br><br>
+      <em>Tech:</em> Motor Drive • Timing Control • Mechanical Design • 3D Parts<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/diy-brooder"><strong>diy-brooder</strong></a><br><br>
+      A safe, practical chick brooder build with controlled heat, airflow, and easy-clean design — optimized for small batches and repeatable setups.<br><br>
+      <em>Tech:</em> Heat Control • Ventilation • Safety Design • Sensors (optional)<br>
+      <em>Status:</em> Active
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+ 
 
 <br><br>
 
@@ -915,6 +1116,8 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
     </td> 
   </tr>
 </table>
+
+<br><br>
 
 <h1 align="center">Games & Interactive Systems</h1>
 
@@ -954,7 +1157,10 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   </tr>
 </table>
 
-<BR> 
+<br><br> 
+
+
+
 
 <h3 align="center">Tooling & Game Foundations</h3>
 <p align="center">
@@ -1029,7 +1235,34 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 </table>
 
 
+<h2 align="center">2D Character Creator</h2>
 
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icons -->
+  <tr bgcolor="#ffffff">
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/87110cc5-c4e0-46e4-8567-b3c9219edfe8" width="200"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/d1125054-5ebc-46da-af0e-d0d7d8a272e9" width="200"/>
+    </td>
+  </tr>
+  <!-- Text -->
+  <tr bgcolor="#ffffff">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/2D-character-creator"><strong>2D-character-creator</strong></a><br><br>
+      A visual + biographical character builder for constructing complete characters (appearance, outfit sets, background details, family ties, and identity markers) — built to pair with CyberPersona’s psychology engine so characters stay coherent in both look and behavior.<br><br>
+      <em>Tech:</em> Python<br>
+      <em>Status:</em> Active.<br>
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/CyberPersona"><strong>CyberPersona</strong></a><br><br>
+      A personality + psychology engine that generates internal logic (MBTI, Enneagram, archetypes, attachment, values, coping, stress behavior) — the “OS layer” that governs decisions, voice, and breaks down patterns for character development. This persona tool is for writing, roleplay, inspiration and worldbuilding<br><br>
+      <em>Tech:</em> Python, YAML, taxonomy design.<br>
+      <em>Status:</em> Active.<br>
+    </td>
+  </tr>
+</table>
 
 
 <br><br>
@@ -1250,24 +1483,44 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 </table>
 
 
+
+
+
+
+
+
+
+
+
+
 <br><br>
 
 <h1 align="center">Environmental Monitoring, Agriculture & Infrastructure Systems</h1>
 <table width="100%" cellpadding="0" cellspacing="0">
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
-    <td align="center" width="100%">
+    <td align="center" width="50%">
       <img src="https://github.com/user-attachments/assets/6484c161-b1c5-472f-b847-41310ff075d1" width="200"/>
+    </td>
+     <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/cd154f94-acbd-42d2-b29b-8c68c65149a4" width="250"/>
     </td>
   </tr>
   <!-- Text Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center"><br>
       <a href="https://github.com/ginesthoii/weather-oracle"><strong>weather-oracle</strong></a><br><br>
-      A fully offline, self-contained weather monitoring and forecasting system using an ESP32 station, a Raspberry Pi collector, a SQLite climate database, and a hybrid online/offline ML + trend-based forecast engine. <br> No cloud, no subscriptions, no required internet. Solar friendly. <br><br>
+      A fully offline, self-contained weather monitoring and forecasting system using an ESP32 station, a Raspberry Pi collector, a SQLite climate database, and a hybrid online/offline ML + trend-based forecast engine. <br><br>
+      No cloud, no subscriptions, no required internet. Solar friendly. <br><br>
       <em>Tech:</em> ESP32, Raspberry Pi, SQLite, Python, ML<br>
       <em>Status:</em> Active
     </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/green-machine"><strong>green-machine</strong></a><br><br>
+      An offline-first horticulture & mini-farm decision system that models plants from start state to target state (seed, juvenile, cutting, fruiting, overwintered). <br><br>
+      Combining USDA zones, soil and season logic, pruning and propagation rules, companion planting, indoor-to-outdoor transitions, practical manuals, and optional sensor data to give explainable, low-cost growing guidance with no cloud or subscriptions. <br><br>
+      <em>Tech:</em> Python, PyQt6, SQLite, USDA Zone Data, Markdown/YAML Manuals, Optional ESP32 Sensors<br>
+      <em>Status:</em> Active
     </td>
   </tr>
 </table>
@@ -1311,29 +1564,386 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 <table width="100%" cellpadding="0" cellspacing="0">
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
-    <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/25c7ceab-05f4-414b-bb4a-0801f54f3543" width="170"/>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/d8c70279-949b-48ce-99ac-8fc0d544eac8" width="200"/>
     </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/70bc9b42-6511-406c-9dc5-ff0dfd6b9f8f" width="160"/>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/dc56e482-d1e0-4421-a21f-133eaf6f39dc" width="180"/>
+    </td>
+    <td align="center" width="34%">
+      <img src="https://github.com/user-attachments/assets/efd91556-57b2-4ef1-8a7b-3b8d5337ebe1" width="200"/>
     </td>
   </tr>
   <!-- Text Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center"><br>
-      <a href="https://github.com/ginesthoii/the-waterworks"><strong>the-waterworks</strong></a><br><br>
-      A guide to designing and building a scalable, modular waterwheel system for residential or remote power generation. <br> Includes scripts for calculating renewable power potentials and simulating water flow dynamics for optimal waterwheel design.<br><br>
-      <em>Tech:</em> Python, ESP32, C++.<br>
+      <a href="https://github.com/ginesthoii/simple-plant-sensor"><strong>simple-plant-sensor</strong></a><br><br>
+      A simple plant arduino sensor and monitor that tracks soil moisture, light/temp and tells you when to water — useful signals sent to dashboard you can view remotely. Optional upgrade to ESP32. <br><br>
+      <em>Tech:</em> Python, Arduino, ESP32, C++.<br>
       <em>Status:</em> Active
     </td>
-     <td align="center"><br>
+    <td align="center"><br>
       <a href="https://github.com/ginesthoii/hydro-systems-lab"><strong>hydro-systems-lab</strong></a><br><br>
-     Water infrastructure planning, simulation, and automation toolkit.<br><br>
+      Water infrastructure planning + automation lab — pump logic, flow/pressure notes, sensor patterns, and control modules for real-world hydro systems.<br><br>
       <em>Tech:</em> Python, Raspberry Pi, ESP32.<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/cistern-water-sensors"><strong>cistern-water-sensors</strong></a><br><br>
+      Sensor setups for monitoring cistern levels safely and reliably — practical patterns for reading, logging, alerts, and shutoff logic.<br><br>
+      <em>Tech:</em> ESP32.<br>
       <em>Status:</em> Active
     </td>
   </tr>
 </table>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center" width="100%">
+  <img src="https://github.com/user-attachments/assets/5cfa7cd4-b7c5-475b-8b86-da70c277e6ad" width="170"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/25c7ceab-05f4-414b-bb4a-0801f54f3543" width="160"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/774e1895-d9b0-4ccd-b8a5-3b9b92e0a8d6" width="170"/>
+</td>
+  </tr>
+  <!-- Text Row -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/the-waterworks"><strong>the-waterworks</strong></a><br><br>
+      A guide to designing and building a scalable, modular waterwheel system for residential or remote power generation. <br>
+      Includes scripts for calculating renewable power potentials and simulating water flow dynamics for optimal waterwheel design.<br><br>
+      <em>Tech:</em> Python, ESP32, C++.<br>
+      <em>Status:</em> Active
+    </td>
+  </tr>
+</table>
+
+
+<br> <br> 
+
+ <h1 align="center"> Hive HQ</h1>
+
+
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icons -->
+  <tr bgcolor="#ffffff">
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/ffeed1cf-1a1f-4e38-92a3-48c48dbe99c1" width="200"/>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github.com/user-attachments/assets/fdb1d717-c5be-4523-b252-2a15b329e0d8" width="200"/>
+    </td>
+  </tr>
+
+  <!-- Text -->
+  <tr bgcolor="#ffffff">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/the-hive"><strong>the-hive</strong></a><br><br>
+      All-in-one operations building for the mini-farm: processing and preservation (butchery, canning, dehydration, freezing), storage (root cellar, cold storage), sanitation, office/admin work, grow rooms (plants, fodder, propagation), incubation/brooders, and connected animal care including sick-care.<br><br>
+      <em>Tech:</em> Markdown, Diagrams, SOPs, Layout Specs.<br>
+      <em>Status:</em> Active.
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/hive-os"><strong>hive-os</strong></a><br><br>
+      Operations software for the Hive: dashboards, schedules, logs, alerts, and workflows supporting processing/preservation, storage, sanitation tasks, grow rooms, incubation/brooders, infrastructure (power/solar, heating, water infrastructure, network/Wi-Fi), security, and environmental monitoring (sensors, temperature/humidity) across connected zones.<br><br>
+      <em>Tech:</em> Python, PyQt6, SQLite, Raspberry Pi, ESP32.<br>
+      <em>Status:</em> Active.
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<h1 align="center"><DIY Animal Feed </h1>
+<h2 align="center">DIY Insect Protein Farm for Poultry & Small Livestock</h2>
+<h3 align="center">Low-cost, scalable systems for raising larvae and insects as supplemental feed.</h3>
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- Icon Row -->
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/4d73a95a-e5d8-48ec-951b-0891eec084b3" width="190"/>
+    </td>
+    <td align="center" width="34%">
+      <img src="https://github.com/user-attachments/assets/334ed67c-f6b0-4b8e-ad26-5dd9947cbde2" width="190"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/a8a049dd-507d-4cf4-9b67-3b4fb2f33d2e" width="190"/>
+    </td>
+  </tr>
+  <!-- Text Row -->
+  <tr>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/bsfl-protein-system"><strong>BSFL Protein System</strong></a><br><br>
+      Black Soldier Fly Larvae (BSFL) are fast-growing larvae that convert food waste into high-protein feed for poultry and waterfowl.<br><br>
+      <em>Tech:</em> bins, drainage, heat, lifecycle control, optional automation<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/mealworm-grow-system"><strong>Mealworm Grow System</strong></a><br><br>
+      Mealworms are beetle larvae raised indoors as a low-odor protein source, especially useful for winter feeding and controlled supplementation.<br><br>
+      <em>Tech:</em> trays, climate control, lifecycle tracking, optional automation<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/vermiculture-compost-integration"><strong>Vermiculture &amp; Compost Integration</strong></a><br><br>
+      Vermiculture uses composting worms to process organic waste into soil inputs, with excess worms usable as occasional live feed.<br><br>
+      <em>Tech:</em> bins, moisture balance, compost loops, optional automation<br>
+      <em>Status:</em> Active
+    </td>
+  </tr>
+</table>
+
+ <h2 align="center">Sprouted Fodder System</h2>
+<h3 align="center">Fast, low-cost greens using stacked trays with mold-safe watering and airflow control.</h3>
+
+
+
+<table width="100%" cellpadding="0" cellspacing="0">
+  <!-- TOP ROW -->
+  <tr bgcolor="#f6f8fa">
+    <!-- LEFT IMAGE (spans both rows) -->
+    <td align="center" width="33%" rowspan="2" style="padding:0;">
+      <img
+        src="https://github.com/user-attachments/assets/9b250099-0e82-4da2-9c20-b286682cd986"
+        width="100%"
+        style="display:block;"
+      />
+    </td>
+    <!-- MIDDLE ICON -->
+    <td align="center" width="34%" style="padding-top:12px;">
+      <img
+        src="https://github.com/user-attachments/assets/132e8f13-5a82-48d6-a5cc-c3096f70ae8d"
+        width="120"
+      />
+    </td>
+    <!-- RIGHT IMAGE (spans both rows) -->
+    <td align="center" width="33%" rowspan="2" style="padding:0;">
+      <img
+        src="https://github.com/user-attachments/assets/f87575a8-cfc1-4375-b2f4-cfcf2ca480b6"
+        width="100%"
+        style="display:block;"
+      />
+    </td>
+  </tr>
+  <!-- BOTTOM ROW -->
+  <tr bgcolor="#f6f8fa">
+    <!-- MIDDLE TEXT -->
+    <td align="center" width="34%" style="padding:18px 18px 22px;">
+      <a href="https://github.com/ginesthoii/fodder-system">
+        <strong>fodder-system</strong>
+      </a><br><br>
+      Sprouted fodder setup — tray system, watering schedule, mold prevention, yields &amp; storage.
+      <br><br>
+      <em>Tech:</em> trays/racks &amp; ESP32 • temp/humidity sensors • timed watering • drainage • airflow/fan control • yield tracking<br>
+      <em>Status:</em> Active.
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+<br><br>
+
+
+
+ <h1 align="center">Grow Systems</h1>
+<table>
+  <!-- ICONS -->
+  <tr bgcolor="#ffffff">
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/b17d7456-91fd-44f6-99e8-cb8bcea684b5" width="180"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/66e47517-95c5-4678-b036-72d2136c6af5" width="180"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/983322b0-f472-406b-a396-19aec25d9f95" width="200"/>
+    </td>
+    <td align="center" width="360" style="padding-top:12px;">
+      <img src="https://github.com/user-attachments/assets/b4fbd02e-c23c-4fe7-aced-76692762db47" width="180"/>
+    </td>
+  </tr>
+  <!-- TEXT-->
+  <tr bgcolor="#ffffff">
+    <td align="center">
+      <a href="https://github.com/ginesthoii/aquaponics"><strong>aquaponics</strong></a><br>
+      Aquaponics builds + system design docs — fish tank, grow beds, plumbing loops, and routines.<br>
+      <em>Tech:</em> Markdown, Diagrams, Sensors (optional).<br>
+      <em>Status:</em> Active.
+    </td>
+    <td align="center">
+      <a href="https://github.com/ginesthoii/hydroponics"><strong>hydroponics</strong></a><br>
+      Hydroponics designs + grow methods — DWC, NFT, Kratky, nutrients, and monitoring basics.<br>
+      <em>Tech:</em> Markdown, Diagrams, Sensors (optional).<br>
+      <em>Status:</em> Active.
+    </td>
+    <td align="center">
+      <a href="https://github.com/ginesthoii/bog-filter"><strong>bog-filter</strong></a><br>
+      Bog filter builds for ponds — media layers, flow math, pump sizing, and clarity strategy.<br>
+      <em>Tech:</em> Markdown, Diagrams, Pump/Flow Notes.<br>
+      <em>Status:</em> Active.
+    </td>
+        <td align="center" width="380"><br>
+      <a href="https://github.com/ginesthoii/seedling-starter"><strong>seedling-starter</strong></a><br><br>
+      Sprouted fodder setup — tray system, watering schedule, mold prevention, yields &amp; storage.<br><br>
+      <em>Tech:</em> trays/racks &amp; ESP32 • temp/humidity sensors • timed watering • drainage • airflow/fan control • yield tracking<br>
+      <em>Status:</em> Active.
+    </td>
+  </tr>
+  <!-- ICON -->
+  <tr bgcolor="#ffffff">
+    <td align="center" colspan="4">
+                  <img src="https://github.com/user-attachments/assets/0cc162a2-38bd-468f-9ef9-cf14639b0164" width="300"/>
+                  <img src="https://github.com/user-attachments/assets/afe991fa-21b3-4b1e-8eb4-e9faeec90d37" width="300"/>
+                  <img src="https://github.com/user-attachments/assets/ca73b21b-2340-412f-80c9-dda8595f8d2a" width="300"/>
+    </td>
+  </tr>
+  <!-- TEXT -->
+  <tr bgcolor="#ffffff">
+    <td align="center" colspan="4">
+      <a href="https://github.com/ginesthoii/geodesic-dome-designs"><strong>geodesic-dome-designs</strong></a><br>
+      Geodesic dome plans + calculators — DIY greenhouse/shelter designs, cut lists, and build notes.<br>
+      <em>Tech:</em> Markdown, Diagrams, CAD (optional), Python (optional).<br>
+      <em>Status:</em> Active.
+    </td>
+  </tr>
+</table>
+
+
+<br>
+
+
+<h1 align="center">Creative & Worldbuilding</h1>
+
+<table>
+  <!-- Icons -->
+  <tr bgcolor="#ffffff">
+    <td align="center" width="50%"><img src="https://github.com/user-attachments/assets/f20d13dd-7c84-4388-8c51-bfba42ebdaf3" width="150"/></td>
+    <td align="center" width="50%"><img src="https://github.com/user-attachments/assets/d2b2a295-5a60-4d76-af1d-c4692d69bc9c" width="250"/></td>
+  </tr>
+  <!-- Text -->
+  <tr bgcolor="#ffffff">
+    <td align="center"><a href="https://github.com/ginesthoii/MythicalMenagerie"><strong>MythicalMenagerie</strong><br></a><br>Digital bestiary for global myth creatures. Digital bestiary for mythological creatures. Explore legendary beings from global mythologies. Search, learn, and even create mash-ups of monsters with our interactive generator. Creative compendium + generator with maps and comparisons.<br>
+      <em>Tech:</em> JavaScript, JSON, HTML/CSS.<br>
+      <em>Status:</em> Active.</td><br>
+    <td align="center"><a href="https://github.com/ginesthoii/compiled-bestiary"><strong>compiled-bestiary</strong><br></a><br>A structured, searchable, compiled bestiary of beasts, monsters, cryptids, and other horrors that transforms creature entries into a reusable dataset with tags, habitats, behaviors, and exportable field-guide pages.
+Entries may originate from medieval bestiaries, folklore, cryptozoology, or modern accounts; all are normalized into a consistent schema with sources and contextual analysis.<br>
+      <em>Tech:</em> Python, PyQt6, SQLite, CSV/XLSX <br>
+      <em>Status:</em> Active.</td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+<h1 align="center">Spreadsheets</h1>
+
+<table>
+  <!-- Icons -->
+  <tr bgcolor="#ffffff">
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/4894ccc9-4f36-4175-b119-24e09fc368c0" width="190"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/b26342bf-737a-4c03-9e7b-b11fb3a21d80" width="190"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/66e716db-7f84-480b-8d22-52a6397fa9cd" width="180"/></td>
+      <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/4983251a-c426-4e73-bd2d-67de66c84108" width="170"/></td>
+  </tr>  
+  <!-- Text -->
+  <tr bgcolor="#ffffff">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/project-management-ops-sheets"><strong>project-management-ops-sheets</strong></a><br>
+      <br>Lightweight project planning and execution templates built in Google Sheets and Excel. Includes task tracking, milestones, dependencies, Einstein-matrix, Kanban-style boards, and simple Gantt views designed for clarity over ceremony.<br><br>
+      <em>Tech:</em> Google Sheets · Excel (XLSX) · Apps Script · AppSheet · Zapier/Make · JavaScript · Google Drive · Optional Google Cloud (webhooks/APIs)<br>
+      <em>Status:</em> Active.
+    </td>
+        <td align="center"><br>
+          <a href="https://github.com/ginesthoii/inventory-ops-sheets"><strong>inventory-ops-sheets</strong></a><br><br>Operational inventory systems for tracking stock, supplies, assets, and consumables across personal, homestead, and small-scale business use. Handles quantities, locations, reorder thresholds, spoilage, and seasonal usage without heavy software.<br><br>
+      <em>Tech:</em>  Google Sheets · Excel (XLSX) · Apps Script · AppSheet (scan/forms) · Zapier/Make · JavaScript · Google Drive · Optional Google Cloud (APIs)<br>
+      <em>Status:</em> Active.
+    </td>
+        <td align="center"><br>
+          <a href="https://github.com/ginesthoii/life-tracking-ops-sheet"><strong>life-tracking-ops-sheet</strong></a><br><br>
+          Flexible life-ops templates for habits, health, routines, goals, meals, workouts, and personal planning. Focused on awareness and continuity — can stay private and offline-ish, or connect to forms and reminders.<br><br>
+      <em>Tech:</em>  Google Sheets · Excel (XLSX) · Apps Script · AppSheet · Zapier/Make · JavaScript · Google Drive · Optional Google Cloud (automations)<br>
+      <em>Status:</em> Active.
+    </td>
+        <td align="center"><br>
+          <a href="https://github.com/ginesthoii/time-management-ops-sheets"><strong>time-management-ops-sheets</strong></a><br><br>Practical time planning templates focused on schedules, workload visibility, and long-range planning rather than micromanagement. Includes weekly planning, time blocking, Gantt-style timelines, and capacity tracking that can stay simple or automate.<br><br>
+      <em>Tech:</em> Google Sheets · Excel (XLSX) · Apps Script · Google Calendar integrations · Zapier/Make · JavaScript · Optional AppSheet · Optional Google Cloud  <br>
+      <em>Status:</em> Active.
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <!-- Icons -->
+  <tr bgcolor="#ffffff">
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/f1f36820-cd91-4038-a860-d352d9d62070" width="170"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/6d32c263-6ee0-414c-8fe7-c04673bad711" width="160"/></td>
+    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/3eb4ae86-b1eb-49d8-98af-c9e0acb7b0ab" width="200"/></td>
+      <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/0daceb34-15e3-4089-b443-75264e32e1dd" width="160"/></td>
+  </tr>
+  <!-- Text -->
+  <tr bgcolor="#ffffff">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/finance-ops-sheets"><strong>finance-ops-sheets</strong></a><br>
+      <br>Personal and operational finance tracking systems covering budgeting, cash flow, savings, forecasting, and reporting. Built for transparency and control — usable standalone or wired into automations and alerts.
+<br><br>
+      <em>Tech:</em> Google Sheets · Excel (XLSX) · Apps Script · Zapier/Make · JavaScript · Optional AppSheet · Google Drive · Optional Google Cloud (APIs/webhooks)<br>
+      <em>Status:</em> Active.
+    </td>
+        <td align="center"><br>
+          <a href="https://github.com/ginesthoii/sales-ops-sheets"><strong>sales-ops-sheets</strong></a><br><br>Sales tracking and lightweight CRM systems for managing leads, customers, follow-ups, invoices, and revenue over time. Designed for small businesses and side projects that need structure without enterprise overhead.<br><br>
+      <em>Tech:</em> Google Sheets · Excel (XLSX) · Apps Script · AppSheet (mobile CRM) · Zapier/Make · JavaScript · Email/Calendar integrations · Optional Google Cloud <br>
+      <em>Status:</em> Active.
+    </td>
+        <td align="center"><br>
+          <a href="https://github.com/ginesthoii/small-business-sheets"><strong>small-business-sheets</strong></a><br><br>Guides, presets, and ready-to-use small business templates that adapt the core ops sheets for real workflows: pricing, basic bookkeeping patterns, simple fulfillment, and repeatable operations.
+<br><br>
+      <em>Tech:</em> Google Sheets · Excel (XLSX) · Apps Script · AppSheet · Zapier/Make · JavaScript · Optional Google Cloud · Documentation/templates<br>
+      <em>Status:</em> Active.
+    </td>
+        <td align="center"><br>
+          <a href="https://github.com/ginesthoii/dashboard-ops-sheets"><strong>dashboard-ops-sheets</strong></a><br><br>Cross-system dashboards that summarize data from multiple ops sheets into one operational view. Built for decisions (what changed, what’s overdue, what’s low, what needs money) rather than pretty charts.<br><br>
+      <em>Tech:</em> Google Sheets · Excel (XLSX) · Connected ranges/query-style pulls · Apps Script · Optional Looker Studio · Zapier/Make · JavaScript · Optional Google Cloud<br>
+      <em>Status:</em> Active.
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <!-- Icons -->
+  <tr bgcolor="#ffffff">
+    <td align="center" width="50%"><img src="https://github.com/user-attachments/assets/921b757a-5387-40d8-9d55-5d02d8127c76" width="150"/></td>
+    <td align="center" width="50%"><img src="https://github.com/user-attachments/assets/b504536a-e0f5-4cf9-971f-9e2083fabfe0" width="150"/></td>
+  </tr>
+  <!-- Text -->
+  <tr bgcolor="#ffffff">
+    <td align="center"><br>
+      <a href="https://github.com/ginesthoii/sheets-logic-library"><strong>sheets-logic-library</strong></a><br>
+      <br>A practical reference for spreadsheet logic — formulas, functions, patterns, design, and decision rules for Google Sheets and Excel, including when to use formulas versus Apps Script.
+<br><br>
+      <em>Tech:</em> Google Sheets · Excel · QUERY · ARRAYFORMULA · XLOOKUP · LAMBDA · Apps Script · Logic patterns <br>
+      <em>Status:</em> Active.
+    </td>
+       <td align="center"><br>
+      <a href="https://github.com/ginesthoii/secure-sheets"><strong>secure-sheets</strong></a><br>
+      <br>AppSec + OpSec + spreadsheet security for Google Sheets & Excel. Practical security patterns, threat models, and hardening techniques for Google Sheets and Excel — including permissions, formulas, Apps Script, integrations, and data handling.
+<br><br>
+      <em>Tech:</em> Google Sheets · Microsoft Excel (XLSX) · Google Apps Script (JavaScript) · AES-128/256 encryption (at rest & in transit) · Permissions & protected ranges · LockService · Version history & audit logs · AppSheet · Zapier · Webhooks & APIs <br>
+      <em>Status:</em> Active.
+    </td>
+  </tr>
+</table>
+
+
 
 
 <h1 align="center">Language Foundations & Experiments</h1>
@@ -1383,6 +1993,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 ---
 
 
+<br><br>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8ea417a5-9caa-4bc5-a479-101b763b385e" alt="Image" width="55%" height="10%" style="border-radius:15px;"/>
@@ -1464,13 +2075,16 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 
 ---
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3c3fe3af-3d7b-46c3-8689-9fafe1a12c60" alt="Image" width="65%" height="20%" style="border-radius:15px;"/>
+<p align="center" id="orgs">
+  <img src="https://github.com/user-attachments/assets/3c3fe3af-3d7b-46c3-8689-9fafe1a12c60"
+       alt="Orgs"
+       width="65%"
+       style="border-radius:15px;" />
 </p>
 
 ---
 
-<br>
+<br><br>
 
 <p align="center">
   <img 
@@ -1579,7 +2193,6 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 </table>
 
 
-<!-- ROW 3 -->
 
 <!-- ROW 3 -->
 <table width="100%">
@@ -1634,7 +2247,6 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 </table>
 
 
-<!-- ROW 4 -->
 
 <!-- ROW 4 -->
 <table width="100%">
@@ -1685,7 +2297,6 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   </tr>
 </table>
 
-<!-- ROW 5 -->
 
 <!-- ROW 5 -->
 <table width="100%">
@@ -1737,7 +2348,6 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 </table>
 
 
-<!-- ROW 6 -->
 
 <!-- ROW 6 -->
 <table width="100%">
@@ -1789,7 +2399,6 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 </table>
 
 
-<!-- ROW 7 -->
 
 <!-- ROW 7 -->
 <table width="100%">
@@ -1808,7 +2417,6 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
       </a>
     </td>
   </tr>
-
   <!-- DESCRIPTION + TECH -->
   <tr bgcolor="#f6f8fa">
     <td align="center"><br>
@@ -1841,7 +2449,6 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 </table>
 
 
-<!-- ROW 8 -->
 
 <!-- ROW 8 -->
 <table width="100%">
@@ -1889,7 +2496,6 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   </tr>
 </table>
 
-<!-- ROW 9 -->
 
 <!-- ROW 9 -->
 <table width="100%">
@@ -1939,7 +2545,6 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   </tr>
 </table>
 
-<!-- ROW 10 -->
 
 <!-- ROW 10 -->
 <table width="100%">
@@ -1989,7 +2594,6 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 </table>
 
 
-<!-- ROW 11 -->
 
 <!-- ROW 11 -->
 <table width="100%">
@@ -2040,9 +2644,10 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 </table>
 
 
-<!-- ROW 12 -->
+
 
 <!-- ROW 12 -->
+
 <table width="100%">
   <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
@@ -2052,25 +2657,29 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
         <strong>SelfTaughtSandbox</strong><br><br>
       </a>
     </td>
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/user-attachments/assets/b58acace-b30e-47c7-8975-f4202af1a960" width="250" alt="character-creator"><br><br>
+      <a href="https://github.com/character-creator" style="text-decoration:none;">
+        <strong>character-creator</strong><br><br>
+      </a>
+    </td>
   </tr>
-
   <!-- DESCRIPTION + TECH -->
   <tr bgcolor="#f6f8fa">
     <td align="center"><br>
-      A living sandbox for learning, experimentation, and skill-building across disciplines.<br><br>
-      SelfTaughtSandbox is where ideas are tested before they become systems —
-      a place for prototypes, experiments, learning notes, and small tools
-      that don’t yet belong to a formal project.<br><br>
-      It reflects a self-directed approach to education:
-      learning by building, breaking, iterating, and integrating knowledge
-      across software, hardware, design, and real-world systems.<br><br>
+      A structured self-teaching lab organized into skill tracks — projects, experiments, templates, manuals, and study notes across backend, frontend, AI/ML, security, automation, data, cloud, and hardware—built as a reusable learning library by track, designed for repeatable practice through small builds and reference docs to iterate on.<br><br>
       <strong>Tech:</strong><br>
-      Exploratory code · Prototypes · Learning artifacts · Cross-domain experimentation
+      Skill tracks · Manuals · Templates · Notes · Projects · Labs
+  <br><br>
+    </td> 
+    <td align="center"><br>
+      A character engineering suite combining visual creation, identity scaffolding, and automation workflows — build appearance, background, and structure while pairing with psychology/personality systems for characters that stay coherent across writing, games, and worldbuilding.<br><br>
+      <strong>Tech:</strong><br>
+      Blender · Python · Automation · AI-assisted planning · Psychology
+      <br><br>
     </td>
   </tr>
 </table>
-
-
 
 
 
@@ -2297,5 +2906,3 @@ Tracking online courses I’m working through to build skills in security, web d
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0e2064fd-0a31-459c-aa8e-1d359f22bcfd" alt="Banner" width="100%" height="50%" style="border-radius:15px;"/>
 </p>
-
-
