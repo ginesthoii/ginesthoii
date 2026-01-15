@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Website-739f84?style=for-the-badge&labelColor=a86a8f&color=a86a8f&logoColor=white" height="200">
   </a>
   &nbsp;&nbsp;&nbsp; <!-- spacing -->
-  <a href="https://www.linkedin.com/olivia-griffin-a08a20115/">
+  <a href="https://www.linkedin.com/in/olivia-griffin-a08a20115/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-739f84?style=for-the-badge&labelColor=a86a8f&color=a86a8f&logo=linkedin&logoColor=white" height="200">
   </a>
   &nbsp;&nbsp;&nbsp;
