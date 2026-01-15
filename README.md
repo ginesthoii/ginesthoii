@@ -493,7 +493,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
     <td align="center" width="34%" rowspan="2" style="padding:0;">
       <img
         src="https://github.com/user-attachments/assets/bb1a1647-5019-4237-a083-bd008a2d7712"
-        width="150%"
+        width="80%"
         style="display:block;"
       />
     </td>
