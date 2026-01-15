@@ -1990,13 +1990,16 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
   </tr>
 </table>
 
+
+
+
 ---
 
 
 <br><br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8ea417a5-9caa-4bc5-a479-101b763b385e" alt="Image" width="55%" height="10%" style="border-radius:15px;"/>
+  <img src="https://github.com/user-attachments/assets/8ea417a5-9caa-4bc5-a479-101b763b385e" alt="Image" width="75%" height="10%" style="border-radius:15px;"/>
 </p>
 
 <table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:8px;">
@@ -2691,7 +2694,7 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/07371edf-95a2-4e28-9896-b506896409b2" alt="Image" width="60%" height="20%" style="border-radius:15px;"/>
+  <img src="https://github.com/user-attachments/assets/07371edf-95a2-4e28-9896-b506896409b2" alt="Image" width="75%" height="30%" style="border-radius:15px;"/>
 </p>
    
 ---
@@ -2791,7 +2794,7 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f2301059-c514-45ba-9afe-ac33536786c1"
- alt="Image" width="450" height="250"/>
+ alt="Image" width="500" height="250"/>
 </p>
 
 
@@ -2900,6 +2903,16 @@ Tracking online courses I’m working through to build skills in security, web d
 </table>
 
 </div>
+
+<br><br>
+
+
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f727445e-8eee-4608-b341-1e4c46bd0712" alt="Image" width="55%" height="10%" style="border-radius:15px;"/>
+</p>
+
+---
 
 <br><br>
 
