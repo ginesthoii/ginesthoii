@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a6188ece-c0b1-4f1a-8160-3d49482577ff" alt="Banner" width="100%" height="50%" style="border-radius:15px;"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/hero.svg" alt="Banner" width="100%" height="50%" style="border-radius:15px;"/>
 </p>
 
 <br>
