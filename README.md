@@ -445,13 +445,13 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 <table width="100%" cellpadding="0" cellspacing="0">
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
-    <td align="center" width="36%">
+    <td align="center" width="36%"><br>
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/devgaze.png" width="120"/>
     </td>
-    <td align="center" width="34%">
+    <td align="center" width="34%"><br>
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/build-a-board.jpg" width="150"/>
     </td>
-    <td align="center" width="30%">
+    <td align="center" width="30%"><br>
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/kanban.svg" width="150"/>
     </td>
   </tr>
@@ -465,7 +465,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
       <em>Tech:</em> HTML · CSS · JavaScript · OCR<br>
       <em>Status:</em> Active
       <br><br>
-    </td>
+    </td><br>
     <td align="center"><br>
       <a href="https://github.com/ginesthoii/build-a-board">
         <strong>build-a-board</strong>
@@ -473,7 +473,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
       A scrollable digital posterboard for creating, arranging, and collecting visual ideas in a freeform workspace.<br><br>
       <em>Tech:</em> HTML · CSS · JavaScript · TypeScript<br>
       <em>Status:</em> Active
-    </td>
+    </td><br>
     <td align="center"><br>
       <a href="https://github.com/ginesthoii/kanban-post-it">
         <strong>kanban-post-it</strong>
@@ -481,7 +481,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
       Lightweight visual task and idea board inspired by physical Post-it workflows for quick planning and organization.<br><br>
       <em>Tech:</em> JavaScript, HTML, CSS<br>
       <em>Status:</em> Active
-    </td>
+    </td><br>
   </tr>
 </table>
     
@@ -781,10 +781,10 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icons -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="50%">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/morse-code-master.jpg" width="200"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/morse-code-master.jpg" width="230"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/morse-code-mentor.gif" width="200"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/morse-code-mentor.gif" width="210"/>
     </td>
   </tr>
   <!-- Text -->
@@ -894,10 +894,10 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="50%">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/smart-display-frame.png" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/smart-display-frame.png" width="200"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/thermal-imaging-camera.png" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/thermal-imaging-camera.png" width="200"/>
     </td>
   </tr>
   <!-- Text Row -->
