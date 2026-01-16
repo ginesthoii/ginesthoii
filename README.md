@@ -21,24 +21,24 @@
 
 <div align="center" style="display:flex; justify-content:center; gap:18px; align-items:center; flex-wrap:wrap;">
   <a href="#repos">
-    <img src="https://github.com/user-attachments/assets/e3242bac-faaa-4abb-93c6-91c6a5cc68a7" height="200" />
+    <img src="https://raw.githubusercontent.com/ginesthoii/ginesthoii/main/assets/jump-to-repos.png" height="200" />
   </a>
 
   <a href="#orgs">
-    <img src="https://github.com/user-attachments/assets/24dfba79-b12c-409f-b58f-73fdff192d1d" height="200" />
+    <img src="https://raw.githubusercontent.com/ginesthoii/ginesthoii/main/assets/jump-to-solo-led-orgs.png" height="200" />
   </a>
 </div>
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/acab5d1e-c4b0-4fac-8b52-3a3a7bb5580f" alt="Skills Left" width="75%" height="40%" style="border-radius:15px;"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/ocean.png" alt="Skills Left" width="75%" height="40%" style="border-radius:15px;"/>
 </p>
 
 ---
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/23ef6619-9793-4bb7-8bf3-109d25ac0a72" alt="Skills Left" width="100%" height="70%" style="border-radius:15px;"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/how-i-work.svg" alt="Skills Left" width="100%" height="70%" style="border-radius:15px;"/>
 </p>
 
 
@@ -47,7 +47,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5ebdfa36-579c-447d-89c6-1f2b18972fa7" alt="Image" height="500" width="2000"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/next-steps.png" alt="Image" height="500" width="2000"/>
 </p>
 
 <br> 
@@ -73,9 +73,9 @@
 
    <div align="center">
      
-# <img width="1000" height="369" alt="Image" src="https://github.com/user-attachments/assets/e9d97ce1-7d5f-4f91-85f8-4ef2cdbd7674" >
+# <img width="1000" height="369" alt="Image" src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/top.png" >
      
-# <img width="1000" height="369" alt="Image" src="https://github.com/user-attachments/assets/8513f418-152c-40fd-a4b0-783304e20df7"/>
+# <img width="1000" height="369" alt="Image" src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/bottom.jpg"/>
 
    </div>
 
@@ -101,7 +101,7 @@
  ---
  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/db1c7685-5388-4f91-925c-1067af645164" alt="Image" width="600" height="300" style="border-radius:15px;"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/certifications.png" alt="Image" width="600" height="300" style="border-radius:15px;"/>
 </p>
 
 </p>
@@ -111,13 +111,13 @@
   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/badge.png" 
        alt="Badge" align="top center" width="150"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/840752c2-3dc5-4b21-b943-38142bc961b1" 
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/multi-cultural-certificate-mizzou.webp" 
        alt="Badge" align="top center" width="150"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/9dc5ac8e-ec3f-42dd-8992-bbdca86c1073" 
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/oracle-cloud-tech-jumpstart.png" 
        alt="Badge" align="top center" width="150"/> 
 <br><br>
-  <img src="https://github.com/user-attachments/assets/132eb7c4-f74f-4e22-82f1-cb9004ab1ca5" 
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/oracle-foundation-associate-cloud-infra-ai-foundations-certified.jpg" 
        alt="Badge" align="top center" width="150"/> 
 </p>
 
