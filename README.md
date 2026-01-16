@@ -403,7 +403,7 @@
       <img src="https://github.com/user-attachments/assets/605c59f2-3668-46e5-bdd4-a81a0b18975f" width="210"/>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/c71d7380-55fa-443b-b3ec-43ca56fbe265" width="190"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/notflix.png" width="190"/>
     </td>
   </tr>
   <!-- Text Row -->
@@ -438,13 +438,13 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="36%">
-      <img src="https://github.com/user-attachments/assets/25da5075-680d-4bf3-9a98-515664377349" width="120"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/devgaze.png" width="120"/>
     </td>
     <td align="center" width="34%">
-      <img src="https://github.com/user-attachments/assets/f31a38f2-f5b0-4a41-b673-3b91bab50b13" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/build-a-board.jpg" width="150"/>
     </td>
     <td align="center" width="30%">
-      <img src="https://github.com/user-attachments/assets/3b156726-67f6-469c-a3ca-fa24d9bb6390" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/kanban.svg" width="150"/>
     </td>
   </tr>
   <!-- Text Row -->
@@ -488,19 +488,19 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <tr bgcolor="#f6f8fa">
     <!-- LEFT ICON -->
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/277693d5-17bc-4377-b61b-9920c07e3bc5" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/hypercalculia.png" width="150"/>
     </td>
     <!-- MIDDLE FULL IMAGE (spans both rows) -->
     <td align="center" width="34%" rowspan="2" style="padding:0;">
       <img
-        src="https://github.com/user-attachments/assets/bb1a1647-5019-4237-a083-bd008a2d7712"
+        src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/bp.png"
         width="80%"
         style="display:block;"
       />
     </td>
     <!-- RIGHT ICON -->
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/a1db4381-c920-4ef1-aebe-cd335f14f4ca" width="190"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/morph-calc.png" width="190"/>
     </td>
   </tr>
   <!-- Bottom Row -->
@@ -542,7 +542,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
       <img src="https://github.com/user-attachments/assets/51d6ff7a-34cf-4737-8cc8-8113dde8c1c1" width="150"/>
     </td>
      <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/34efa5c3-0e0b-4cf4-9a4c-4fb6ffce1b05" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/real-estate.jpg" width="150"/>
     </td>
     <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/ef8a4537-f409-4ba1-8b85-fd04431c2b35" width="150"/>
@@ -586,19 +586,19 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <tr bgcolor="#f6f8fa">
     <!-- Left icon -->
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/6706f143-0e07-411a-b3b7-a161e8aab610" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/muses.png" width="150"/>
     </td>
     <!-- Middle: spans BOTH rows (full card) -->
     <td align="center" width="33%" rowspan="2" style="padding:0;">
       <img
-        src="https://github.com/user-attachments/assets/48c83e40-533f-4981-99ae-eb612faba8c8"
+      src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/prompt.gif"
         width="100%"
         style="display:block;"
       />
     </td>
     <!-- Right icon -->
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/35f786d5-95df-4059-8ad9-8d8f811f7086" width="160"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/prompt-pal.png" width="160"/>
     </td>
   </tr>
   <!-- Bottom Row -->
@@ -623,10 +623,10 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/e2d18f38-6856-4800-a546-cb64a0e955f2" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/enyo.gif" width="150"/>
     </td>
  <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/1c248ab0-aacb-4334-8f34-3f74aff53796" width="190"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/bobby-duck.png" width="190"/>
     </td>
   </tr>
   <!-- Text Row -->
