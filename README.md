@@ -101,7 +101,7 @@
  ---
  
 <p align="center">
-  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/certifications.png" alt="Image" width="600" height="300" style="border-radius:15px;"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/certifications.png" alt="Image" width="530" height="270" style="border-radius:15px;"/>
 </p>
 
 </p>
@@ -133,7 +133,7 @@
 <p align="center" id="repos">
   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/projects.png"
        alt="Projects"
-       width="520"
+       width="550"
        style="border-radius:10px;" />
 </p>
  
