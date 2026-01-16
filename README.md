@@ -131,7 +131,7 @@
 <br><br>
 
 <p align="center" id="repos">
-  <img src="https://github.com/user-attachments/assets/19a4363c-fccd-459c-86a0-ffded139f326"
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/projects.png"
        alt="Projects"
        width="620"
        style="border-radius:10px;" />
@@ -147,7 +147,7 @@
       <img src="https://github.com/user-attachments/assets/cf46eeca-ed36-41cb-9287-5bf0caeabd26" width="140"/>
     </td>
     <td width="48%" align="center">
-      <img src="https://github.com/user-attachments/assets/d7da0bb3-1af3-4c86-843b-85b863a880a8" width="160"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/washu.webp" width="160"/>
     </td>
   </tr>
   <tr bgcolor="#f6f8fa">
@@ -182,7 +182,7 @@
   <!-- Icons Row -->
   <tr bgcolor="#f6f8fa">
     <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/2d7d4b0f-6946-49f2-8bd9-f2c0ab9829b9" width="200"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/scenario-engine.png" width="200"/>
     </td>
     <td width="50%" align="center">
       <img src="https://github.com/user-attachments/assets/5e160e6d-9998-4fb5-a2b0-dac785989407" width="140"/>
@@ -222,10 +222,10 @@
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/6385f01c-5331-4975-8d0c-d688754ef9aa" width="110"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/metadata-librarian.png" width="110"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/49886ad6-1c20-4350-935e-6b68d81f57c4" width="200"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/mini-metadata.gif" width="200"/>
     </td>
     <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/9cc8f73d-d174-4049-beb6-1f53fc24d490" width="150"/>
@@ -243,7 +243,7 @@
       <em>Status:</em> Active.
     </td>
     <td align="center"><br>
-      <a href="https://github.com/ginesthoii/mini-metadata"><strong>mini-metadata</strong></a><br><br>
+      <a href="https://github.com/ginesthoii/mini-metadata"><strong>mini-metadata</strong></a><br>
       Lightweight metadata utilities shared across projects.<br><br>
       <em>Tech:</em> Python, SQLite<br>
       <em>Status:</em> Active
