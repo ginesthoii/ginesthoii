@@ -106,22 +106,32 @@
 
 </p>
 <br>
-
-<p align="center"> 
-  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/badge.png" 
-       alt="Badge" align="top center" width="150"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/multi-cultural-certificate-mizzou.webp" 
-       alt="Badge" align="top center" width="150"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/oracle-cloud-tech-jumpstart.png" 
-       alt="Badge" align="top center" width="150"/> 
-<br><br>
-  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/oracle-foundation-associate-cloud-infra-ai-foundations-certified.jpg" 
-       alt="Badge" align="top center" width="150"/> 
-</p>
-
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ginesthoii/ginesthoii/main/badge.png"
+           alt="Badge"
+           width="140" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ginesthoii/ginesthoii/main/assets/multi-cultural-certificate-mizzou.webp"
+           alt="Mizzou Multicultural Certificate"
+           width="150" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ginesthoii/ginesthoii/main/assets/oracle-cloud-tech-jumpstart.png"
+           alt="Oracle Cloud Tech Jumpstart"
+           width="170" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/ginesthoii/ginesthoii/main/assets/oracle-foundation-associate-cloud-infra-ai-foundations-certified.jpg"
+           alt="Oracle Foundations Associate"
+           width="150" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
