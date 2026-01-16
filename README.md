@@ -1184,10 +1184,10 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/hook-and-ring.png" width="150"/>
     </td>
     <td align="center" width="30%">
-      <img src="https://github.com/user-attachments/assets/2919dfb3-b1ef-4be4-9b1e-51a0199e353a" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/csharpunity.jpg" width="150"/>
     </td>
     <td align="center" width="35%">
-      <img src="https://github.com/user-attachments/assets/579b7a3b-0b8f-4191-b200-0f9f78e4154c" width="110"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/thatwhattolkienabout.png" width="110"/>
     </td>
   </tr>
   <!-- Text -->
@@ -1222,10 +1222,10 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icons -->
   <tr bgcolor="#ffffff">
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/87110cc5-c4e0-46e4-8567-b3c9219edfe8" width="200"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/character-creator.gif" width="200"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/d1125054-5ebc-46da-af0e-d0d7d8a272e9" width="200"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/cyber-persona.gif" width="200"/>
     </td>
   </tr>
   <!-- Text -->
@@ -1267,10 +1267,14 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 <table>
   <!-- Icons -->
   <tr bgcolor="#f6f8fa">
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/d6fb7704-5186-4ccd-b541-b0e0033500bf" width="150"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/682a5323-e64b-447d-9688-9a2a3869b330" width="150"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/a5228f78-90a9-41d3-9315-b26df34dfe96" width="130"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/ac6a2250-8785-41f4-8f72-35fbe0d446f0" width="150"/></td>
+    <td align="center" width="25%"><img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/stretchstud-io.jpg" width="150"/>
+    </td>
+    <td align="center" width="25%"><img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/hunger-gains.png" width="150"/>
+    </td>
+    <td align="center" width="25%"><img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/stroke-of-genius.png" width="130"/>
+    </td>
+    <td align="center" width="25%"><img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/sweat-scripts.png" width="150"/>
+    </td>
   </tr>
   <!-- Text -->
   <tr bgcolor="#f6f8fa">
@@ -1295,16 +1299,16 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/62150da5-b87d-4c08-b361-f5e568d0f370" width="170"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/protein-plus.png" width="170"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/ebb270e0-59f5-449b-8fa3-8a680a247231" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/food-for-thought.jpg" width="150"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/9ac301e8-205e-4bed-9a85-5ac879be8d81" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/sourdough.png" width="150"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/9ec3b8ac-ae8e-4521-9f75-7936f7764f5b" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/culinarycodex.png" width="150"/>
     </td>
   </tr>
   <!-- Text Row -->
@@ -1341,7 +1345,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icons -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/111f949a-27a6-4c31-8183-e8c118168929" width="200"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/pillpal.png" width="200"/>
     </td>
     <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/af64bd67-a436-4b4c-b443-7c624f036c30" width="150"/>
@@ -1378,16 +1382,16 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/324a53a1-2ff7-4649-a710-af30e14370c8" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/automated-chicken-coop.png" width="150"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/08e823a9-714f-4cb4-9cf1-81d3873f1e96" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/chicken-auto-waterer.png" width="150"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/f94bcd01-4154-4c53-8269-f92ab862f1e0" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/incubator2.png" width="150"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/150dfa85-bfba-4cc0-a804-cf1b92935169" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/hen-manager.png" width="150"/>
     </td>
   </tr>
   <!-- Text Row -->
@@ -1422,16 +1426,16 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/4f0a3067-2396-4736-9355-e7c3a653661c" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/livestock-log.png" width="150"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/08915f90-a585-4b09-81bf-d513784a5069" width="190"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/livestock-locator.jpg" width="190"/>
     </td>
       <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/51bbcb2d-aeef-4973-97da-2bfe5ef66c31" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/guardian.png" width="150"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/b1db7120-0c33-4490-ab07-1689dad9a490" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/dog-logs.gif" width="150"/>
     </td>
   </tr>
   <!-- Text Row -->
@@ -1481,10 +1485,10 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/6484c161-b1c5-472f-b847-41310ff075d1" width="200"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/weather-oracle.gif" width="200"/>
     </td>
      <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/cd154f94-acbd-42d2-b29b-8c68c65149a4" width="250"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/green-machine.jpg" width="250"/>
     </td>
   </tr>
   <!-- Text Row -->
@@ -1510,13 +1514,13 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/41174008-35e7-4fbf-9a93-aae707e36d65" width="200"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/soil-guard.jpg" width="200"/>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/e4d0c82b-ca75-4707-a83d-4219b51fc29d" width="200"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/auto-drip-irrigation.png" width="200"/>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/315f5242-b44d-44f0-8e69-0a166e4544ea" width="140"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/automated-olives.png" width="140"/>
     </td>
   </tr>
   <!-- Text Row -->
@@ -1546,13 +1550,13 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/d8c70279-949b-48ce-99ac-8fc0d544eac8" width="200"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/simple-sensor.png" width="200"/>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/dc56e482-d1e0-4421-a21f-133eaf6f39dc" width="180"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/hydro-systems-lab.png" width="180"/>
     </td>
     <td align="center" width="34%">
-      <img src="https://github.com/user-attachments/assets/efd91556-57b2-4ef1-8a7b-3b8d5337ebe1" width="200"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/cistern-water-sensor.png" width="200"/>
     </td>
   </tr>
   <!-- Text Row -->
@@ -1582,11 +1586,11 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="100%">
-  <img src="https://github.com/user-attachments/assets/5cfa7cd4-b7c5-475b-8b86-da70c277e6ad" width="170"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/water1.jpg" width="170"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/25c7ceab-05f4-414b-bb4a-0801f54f3543" width="160"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/water2.jpg" width="160"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/774e1895-d9b0-4ccd-b8a5-3b9b92e0a8d6" width="170"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/water3.gif" width="170"/>
 </td>
   </tr>
   <!-- Text Row -->
@@ -1611,10 +1615,10 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icons -->
   <tr bgcolor="#ffffff">
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/ffeed1cf-1a1f-4e38-92a3-48c48dbe99c1" width="200"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/the-hive.png width="200"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/fdb1d717-c5be-4523-b252-2a15b329e0d8" width="200"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/hive-os.png" width="200"/>
     </td>
   </tr>
 
@@ -1644,13 +1648,13 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/4d73a95a-e5d8-48ec-951b-0891eec084b3" width="190"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/bsfl.png" width="190"/>
     </td>
     <td align="center" width="34%">
-      <img src="https://github.com/user-attachments/assets/334ed67c-f6b0-4b8e-ad26-5dd9947cbde2" width="190"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/mealworm.png" width="190"/>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/a8a049dd-507d-4cf4-9b67-3b4fb2f33d2e" width="190"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/compost.jpg" width="190"/>
     </td>
   </tr>
   <!-- Text Row -->
@@ -1683,11 +1687,11 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="100%">
-      <img align="center" src="https://github.com/user-attachments/assets/132e8f13-5a82-48d6-a5cc-c3096f70ae8d" width="160"/>
+      <img align="center" src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/fodder1.png" width="160"/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" src="https://github.com/user-attachments/assets/9b250099-0e82-4da2-9c20-b286682cd986" width="170"/>
+      <img align="center" src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/fodder2.jpg" width="170"/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" src="https://github.com/user-attachments/assets/f87575a8-cfc1-4375-b2f4-cfcf2ca480b6" width="170"/>
+      <img align="center" src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/fodder%203.jpg" width="170"/>
     </td>
   </tr>
   <!-- Text Row -->
@@ -1715,13 +1719,13 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
       <img src="https://github.com/user-attachments/assets/b17d7456-91fd-44f6-99e8-cb8bcea684b5" width="180"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/66e47517-95c5-4678-b036-72d2136c6af5" width="180"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/aquaponics.jpg" width="180"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/983322b0-f472-406b-a396-19aec25d9f95" width="200"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/hydroponics.jpg" width="200"/>
     </td>
     <td align="center" width="360" style="padding-top:12px;">
-      <img src="https://github.com/user-attachments/assets/b4fbd02e-c23c-4fe7-aced-76692762db47" width="180"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/bog-filter.png" width="180"/>
     </td>
   </tr>
   <!-- TEXT-->
@@ -1754,9 +1758,9 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- ICON -->
   <tr bgcolor="#ffffff">
     <td align="center" colspan="4">
-                  <img src="https://github.com/user-attachments/assets/0cc162a2-38bd-468f-9ef9-cf14639b0164" width="300"/>
-                  <img src="https://github.com/user-attachments/assets/afe991fa-21b3-4b1e-8eb4-e9faeec90d37" width="300"/>
-                  <img src="https://github.com/user-attachments/assets/ca73b21b-2340-412f-80c9-dda8595f8d2a" width="300"/>
+                  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/dome1.gif" width="300"/>
+                  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/dome2.gif" width="300"/>
+                  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/dome3.gif" width="300"/>
     </td>
   </tr>
   <!-- TEXT -->
