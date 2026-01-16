@@ -5,6 +5,7 @@
 
 <br>
 
+
 <p align="center">
   <a href="https://ginesthoii.github.io/oliviagriffin.pro/">
     <img src="https://img.shields.io/badge/Portfolio-Website-739f84?style=for-the-badge&labelColor=a86a8f&color=a86a8f&logoColor=white" height="200">
@@ -28,7 +29,6 @@
     <img src="https://raw.githubusercontent.com/ginesthoii/ginesthoii/main/assets/jump-to-solo-led-orgs.png" height="200" />
   </a>
 </div>
-
 
 <p align="center">
   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/ocean.png" alt="Skills Left" width="75%" height="40%" style="border-radius:15px;"/>
