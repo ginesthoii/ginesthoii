@@ -1767,10 +1767,10 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <tr bgcolor="#ffffff">
     <td align="center" colspan="4">
       <a href="https://github.com/ginesthoii/geodesic-dome-designs"><strong>geodesic-dome-designs</strong></a><br>
-      Geodesic dome plans + calculators — DIY greenhouse/shelter designs, cut lists, and build notes.<br>
+      Geodesic dome plans + calculators — DIY greenhouse/shelter designs, cut lists, and build notes.<br><br>
       <em>Tech:</em> Markdown, Diagrams, CAD (optional), Python (optional).<br>
-      <em>Status:</em> Active.
-    </td>
+      <em>Status:</em> Active.<br>
+    </td><br>
   </tr>
 </table>
 
@@ -1788,13 +1788,13 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   </tr>
   <!-- Text -->
   <tr bgcolor="#ffffff">
-    <td align="center"><a href="https://github.com/ginesthoii/MythicalMenagerie"><strong>MythicalMenagerie</strong><br></a><br>Digital bestiary for global myth creatures. Digital bestiary for mythological creatures. Explore legendary beings from global mythologies. Search, learn, and even create mash-ups of monsters with our interactive generator. Creative compendium + generator with maps and comparisons.<br>
+    <td align="center"><a href="https://github.com/ginesthoii/MythicalMenagerie"><strong>MythicalMenagerie</strong><br></a><br>Digital bestiary for global myth creatures. Digital bestiary for mythological creatures. Explore legendary beings from global mythologies. Search, learn, and even create mash-ups of monsters with our interactive generator. Creative compendium + generator with maps and comparisons.<br><br>
       <em>Tech:</em> JavaScript, JSON, HTML/CSS.<br>
       <em>Status:</em> Active.</td><br>
     <td align="center"><a href="https://github.com/ginesthoii/compiled-bestiary"><strong>compiled-bestiary</strong><br></a><br>A structured, searchable, compiled bestiary of beasts, monsters, cryptids, and other horrors that transforms creature entries into a reusable dataset with tags, habitats, behaviors, and exportable field-guide pages.
-Entries may originate from medieval bestiaries, folklore, cryptozoology, or modern accounts; all are normalized into a consistent schema with sources and contextual analysis.<br>
+Entries may originate from medieval bestiaries, folklore, cryptozoology, or modern accounts; all are normalized into a consistent schema with sources and contextual analysis.<br><br>
       <em>Tech:</em> Python, PyQt6, SQLite, CSV/XLSX <br>
-      <em>Status:</em> Active.</td>
+      <em>Status:</em> Active.</td><br><br>
   </tr>
 </table>
 
@@ -1960,7 +1960,7 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
 <br><br>
 
 <p align="center">
-  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/mini-projects.png" alt="Image" width="60%" height="10%" style="border-radius:15px;"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/mini-projects.png" alt="Image" width=50%" height="10%" style="border-radius:15px;"/>
 </p>
 
 <table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:8px;">
