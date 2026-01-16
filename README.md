@@ -1765,7 +1765,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   </tr>
   <!-- ICON -->
   <tr bgcolor="#ffffff">
-    <td align="center" colspan="4">
+    <td align="center" colspan="4"><br>
                   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/dome1.gif" width="200"/>
                   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/dome2.gif" width="200"/>
                   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/dome3.gif" width="200"/>
@@ -1773,10 +1773,11 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   </tr>
   <!-- TEXT -->
   <tr bgcolor="#ffffff">
-    <td align="center" colspan="4">
+    <td align="center" colspan="4"><br>
       <a href="https://github.com/ginesthoii/geodesic-dome-designs"><strong>geodesic-dome-designs</strong></a><br>
-      Geodesic dome plans + calculators — DIY greenhouse/shelter designs, cut lists, and build notes.<br><br>
-      <em>Tech:</em> Markdown, Diagrams, CAD (optional), Python (optional).<br>
+      Geodesic dome plans + calculators — generate strut cut lists for any dome size, estimate total material + cover area, and build DIY greenhouse/shelter domes from documented designs.
+<br><br>
+      <em>Tech:</em> Python (calculator + exports) • CAD/SVG diagrams • Markdown docs • JSON templates <br>
       <em>Status:</em> Active.<br>
     </td><br>
   </tr>
