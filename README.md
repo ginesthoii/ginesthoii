@@ -133,7 +133,7 @@
 <p align="center" id="repos">
   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/projects.png"
        alt="Projects"
-       width="620"
+       width="520"
        style="border-radius:10px;" />
 </p>
  
@@ -1758,9 +1758,9 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- ICON -->
   <tr bgcolor="#ffffff">
     <td align="center" colspan="4">
-                  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/dome1.gif" width="300"/>
-                  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/dome2.gif" width="300"/>
-                  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/dome3.gif" width="300"/>
+                  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/dome1.gif" width="200"/>
+                  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/dome2.gif" width="200"/>
+                  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/dome3.gif" width="200"/>
     </td>
   </tr>
   <!-- TEXT -->
