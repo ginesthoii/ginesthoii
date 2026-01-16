@@ -274,11 +274,11 @@
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
       <td align="center" width="27%">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/tree-me.jpg" width="90"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/tree-me.jpg" width="105"/>
         <br><br>
     </td>
-    <td align="center" width="46%">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/framework.jpg" width="210"/>
+    <td align="center" width="46%"><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/framework.jpg" width="230"/>
       <br><br>
     </td>
     <td align="center" width="27%">
@@ -495,7 +495,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Top Row -->
   <tr bgcolor="#f6f8fa">
     <!-- LEFT ICON -->
-    <td align="center" width="33%">
+    <td align="center" width="33%"><br>
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/hypercalculia.png" width="150"/>
     </td>
     <!-- MIDDLE FULL IMAGE (spans both rows) -->
