@@ -1809,10 +1809,10 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
 <table>
   <!-- Icons -->
   <tr bgcolor="#ffffff">
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/4894ccc9-4f36-4175-b119-24e09fc368c0" width="190"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/b26342bf-737a-4c03-9e7b-b11fb3a21d80" width="190"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/66e716db-7f84-480b-8d22-52a6397fa9cd" width="180"/></td>
-      <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/4983251a-c426-4e73-bd2d-67de66c84108" width="170"/></td>
+    <td align="center" width="25%"><img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/project-management-spreadsheet.jpg" width="190"/></td>
+    <td align="center" width="25%"><img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/inventory-spreadsheet.png" width="190"/></td>
+    <td align="center" width="25%"><img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/life-tracking-spreadsheet.gif" width="180"/></td>
+      <td align="center" width="25%"><img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/time-management-sheet.png" width="170"/></td>
   </tr>  
   <!-- Text -->
   <tr bgcolor="#ffffff">
@@ -1845,10 +1845,10 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
 <table>
   <!-- Icons -->
   <tr bgcolor="#ffffff">
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/f1f36820-cd91-4038-a860-d352d9d62070" width="170"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/6d32c263-6ee0-414c-8fe7-c04673bad711" width="160"/></td>
-    <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/3eb4ae86-b1eb-49d8-98af-c9e0acb7b0ab" width="200"/></td>
-      <td align="center" width="25%"><img src="https://github.com/user-attachments/assets/0daceb34-15e3-4089-b443-75264e32e1dd" width="160"/></td>
+    <td align="center" width="25%"><img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/finance-ops-sheets.jpg" width="170"/></td>
+    <td align="center" width="25%"><img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/sales-ops-sheet.gif" width="160"/></td>
+    <td align="center" width="25%"><img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/small-business-sheet.gif" width="200"/></td>
+      <td align="center" width="25%"><img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/dashboards-spreadsheet.gif" width="160"/></td>
   </tr>
   <!-- Text -->
   <tr bgcolor="#ffffff">
@@ -1882,8 +1882,8 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
 <table>
   <!-- Icons -->
   <tr bgcolor="#ffffff">
-    <td align="center" width="50%"><img src="https://github.com/user-attachments/assets/921b757a-5387-40d8-9d55-5d02d8127c76" width="150"/></td>
-    <td align="center" width="50%"><img src="https://github.com/user-attachments/assets/b504536a-e0f5-4cf9-971f-9e2083fabfe0" width="150"/></td>
+    <td align="center" width="50%"><img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/sheet-logic-library.jpg" width="150"/></td>
+    <td align="center" width="50%"><img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/secure-sheets.webp" width="150"/></td>
   </tr>
   <!-- Text -->
   <tr bgcolor="#ffffff">
