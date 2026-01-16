@@ -228,10 +228,10 @@
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/mini-metadata.gif" width="200"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/9cc8f73d-d174-4049-beb6-1f53fc24d490" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/smart-tag.png" width="150"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/172f3701-00a2-4e04-85cf-c9cab19d974c" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/catalog.jpg" width="150"/>
     </td>
   </tr>
   <!-- Text Row -->
@@ -266,7 +266,7 @@
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
       <td align="center" width="27%">
-      <img src="https://github.com/user-attachments/assets/bff0310f-4c71-4e3f-b880-13306413ac59" width="90"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/tree-me.jpg" width="90"/>
         <br><br>
     </td>
     <td align="center" width="46%">
@@ -274,7 +274,7 @@
       <br><br>
     </td>
     <td align="center" width="27%">
-      <img src="https://github.com/user-attachments/assets/6ef3ea80-6e1b-410c-906c-7ce7cc358d87" width="90"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/storyteller.png" width="90"/>
       <br><br>
     </td>
   </tr>
@@ -315,13 +315,13 @@
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/55acb3b2-87bc-4230-a391-c70ee17c007f" width="100"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/1.png" width="100"/>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/3ef78176-daa9-4e9d-893a-4c07db4a2829" width="100"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/2.png" width="100"/>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/0d248a46-109e-4874-bf8c-10afffc85326" width="100"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/3.jpg" width="100"/>
     </td>
   </tr>
   <!-- Text Row -->
@@ -359,10 +359,10 @@
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="60%">
-      <img src="https://github.com/user-attachments/assets/4c2c498d-f89a-45ad-a63f-47437929c0f5" width="290"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/4.jpg" width="290"/>
     </td>
     <td align="center" width="40%">
-      <img src="https://github.com/user-attachments/assets/1d6d6493-1261-47b5-9b07-a1aa6dc1e08a" width="120"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/5.png" width="120"/>
     </td>
   </tr>
   <!-- Text Row -->
