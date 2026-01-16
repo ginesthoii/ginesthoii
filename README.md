@@ -739,11 +739,11 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="100%">
-      <img src="https://github.com/user-attachments/assets/12c208a0-def2-4105-82f8-7f6e0427a212" width="170"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/navigation.gif" width="170"/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://github.com/user-attachments/assets/2852185f-6fe9-4607-9c99-5bf114f95362" width="120"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/offline-maps.png" width="120"/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://github.com/user-attachments/assets/e130ef4b-acbc-494f-90b7-a34df4b99939" width="190"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/red-map.jpg" width="190"/>
     </td>
   </tr>
   <!-- Text Row -->
@@ -773,10 +773,10 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icons -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/62b2ba28-5153-4fc9-bddf-c46935cbdc7e" width="200"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/morse-code-master.jpg" width="200"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/0f4dcf6c-9aa2-4bc4-84ec-868f0d9a58ee" width="200"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/morse-code-mentor.gif" width="200"/>
     </td>
   </tr>
   <!-- Text -->
@@ -812,7 +812,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
       <img src="https://github.com/user-attachments/assets/165dd4b1-4c46-4605-a7f3-4d46f68ac803" width="150"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/658b3d9a-f8d5-445a-b893-bf606da052ad" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/pvc.jpg" width="150"/>
     </td>
   </tr>
   <!-- Text -->
@@ -846,7 +846,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
       <img src="https://github.com/user-attachments/assets/c927ecf8-a22b-486c-a879-291787470b58" width="150"/>
     </td>
     <td align="center" width="40%">
-      <img src="https://github.com/user-attachments/assets/51e34a17-e5ce-4fb5-b424-37d6496ab12b" width="270"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/digital-loom.webp" width="270"/>
     </td>
     <td align="center" width="30%">
       <img src="https://github.com/user-attachments/assets/9a3e41f7-7f5c-49bf-bda9-7302c43c7879" width="130"/>
@@ -886,10 +886,10 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/08cc7431-2dcc-4d73-90aa-1c73524aba7c" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/smart-display-frame.png" width="150"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/4bc3188f-158d-4d09-a56a-7bac581b2cdd" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/thermal-imaging-camera.png" width="150"/>
     </td>
   </tr>
   <!-- Text Row -->
