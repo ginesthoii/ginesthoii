@@ -536,16 +536,16 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/2d2add16-1e8e-4a97-999d-b2eee32e8716" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/search-review-scraper.jpg" width="150"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/51d6ff7a-34cf-4737-8cc8-8113dde8c1c1" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/search-review-tracker.jpg" width="150"/>
     </td>
      <td align="center" width="25%">
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/real-estate.jpg" width="150"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/ef8a4537-f409-4ba1-8b85-fd04431c2b35" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/scraper-sql-xslx.jpg" width="150"/>
     </td>
   <!-- Text Row -->
   <tr bgcolor="#f6f8fa">
@@ -698,13 +698,13 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icons Row -->
   <tr bgcolor="#f6f8fa">
     <td width="33%" align="center">
-      <img src="https://github.com/user-attachments/assets/6bf65244-6ec8-47f7-b22a-dbf230ca6bc7" width="120"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/offline-translator.jpg" width="120"/>
     </td>
     <td width="33%" align="center">
-      <img src="https://github.com/user-attachments/assets/17a73309-1719-484e-bbcc-b791e1c0a8ed" width="330"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/backtalk.webp" width="330"/>
     </td>
     <td width="33%" align="center">
-      <img src="https://github.com/user-attachments/assets/7121fb1e-27af-4fbc-aa60-3f6f39abffd9" width="170"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/asl.png" width="170"/>
     </td>
   </tr>
   <!-- Text Row -->
