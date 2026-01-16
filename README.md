@@ -2421,7 +2421,7 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
   <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/waterworks.gif width="160" alt="the-waterworks badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/waterworks.gif" width="160" alt="the-waterworks badge"><br><br>
       <a href="https://github.com/the-waterworks" style="text-decoration:none;">
         <strong>the-waterworks</strong><br><br>
       </a>
