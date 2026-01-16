@@ -408,7 +408,7 @@
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/phantom-terminal.gif" width="150"/>
     </td>
       <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/605c59f2-3668-46e5-bdd4-a81a0b18975f" width="210"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/license.jpg" width="210"/>
     </td>
     <td align="center" width="33%">
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/notflix.png" width="190"/>
