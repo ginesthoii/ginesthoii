@@ -1716,16 +1716,16 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- ICONS -->
   <tr bgcolor="#ffffff">
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/b17d7456-91fd-44f6-99e8-cb8bcea684b5" width="180"/>
-    </td>
-    <td align="center" width="25%">
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/aquaponics.jpg" width="180"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/hydroponics.jpg" width="200"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/hydroponics.jpg" width="180"/>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/bog-filter.png" width="200"/>
     </td>
     <td align="center" width="360" style="padding-top:12px;">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/bog-filter.png" width="180"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/seedling-starter.jpg" width="180"/>
     </td>
   </tr>
   <!-- TEXT-->
@@ -1784,7 +1784,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icons -->
   <tr bgcolor="#ffffff">
     <td align="center" width="50%"><img src="https://github.com/user-attachments/assets/f20d13dd-7c84-4388-8c51-bfba42ebdaf3" width="150"/></td>
-    <td align="center" width="50%"><img src="https://github.com/user-attachments/assets/d2b2a295-5a60-4d76-af1d-c4692d69bc9c" width="250"/></td>
+    <td align="center" width="50%"><img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/bestiary.jpg" width="250"/></td>
   </tr>
   <!-- Text -->
   <tr bgcolor="#ffffff">
@@ -1913,13 +1913,13 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/5cca93d1-60b7-4193-af90-0abfbb9bc47a" width="120"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/php.png" width="120"/>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/069e3d8c-de64-4013-9087-c48c118e8741" width="120"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/java.jpg" width="120"/>
     </td>
     <td align="center" width="34%">
-      <img src="https://github.com/user-attachments/assets/7d40450e-955e-483b-997f-47ef023e697a" width="120"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/c.webp" width="120"/>
     </td>
   </tr>
   <!-- Text Row -->
@@ -1960,7 +1960,7 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
 <br><br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8ea417a5-9caa-4bc5-a479-101b763b385e" alt="Image" width="60%" height="10%" style="border-radius:15px;"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/mini-projects.png" alt="Image" width="60%" height="10%" style="border-radius:15px;"/>
 </p>
 
 <table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:8px;">
@@ -1972,7 +1972,7 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
     <p align="center"><em>Self-contained front-end apps. Run directly in the browser with <code>index.html</code>.</em></p>
     <!-- Inserted Image -->
     <div align="center">
-      <img width="904" height="28" alt="Image" src="https://github.com/user-attachments/assets/03ee561f-4934-4ae5-a1b7-92dcee6ef825" />
+      <img width="904" height="28" alt="Image" src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/js-html-css.png" />
     </div>
    <ul>
   <li><strong>TextToSpeech/</strong> — Convert text to speech with pitch, speed, volume, and voice controls (Web Speech API).</li>
@@ -1999,7 +1999,7 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
   <p align="center"><em>Self-contained Python scripts. Run from terminal with one command.</em></p>
   <!-- Inserted Image -->
   <div align="center">
-    <img width="904" height="21" alt="Python Projects" src="https://github.com/user-attachments/assets/c683de25-61b9-42c1-a717-97f919ade98a" />
+    <img width="904" height="21" alt="Python Projects" src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/python.png" />
   </div>
 
   <ul>
@@ -2040,7 +2040,7 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
 ---
 
 <p align="center" id="orgs">
-  <img src="https://github.com/user-attachments/assets/3c3fe3af-3d7b-46c3-8689-9fafe1a12c60"
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/organizations.png"
        alt="Orgs"
        width="65%"
        style="border-radius:15px;" />
@@ -2064,13 +2064,13 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
   <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/4afa1504-05e6-46ea-b19c-fa3305fbb52c" width="180" alt="Room-Reader badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/room-reader.png" width="180" alt="Room-Reader badge"><br><br>
       <a href="https://github.com/room-reader" style="text-decoration:none;">
         <strong>room-reader</strong><br><br>
       </a>
     </td>
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/1f3b83a8-cc29-4fb5-86b0-c99205804b8c" width="130" alt="CaregiverQR badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/caregiver-qr.png" width="130" alt="CaregiverQR badge"><br><br>
       <a href="https://github.com/CaregiverQR" style="text-decoration:none;">
         <strong>CaregiverQR</strong><br><br>
       </a>
@@ -2113,13 +2113,13 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
   <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/d308526e-d8fb-4036-931a-91f57ed3a09a" width="160" alt="LORIE badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/LORIE.gif" width="160" alt="LORIE badge"><br><br>
       <a href="https://github.com/lorie-ai" style="text-decoration:none;">
         <strong>lorie-ai</strong><br><br>
       </a>
     </td>
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/5503e622-7245-43be-b078-d31f38d54e7e" width="120" alt="ares-assist badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/ares.png" width="120" alt="ares-assist badge"><br><br>
       <a href="https://github.com/ares-assist" style="text-decoration:none;">
         <strong>ares-assist</strong><br><br>
       </a>
@@ -2165,13 +2165,13 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
   <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/567365d0-24b7-4fe8-bb60-7c103e89b6cf" width="200" alt="StoryShield badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/storyshield.png" width="200" alt="StoryShield badge"><br><br>
       <a href="https://github.com/StoryShield" style="text-decoration:none;">
         <strong>StoryShield</strong><br><br>
       </a>
     </td>
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/23ae9e72-5ee3-4fe7-9eb4-39f537df1a02" width="130" alt="GargoyleOffGrid badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/gargoyle.png" width="130" alt="GargoyleOffGrid badge"><br><br>
       <a href="https://github.com/GargoyleOffGrid" style="text-decoration:none;">
         <strong>GargoyleOffGrid</strong><br><br>
       </a>
@@ -2219,13 +2219,13 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
   <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/d9adc711-0739-40f5-adb6-4b06c63c0c8e" width="150" alt="PhantomScanner badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/phantom-scanner.png" width="150" alt="PhantomScanner badge"><br><br>
       <a href="https://github.com/PhantomScanner" style="text-decoration:none;">
         <strong>PhantomScanner</strong><br><br>
       </a>
     </td>
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/65999d50-c8f5-43e4-815b-2a1b4de8d87c" width="150" alt="CloakAndCipher badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/cloak-and-cipher.png" width="150" alt="CloakAndCipher badge"><br><br>
       <a href="https://github.com/CloakAndCipher" style="text-decoration:none;">
         <strong>CloakAndCipher</strong><br><br>
       </a>
@@ -2269,13 +2269,13 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
   <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/6dab0e0f-4b93-42b7-bbf3-17db6594352b" width="190" alt="aFungusAmongUs badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/a-fungus-among-us.jpg" width="190" alt="aFungusAmongUs badge"><br><br>
       <a href="https://github.com/aFungusAmongUs" style="text-decoration:none;">
         <strong>aFungusAmongUs</strong><br><br>
       </a>
     </td>
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/d99c989a-ed70-4955-81ee-53f959f7824f" width="130" alt="WickedBotany badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/wicked-botany.png" width="130" alt="WickedBotany badge"><br><br>
       <a href="https://github.com/WickedBotany" style="text-decoration:none;">
         <strong>WickedBotany</strong><br><br>
       </a>
@@ -2377,7 +2377,7 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
       </a>
     </td>
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/0e82128a-dd4d-4e0d-9669-782d1f5f9c76" width="130" alt="SeasonalSidekick badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/seasonal-sidekick.png" width="130" alt="SeasonalSidekick badge"><br><br>
       <a href="https://github.com/SeasonalSidekick" style="text-decoration:none;">
         <strong>SeasonalSidekick</strong><br><br>
       </a>
@@ -2421,13 +2421,13 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
   <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/069447c6-ade4-459d-8750-322bae837a0d" width="160" alt="the-waterworks badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/waterworks.gif width="160" alt="the-waterworks badge"><br><br>
       <a href="https://github.com/the-waterworks" style="text-decoration:none;">
         <strong>the-waterworks</strong><br><br>
       </a>
     </td>
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/551e3139-d947-4dbb-b125-f565170d93ad" width="150" alt="AlexandriaArchiveAPI badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/alexandria-public-library.png" width="150" alt="AlexandriaArchiveAPI badge"><br><br>
       <a href="https://github.com/AlexandriaArchiveAPI" style="text-decoration:none;">
         <strong>AlexandriaArchiveAPI</strong><br><br>
       </a>
@@ -2468,13 +2468,13 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
   <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/e0a8c24a-ef4d-4e3e-8747-683ac55af5a7" width="150" alt="Olivision badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/olivision.gif" width="150" alt="Olivision badge"><br><br>
       <a href="https://github.com/Olivision" style="text-decoration:none;">
         <strong>Olivision</strong><br><br>
       </a>
     </td>
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/8d7e92d3-00d3-457a-a2b4-a0b8903772fe" width="140" alt="TheRestOfUsGame badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/the-rest-of-us.png" width="140" alt="TheRestOfUsGame badge"><br><br>
       <a href="https://github.com/TheRestOfUsGame" style="text-decoration:none;">
         <strong>TheRestOfUs</strong><br><br>
       </a>
