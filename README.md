@@ -185,7 +185,7 @@
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/scenario-engine.png" width="200"/>
     </td>
     <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/5e160e6d-9998-4fb5-a2b0-dac785989407" width="140"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/mini-massive.png" width="140"/>
     </td>
   </tr>
   <!-- Text Row -->
@@ -270,7 +270,7 @@
         <br><br>
     </td>
     <td align="center" width="46%">
-      <img src="https://github.com/user-attachments/assets/bad61a3d-5d4c-4b9f-94cd-1e7dae4a9799" width="210"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/framework.jpg" width="210"/>
       <br><br>
     </td>
     <td align="center" width="27%">
@@ -589,7 +589,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/muses.png" width="150"/>
     </td>
     <!-- Middle: spans BOTH rows (full card) -->
-    <td align="center" width="33%" rowspan="2" style="padding:0;">
+    <td align="center" width="34%" rowspan="2" style="padding:0;">
       <img
       src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/prompt.gif"
         width="100%"
@@ -2880,5 +2880,5 @@ Tracking online courses I’m working through to build skills in security, web d
 <br><br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0e2064fd-0a31-459c-aa8e-1d359f22bcfd" alt="Banner" width="100%" height="50%" style="border-radius:15px;"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/me-laptop-dogs.png" alt="Banner" width="100%" height="50%" style="border-radius:15px;"/>
 </p>
