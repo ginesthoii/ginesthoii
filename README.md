@@ -118,8 +118,6 @@
            alt="Mizzou Multicultural Certificate"
            width="150" />
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/ginesthoii/ginesthoii/main/assets/oracle-cloud-tech-jumpstart.png"
            alt="Oracle Cloud Tech Jumpstart"
