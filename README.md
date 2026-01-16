@@ -915,16 +915,16 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/ff357a9b-60b6-4a8b-8a74-65b17a4e5f88" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/gvpl.png" width="150"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/02e0692f-a398-42fc-a6cf-4d3f9454c0ff" width="190"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/axe.png" width="190"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/2106a838-51a6-4f75-aaee-be65c8922560" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/greenhouse.png" width="150"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/b606ab22-efb4-4fa1-b57b-939eb1f589f0" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/kiln.png" width="150"/>
     </td>
   </tr>
   <!-- Text Row -->
@@ -966,16 +966,16 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/ca8fbefe-f256-4380-8f43-8861f0d25f91" width="190"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/rotary-drum-dog-dispenser.png" width="190"/>
     </td> 
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/4d62c45c-7f39-4e3f-8803-64625401d497" width="120"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/iot-pet-food-dispenser.png" width="120"/>
     </td> 
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/8daa5502-4582-40e0-ba58-6e034551d7e3" width="190"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/hutch.png" width="190"/>
     </td> 
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/4e103b6f-f7c0-49b9-be77-65460e199986" width="190"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/chicken-coops.png" width="190"/>
     </td>
   </tr>
   <!-- Text Row -->
@@ -1012,16 +1012,16 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/d6c2fcc4-86f2-4f1e-a30e-2bf9f8ec61ec" width="240"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/rolling-coop-sifter.png" width="240"/>
     </td>   
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/e941b7bc-eaba-4ffa-b068-b31a0f456bf5"" width="110"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/diy-incubator.png" width="110"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/73b91e78-5239-452a-a645-cc68c5d7df8b" width="350"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/incubator-actuator.png" width="350"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/2af3526f-5af9-47ba-bd74-2bb6841f8924" width="110"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/diy-brooder.png" width="110"/>
     </td>
   </tr>
   <!-- Text Row -->
