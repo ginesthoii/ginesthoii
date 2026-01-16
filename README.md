@@ -657,13 +657,13 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/c77fa307-8855-4615-adee-3bd8397f6290" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/paper-witch.png" width="150"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/32874c81-219a-4c37-a7f7-f3db8d5a0f94" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/pdf-engine.jpg" width="150"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/6c1345bf-6a95-4c03-9631-f12e20c6ae90" width="190"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/smart-downloader.gif" width="190"/>
     </td>
   </tr>
   <!-- Text Row -->
