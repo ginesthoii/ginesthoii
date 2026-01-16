@@ -1615,7 +1615,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icons -->
   <tr bgcolor="#ffffff">
     <td align="center" width="50%">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/the-hive.png width="200"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/the-hive.png" width="200"/>
     </td>
     <td align="center" width="50%">
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/hive-os.png" width="200"/>
@@ -2371,7 +2371,7 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
   <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/ea077617-3135-42c8-b3aa-4bd49731daea" width="130" alt="hypercalculia badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/hyper.jpg" width="130" alt="hypercalculia badge"><br><br>
       <a href="https://github.com/hypercalculia" style="text-decoration:none;">
         <strong>hypercalculia</strong><br><br>
       </a>
@@ -2517,13 +2517,13 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
   <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/c736259f-7dbb-4049-8068-564f97d7a3a4" width="170" alt="mini-farm-animals badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/farm-animals.gif" width="170" alt="mini-farm-animals badge"><br><br>
       <a href="https://github.com/mini-farm-animals" style="text-decoration:none;">
         <strong>mini-farm-animals</strong><br><br>
       </a>
     </td>
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/9764849c-de7b-4e84-98cd-20b62e05641c" width="170" alt="mini-farm-plants badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/plants-org.gif" width="170" alt="mini-farm-plants badge"><br><br>
       <a href="https://github.com/mini-farm-plants" style="text-decoration:none;">
         <strong>mini-farm-plants</strong><br><br>
       </a>
@@ -2566,13 +2566,13 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
   <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/5cf7c43e-e6e3-423e-8c2e-5d797e94af67" width="170" alt="self-sufficient-homestead badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/sustain.gif" width="170" alt="self-sufficient-homestead badge"><br><br>
       <a href="https://github.com/self-sufficient-homestead" style="text-decoration:none;">
         <strong>self-sufficient-homestead</strong><br><br>
       </a>
     </td>
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/ad277e98-eaf9-4002-9c62-52e30c867e7c" width="170" alt="small-land-management badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/small-land.gif" width="170" alt="small-land-management badge"><br><br>
       <a href="https://github.com/small-land-management" style="text-decoration:none;">
         <strong>small-land-management</strong><br><br>
       </a>
@@ -2618,13 +2618,13 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
   <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td align="center"><br>
-      <img src="https://github.com/user-attachments/assets/d1bdb5a9-565e-4e15-abe7-fca8c09f5e22" width="150" alt="SelfTaughtSandbox badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/sandbox.png" width="150" alt="SelfTaughtSandbox badge"><br><br>
       <a href="https://github.com/SelfTaughtSandbox" style="text-decoration:none;">
         <strong>SelfTaughtSandbox</strong><br><br>
       </a>
     </td>
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/b58acace-b30e-47c7-8975-f4202af1a960" width="250" alt="character-creator"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/character-creator.jpg" width="250" alt="character-creator"><br><br>
       <a href="https://github.com/character-creator" style="text-decoration:none;">
         <strong>character-creator</strong><br><br>
       </a>
@@ -2657,7 +2657,7 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/07371edf-95a2-4e28-9896-b506896409b2" alt="Image" width="75%" height="30%" style="border-radius:15px;"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/courses.png" alt="Image" width="75%" height="30%" style="border-radius:15px;"/>
 </p>
    
 ---
@@ -2668,7 +2668,7 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
 <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7800b24b-5386-47f1-ba39-f3eac500fafe" alt="Image" width="35%" height="20%" style="border-radius:15px;"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/washu-red.png" alt="Image" width="35%" height="20%" style="border-radius:15px;"/>
 </p>
 
 
