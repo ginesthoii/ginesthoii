@@ -1071,10 +1071,10 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/c908df28-f8ec-462a-bab1-379a72d16e6c" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/tool.png" width="150"/>
     </td>
      <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/a00b841d-997b-4402-85d0-746101860883" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/seed-ledger.png" width="150"/>
     </td>
   </tr>
   <!-- Text Row -->
@@ -1111,7 +1111,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
       <img src="https://github.com/user-attachments/assets/905ead19-3392-4fe8-bbb6-8904cef3ae3b" width="250"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/f4204621-88cd-45d2-801d-1c0706bd0ce8" width="250"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/cut-coach.png" width="250"/>
     </td>
   </tr>
   <!-- Text -->
@@ -1181,7 +1181,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icons -->
   <tr bgcolor="#ffffff">
     <td align="center" width="35%">
-      <img src="https://github.com/user-attachments/assets/ac8ebf15-9504-4924-96f6-93e0c48ebecb" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/hook-and-ring.png" width="150"/>
     </td>
     <td align="center" width="30%">
       <img src="https://github.com/user-attachments/assets/2919dfb3-b1ef-4be4-9b1e-51a0199e353a" width="150"/>
