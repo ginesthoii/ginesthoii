@@ -405,7 +405,7 @@
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/6507b04c-5fc5-4ebe-8086-b1d00255ca0a" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/phantom-terminal.gif" width="150"/>
     </td>
       <td align="center" width="33%">
       <img src="https://github.com/user-attachments/assets/605c59f2-3668-46e5-bdd4-a81a0b18975f" width="210"/>
