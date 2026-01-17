@@ -248,10 +248,10 @@
       <a href="https://github.com/ginesthoii/metadata_librarian"><strong>metadata-librarian</strong></a><br><br>
       Local-first archival and metadata extraction system for documents, media, and images.<br><br>
       <em>Tech:</em> Python, YAML, OCR, SQLite<br>
-      <em>Status:</em> Active.
-    </td>
+      <em>Status:</em> Active.><br>
+    </td>><br>><br>
     <td align="center"><br>
-      <a href="https://github.com/ginesthoii/mini-metadata"><strong>mini-metadata</strong></a><br>
+      <a href="https://github.com/ginesthoii/mini-metadata"><strong>mini-metadata</strong></a><br><br>
       Lightweight metadata utilities shared across projects.<br><br>
       <em>Tech:</em> Python, SQLite<br>
       <em>Status:</em> Active
