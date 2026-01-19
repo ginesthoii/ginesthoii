@@ -58,7 +58,7 @@
 <br> 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/97efb6b8-5976-416c-a3c9-3cbee9b89f8e" alt="GIF" height="320" width="320"/>
+  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/blue-laptop.gif" alt="GIF" height="320" width="320"/>
 </p>
 
 <br> 
@@ -152,7 +152,7 @@
 <table>
   <tr bgcolor="#f6f8fa">
     <td width="53%" align="center">
-      <img src="https://github.com/user-attachments/assets/cf46eeca-ed36-41cb-9287-5bf0caeabd26" width="140"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/wash-u.png" width="140"/>
     </td>
     <td width="48%" align="center">
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/washu.webp" width="160"/>
@@ -248,8 +248,8 @@
       <a href="https://github.com/ginesthoii/metadata_librarian"><strong>metadata-librarian</strong></a><br><br>
       Local-first archival and metadata extraction system for documents, media, and images.<br><br>
       <em>Tech:</em> Python, YAML, OCR, SQLite<br>
-      <em>Status:</em> Active.><br>
-    </td>><br>><br>
+      <em>Status:</em> Active.<br>
+    </td>><br><br>
     <td align="center"><br>
       <a href="https://github.com/ginesthoii/mini-metadata"><strong>mini-metadata</strong></a><br><br>
       Lightweight metadata utilities shared across projects.<br><br>
@@ -350,7 +350,7 @@
       A perimeter-aware access control system that governs remote access to homestead systems by checking network exposure, service state, and connection context before allowing control or data access.<br><br>
       <em>Tech:</em> Python · Network Inspection · Token Enforcement · Policy Logic<br>
       <em>Status:</em> Active
-      <br><br>k
+      <br><br>
     </td>
     <td align="center"><br>
       <a href="https://github.com/ginesthoii/automation-safety-interlock-system">
@@ -1733,7 +1733,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/bog-filter.png" width="200"/>
     </td>
     <td align="center" width="360" style="padding-top:12px;">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/seedling-starter.jpg" width="180"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/seedling-starter.jpg" width="150"/>
     </td>
   </tr>
   <!-- TEXT-->
@@ -1758,8 +1758,8 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
     </td>
         <td align="center" width="380"><br>
       <a href="https://github.com/ginesthoii/seedling-starter"><strong>seedling-starter</strong></a><br><br>
-      Sprouted fodder setup — tray system, watering schedule, mold prevention, yields &amp; storage.<br><br>
-      <em>Tech:</em> trays/racks &amp; ESP32 • temp/humidity sensors • timed watering • drainage • airflow/fan control • yield tracking<br>
+      Indoor seedling starter workflow — shelf setup, lighting plan, watering/soil routines, sensor monitoring, and transplant tracking with scheduling, alerts, and reminders for reliable indoor starts.<br><br>
+      <em>Tech:</em> trays/racks &amp; ESP32 • temp/humidity sensors • timed watering • yield tracking<br>
       <em>Status:</em> Active.
     </td>
   </tr>
