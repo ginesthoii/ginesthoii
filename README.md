@@ -224,10 +224,10 @@
 
 <br><br>
 
-<h1 align="center">Knowledge, Metadata & Information Systems</h1>
 
-<table width="100%" cellpadding="0" cellspacing="0">
-  <!-- Icon Row -->
+<h1 align="center">Knowledge, Metadata & Information Systems</h1>
+<table width="100%" cellpadding="0">
+  <!--Icon Row-->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="25%">
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/metadata-librarian.png" width="110"/>
@@ -249,7 +249,7 @@
       Local-first archival and metadata extraction system for documents, media, and images.<br><br>
       <em>Tech:</em> Python, YAML, OCR, SQLite<br>
       <em>Status:</em> Active.<br>
-    </td>><br><br>
+    </td><br><br>
     <td align="center"><br>
       <a href="https://github.com/ginesthoii/mini-metadata"><strong>mini-metadata</strong></a><br><br>
       Lightweight metadata utilities shared across projects.<br><br>
@@ -1649,7 +1649,8 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 
 <br><br>
 
-<h1 align="center"><DIY Animal Feed </h1>
+<h1 align="center">DIY Animal Feed</h1>
+<br>
 <h2 align="center">DIY Insect Protein Farm for Poultry & Small Livestock</h2>
 <h3 align="center">Low-cost, scalable systems for raising larvae and insects as supplemental feed.</h3>
 <table width="100%" cellpadding="0" cellspacing="0">
@@ -1687,6 +1688,8 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
     </td>
   </tr>
 </table>
+
+<br>
 
  <h2 align="center">Sprouted Fodder System</h2>
 <h3 align="center">Fast, low-cost greens using stacked trays with mold-safe watering and airflow control.</h3>
@@ -1732,9 +1735,6 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
     <td align="center" width="25%">
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/bog-filter.png" width="200"/>
     </td>
-    <td align="center" width="360" style="padding-top:12px;">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/seedling-starter.jpg" width="150"/>
-    </td>
   </tr>
   <!-- TEXT-->
   <tr bgcolor="#ffffff">
@@ -1756,12 +1756,24 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
       <em>Tech:</em> Markdown, Diagrams, Pump/Flow Notes.<br>
       <em>Status:</em> Active.
     </td>
-        <td align="center" width="380"><br>
-      <a href="https://github.com/ginesthoii/seedling-starter"><strong>seedling-starter</strong></a><br><br>
-      Indoor seedling starter workflow — shelf setup, lighting plan, watering/soil routines, sensor monitoring, and transplant tracking with scheduling, alerts, and reminders for reliable indoor starts.<br><br>
-      <em>Tech:</em> trays/racks &amp; ESP32 • temp/humidity sensors • timed watering • yield tracking<br>
-      <em>Status:</em> Active.
+  </tr>
+  <!-- ICON -->
+  <tr bgcolor="#ffffff">
+    <td align="center" colspan="4"><br>
+                  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/seedling-starter.jpg" width="200"/>
+                  <img src=" width="200"/>
+                  <img src="" width="200"/>
     </td>
+  </tr>
+  <!-- TEXT -->
+  <tr bgcolor="#ffffff">
+    <td align="center" colspan="4"><br>
+      <a href="https://github.com/ginesthoii/seedling-starter"><strong>seedling-starter</strong></a><br><br>
+      Indoor seedling starter workflow — shelf setup, lighting plan, watering/soil routines, sensor monitoring, and transplant tracking with scheduling, alerts, and reminders for reliable indoor starts.
+<br><br>
+      <em>Tech:</em> trays/racks • ESP32 • temp/humidity sensors • timed watering • yield tracking • Markdown docs • CAD diagrams <br>
+      <em>Status:</em> Active.<br>
+    </td><br>
   </tr>
   <!-- ICON -->
   <tr bgcolor="#ffffff">
