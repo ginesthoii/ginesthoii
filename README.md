@@ -817,10 +817,10 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icons -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="50%">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/woodworking.png" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/woodworking.png" width="210"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/pvc.jpg" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/pvc.jpg" width="170"/>
     </td>
   </tr>
   <!-- Text -->
@@ -1761,7 +1761,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <tr bgcolor="#ffffff">
     <td align="center" colspan="4"><br>
                   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/seedling-starter.jpg" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/plant-growth.gif" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/grow-light-for-seedling.webp" width="230"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/seedling-rack.png" width="200"/>
     </td>
   </tr>
