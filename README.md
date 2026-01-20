@@ -1762,7 +1762,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
     <td align="center" colspan="4"><br>
                   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/seedling-starter.jpg" width="200"/>
                   <img src=" width="200"/>
-                  <img src="" width="200"/>
+                  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/seedling-rack.png" width="200"/>
     </td>
   </tr>
   <!-- TEXT -->
@@ -2051,14 +2051,16 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
 
 <div align="center">
 
-| <img src="https://github.com/user-attachments/assets/6e949dcf-6bce-42b9-a925-d186d75bdcda" height="300" width="320"/> | <img src="https://github.com/user-attachments/assets/a61618b3-6a50-4305-a5db-aeb36d6343e7" height="300" width="320"/> | <img src="https://github.com/user-attachments/assets/bf81a157-87b7-45d4-ba31-f47b4a60b4c3" height="300" width="320"/> |
+| <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/piano.png" height="300" width="320"/> | <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/hex-colors.jpg" height="300" width="320"/> | <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/text-to-speech.png" height="300" width="320"/> |
 |---|---|---|
 
-
+---
 
 </div>
 
----
+<br><br>
+
+
 
 <p align="center" id="orgs">
   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/organizations.png"
@@ -2069,7 +2071,7 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
 
 ---
 
-<br><br>
+<br>
 
 <p align="center">
   <img 
