@@ -26,7 +26,7 @@
   </a>
 
   <a href="#orgs">
-    <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/jump-to-orgs-hex-AA6E92.png" height="200" />
+    <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/jump-to-orgs-AA6E92-hex.png" height="200" />
   </a>
 </div>
 
