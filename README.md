@@ -22,11 +22,11 @@
 
 <div align="center" style="display:flex; justify-content:center; gap:18px; align-items:center; flex-wrap:wrap;">
   <a href="#repos">
-    <img src="https://raw.githubusercontent.com/ginesthoii/ginesthoii/main/assets/jump-to-repos.png" height="200" />
+    <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/jump-to-repos-AA6E92.png" height="200" />
   </a>
 
   <a href="#orgs">
-    <img src="https://raw.githubusercontent.com/ginesthoii/ginesthoii/main/assets/jump-to-solo-led-orgs.png" height="200" />
+    <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/jump-to-orgs-hex-AA6E92.png" height="200" />
   </a>
 </div>
 
