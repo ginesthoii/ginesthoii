@@ -817,7 +817,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icons -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="50%">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/woodworking.png" width="210"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/toolbench.png" width="210"/>
     </td>
     <td align="center" width="50%">
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/pvc.jpg" width="170"/>
