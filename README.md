@@ -1760,8 +1760,8 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- ICON -->
   <tr bgcolor="#ffffff">
     <td align="center" colspan="4"><br>
-                  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/seedling-starter.jpg" width="200"/>
-                  <img src=" width="200"/>
+                  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/seedling-starter.jpg" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/plant-growth.gif" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/seedling-rack.png" width="200"/>
     </td>
   </tr>
@@ -1800,7 +1800,6 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 
 
 <h1 align="center">Creative & Worldbuilding</h1>
-
 <table>
   <!-- Icons -->
   <tr bgcolor="#ffffff">
@@ -1985,7 +1984,6 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
 </p>
 
 <table style="width:100%; table-layout:fixed; border-collapse:separate; border-spacing:8px;">
-
 <tr>
   <!-- JS/HTML/CSS -->
   <td style="width:55%; vertical-align:top; border:1px solid #d0d7de; border-radius:6px; padding:14px;">
