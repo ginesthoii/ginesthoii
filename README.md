@@ -851,13 +851,13 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icons -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="30%">
-      <img src="https://github.com/user-attachments/assets/c927ecf8-a22b-486c-a879-291787470b58" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/shelf-scapes.png" width="150"/>
     </td>
     <td align="center" width="40%">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/digital-loom.webp" width="270"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/digital-loom.png" width="270"/>
     </td>
     <td align="center" width="30%">
-      <img src="https://github.com/user-attachments/assets/9a3e41f7-7f5c-49bf-bda9-7302c43c7879" width="130"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/model-middle-earth.jpg" width="130"/>
     </td>
   </tr>
   <!-- Text -->
