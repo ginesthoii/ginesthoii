@@ -1708,11 +1708,11 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="100%">
-      <img align="center" src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/fodder1.png" width="160"/>
+      <img align="center" src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/fodder1.png" width="130"/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/fodder2.jpg" width="170"/>
+      <img align="center" src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/fodder2.jpg" width="160"/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img align="center" src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/fodder%203.jpg" width="170"/>
+      <img align="center" src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/fodder%203.jpg" width="140"/>
     </td>
   </tr>
   <!-- Text Row -->
@@ -1770,9 +1770,9 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- ICON -->
   <tr bgcolor="#ffffff">
     <td align="center" colspan="4"><br>
-                  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/seedling-starter.jpg" width="200"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/grow-light-for-seedling.webp" width="230"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/seedling-rack.png" width="200"/>
+                  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/seedling-starter.jpg" width="150"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/grow-light-for-seedling.webp" width="190"/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/seedling-rack.png" width="150"/>
     </td>
   </tr>
   <!-- TEXT -->
