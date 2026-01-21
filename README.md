@@ -1789,7 +1789,9 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <tr bgcolor="#ffffff">
     <td align="center" colspan="4"><br>
                   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/dome1.gif" width="200"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/dome2.gif" width="200"/>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/dome3.gif" width="200"/>
     </td>
   </tr>
