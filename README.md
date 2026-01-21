@@ -2252,13 +2252,13 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
   <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/phantom-scanner.png" width="150" alt="PhantomScanner badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/phantom-scanner.png" width="180" alt="PhantomScanner badge"><br><br>
       <a href="https://github.com/PhantomScanner" style="text-decoration:none;">
         <strong>PhantomScanner</strong><br><br>
       </a>
     </td>
     <td width="50%" align="center"><br>
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/cloak-and-cipher.png" width="150" alt="CloakAndCipher badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/cloak-and-cipher.png" width="180" alt="CloakAndCipher badge"><br><br>
       <a href="https://github.com/CloakAndCipher" style="text-decoration:none;">
         <strong>CloakAndCipher</strong><br><br>
       </a>
@@ -2682,7 +2682,41 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
 
 
 
+<!-- ROW 13 -->
 
+<table width="100%">
+  <!-- IMAGE + TITLE -->
+  <tr bgcolor="#ffffff">
+    <td align="center"><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/lazy-daisy-acres.png?raw=1" width="180" alt="LazyDaisyAcres badge"><br><br>
+      <a href="https://github.com/LazyDaisyAcres" style="text-decoration:none;">
+        <strong>LazyDaisyAcres</strong><br><br>
+      </a>
+    </td>
+    <td width="50%" align="center"><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/HiveBeeWare.gif?raw=1" width="230" alt="HiveBeeWare badge"><br><br>
+      <a href="https://github.com/HiveBeeWare" style="text-decoration:none;">
+        <strong>HiveBeeWare</strong><br><br>
+      </a>
+    </td>
+  </tr>
+  <!-- DESCRIPTION + TECH -->
+  <tr bgcolor="#f6f8fa">
+    <td align="center"><br>
+      An automation-first homestead systems org built around quality infrastructure — modular DIY builds, low-maintenance routines, and offline-first tracking tools for animals, gardens, greenhouse, food storage, and property ops.<br><br>
+      <em>Building the right thing right is faster than building the wrong thing fast. Do it right once — or you’ll do it twice.</em><br><br>
+      <strong>Tech:</strong><br>
+      Offline-first · DIY systems · SOPs · Sensor modules · Dashboards · Field logs
+      <br><br>
+    </td>
+    <td align="center"><br>
+      Open-source beekeeping builds and telemetry — DIY hive boxes, sensor nodes, hive weight scales, and notes/dashboards for practical backyard apiary management without SaaS lock-in, plus beeswax + honey workflows and printable mold files.<br><br>
+      <strong>Tech:</strong><br>
+      ESP32 · Sensors · Telemetry · Offline dashboards · 3D prints · Wax/honey workflows
+      <br><br>
+    </td>
+  </tr>
+</table>
 
 
 
