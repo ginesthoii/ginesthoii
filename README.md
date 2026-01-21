@@ -2710,7 +2710,8 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
       <br><br>
     </td>
     <td align="center"><br>
-      Open-source beekeeping builds and telemetry — DIY hive boxes, sensor nodes, hive weight scales, and notes/dashboards for practical backyard apiary management without SaaS lock-in, plus beeswax + honey workflows and printable mold files.<br><br>
+     Beekeeping and smart apiary platform combining physical hive builds with IoT telemetry — sensor nodes, hive weight + environment monitoring, and an offline dashboard for inspections, notes, alerts, and seasonal tracking. <br><br> Includes scripts + APIs for data logging, optional swarm-risk signals, and support for nucs/splits. Also includes beeswax + honey processing workflows and printable mold files.
+<br><br>
       <strong>Tech:</strong><br>
       ESP32 · Sensors · Telemetry · Offline dashboards · 3D prints · Wax/honey workflows
       <br><br>
