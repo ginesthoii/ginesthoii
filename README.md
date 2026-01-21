@@ -893,27 +893,37 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 <table width="100%" cellpadding="0" cellspacing="0">
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
-    <td align="center" width="50%">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/smart-display-frame.png" width="200"/>
+    <td align="center" width="33%">
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/smart-display-frame.png" width="190"/>
     </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/thermal-imaging-camera.png" width="200"/>
+    <td align="center" width="34%">
+      <img src="https://raw.githubusercontent.com/ginesthoii/ginesthoii/main/assets/esp32-panic-assist-button.png" width="190"/>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/thermal-imaging-camera.png" width="190"/>
     </td>
   </tr>
   <!-- Text Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center"><br>
       <a href="https://github.com/ginesthoii/smart-display-frame"><strong>smart-display-frame</strong></a><br><br>
-      A DIY wall-mounted smart display dashboard with repurposed computer monitor screen. Features shared family calendars, to-do lists, reminders and local weather.
+      A DIY wall-mounted smart display dashboard with a repurposed monitor. Shows shared calendars, to-do lists, reminders, and local weather.
       <br><br>
       <em>Tech:</em> Raspberry Pi 4.<br>
       <em>Status:</em> Active
     </td>
     <td align="center"><br>
+      <a href="https://github.com/ginesthoii/esp32-panic-assist-button"><strong>esp32-panic-assist-button</strong></a><br><br>
+      ESP32-based assist/panic button for a family member: press once to instantly notify caregivers/family via MQTT → Home Assistant → SMS/email/push.
+      <br><br>
+      <em>Tech:</em> ESP32, MQTT, Home Assistant.<br>
+      <em>Status:</em> Active
+    </td>
+    <td align="center"><br>
       <a href="https://github.com/ginesthoii/thermal-imaging-camera"><strong>thermal-imaging-camera</strong></a><br><br>
-      A buildable, FLIR-style thermal imaging camera using an MLX90640 sensor, ESP32-S3, and 3.5″ ILI9488 display. Includes enclosure CAD, hardware layout, and build documentation for a complete handheld device.
-<br><br>
-      <em>Tech:</em> OpenSCAD, FLIR, MLX sensors.<br>
+      A buildable, FLIR-style thermal imaging camera using an MLX90640 sensor, ESP32-S3, and 3.5″ ILI9488 display. Includes CAD, layout, and build docs.
+      <br><br>
+      <em>Tech:</em> OpenSCAD, MLX sensors, ESP32-S3.<br>
       <em>Status:</em> Active
     </td>
   </tr>
