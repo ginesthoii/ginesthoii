@@ -2719,10 +2719,12 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
   </tr>
 </table>
 
-
+<br>
 
 
 ---
+
+<br>
 
 <p align="center">
   <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/courses.png" alt="Image" width="75%" height="30%" style="border-radius:15px;"/>
