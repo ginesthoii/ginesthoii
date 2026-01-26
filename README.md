@@ -553,7 +553,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/real-estate.jpg" width="150"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/scraper-sql-xslx.jpg" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/scraper-sql-xlsx.jpg" width="150"/>
     </td>
   <!-- Text Row -->
   <tr bgcolor="#f6f8fa">
@@ -576,7 +576,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
       <em>Status:</em> Active
     </td>
     <td align="center"><br>
-      <a href="https://github.com/ginesthoii/sql-xslx-csv-scraper"><strong>sql-xslx-csv-scraper</strong></a><br><br>
+      <a href="https://github.com/ginesthoii/sql-xlsx-csv-scraper"><strong>sql-xlsx-csv-scraper</strong></a><br><br>
       Structured data extraction and transformation utilities.<br><br>
       <em>Tech:</em> Python<br>
       <em>Status:</em> Active
