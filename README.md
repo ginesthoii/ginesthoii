@@ -543,16 +543,16 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
 <table width="100%" cellpadding="0" cellspacing="0">
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
-    <td align="center" width="25%">
+    <td align="center" width="23%">
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/search-review-scraper.jpg" width="150"/>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="23%">
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/search-review-tracker.jpg" width="150"/>
     </td>
-     <td align="center" width="25%">
+     <td align="center" width="23%">
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/real-estate.jpg" width="150"/>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="31%">
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/scraper-sql-xlsx.jpg" width="150"/>
     </td>
   <!-- Text Row -->
@@ -581,7 +581,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
       <em>Tech:</em> Python<br>
       <em>Status:</em> Active
     </td>
-  </tr>
+  </tr><br>
 </table>
 
 
