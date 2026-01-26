@@ -577,7 +577,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
     </td>
     <td align="center"><br>
       <a href="https://github.com/ginesthoii/sql-xlsx-csv-scraper"><strong>sql-xlsx-csv-scraper</strong></a><br><br>
-      Structured data extraction and transformation utilities.<br><br>
+      Automation-first structured data harvester that ingests CSV/XLSX into SQL and exports normalized datasets back out for reporting, dashboards, and offline workflows.<br><br>
       <em>Tech:</em> Python<br>
       <em>Status:</em> Active
     </td>
