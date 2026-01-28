@@ -2353,13 +2353,13 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
   <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/6feeb37f-8925-4f0c-9626-204a406b0adf" width="90" alt="CatholicMedusa badge"><br><br>
+      <img src="https://github.com/ginesthoii/oliviagriffin.pro/blob/main/images/orgs/catholic-medusa.png" width="90" alt="CatholicMedusa badge"><br><br>
       <a href="https://github.com/CatholicMedusa" style="text-decoration:none;">
         <strong>CatholicMedusa</strong><br><br>
       </a>
     </td>
     <td width="50%" align="center"><br>
-      <img src="https://github.com/user-attachments/assets/a57fa67c-3c55-4d25-887b-ba54e24938a6" width="120" alt="SnakeWitch badge"><br><br>
+      <img src="https://github.com/ginesthoii/oliviagriffin.pro/blob/main/images/orgs/snake-witch.png" width="120" alt="SnakeWitch badge"><br><br>
       <a href="https://github.com/SnakeWitch" style="text-decoration:none;">
         <strong>SnakeWitch</strong><br><br>
       </a>
