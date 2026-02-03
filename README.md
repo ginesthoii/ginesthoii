@@ -2252,7 +2252,7 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
   <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/phantom-scanner.png" width="180" alt="PhantomScanner badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/phantom.gif" width="180" alt="PhantomScanner badge"><br><br>
       <a href="https://github.com/PhantomScanner" style="text-decoration:none;">
         <strong>PhantomScanner</strong><br><br>
       </a>
