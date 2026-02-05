@@ -2258,7 +2258,7 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
       </a>
     </td>
     <td width="50%" align="center"><br>
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/cloak-and-cipher.png" width="180" alt="CloakAndCipher badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/cloak-and-cipher.gif" width="180" alt="CloakAndCipher badge"><br><br>
       <a href="https://github.com/CloakAndCipher" style="text-decoration:none;">
         <strong>CloakAndCipher</strong><br><br>
       </a>
