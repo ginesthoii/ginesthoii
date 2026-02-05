@@ -2103,7 +2103,7 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
       </a>
     </td>
     <td width="50%" align="center"><br>
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/caregiver-qr.png" width="130" alt="CaregiverQR badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/caregiver-qr1.png" width="130" alt="CaregiverQR badge"><br><br>
       <a href="https://github.com/CaregiverQR" style="text-decoration:none;">
         <strong>CaregiverQR</strong><br><br>
       </a>
