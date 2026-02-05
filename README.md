@@ -1842,7 +1842,7 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
   <!-- Icons -->
   <tr bgcolor="#ffffff">
     <td align="center" width="25%"><img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/project-management-spreadsheet.jpg" width="190"/></td>
-    <td align="center" width="25%"><img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/inventory-spreadsheet.png" width="190"/></td>
+    <td align="center" width="25%"><img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/inventory.gif" width="190"/></td>
     <td align="center" width="25%"><img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/life-tracking-spreadsheet.gif" width="180"/></td>
       <td align="center" width="25%"><img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/time-management-sheet.png" width="170"/></td>
   </tr>  
