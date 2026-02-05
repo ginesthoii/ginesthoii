@@ -779,10 +779,10 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icons -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="50%">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/morse-code-master.jpg" width="230"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/morse-code-mentor.gif" width="230"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/morse-code-mentor.gif" width="210"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/morse-code-mentor2.gif" width="210"/>
     </td>
   </tr>
   <!-- Text -->
