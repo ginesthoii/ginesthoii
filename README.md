@@ -496,7 +496,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <tr bgcolor="#f6f8fa">
     <!-- LEFT ICON -->
     <td align="center" width="33%"><br>
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/hypercalculia.png" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/hypercalculia.gif" width="150"/>
     </td>
     <!-- MIDDLE FULL IMAGE (spans both rows) -->
     <td align="center" width="34%" rowspan="2" style="padding:0;">
