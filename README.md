@@ -747,11 +747,9 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="100%">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/navigation.gif" width="170"/>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/offline-maps.png" width="120"/>
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/red-map.jpg" width="190"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/offline-map.svg" width="190"/>
     </td>
   </tr>
   <!-- Text Row -->
