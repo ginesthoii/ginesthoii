@@ -496,7 +496,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <tr bgcolor="#f6f8fa">
     <!-- LEFT ICON -->
     <td align="center" width="33%"><br>
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/hypercalculia.gif" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/hypercalculia2.png" width="150"/>
     </td>
     <!-- MIDDLE FULL IMAGE (spans both rows) -->
     <td align="center" width="34%" rowspan="2" style="padding:0;">
@@ -2404,7 +2404,7 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
   <!-- IMAGE + TITLE -->
   <tr bgcolor="#ffffff">
     <td width="50%" align="center"><br>
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/hyper.jpg" width="130" alt="hypercalculia badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/hypercalculia.gif" width="130" alt="hypercalculia badge"><br><br>
       <a href="https://github.com/hypercalculia" style="text-decoration:none;">
         <strong>hypercalculia</strong><br><br>
       </a>
