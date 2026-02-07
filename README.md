@@ -2150,7 +2150,7 @@ Entries may originate from medieval bestiaries, folklore, cryptozoology, or mode
       </a>
     </td>
     <td width="50%" align="center"><br>
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/ares.png" width="120" alt="ares-assist badge"><br><br>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/ares.gif" width="120" alt="ares-assist badge"><br><br>
       <a href="https://github.com/ares-assist" style="text-decoration:none;">
         <strong>ares-assist</strong><br><br>
       </a>
