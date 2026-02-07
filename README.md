@@ -446,7 +446,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="36%"><br>
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/devgaze.png" width="150"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/devgaze-orange-blue-cloud.png" width="150"/>
     </td>
     <td align="center" width="34%"><br>
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/build-a-board.jpg" width="150"/>
