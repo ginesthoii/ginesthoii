@@ -671,7 +671,7 @@ Uses a rules-based decision tree and scoring engine to recommend standard open-s
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/pdf-engine.jpg" width="150"/>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/smart-downloader.gif" width="190"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/smart-downloader-cloud.gif" width="190"/>
     </td>
   </tr>
   <!-- Text Row -->
