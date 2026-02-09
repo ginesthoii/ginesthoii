@@ -131,7 +131,7 @@
        <td align="center">
       <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/microsoft.png"
            alt="University of Arkansas, Fayetteville, Microsoft Specialist Certified"
-           width="170" />
+           width="180" />
     </td>
   </tr>
 </table>
