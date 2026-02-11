@@ -327,41 +327,44 @@
   <!-- Icon Row -->
   <tr bgcolor="#f6f8fa">
     <td align="center" width="33%">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/1.png" width="100"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/home-exposure-scanner.gif" width="130"/>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/2.png" width="100"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/digital-doorman.png" width="240"/>
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/two/3.jpg" width="100"/>
+      <img src="https://github.com/ginesthoii/ginesthoii/blob/main/assets/automated-fail-safe-controller.gif" width="160"/>
     </td>
   </tr>
   <!-- Text Row -->
   <tr bgcolor="#f6f8fa">
+    <!-- HOME EXPOSURE SCANNER -->
     <td align="center"><br>
-      <a href="https://github.com/ginesthoii/homestead-control-plane-hardener">
-        <strong>homestead-control-plane-hardener</strong>
+      <a href="https://github.com/ginesthoii/home-exposure-scanner">
+        <strong>home-exposure-scanner</strong>
       </a><br><br>
-      A local security auditing tool that scans homestead control systems for exposed services, weak authentication, and unsafe defaults that could allow unintended control of physical equipment or data leakage.<br><br>
-      <em>Tech:</em> Python · Nmap · Config File Parsing · SQLite<br>
+      A local security auditing and exposure detection tool that scans network services, authentication mechanisms, configuration states, and control systems to identify exposed services, weak authentication, and unsafe or unintended access paths.<br><br>
+      <em>Tech:</em> Python · Nmap · Service Enumeration · Config Parsing · SQLite<br><br>
       <em>Status:</em> Active
       <br><br>
     </td>
+    <!-- DIGITAL DOORMAN -->
     <td align="center"><br>
-      <a href="https://github.com/ginesthoii/remote-access-gatekeeper">
-        <strong>remote-access-gatekeeper</strong>
+      <a href="https://github.com/ginesthoii/digital-doorman">
+        <strong>digital-doorman</strong>
       </a><br><br>
-      A perimeter-aware access control system that governs remote access to homestead systems by checking network exposure, service state, and connection context before allowing control or data access.<br><br>
-      <em>Tech:</em> Python · Network Inspection · Token Enforcement · Policy Logic<br>
+      A context-aware Zero Trust remote access control service that prevents unsafe or risky remote control of home systems. It protects home infrastructure by evaluating connection trust, device trust, network exposure, and real-time system state before allowing or safely mediating remote control or data access.<br><br>
+      <em>Tech:</em> Python · Network & Service Inspection · Context Evaluation · Identity/Token Enforcement · Policy Engine · Local Telemetry<br><br>
       <em>Status:</em> Active
       <br><br>
     </td>
+    <!-- FAIL SAFE CONTROLLER -->
     <td align="center"><br>
-      <a href="https://github.com/ginesthoii/automation-safety-interlock-system">
-        <strong>automation-safety-interlock-system</strong>
+      <a href="https://github.com/ginesthoii/automated-fail-safe-controller">
+        <strong>automated-fail-safe-controller</strong>
       </a><br><br>
-      A rule-based safety layer that blocks automation actions when system state or environmental conditions are unsafe, preventing equipment damage, resource loss, or hazardous behavior caused by bad assumptions.<br><br>
-      <em>Tech:</em> Python · Rule Engines · State Validation<br>
+      A rule-driven automation safety enforcement system that prevents automation from damaging equipment, wasting resources, or creating unsafe conditions. It protects home infrastructure by validating real-world system and environmental state before automation actions are executed.<br><br>
+      <em>Tech:</em> Python · Rule Engines · State Validation<br><br>
       <em>Status:</em> Active
       <br><br>
     </td>
