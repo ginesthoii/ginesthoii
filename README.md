@@ -354,7 +354,7 @@
         <strong>digital-doorman</strong>
       </a><br><br>
       A context-aware Zero Trust remote access control service that prevents unsafe or risky remote control of home systems. It protects home infrastructure by evaluating connection trust, device trust, network exposure, and real-time system state before allowing or safely mediating remote control or data access.<br><br>
-      <em>Tech:</em> Python · Network & Service Inspection · Context Evaluation · Identity/Token Enforcement · Policy Engine · Local Telemetry<br><br>
+      <em>Tech:</em> Python · Network & Service Inspection · Context Eval · Identity/Token Enforcement · Policy Engine · Local Telemetry<br><br>
       <em>Status:</em> Active
       <br><br>
     </td>
